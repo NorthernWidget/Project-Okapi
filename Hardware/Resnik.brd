@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.5.2">
+<eagle version="9.6.1">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="50" unitdist="mil" unit="mm" style="lines" multiple="1" display="no" altdistance="5" altunitdist="mil" altunit="mm"/>
+<grid distance="50" unitdist="mil" unit="mil" style="lines" multiple="1" display="no" altdistance="5" altunitdist="mil" altunit="mm"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="2" name="Route2" color="16" fill="1" visible="no" active="no"/>
@@ -265,6 +265,8 @@ University of Minnesota</text>
 <text x="27.432" y="81.661" size="0.8128" layer="51" font="vector" ratio="15" align="center">J6</text>
 <text x="35.56" y="79.121" size="0.8128" layer="25" font="vector" ratio="15" align="center">J8</text>
 <text x="43.18" y="96.139" size="0.8128" layer="25" font="vector" ratio="15" align="center">J9</text>
+<text x="45.847" y="2.286" size="1.27" layer="52" font="vector" ratio="15" rot="MR0" align="center">+</text>
+<text x="48.387" y="2.286" size="1.27" layer="52" font="vector" ratio="15" rot="MR0" align="center">-</text>
 </plain>
 <libraries>
 <library name="bschulz_passives">
