@@ -552,31 +552,41 @@ Okapi is currently an I²C controller communicating with the Particle Boron via 
 
 Okapi's dual power system (LiPo primary + solar charging + AA backup) differs from Margay. Full power monitoring signals are not yet implemented in the library (`GetPowerStats()` is reserved); fields marked TBD will be defined when that work is completed.
 
+Subsystem table (a logger's "chips" are its subsystems; same index rules):
+
+| Index | Subsystem |
+|-------|-----------|
+| 0 | SD card |
+| 1 | DS3231M RTC |
+| 2 | BME280 onboard environment |
+| 3 | Sensor bus |
+| 4 | LiPo / solar charger |
+| 5 | AA backup rail |
+
+Block 0 (0x20–0x27) is the universal block defined by [NW-Device-Specification](https://github.com/NorthernWidget/NW-Device-Specification#page-1--sensor-data): status (ready, per-chip fault bits, pan-fault), control (trigger, chip select, sleep), reading counter, device config byte at 0x26, latched fault code at 0x27. Device data begins at 0x28. Config (0x26): reserved. Logger state continues on Page 3 (0x60–0x7F).
+
 ```
-Block 0 (0x20–0x27)   System status + power
-  0x20        Status       bit 0=ready, bit 1=SD fault, bit 2=RTC fault,
-                           bit 3=onboard fault, bit 4=sensor fault,
-                           bit 5=LiPo warning, bit 6=LiPo error,
-                           bit 7=backup warning
-  0x21        LiPo %       uint8, 0–100
-  0x22–0x23   LiPo voltage uint16, 0.01 V
-  0x24–0x25   Solar input  uint16, TBD (V or mW pending GetPowerStats() impl.)
-  0x26–0x27   Backup volt  uint16, 0.01 V (AA backup rail)
+Block 1 (0x28–0x2F)   Power
+  0x28        LiPo %       uint8, 0–100
+  0x29–0x2A   LiPo voltage uint16, 0.01 V
+  0x2B–0x2C   Solar input  uint16, TBD (V or mW pending GetPowerStats() impl.)
+  0x2D        Backup volt  uint8, 0.1 V (AA backup rail)
+  0x2E–0x2F   Reserved
 
-Block 1 (0x28–0x2F)   BME280 — onboard environment
-  0x28–0x29   Temperature  int16, 0.01 °C
-  0x2A–0x2B   Humidity     uint16, 0.01 %RH
-  0x2C–0x2F   Pressure     uint32, 0.01 hPa
+Block 2 (0x30–0x37)   BME280 — onboard environment
+  0x30–0x31   Temperature  int16, 0.01 °C
+  0x32–0x33   Humidity     uint16, 0.01 %RH
+  0x34–0x37   Pressure     uint32, 0.01 hPa
 
-Block 2 (0x30–0x37)   DS3231M — RTC
-  0x30–0x33   Timestamp    uint32, Unix time (seconds since 1970-01-01 UTC)
-  0x34–0x35   Temperature  int16, 0.01 °C
-  0x36–0x37   Reserved
+Block 3 (0x38–0x3F)   DS3231M — RTC
+  0x38–0x3B   Timestamp    uint32, Unix time (seconds since 1970-01-01 UTC)
+  0x3C–0x3D   Temperature  int16, 0.01 °C
+  0x3E–0x3F   Reserved
 
-Block 3 (0x38–0x3F)   Logger state
-  0x38–0x39   Ext interrupts  uint16, accumulated count
-  0x3A–0x3B   Log file #      uint16
-  0x3C–0x3F   Log interval    uint32, seconds
+Page 3, Block 0 (0x60–0x67)   Logger state
+  0x60–0x61   Ext interrupts  uint16, accumulated count
+  0x62–0x63   Log file #      uint16
+  0x64–0x67   Log interval    uint32, seconds
 ```
 
 No Page 2. Calibration constants are hardcoded in the library.
