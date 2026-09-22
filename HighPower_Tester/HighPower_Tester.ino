@@ -1,6 +1,6 @@
 //MargayDemo.ino
 #include "Resnik.h"
-#include <BME.h>
+#include <NW_BME280.h>
 
 BME RH; //Initialzie BME280
 

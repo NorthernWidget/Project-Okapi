@@ -1,6 +1,6 @@
 #include <MCP23018.h>  //Include IO expander interface 
 #include <DS3231.h>  //Include RTC interface
-#include <BME.h>  //Include BME280 interface
+#include <NW_BME280.h>  //Include BME280 interface
 #include <Adafruit_ADS1015.h> //Include ADC interface
 #include <SD.h>  //Include SD interface
 #include <SPI.h> //Include base SPI library
