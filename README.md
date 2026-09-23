@@ -563,7 +563,7 @@ Subsystem table (a logger's "chips" are its subsystems; same index rules):
 | 4 | LiPo / solar charger |
 | 5 | AA backup rail |
 
-Block 0 (0x20–0x27) is the universal block defined by [NW-Device-Specification](https://github.com/NorthernWidget/NW-Device-Specification#page-1--sensor-data): status (ready, per-chip fault bits, pan-fault), control (trigger, chip select, sleep), reading counter, device config byte at 0x26, latched fault code at 0x27. Device data begins at 0x28. Config (0x26): reserved. Logger state continues on Page 3 (0x60–0x7F).
+Block 0 (0x20–0x27) is the universal block defined by [NW-Device-Specification](https://github.com/NorthernWidget/NW-Device-Specification#page-1-sensor-data): status (ready, per-chip fault bits, pan-fault), control (trigger, chip select, sleep), reading counter, device config byte at 0x26, latched fault code at 0x27. Device data begins at 0x28. Config (0x26): reserved. Logger state continues on Page 3 (0x60–0x7F).
 
 ```
 Block 1 (0x28–0x2F)   Power
