@@ -295,7 +295,7 @@ bool SetPinModeIO(uint8_t Pin, bool State)  //Set the pin mode of a pin on the I
 {
 	//Add check for pin range!
 	if(State == INPUT || (State == OUTPUT && ((ExpPinMask >> Pin) & 0x01) == 0)) {  //Proceed only if input, or output AND mask allows for output
-		IO.PinMode(Pin, State, 0); // Will only check Port 0 for now
+		IO.pinMode(Pin, State, MCP23018::Port::A); // Will only check Port A for now
 		// IO.PinMode(Pin, State, 1); // ????
 		Serial.print("IO Exp Pin ");
 		Serial.print(Pin);
@@ -321,7 +321,7 @@ void DigitalWriteIO(uint8_t Pin, bool State)
 {
 	if(((ExpPinMask >> Pin) & 0x01) == 1) Serial.println("Pin Direction Error!"); //Pin is not configurable as output
 	else {
-		IO.DigitalWrite(Pin, State); //Set pin state
+		IO.digitalWrite(Pin, State, MCP23018::Port::A); //Set pin state
 		Serial.print("IO Pin ");  //Print Status
 		Serial.print(Pin);
 		Serial.print(" Set to ");
