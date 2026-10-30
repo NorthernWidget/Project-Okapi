@@ -8796,16 +8796,6 @@
 	)
 	(wire
 		(pts
-			(xy 228.6 281.94) (xy 228.6 287.02)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "135dbeca-ebbb-449c-9734-49b93f76869e")
-	)
-	(wire
-		(pts
 			(xy 38.1 208.28) (xy 38.1 213.36)
 		)
 		(stroke
@@ -9386,16 +9376,6 @@
 	)
 	(wire
 		(pts
-			(xy 215.9 269.24) (xy 215.9 271.78)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "4e8f85d7-2040-4355-a5c8-4055b56e7851")
-	)
-	(wire
-		(pts
 			(xy 175.26 73.66) (xy 175.26 76.2)
 		)
 		(stroke
@@ -9423,16 +9403,6 @@
 			(type solid)
 		)
 		(uuid "517880eb-1571-4bce-858a-09f57afefb53")
-	)
-	(wire
-		(pts
-			(xy 213.36 281.94) (xy 213.36 287.02)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "51a0ceee-c27f-42b7-828d-04a523755a4f")
 	)
 	(wire
 		(pts
@@ -10286,16 +10256,6 @@
 	)
 	(wire
 		(pts
-			(xy 218.44 281.94) (xy 218.44 287.02)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "a41bffb1-12a9-46f1-89cd-79bdf0edf9fe")
-	)
-	(wire
-		(pts
 			(xy 233.68 127) (xy 231.14 127)
 		)
 		(stroke
@@ -10383,16 +10343,6 @@
 			(type solid)
 		)
 		(uuid "acd0e4d6-e37a-47a8-9a8c-0ef75f83a6d9")
-	)
-	(wire
-		(pts
-			(xy 220.98 271.78) (xy 226.06 269.24)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "ad399c27-9015-46a9-b466-43f83c41a97d")
 	)
 	(wire
 		(pts
@@ -10836,16 +10786,6 @@
 	)
 	(wire
 		(pts
-			(xy 226.06 269.24) (xy 228.6 271.78)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "e5230d3f-996d-44a6-846b-aa054374cb4b")
-	)
-	(wire
-		(pts
 			(xy 251.46 274.32) (xy 246.38 274.32)
 		)
 		(stroke
@@ -11043,16 +10983,6 @@
 			(type solid)
 		)
 		(uuid "fe90aad1-4e77-4fa8-bf60-fa86425b0943")
-	)
-	(wire
-		(pts
-			(xy 213.36 271.78) (xy 215.9 269.24)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "ff238d68-a601-44c6-83d6-ef8a2655cf9d")
 	)
 	(wire
 		(pts
@@ -11880,7 +11810,7 @@
 	)
 	(global_label "LED2"
 		(shape bidirectional)
-		(at 213.36 287.02 90)
+		(at 213.36 292.1 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -11890,7 +11820,7 @@
 		)
 		(uuid "3181a647-b900-4edd-b56e-af1c7ee65b53")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 213.36 278.4423 90)
+			(at 213.36 283.522 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12360,7 +12290,7 @@
 	)
 	(global_label "LED1"
 		(shape bidirectional)
-		(at 228.6 287.02 90)
+		(at 223.52 292.1 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -12370,7 +12300,7 @@
 		)
 		(uuid "6557c8e1-251b-41f4-8180-0ba169e683bc")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 228.6 278.4423 90)
+			(at 223.52 283.522 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13968,7 +13898,7 @@
 	)
 	(global_label "LED3"
 		(shape bidirectional)
-		(at 218.44 287.02 90)
+		(at 218.44 292.1 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -13978,7 +13908,7 @@
 		)
 		(uuid "f287338d-61f5-429f-bad8-d01d5d766607")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 218.44 278.4423 90)
+			(at 218.44 283.522 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18090,7 +18020,7 @@
 	)
 	(symbol
 		(lib_id "Okapi-eagle-import:bschulz_passives_R-EU_R0402")
-		(at 218.44 276.86 90)
+		(at 218.44 281.94 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -18100,7 +18030,7 @@
 		(dnp no)
 		(uuid "a150aadb-6fd5-41ec-9bac-d1f54dce3ee1")
 		(property "Reference" "R43"
-			(at 216 275.5 0)
+			(at 216 279.5 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18111,7 +18041,7 @@
 			)
 		)
 		(property "Value" "330"
-			(at 221.742 280.67 0)
+			(at 221.742 285.75 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18122,7 +18052,7 @@
 			)
 		)
 		(property "Footprint" "Okapi:R0402"
-			(at 218.44 276.86 0)
+			(at 218.44 281.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18133,7 +18063,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 218.44 276.86 0)
+			(at 218.44 281.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18144,7 +18074,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 218.44 276.86 0)
+			(at 218.44 281.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18155,7 +18085,7 @@
 			)
 		)
 		(property "MPN" "RC0603FR-07330RL"
-			(at 218.44 276.86 0)
+			(at 218.44 281.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19138,7 +19068,7 @@
 	)
 	(symbol
 		(lib_id "Okapi-eagle-import:bschulz_passives_R-EU_R0402")
-		(at 213.36 276.86 90)
+		(at 213.36 281.94 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -19148,7 +19078,7 @@
 		(dnp no)
 		(uuid "d4322f4b-59a7-479f-a796-cee59c57f18a")
 		(property "Reference" "R42"
-			(at 211.8614 280.67 0)
+			(at 211.861 285.75 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19159,7 +19089,7 @@
 			)
 		)
 		(property "Value" "330"
-			(at 216.662 280.67 0)
+			(at 216.662 285.75 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19170,7 +19100,7 @@
 			)
 		)
 		(property "Footprint" "Okapi:R0402"
-			(at 213.36 276.86 0)
+			(at 213.36 281.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19181,7 +19111,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 213.36 276.86 0)
+			(at 213.36 281.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19192,7 +19122,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 213.36 276.86 0)
+			(at 213.36 281.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19203,7 +19133,7 @@
 			)
 		)
 		(property "MPN" "RC0603FR-07330RL"
-			(at 213.36 276.86 0)
+			(at 213.36 281.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19627,7 +19557,7 @@
 	)
 	(symbol
 		(lib_id "Okapi-eagle-import:bschulz_passives_R-EU_R0402")
-		(at 228.6 276.86 90)
+		(at 223.52 281.94 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -19637,7 +19567,7 @@
 		(dnp no)
 		(uuid "e986f55f-0c19-4602-98de-770f64935264")
 		(property "Reference" "R44"
-			(at 227.1014 280.67 0)
+			(at 221 279.5 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19648,7 +19578,7 @@
 			)
 		)
 		(property "Value" "330"
-			(at 231.902 280.67 0)
+			(at 226.822 285.75 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19659,7 +19589,7 @@
 			)
 		)
 		(property "Footprint" "Okapi:R0402"
-			(at 228.6 276.86 0)
+			(at 223.52 281.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19670,7 +19600,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 228.6 276.86 0)
+			(at 223.52 281.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19681,7 +19611,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 228.6 276.86 0)
+			(at 223.52 281.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19692,7 +19622,7 @@
 			)
 		)
 		(property "MPN" "RC0603FR-07330RL"
-			(at 228.6 276.86 0)
+			(at 223.52 281.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20363,6 +20293,116 @@
 	(no_connect
 		(at 175.26 162.56)
 		(uuid "21b14290-6f91-4471-85ef-eb902f334fd8")
+	)
+	(wire
+		(pts
+			(xy 215.9 271.78)
+			(xy 215.9 274.32)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "195695dc-3c8c-4348-8fcb-f397c6be31f6")
+	)
+	(wire
+		(pts
+			(xy 215.9 274.32)
+			(xy 213.36 274.32)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "23c98bb3-34c4-476d-b503-8d294e2d591d")
+	)
+	(wire
+		(pts
+			(xy 213.36 274.32)
+			(xy 213.36 276.86)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "c43ecfb0-2b82-4be7-a779-7772e1738938")
+	)
+	(wire
+		(pts
+			(xy 218.44 271.78)
+			(xy 218.44 276.86)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "5d3f0078-0cea-4463-8d97-0658840c13e6")
+	)
+	(wire
+		(pts
+			(xy 220.98 271.78)
+			(xy 220.98 274.32)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "9c363d61-e17b-4c41-996f-f425fb260c53")
+	)
+	(wire
+		(pts
+			(xy 220.98 274.32)
+			(xy 223.52 274.32)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "3f179d6b-8acc-468b-8dc0-2acfea5b4ae5")
+	)
+	(wire
+		(pts
+			(xy 223.52 274.32)
+			(xy 223.52 276.86)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "3c25287a-98db-49df-8349-953aec8a7cac")
+	)
+	(wire
+		(pts
+			(xy 213.36 287.02)
+			(xy 213.36 292.1)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "5f8c47ea-21aa-475e-9925-acfcc5d7406a")
+	)
+	(wire
+		(pts
+			(xy 218.44 287.02)
+			(xy 218.44 292.1)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "ac852a37-51a4-4575-b003-36eb62fb8ff9")
+	)
+	(wire
+		(pts
+			(xy 223.52 287.02)
+			(xy 223.52 292.1)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "a4269b22-3501-4e70-879a-71f971243ea1")
 	)
 	(sheet_instances
 		(path "/"
