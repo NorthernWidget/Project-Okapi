@@ -9316,16 +9316,6 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 271.78) (xy 218.44 271.78)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "4775248b-c512-48a2-aca8-0601025bc70e")
-	)
-	(wire
-		(pts
 			(xy 175.26 119.38) (xy 177.8 119.38)
 		)
 		(stroke
@@ -10296,7 +10286,7 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 281.94) (xy 220.98 287.02)
+			(xy 218.44 281.94) (xy 218.44 287.02)
 		)
 		(stroke
 			(width 0.1524)
@@ -13978,7 +13968,7 @@
 	)
 	(global_label "LED3"
 		(shape bidirectional)
-		(at 220.98 287.02 90)
+		(at 218.44 287.02 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -13988,7 +13978,7 @@
 		)
 		(uuid "f287338d-61f5-429f-bad8-d01d5d766607")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 220.98 278.4423 90)
+			(at 218.44 278.4423 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18100,7 +18090,7 @@
 	)
 	(symbol
 		(lib_id "Okapi-eagle-import:bschulz_passives_R-EU_R0402")
-		(at 220.98 276.86 90)
+		(at 218.44 276.86 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -18110,7 +18100,7 @@
 		(dnp no)
 		(uuid "a150aadb-6fd5-41ec-9bac-d1f54dce3ee1")
 		(property "Reference" "R43"
-			(at 219.4814 280.67 0)
+			(at 216 275.5 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18121,7 +18111,7 @@
 			)
 		)
 		(property "Value" "330"
-			(at 224.282 280.67 0)
+			(at 221.742 280.67 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18132,7 +18122,7 @@
 			)
 		)
 		(property "Footprint" "Okapi:R0402"
-			(at 220.98 276.86 0)
+			(at 218.44 276.86 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18143,7 +18133,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 220.98 276.86 0)
+			(at 218.44 276.86 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18154,7 +18144,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 220.98 276.86 0)
+			(at 218.44 276.86 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18165,7 +18155,7 @@
 			)
 		)
 		(property "MPN" "RC0603FR-07330RL"
-			(at 220.98 276.86 0)
+			(at 218.44 276.86 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
