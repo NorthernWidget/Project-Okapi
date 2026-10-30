@@ -7484,30 +7484,6 @@
 			)
 		)
 	)
-	(global_label "FEATHER_BAT"
-		(shape bidirectional)
-		(at 132.08 180.34 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.016 1.016)
-			)
-			(justify left)
-		)
-		(uuid "0da699e4-2b44-4246-ab5c-938b95551f4f")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 138.5017 180.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
 	(global_label "DTR"
 		(shape bidirectional)
 		(at 337.82 66.04 0)
@@ -7937,30 +7913,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-			)
-		)
-	)
-	(global_label "FEATHER_BAT"
-		(shape bidirectional)
-		(at 132.08 203.2 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.016 1.016)
-			)
-			(justify left)
-		)
-		(uuid "c98f3fd9-e860-4c2b-8217-5cafb383d881")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 138.5017 203.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 			)
 		)
 	)
@@ -15610,6 +15562,14 @@
 				)
 			)
 		)
+	)
+	(no_connect
+		(at 132.08 180.34)
+		(uuid "f161710d-d73a-47f7-814c-6015470cf726")
+	)
+	(no_connect
+		(at 132.08 203.2)
+		(uuid "b50b0dd7-6162-4dd3-9933-e7ee6edfdb13")
 	)
 	(sheet_instances
 		(path "/"
