@@ -7916,7 +7916,7 @@
 	)
 	(wire
 		(pts
-			(xy 337.82 100.33) (xy 340.36 100.33)
+			(xy 337.82 100.33) (xy 342.9 100.33)
 		)
 		(stroke
 			(width 0)
@@ -7926,7 +7926,7 @@
 	)
 	(wire
 		(pts
-			(xy 340.36 100.33) (xy 340.36 101.6)
+			(xy 342.9 100.33) (xy 342.9 101.6)
 		)
 		(stroke
 			(width 0)
@@ -7936,7 +7936,7 @@
 	)
 	(wire
 		(pts
-			(xy 342.9 99.06) (xy 342.9 101.6)
+			(xy 345.44 99.06) (xy 345.44 101.6)
 		)
 		(stroke
 			(width 0)
@@ -7946,7 +7946,7 @@
 	)
 	(wire
 		(pts
-			(xy 347.98 99.06) (xy 347.98 100.33)
+			(xy 353.06 99.06) (xy 353.06 100.33)
 		)
 		(stroke
 			(width 0)
@@ -7956,7 +7956,7 @@
 	)
 	(wire
 		(pts
-			(xy 347.98 100.33) (xy 345.44 100.33)
+			(xy 353.06 100.33) (xy 347.98 100.33)
 		)
 		(stroke
 			(width 0)
@@ -7966,7 +7966,7 @@
 	)
 	(wire
 		(pts
-			(xy 345.44 100.33) (xy 345.44 101.6)
+			(xy 347.98 100.33) (xy 347.98 101.6)
 		)
 		(stroke
 			(width 0)
@@ -7976,7 +7976,7 @@
 	)
 	(wire
 		(pts
-			(xy 335.28 81.28) (xy 347.98 81.28)
+			(xy 335.28 81.28) (xy 353.06 81.28)
 		)
 		(stroke
 			(width 0)
@@ -7986,7 +7986,7 @@
 	)
 	(wire
 		(pts
-			(xy 347.98 81.28) (xy 347.98 88.9)
+			(xy 353.06 81.28) (xy 353.06 88.9)
 		)
 		(stroke
 			(width 0)
@@ -7996,7 +7996,7 @@
 	)
 	(wire
 		(pts
-			(xy 358.14 86.36) (xy 342.9 86.36)
+			(xy 358.14 86.36) (xy 345.44 86.36)
 		)
 		(stroke
 			(width 0)
@@ -8006,7 +8006,7 @@
 	)
 	(wire
 		(pts
-			(xy 342.9 86.36) (xy 342.9 88.9)
+			(xy 345.44 86.36) (xy 345.44 88.9)
 		)
 		(stroke
 			(width 0)
@@ -8016,7 +8016,7 @@
 	)
 	(wire
 		(pts
-			(xy 342.9 114.3) (xy 342.9 116.84)
+			(xy 345.44 114.3) (xy 345.44 116.84)
 		)
 		(stroke
 			(width 0)
@@ -8026,7 +8026,7 @@
 	)
 	(wire
 		(pts
-			(xy 342.9 116.84) (xy 330.2 116.84)
+			(xy 345.44 116.84) (xy 330.2 116.84)
 		)
 		(stroke
 			(width 0)
@@ -11630,7 +11630,7 @@
 	)
 	(symbol
 		(lib_id "Okapi-eagle-import:bschulz_passives_R-EU_R0402")
-		(at 347.98 93.98 90)
+		(at 353.06 93.98 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11640,7 +11640,7 @@
 		(dnp no)
 		(uuid "78ae565b-6a4c-4196-817b-51e7b617b065")
 		(property "Reference" "R39"
-			(at 345.54 91.54 0)
+			(at 351.5614 97.79 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11651,7 +11651,7 @@
 			)
 		)
 		(property "Value" "330"
-			(at 351.282 97.79 0)
+			(at 356.362 97.79 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11662,7 +11662,7 @@
 			)
 		)
 		(property "Footprint" "Okapi:R0402"
-			(at 347.98 93.98 0)
+			(at 353.06 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11673,7 +11673,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 347.98 93.98 0)
+			(at 353.06 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11684,7 +11684,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 347.98 93.98 0)
+			(at 353.06 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11695,7 +11695,7 @@
 			)
 		)
 		(property "DIGIKEY" "311-330HRCT-ND"
-			(at 347.98 93.98 0)
+			(at 353.06 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11707,7 +11707,7 @@
 			)
 		)
 		(property "MF" "Yageo"
-			(at 347.98 93.98 0)
+			(at 353.06 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11719,7 +11719,7 @@
 			)
 		)
 		(property "MPN" "RC0603FR-07330RL"
-			(at 347.98 93.98 0)
+			(at 353.06 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12968,7 +12968,7 @@
 	)
 	(symbol
 		(lib_id "Okapi-eagle-import:bschulz_passives_R-EU_R0402")
-		(at 342.9 93.98 90)
+		(at 345.44 93.98 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -12978,7 +12978,7 @@
 		(dnp no)
 		(uuid "b167145a-1de4-4dc5-bdeb-26447d965a35")
 		(property "Reference" "R37"
-			(at 340.46 91.54 0)
+			(at 343.9414 97.79 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12989,7 +12989,7 @@
 			)
 		)
 		(property "Value" "330"
-			(at 346.202 97.79 0)
+			(at 348.742 97.79 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13000,7 +13000,7 @@
 			)
 		)
 		(property "Footprint" "Okapi:R0402"
-			(at 342.9 93.98 0)
+			(at 345.44 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13011,7 +13011,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 342.9 93.98 0)
+			(at 345.44 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13022,7 +13022,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 342.9 93.98 0)
+			(at 345.44 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13033,7 +13033,7 @@
 			)
 		)
 		(property "DIGIKEY" "311-330HRCT-ND"
-			(at 342.9 93.98 0)
+			(at 345.44 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13045,7 +13045,7 @@
 			)
 		)
 		(property "MPN" "RC0603FR-07330RL"
-			(at 342.9 93.98 0)
+			(at 345.44 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14958,7 +14958,7 @@
 	)
 	(symbol
 		(lib_id "Okapi-eagle-import:CLVBA-FKA")
-		(at 342.9 109.22 270)
+		(at 345.44 109.22 270)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -14969,7 +14969,7 @@
 		(dnp no)
 		(uuid "eecbc2e2-fe28-4848-bf1a-7b105c58951f")
 		(property "Reference" "D4"
-			(at 337.82 106.68 0)
+			(at 340.36 106.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14982,7 +14982,7 @@
 			)
 		)
 		(property "Value" "CLVBA-FKA"
-			(at 342.9 109.22 0)
+			(at 345.44 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14993,7 +14993,7 @@
 			)
 		)
 		(property "Footprint" "Okapi:CLVBA-FKA"
-			(at 342.9 109.22 0)
+			(at 345.44 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15004,7 +15004,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 342.9 109.22 0)
+			(at 345.44 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15015,7 +15015,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 342.9 109.22 0)
+			(at 345.44 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
