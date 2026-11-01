@@ -11810,13 +11810,13 @@
 	)
 	(global_label "LED2"
 		(shape bidirectional)
-		(at 213.36 292.1 90)
+		(at 213.36 292.1 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "3181a647-b900-4edd-b56e-af1c7ee65b53")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -12290,13 +12290,13 @@
 	)
 	(global_label "LED1"
 		(shape bidirectional)
-		(at 223.52 292.1 90)
+		(at 223.52 292.1 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "6557c8e1-251b-41f4-8180-0ba169e683bc")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -13898,13 +13898,13 @@
 	)
 	(global_label "LED3"
 		(shape bidirectional)
-		(at 218.44 292.1 90)
+		(at 218.44 292.1 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "f287338d-61f5-429f-bad8-d01d5d766607")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
