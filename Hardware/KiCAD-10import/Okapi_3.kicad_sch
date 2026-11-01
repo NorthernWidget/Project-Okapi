@@ -11810,7 +11810,7 @@
 	)
 	(global_label "LED2"
 		(shape bidirectional)
-		(at 213.36 292.1 270)
+		(at 210.82 292.1 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -11820,7 +11820,7 @@
 		)
 		(uuid "3181a647-b900-4edd-b56e-af1c7ee65b53")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 213.36 300.678 90)
+			(at 210.82 300.678 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12290,7 +12290,7 @@
 	)
 	(global_label "LED1"
 		(shape bidirectional)
-		(at 223.52 292.1 270)
+		(at 226.06 292.1 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -12300,7 +12300,7 @@
 		)
 		(uuid "6557c8e1-251b-41f4-8180-0ba169e683bc")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 223.52 300.678 90)
+			(at 226.06 300.678 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18030,7 +18030,7 @@
 		(dnp no)
 		(uuid "a150aadb-6fd5-41ec-9bac-d1f54dce3ee1")
 		(property "Reference" "R43"
-			(at 216 279.5 0)
+			(at 216.9414 285.75 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19068,7 +19068,7 @@
 	)
 	(symbol
 		(lib_id "Okapi-eagle-import:bschulz_passives_R-EU_R0402")
-		(at 213.36 281.94 90)
+		(at 210.82 281.94 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -19078,7 +19078,7 @@
 		(dnp no)
 		(uuid "d4322f4b-59a7-479f-a796-cee59c57f18a")
 		(property "Reference" "R42"
-			(at 211.861 285.75 0)
+			(at 209.3214 285.75 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19089,7 +19089,7 @@
 			)
 		)
 		(property "Value" "330"
-			(at 216.662 285.75 0)
+			(at 214.122 285.75 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19100,7 +19100,7 @@
 			)
 		)
 		(property "Footprint" "Okapi:R0402"
-			(at 213.36 281.94 0)
+			(at 210.82 281.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19111,7 +19111,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 213.36 281.94 0)
+			(at 210.82 281.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19122,7 +19122,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 213.36 281.94 0)
+			(at 210.82 281.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19133,7 +19133,7 @@
 			)
 		)
 		(property "MPN" "RC0603FR-07330RL"
-			(at 213.36 281.94 0)
+			(at 210.82 281.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19557,7 +19557,7 @@
 	)
 	(symbol
 		(lib_id "Okapi-eagle-import:bschulz_passives_R-EU_R0402")
-		(at 223.52 281.94 90)
+		(at 226.06 281.94 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -19567,7 +19567,7 @@
 		(dnp no)
 		(uuid "e986f55f-0c19-4602-98de-770f64935264")
 		(property "Reference" "R44"
-			(at 221 279.5 0)
+			(at 224.5614 285.75 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19578,7 +19578,7 @@
 			)
 		)
 		(property "Value" "330"
-			(at 226.822 285.75 0)
+			(at 229.362 285.75 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19589,7 +19589,7 @@
 			)
 		)
 		(property "Footprint" "Okapi:R0402"
-			(at 223.52 281.94 0)
+			(at 226.06 281.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19600,7 +19600,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 223.52 281.94 0)
+			(at 226.06 281.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19611,7 +19611,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 223.52 281.94 0)
+			(at 226.06 281.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19622,7 +19622,7 @@
 			)
 		)
 		(property "MPN" "RC0603FR-07330RL"
-			(at 223.52 281.94 0)
+			(at 226.06 281.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20308,7 +20308,7 @@
 	(wire
 		(pts
 			(xy 215.9 274.32)
-			(xy 213.36 274.32)
+			(xy 210.82 274.32)
 		)
 		(stroke
 			(width 0.1524)
@@ -20318,8 +20318,8 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 274.32)
-			(xy 213.36 276.86)
+			(xy 210.82 274.32)
+			(xy 210.82 276.86)
 		)
 		(stroke
 			(width 0.1524)
@@ -20352,7 +20352,7 @@
 	(wire
 		(pts
 			(xy 220.98 274.32)
-			(xy 223.52 274.32)
+			(xy 226.06 274.32)
 		)
 		(stroke
 			(width 0.1524)
@@ -20362,8 +20362,8 @@
 	)
 	(wire
 		(pts
-			(xy 223.52 274.32)
-			(xy 223.52 276.86)
+			(xy 226.06 274.32)
+			(xy 226.06 276.86)
 		)
 		(stroke
 			(width 0.1524)
@@ -20373,8 +20373,8 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 287.02)
-			(xy 213.36 292.1)
+			(xy 210.82 287.02)
+			(xy 210.82 292.1)
 		)
 		(stroke
 			(width 0.1524)
@@ -20395,8 +20395,8 @@
 	)
 	(wire
 		(pts
-			(xy 223.52 287.02)
-			(xy 223.52 292.1)
+			(xy 226.06 287.02)
+			(xy 226.06 292.1)
 		)
 		(stroke
 			(width 0.1524)
