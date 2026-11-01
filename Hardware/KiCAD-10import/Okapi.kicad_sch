@@ -8326,7 +8326,7 @@
 		(uuid "1f4bd22e-0d7d-4fe3-abd8-372dd8e473ec")
 	)
 	(junction
-		(at 146.304 111.76)
+		(at 146.05 111.76)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "21140424-e92e-4046-b16a-b3c265be7958")
@@ -8428,7 +8428,7 @@
 		(uuid "56b5b2ac-4ce4-4f25-8fc1-887a572a3fd3")
 	)
 	(junction
-		(at 131.064 160.02)
+		(at 130.81 160.02)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5c032218-ef87-4f8f-83a2-a04a64b5f78a")
@@ -9305,7 +9305,7 @@
 	)
 	(wire
 		(pts
-			(xy 127 160.02) (xy 131.064 160.02)
+			(xy 127 160.02) (xy 130.81 160.02)
 		)
 		(stroke
 			(width 0.1524)
@@ -9985,7 +9985,7 @@
 	)
 	(wire
 		(pts
-			(xy 146.304 111.76) (xy 142.24 111.76)
+			(xy 146.05 111.76) (xy 142.24 111.76)
 		)
 		(stroke
 			(width 0.1524)
@@ -10595,7 +10595,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 160.02) (xy 131.064 160.02)
+			(xy 137.16 160.02) (xy 130.81 160.02)
 		)
 		(stroke
 			(width 0.1524)
@@ -11115,7 +11115,7 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 111.76) (xy 146.304 111.76)
+			(xy 149.86 111.76) (xy 146.05 111.76)
 		)
 		(stroke
 			(width 0.1524)
@@ -15769,7 +15769,7 @@
 	)
 	(symbol
 		(lib_id "Okapi-eagle-import:supply1_371_GND")
-		(at 131.064 162.56 0)
+		(at 130.81 162.56 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -15779,7 +15779,7 @@
 		(dnp no)
 		(uuid "584a8a4c-c014-45aa-b8ec-488ffcd3ac18")
 		(property "Reference" "#GND13"
-			(at 131.064 162.56 0)
+			(at 130.81 162.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15790,7 +15790,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 128.524 165.1 0)
+			(at 128.27 165.1 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15801,7 +15801,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 131.064 162.56 0)
+			(at 130.81 162.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15812,7 +15812,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 131.064 162.56 0)
+			(at 130.81 162.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15823,7 +15823,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 131.064 162.56 0)
+			(at 130.81 162.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18990,7 +18990,7 @@
 	)
 	(symbol
 		(lib_id "Okapi-eagle-import:supply1_371_GND")
-		(at 146.304 114.3 0)
+		(at 146.05 114.3 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -19000,7 +19000,7 @@
 		(dnp no)
 		(uuid "af7e96d4-26f2-4b1c-9edc-b98433d53909")
 		(property "Reference" "#GND14"
-			(at 146.304 114.3 0)
+			(at 146.05 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19011,7 +19011,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 143.764 116.84 0)
+			(at 143.51 116.84 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19022,7 +19022,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 146.304 114.3 0)
+			(at 146.05 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19033,7 +19033,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 146.304 114.3 0)
+			(at 146.05 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19044,7 +19044,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 146.304 114.3 0)
+			(at 146.05 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
