@@ -5406,26 +5406,6 @@
 	)
 	(wire
 		(pts
-			(xy 352.806 101.346) (xy 344.932 98.806)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "10c44482-8619-45cb-8997-4fc442ac3a35")
-	)
-	(wire
-		(pts
-			(xy 339.852 98.806) (xy 337.82 101.346)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "10d05c72-cf31-413f-8a26-0e7b55529b24")
-	)
-	(wire
-		(pts
 			(xy 269.24 45.72) (xy 269.24 53.34)
 		)
 		(stroke
@@ -5463,16 +5443,6 @@
 			(type solid)
 		)
 		(uuid "169fb1d0-ce30-43e6-b019-bd4136549623")
-	)
-	(wire
-		(pts
-			(xy 337.82 101.346) (xy 337.82 99.06)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "17360119-901b-4ee3-ac8a-5f0e39b3b2a7")
 	)
 	(wire
 		(pts
@@ -5756,16 +5726,6 @@
 	)
 	(wire
 		(pts
-			(xy 352.806 89.408) (xy 352.806 81.28)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "342b5f6b-5d9e-416a-9c06-a74d756bc30e")
-	)
-	(wire
-		(pts
 			(xy 124.46 48.26) (xy 121.92 48.26)
 		)
 		(stroke
@@ -5773,16 +5733,6 @@
 			(type solid)
 		)
 		(uuid "3526cd43-3729-499e-8b4b-933dd06fe1ff")
-	)
-	(wire
-		(pts
-			(xy 342.392 111.506) (xy 344.932 116.84)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "362adf30-bfe0-467e-8cf5-2e6a90c373de")
 	)
 	(wire
 		(pts
@@ -6176,16 +6126,6 @@
 	)
 	(wire
 		(pts
-			(xy 344.932 86.36) (xy 358.14 86.36)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "6f75f7fa-fe75-4c28-92fd-97d45b64e2cd")
-	)
-	(wire
-		(pts
 			(xy 134.62 198.12) (xy 134.62 190.5)
 		)
 		(stroke
@@ -6203,16 +6143,6 @@
 			(type solid)
 		)
 		(uuid "70938ec1-5f5a-4f1a-ae59-fb9d93cc8b5f")
-	)
-	(wire
-		(pts
-			(xy 342.392 98.806) (xy 344.932 99.568)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "73c26b1c-11f8-492e-b172-f469bf718aaf")
 	)
 	(wire
 		(pts
@@ -6423,26 +6353,6 @@
 			(type solid)
 		)
 		(uuid "861438e3-88a1-4f3d-8f07-a68080174967")
-	)
-	(wire
-		(pts
-			(xy 352.806 99.568) (xy 352.806 101.346)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "8726b10e-668b-4236-86f7-20dca0182c42")
-	)
-	(wire
-		(pts
-			(xy 344.932 116.84) (xy 330.2 116.84)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "878be1eb-83cd-4071-b4bb-102fe034ec41")
 	)
 	(wire
 		(pts
@@ -7216,16 +7126,6 @@
 	)
 	(wire
 		(pts
-			(xy 344.932 89.408) (xy 344.932 86.36)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "f720dbcf-4049-4f83-9d30-94f83ba8e64d")
-	)
-	(wire
-		(pts
 			(xy 269.24 43.18) (xy 269.24 45.72)
 		)
 		(stroke
@@ -7283,16 +7183,6 @@
 			(type solid)
 		)
 		(uuid "fd0b7ba1-1726-4466-b596-a27fd9bc5e0c")
-	)
-	(wire
-		(pts
-			(xy 352.806 81.28) (xy 335.28 81.28)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "fd9df21e-4157-4554-8d23-c284064ccad4")
 	)
 	(wire
 		(pts
@@ -8013,6 +7903,136 @@
 				(justify left)
 			)
 		)
+	)
+	(wire
+		(pts
+			(xy 337.82 99.06) (xy 337.82 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f2b01d8b-d3f4-4451-9746-a58c3f7f94af")
+	)
+	(wire
+		(pts
+			(xy 337.82 100.33) (xy 340.36 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4a4be8c4-dc14-435f-8e84-83de7a315973")
+	)
+	(wire
+		(pts
+			(xy 340.36 100.33) (xy 340.36 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7f63ac00-4347-48e2-badc-1232df454d75")
+	)
+	(wire
+		(pts
+			(xy 342.9 99.06) (xy 342.9 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "adf29fb1-5af5-4e66-9904-1e49a948b9a6")
+	)
+	(wire
+		(pts
+			(xy 347.98 99.06) (xy 347.98 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "489a436e-4d11-4d13-9734-12c30961e861")
+	)
+	(wire
+		(pts
+			(xy 347.98 100.33) (xy 345.44 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "df78069b-9d91-4ff3-bb46-ce699f7db439")
+	)
+	(wire
+		(pts
+			(xy 345.44 100.33) (xy 345.44 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ace59fc7-eb07-4316-9256-437d3234aad7")
+	)
+	(wire
+		(pts
+			(xy 335.28 81.28) (xy 347.98 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "502075f1-6fd5-4943-a8c5-022446af85f9")
+	)
+	(wire
+		(pts
+			(xy 347.98 81.28) (xy 347.98 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "950e1ab5-9e32-4ee4-b156-9d8b592b496d")
+	)
+	(wire
+		(pts
+			(xy 358.14 86.36) (xy 342.9 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "934ea7b0-ac25-4aeb-9495-bbade056fea6")
+	)
+	(wire
+		(pts
+			(xy 342.9 86.36) (xy 342.9 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a3061029-95c3-47d1-82e0-06669ff52dd7")
+	)
+	(wire
+		(pts
+			(xy 342.9 114.3) (xy 342.9 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "94768959-cd26-46d8-a44c-1148229eafa5")
+	)
+	(wire
+		(pts
+			(xy 342.9 116.84) (xy 330.2 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "91d50930-60f5-4a95-b69f-cf76b453416c")
 	)
 	(symbol
 		(lib_id "Okapi-eagle-import:3V3_CORE")
@@ -11610,7 +11630,7 @@
 	)
 	(symbol
 		(lib_id "Okapi-eagle-import:bschulz_passives_R-EU_R0402")
-		(at 352.806 94.488 90)
+		(at 347.98 93.98 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11620,7 +11640,7 @@
 		(dnp no)
 		(uuid "78ae565b-6a4c-4196-817b-51e7b617b065")
 		(property "Reference" "R39"
-			(at 351.3074 98.298 0)
+			(at 345.54 91.54 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11631,7 +11651,7 @@
 			)
 		)
 		(property "Value" "330"
-			(at 356.108 98.298 0)
+			(at 351.282 97.79 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11642,7 +11662,7 @@
 			)
 		)
 		(property "Footprint" "Okapi:R0402"
-			(at 352.806 94.488 0)
+			(at 347.98 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11653,7 +11673,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 352.806 94.488 0)
+			(at 347.98 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11664,7 +11684,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 352.806 94.488 0)
+			(at 347.98 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11675,7 +11695,7 @@
 			)
 		)
 		(property "DIGIKEY" "311-330HRCT-ND"
-			(at 352.806 94.488 0)
+			(at 347.98 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11687,7 +11707,7 @@
 			)
 		)
 		(property "MF" "Yageo"
-			(at 352.806 94.488 0)
+			(at 347.98 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11699,7 +11719,7 @@
 			)
 		)
 		(property "MPN" "RC0603FR-07330RL"
-			(at 352.806 94.488 0)
+			(at 347.98 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12948,7 +12968,7 @@
 	)
 	(symbol
 		(lib_id "Okapi-eagle-import:bschulz_passives_R-EU_R0402")
-		(at 344.932 94.488 90)
+		(at 342.9 93.98 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -12958,7 +12978,7 @@
 		(dnp no)
 		(uuid "b167145a-1de4-4dc5-bdeb-26447d965a35")
 		(property "Reference" "R37"
-			(at 343.4334 98.298 0)
+			(at 340.46 91.54 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12969,7 +12989,7 @@
 			)
 		)
 		(property "Value" "330"
-			(at 348.234 98.298 0)
+			(at 346.202 97.79 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12980,7 +13000,7 @@
 			)
 		)
 		(property "Footprint" "Okapi:R0402"
-			(at 344.932 94.488 0)
+			(at 342.9 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12991,7 +13011,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 344.932 94.488 0)
+			(at 342.9 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13002,7 +13022,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 344.932 94.488 0)
+			(at 342.9 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13013,7 +13033,7 @@
 			)
 		)
 		(property "DIGIKEY" "311-330HRCT-ND"
-			(at 344.932 94.488 0)
+			(at 342.9 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13025,7 +13045,7 @@
 			)
 		)
 		(property "MPN" "RC0603FR-07330RL"
-			(at 344.932 94.488 0)
+			(at 342.9 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14938,7 +14958,7 @@
 	)
 	(symbol
 		(lib_id "Okapi-eagle-import:CLVBA-FKA")
-		(at 342.392 106.426 270)
+		(at 342.9 109.22 270)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -14949,7 +14969,7 @@
 		(dnp no)
 		(uuid "eecbc2e2-fe28-4848-bf1a-7b105c58951f")
 		(property "Reference" "D4"
-			(at 337.312 103.886 0)
+			(at 337.82 106.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14962,7 +14982,7 @@
 			)
 		)
 		(property "Value" "CLVBA-FKA"
-			(at 342.392 106.426 0)
+			(at 342.9 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14973,7 +14993,7 @@
 			)
 		)
 		(property "Footprint" "Okapi:CLVBA-FKA"
-			(at 342.392 106.426 0)
+			(at 342.9 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14984,7 +15004,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 342.392 106.426 0)
+			(at 342.9 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14995,7 +15015,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 342.392 106.426 0)
+			(at 342.9 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
