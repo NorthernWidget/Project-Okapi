@@ -8756,7 +8756,7 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 254) (xy 218.44 259.08)
+			(xy 218.44 254) (xy 218.44 259.08)
 		)
 		(stroke
 			(width 0.1524)
@@ -16658,7 +16658,7 @@
 	)
 	(symbol
 		(lib_id "Okapi-eagle-import:3V3_CORE")
-		(at 220.98 254 0)
+		(at 218.44 254 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -16668,7 +16668,7 @@
 		(dnp no)
 		(uuid "6d373664-0a7b-4974-8eff-2904ebe30217")
 		(property "Reference" "#SUPPLY9"
-			(at 220.98 254 0)
+			(at 218.44 254 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16679,7 +16679,7 @@
 			)
 		)
 		(property "Value" "3V3_CORE"
-			(at 220.98 251.206 0)
+			(at 218.44 251.206 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16690,7 +16690,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 220.98 254 0)
+			(at 218.44 254 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16701,7 +16701,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 220.98 254 0)
+			(at 218.44 254 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16712,7 +16712,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 220.98 254 0)
+			(at 218.44 254 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
