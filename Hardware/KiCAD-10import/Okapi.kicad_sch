@@ -8626,7 +8626,7 @@
 		(uuid "e88c5660-8719-4300-96b1-b4d776edda17")
 	)
 	(junction
-		(at 330.2 154.686)
+		(at 330.2 154.94)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e97951a4-c3a3-47ba-96a0-d45a709c40ad")
@@ -9555,7 +9555,7 @@
 	)
 	(wire
 		(pts
-			(xy 340.36 139.7) (xy 340.36 152.146)
+			(xy 340.36 139.7) (xy 340.36 152.4)
 		)
 		(stroke
 			(width 0.1524)
@@ -9615,7 +9615,7 @@
 	)
 	(wire
 		(pts
-			(xy 332.74 154.686) (xy 330.2 154.686)
+			(xy 332.74 154.94) (xy 330.2 154.94)
 		)
 		(stroke
 			(width 0.1524)
@@ -9685,7 +9685,7 @@
 	)
 	(wire
 		(pts
-			(xy 330.2 154.686) (xy 327.66 154.686)
+			(xy 330.2 154.94) (xy 327.66 154.94)
 		)
 		(stroke
 			(width 0.1524)
@@ -10715,7 +10715,7 @@
 	)
 	(wire
 		(pts
-			(xy 330.2 154.686) (xy 330.2 152.4)
+			(xy 330.2 154.94) (xy 330.2 152.4)
 		)
 		(stroke
 			(width 0.1524)
@@ -11105,7 +11105,7 @@
 	)
 	(wire
 		(pts
-			(xy 340.36 172.72) (xy 340.36 162.306)
+			(xy 340.36 172.72) (xy 340.36 162.56)
 		)
 		(stroke
 			(width 0.1524)
@@ -12153,7 +12153,7 @@
 	)
 	(global_label "FEATHER_EN"
 		(shape bidirectional)
-		(at 327.66 154.686 180)
+		(at 327.66 154.94 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -12163,7 +12163,7 @@
 		)
 		(uuid "bb8e136a-0e54-4eef-8679-e556f1b36099")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 320.6766 154.686 0)
+			(at 320.6766 154.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13082,7 +13082,7 @@
 	)
 	(symbol
 		(lib_id "Okapi-eagle-import:MOSFET_PCH-FDN360P")
-		(at 337.82 157.226 0)
+		(at 337.82 157.48 0)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -13093,7 +13093,7 @@
 		(dnp no)
 		(uuid "0d10c794-9f5f-4b8d-ba9d-8c97e0c693b5")
 		(property "Reference" "Q3"
-			(at 344.17 159.766 0)
+			(at 344.17 160.02 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13104,7 +13104,7 @@
 			)
 		)
 		(property "Value" "FDN360P"
-			(at 344.17 157.226 0)
+			(at 344.17 157.48 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13115,7 +13115,7 @@
 			)
 		)
 		(property "Footprint" "Okapi:SOT23-3@1"
-			(at 337.82 157.226 0)
+			(at 337.82 157.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13126,7 +13126,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 337.82 157.226 0)
+			(at 337.82 157.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13137,7 +13137,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 337.82 157.226 0)
+			(at 337.82 157.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
