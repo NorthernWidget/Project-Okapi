@@ -34,7 +34,7 @@
 		(45 "User.4" user)
 	)
 	(setup
-		(pad_to_mask_clearance 0)
+		(pad_to_mask_clearance 0.0635)
 		(allow_soldermask_bridges_in_footprints no)
 		(tenting
 			(front yes)
