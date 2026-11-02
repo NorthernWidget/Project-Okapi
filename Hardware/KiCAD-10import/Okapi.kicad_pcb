@@ -140,6 +140,9 @@
 				)
 			)
 		)
+		(path "/601168d5-0f86-4a98-9036-55ad9ace0376")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.4224 0.6604)
@@ -258,6 +261,9 @@
 				)
 			)
 		)
+		(path "/4b5f0e6c-34e8-4e1c-91be-4e135fcd2649")
+		(sheetname "Okapi_6")
+		(sheetfile "Okapi_6.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.245 -0.224)
@@ -424,6 +430,9 @@
 				)
 			)
 		)
+		(path "/5e7f97ae-c8af-41a4-89e1-9ebd51357034")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.245 -0.224)
@@ -590,6 +599,9 @@
 				)
 			)
 		)
+		(path "/5bb62925-6eae-4f68-a2a0-f81b47b62e17")
+		(sheetname "Okapi_4")
+		(sheetfile "Okapi_4.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.245 -0.224)
@@ -756,6 +768,9 @@
 				)
 			)
 		)
+		(path "/ebe53ebe-8800-46dd-b8e7-7686e7a545b1")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.432 -0.356)
@@ -922,6 +937,9 @@
 				)
 			)
 		)
+		(path "/e2e51292-fe6c-4c25-851f-da21b4f44139")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.381 -0.66)
@@ -1087,6 +1105,45 @@
 				)
 			)
 		)
+		(property "DIGIKEY" "609-3234-ND"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3c99eac2-c0d0-4476-b0e2-e1462ff3ffe7")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MF" "Amphenol"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "736ed341-01ae-499c-b2c1-31c98d079a90")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "67997-206HLF"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8750c575-2026-4ba7-a2c5-d99c8d06b21a")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/9e7bff7a-045d-43da-b079-b9a4061f1bb2")
+		(sheetname "Okapi_3")
+		(sheetfile "Okapi_3.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.778 3.81)
@@ -1379,7 +1436,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "USB_C"
 			(at -1.5 -0.25 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1414,6 +1471,45 @@
 				)
 			)
 		)
+		(property "DIGIKEY" "2073-USB4105-GF-ACT-ND"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "92242c04-d4c6-4b75-b22f-84c5f2059d0b")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MF" "GCT"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f6c443fb-0cf5-4513-b569-44feb946b6db")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "USB4105-GF-A"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "da86c023-6eea-42f5-a2a1-f0be88755a8e")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/6db7a87c-61a0-4862-9b71-783019fac26e")
+		(sheetname "Okapi_2")
+		(sheetfile "Okapi_2.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -4.47 -4)
@@ -1774,6 +1870,9 @@
 				)
 			)
 		)
+		(path "/850e7ddb-f02e-47b1-8484-fc9a95d7f353")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.432 -0.356)
@@ -1941,6 +2040,9 @@
 				)
 			)
 		)
+		(path "/d481837c-0a51-41b1-bbd7-85d784b8faa2")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 1.1224 0.6604)
@@ -2059,6 +2161,9 @@
 				)
 			)
 		)
+		(path "/34a5868e-3b74-4a93-bf82-1ed49bdf2077")
+		(sheetname "Okapi_5")
+		(sheetfile "Okapi_5.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.245 -0.224)
@@ -2225,6 +2330,9 @@
 				)
 			)
 		)
+		(path "/efcb7253-41eb-48c7-b90f-f64179656b7c")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.356 0.66)
@@ -2357,7 +2465,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "R-EU_R0402"
 			(at 0 1.016 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2391,6 +2499,9 @@
 				)
 			)
 		)
+		(path "/7b84eb55-f6d7-4ecd-a858-ab41271d1f73")
+		(sheetname "Okapi_3")
+		(sheetfile "Okapi_3.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.245 -0.224)
@@ -2557,6 +2668,9 @@
 				)
 			)
 		)
+		(path "/36910186-8bd3-4a86-be23-c1880507190e")
+		(sheetname "Okapi_2")
+		(sheetfile "Okapi_2.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 3.35 1.3)
@@ -2759,6 +2873,9 @@
 				)
 			)
 		)
+		(path "/e03a728e-6ad6-4fd4-946b-f8dd29487792")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.432 0.356)
@@ -2925,6 +3042,9 @@
 				)
 			)
 		)
+		(path "/19eb6a48-4c4c-4f81-92c2-0b27f52e2c25")
+		(sheetname "Okapi_3")
+		(sheetfile "Okapi_3.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 12.243 -5.741)
@@ -3327,6 +3447,9 @@
 				)
 			)
 		)
+		(path "/4c512fa3-84f2-4dfa-b5c8-a6c96e1160fa")
+		(sheetname "Okapi_2")
+		(sheetfile "Okapi_2.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.381 -0.66)
@@ -3492,6 +3615,9 @@
 				)
 			)
 		)
+		(path "/15fa8195-9320-478f-86b9-4bd178ae23cd")
+		(sheetname "Okapi_6")
+		(sheetfile "Okapi_6.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -2.5 -1.6)
@@ -3601,6 +3727,9 @@
 				)
 			)
 		)
+		(path "/26d6dfde-7530-44d4-ae85-7d1764a3e9dd")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.5 0.75)
@@ -3746,6 +3875,45 @@
 				)
 			)
 		)
+		(property "DIGIKEY" "311-330HRCT-ND"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9f117c49-af9d-4a97-a903-a0cab16e8f31")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MF" "Yageo"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c15bfb33-992d-49f4-b2a2-b249d3355d6f")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "RC0603FR-07330RL"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "85b9eaf1-8713-47a7-aa88-7495eceb6cfc")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/78ae565b-6a4c-4196-817b-51e7b617b065")
+		(sheetname "Okapi_2")
+		(sheetfile "Okapi_2.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.245 0.224)
@@ -3912,6 +4080,9 @@
 				)
 			)
 		)
+		(path "/14dc1112-6b4d-48bf-bb99-29cfa96e40a2")
+		(sheetname "Okapi_2")
+		(sheetfile "Okapi_2.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.4 0.4)
@@ -4113,6 +4284,9 @@
 				)
 			)
 		)
+		(path "/86b6d27b-dad8-47b8-9ef1-4025290c6f99")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.381 -0.66)
@@ -4279,6 +4453,21 @@
 				)
 			)
 		)
+		(property "MPN" "RC0603FR-07330RL"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5c7cf092-8267-4d9a-bc40-10298afb948c")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/d4322f4b-59a7-479f-a796-cee59c57f18a")
+		(sheetname "Okapi_3")
+		(sheetfile "Okapi_3.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.245 0.224)
@@ -4444,6 +4633,9 @@
 				)
 			)
 		)
+		(path "/1ceca993-935c-4fd3-94da-594ea1c165f2")
+		(sheetname "Okapi_3")
+		(sheetfile "Okapi_3.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.6 -1.4)
@@ -4590,6 +4782,9 @@
 				)
 			)
 		)
+		(path "/76d3e20d-1d18-442d-b3bc-6fee60fb3e79")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.356 0.38725)
@@ -4758,6 +4953,9 @@
 				)
 			)
 		)
+		(path "/85dd9e4b-5f6a-45fc-8ba2-a6ee78c5c0e9")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.4224 -0.6604)
@@ -4876,6 +5074,9 @@
 				)
 			)
 		)
+		(path "/2f53271c-0c92-45f4-b79d-08a2bd8216e9")
+		(sheetname "Okapi_4")
+		(sheetfile "Okapi_4.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.245 -0.224)
@@ -5042,6 +5243,9 @@
 				)
 			)
 		)
+		(path "/d08e34ee-2973-44f8-8193-68c98627d150")
+		(sheetname "Okapi_3")
+		(sheetfile "Okapi_3.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.245 -0.224)
@@ -5208,6 +5412,45 @@
 				)
 			)
 		)
+		(property "DIGIKEY" "1276-1254-1-ND"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "31e8fb1e-5199-49db-8332-7152e0c8aff0")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MF" "Samsung"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7c746212-3dd4-4e5b-8a67-90c039742cb5")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "CL10C120JB8NNNC"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "de8fe427-10b3-490a-ab5d-306c75b34d42")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/77a90689-f8f0-4539-bdab-d4b7c34ffd0c")
+		(sheetname "Okapi_6")
+		(sheetfile "Okapi_6.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.245 0.224)
@@ -5340,7 +5583,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "R-EU_R0402"
 			(at 0 1.016 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5374,6 +5617,9 @@
 				)
 			)
 		)
+		(path "/0167e165-1190-4f36-b6ce-c5e0d8817d70")
+		(sheetname "Okapi_5")
+		(sheetfile "Okapi_5.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.245 -0.224)
@@ -5540,6 +5786,9 @@
 				)
 			)
 		)
+		(path "/534f18b5-f97a-41da-9753-0f017e2a3c94")
+		(sheetname "Okapi_5")
+		(sheetfile "Okapi_5.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 1 -1)
@@ -5768,6 +6017,21 @@
 				)
 			)
 		)
+		(property "MPN" "RC0603FR-07330RL"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fbf19ca4-c0c8-402a-a71a-bc4a98791eb2")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/e1ee8bee-6d72-4d8b-978d-20121ecbaaa0")
+		(sheetname "Okapi_2")
+		(sheetfile "Okapi_2.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.245 0.224)
@@ -5933,6 +6197,9 @@
 				)
 			)
 		)
+		(path "/6955ee76-ebc1-418d-9a88-60c25642a08e")
+		(sheetname "Okapi_3")
+		(sheetfile "Okapi_3.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.8 -0.4)
@@ -6083,6 +6350,9 @@
 				)
 			)
 		)
+		(path "/85ffa619-199d-4751-ab7b-f9fa821e89d1")
+		(sheetname "Okapi_5")
+		(sheetfile "Okapi_5.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.432 -0.356)
@@ -6249,6 +6519,21 @@
 				)
 			)
 		)
+		(property "MPN" "RC0603FR-07330RL"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "38100476-c911-468e-8a1a-e9c298709421")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/a150aadb-6fd5-41ec-9bac-d1f54dce3ee1")
+		(sheetname "Okapi_3")
+		(sheetfile "Okapi_3.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.245 0.224)
@@ -6415,6 +6700,9 @@
 				)
 			)
 		)
+		(path "/7323ef17-2aad-4fc3-9faa-f6f6e12472d2")
+		(sheetname "Okapi_5")
+		(sheetfile "Okapi_5.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.245 -0.224)
@@ -6581,6 +6869,9 @@
 				)
 			)
 		)
+		(path "/b24e2eb4-02d4-407e-9578-d367b4cb1d78")
+		(sheetname "Okapi_3")
+		(sheetfile "Okapi_3.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.245 0.224)
@@ -6747,6 +7038,9 @@
 				)
 			)
 		)
+		(path "/c896d81c-40df-41a6-8a6b-85528c762ffa")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.432 0.356)
@@ -6913,6 +7207,9 @@
 				)
 			)
 		)
+		(path "/7ab2ff24-08b0-4a5d-bc76-f03312186fc5")
+		(sheetname "Okapi_3")
+		(sheetfile "Okapi_3.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 2.5 2.5)
@@ -7274,6 +7571,9 @@
 				)
 			)
 		)
+		(path "/5caa74e2-1634-4493-b0fa-29403b1cef95")
+		(sheetname "Okapi_3")
+		(sheetfile "Okapi_3.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.245 0.224)
@@ -7440,6 +7740,9 @@
 				)
 			)
 		)
+		(path "/ab9fa3b6-f2b6-445b-b9ac-45b73eee93d8")
+		(sheetname "Okapi_3")
+		(sheetfile "Okapi_3.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.245 -0.224)
@@ -7605,6 +7908,9 @@
 				)
 			)
 		)
+		(path "/7a5e552b-72c8-4e9b-94d3-4d7ca2d1dfe8")
+		(sheetname "Okapi_4")
+		(sheetfile "Okapi_4.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.75)
@@ -7875,6 +8181,9 @@
 				)
 			)
 		)
+		(path "/080d9ac0-8d94-4b52-a165-4bbff320dd20")
+		(sheetname "Okapi_5")
+		(sheetfile "Okapi_5.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1 1)
@@ -8046,6 +8355,9 @@
 				)
 			)
 		)
+		(path "/1f8bca0d-e7f5-4db3-968c-8247b24771d3")
+		(sheetname "Okapi_3")
+		(sheetfile "Okapi_3.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.245 -0.224)
@@ -8211,6 +8523,9 @@
 				)
 			)
 		)
+		(path "/cd5f054d-577e-44ba-85ee-f5c5041d0aa5")
+		(sheetname "Okapi_4")
+		(sheetfile "Okapi_4.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.85 -0.6)
@@ -8379,6 +8694,9 @@
 				)
 			)
 		)
+		(path "/c441fb31-59a7-4e19-a881-d591c9969109")
+		(sheetname "Okapi_3")
+		(sheetfile "Okapi_3.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0 -19.86)
@@ -8752,7 +9070,7 @@
 				(justify right top)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "JST_2MM_MALE"
 			(at -1.651 -0.635 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8787,6 +9105,9 @@
 				)
 			)
 		)
+		(path "/fa165aa6-5231-4dd1-a06d-e737e64720de")
+		(sheetname "Okapi_3")
+		(sheetfile "Okapi_3.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 4 4.5)
@@ -8961,6 +9282,9 @@
 				)
 			)
 		)
+		(path "/bb7d69a7-5b71-4a39-8aa1-9ebf0d797e90")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.245 0.224)
@@ -9127,6 +9451,9 @@
 				)
 			)
 		)
+		(path "/0822bf5b-6595-4534-9c52-3a39e77f3618")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.4 -0.4)
@@ -9294,7 +9621,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "R-EU_R0805"
 			(at 0 1.397 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9328,6 +9655,9 @@
 				)
 			)
 		)
+		(path "/c7b5185e-6e6f-40a9-bf4f-6fc192356010")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.41 0.635)
@@ -9460,7 +9790,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "R-EU_R0402"
 			(at 0 1.016 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9494,6 +9824,9 @@
 				)
 			)
 		)
+		(path "/84dc8d88-5ed9-45b2-b2d7-9e23704b58ef")
+		(sheetname "Okapi_2")
+		(sheetfile "Okapi_2.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.245 0.224)
@@ -9659,6 +9992,9 @@
 				)
 			)
 		)
+		(path "/16bd3122-b15d-47b1-863d-ab36ef54de29")
+		(sheetname "Okapi_2")
+		(sheetfile "Okapi_2.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.725 -0.525)
@@ -9794,7 +10130,7 @@
 				)
 			)
 		)
-		(property "Value" "MCP4726A2SOT-23"
+		(property "Value" "MCP4726SOT-23"
 			(at 0 2.413 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9828,6 +10164,9 @@
 				)
 			)
 		)
+		(path "/fbc67ddd-d1b0-4137-93b7-0c98287b8f60")
+		(sheetname "Okapi_5")
+		(sheetfile "Okapi_5.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.422 -0.81)
@@ -10132,6 +10471,9 @@
 				)
 			)
 		)
+		(path "/9d415dbb-9f68-4068-9a4b-baa392d583df")
+		(sheetname "Okapi_3")
+		(sheetfile "Okapi_3.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 2.3 -1.6)
@@ -10258,6 +10600,9 @@
 				)
 			)
 		)
+		(path "/f6330c95-7d2a-4efe-bc2e-b15dac6ffdc6")
+		(sheetname "Okapi_3")
+		(sheetfile "Okapi_3.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.245 0.224)
@@ -10390,7 +10735,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "DIODEDO-214AC"
 			(at -0.1 1.54 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10426,6 +10771,45 @@
 				)
 			)
 		)
+		(property "DIGIKEY" "B340A-FDICT-ND"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "30dc75ce-f405-49a8-b446-518885ea4722")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MF" "Diodes Incorporated"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b2dc8a25-c98b-42be-847a-0b8e3735e701")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "B340A-13-F"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7fabeecd-cb4e-4122-85a6-85ff5a843cec")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/1ffe7532-6df7-4148-b348-c95407a7cef6")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -2.3 0.95)
@@ -10601,6 +10985,9 @@
 				)
 			)
 		)
+		(path "/0b7f1a7c-911d-46b1-b363-a4488a46950d")
+		(sheetname "Okapi_2")
+		(sheetfile "Okapi_2.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.5 -0.8)
@@ -10718,7 +11105,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "R-EU_R0805"
 			(at 0 1.397 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10752,6 +11139,9 @@
 				)
 			)
 		)
+		(path "/b922429d-37bd-4646-b14c-e32cf02e3fa9")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.41 0.635)
@@ -10884,7 +11274,7 @@
 				)
 			)
 		)
-		(property "Value" "TPS79733"
+		(property "Value" "TPS797"
 			(at 1.524 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10918,6 +11308,9 @@
 				)
 			)
 		)
+		(path "/c72296b3-c4fe-43b3-85d4-ec538f766d51")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.975 0.6)
@@ -11122,6 +11515,9 @@
 				)
 			)
 		)
+		(path "/9c8722e8-88e2-4ff9-b880-f1f7bfa4e510")
+		(sheetname "Okapi_3")
+		(sheetfile "Okapi_3.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.8 -0.4)
@@ -11272,6 +11668,9 @@
 				)
 			)
 		)
+		(path "/1097cb63-01e5-4648-b01a-657bb091a81f")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.432 -0.356)
@@ -11438,6 +11837,9 @@
 				)
 			)
 		)
+		(path "/97bb4a84-97bd-47bb-a9ad-714ede543add")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.432 0.356)
@@ -11604,6 +12006,9 @@
 				)
 			)
 		)
+		(path "/8c5bdaf5-729c-454b-9618-870deedf66ee")
+		(sheetname "Okapi_5")
+		(sheetfile "Okapi_5.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.245 -0.224)
@@ -11772,6 +12177,9 @@
 				)
 			)
 		)
+		(path "/d90cfa87-91d4-4436-a34b-ec5a9ac88b68")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 1.4224 0.6604)
@@ -11889,6 +12297,9 @@
 				)
 			)
 		)
+		(path "/8b38188d-5c91-4b25-bfa3-9f905094ee8a")
+		(sheetname "Okapi_3")
+		(sheetfile "Okapi_3.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.8 0.4)
@@ -12039,6 +12450,9 @@
 				)
 			)
 		)
+		(path "/21425efe-dcbc-43b1-9197-4257d0740af7")
+		(sheetname "Okapi_6")
+		(sheetfile "Okapi_6.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.245 -0.224)
@@ -12205,6 +12619,9 @@
 				)
 			)
 		)
+		(path "/27d6e285-2871-4463-b1ff-79ee791ec136")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.422 -0.81)
@@ -12510,6 +12927,9 @@
 				)
 			)
 		)
+		(path "/9b811f6f-4bbd-41bb-baad-4d46aa73300a")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.245 -0.224)
@@ -12676,6 +13096,9 @@
 				)
 			)
 		)
+		(path "/701730b5-133b-408f-b982-0784d0c93189")
+		(sheetname "Okapi_5")
+		(sheetfile "Okapi_5.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.432 -0.356)
@@ -12841,6 +13264,9 @@
 				)
 			)
 		)
+		(path "/42c280a6-6206-43da-bf89-a05a9f5326f3")
+		(sheetname "Okapi_3")
+		(sheetfile "Okapi_3.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.8 0.4)
@@ -12991,6 +13417,9 @@
 				)
 			)
 		)
+		(path "/71dca36c-590d-4ca7-9329-c7a3715483fe")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.381 -0.66)
@@ -13157,6 +13586,9 @@
 				)
 			)
 		)
+		(path "/161ccab8-89e2-4b96-ae35-3cf52fd3d95d")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.356 0.66)
@@ -13323,6 +13755,9 @@
 				)
 			)
 		)
+		(path "/ee8efa97-7917-4a22-a411-9259ffd69606")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.432 -0.356)
@@ -13491,6 +13926,9 @@
 				)
 			)
 		)
+		(path "/f6c45360-700c-4f73-aec0-e983eaac6639")
+		(sheetname "Okapi_3")
+		(sheetfile "Okapi_3.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 10.39 -3.3)
@@ -13791,6 +14229,9 @@
 				)
 			)
 		)
+		(path "/ada86e97-f193-45a4-b68a-479b0ceb303b")
+		(sheetname "Okapi_2")
+		(sheetfile "Okapi_2.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.245 0.224)
@@ -13957,6 +14398,9 @@
 				)
 			)
 		)
+		(path "/3217f95c-783a-494f-aea1-56c7a029c7c7")
+		(sheetname "Okapi_2")
+		(sheetfile "Okapi_2.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.245 -0.224)
@@ -14090,7 +14534,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "CONN_022.54_SCREW"
 			(at -2.54 4.064 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14125,6 +14569,9 @@
 				)
 			)
 		)
+		(path "/d579097c-0967-4166-873d-8a2130066597")
+		(sheetname "Okapi_3")
+		(sheetfile "Okapi_3.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -2.77 -3.3)
@@ -14234,7 +14681,7 @@
 				)
 			)
 		)
-		(property "Value" "ADS1115"
+		(property "Value" "ADS111"
 			(at 2.159 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14268,6 +14715,9 @@
 				)
 			)
 		)
+		(path "/d8861f7b-4b24-47fd-9f9f-61ef096dcfb7")
+		(sheetname "Okapi_5")
+		(sheetfile "Okapi_5.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.5 1.5)
@@ -14453,6 +14903,9 @@
 				)
 			)
 		)
+		(path "/1047dca7-63e1-4507-b393-175c8f835f76")
+		(sheetname "Okapi_4")
+		(sheetfile "Okapi_4.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.245 0.224)
@@ -14619,6 +15072,9 @@
 				)
 			)
 		)
+		(path "/fbb27bd2-94e6-4aef-9f71-64363ef11a47")
+		(sheetname "Okapi_4")
+		(sheetfile "Okapi_4.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.245 -0.224)
@@ -14784,6 +15240,45 @@
 				)
 			)
 		)
+		(property "DIGIKEY" "718-1921-1-ND"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f791047a-3de7-4aea-976b-4e545296c074")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MF" "Vishay Sprague"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d1db2c32-8c36-4d59-9d03-c17d8c24f505")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "TL8A0107M010D"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f23add06-90b2-4028-80ed-6dfbc38d1419")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/7e5d4570-4b10-43af-8c8b-b59175711f42")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.6 -0.8)
@@ -14908,6 +15403,9 @@
 				)
 			)
 		)
+		(path "/1a3bd04a-a181-4ba8-a00b-24de8c3d7a60")
+		(sheetname "Okapi_4")
+		(sheetfile "Okapi_4.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.95 0.9)
@@ -15302,6 +15800,9 @@
 				)
 			)
 		)
+		(path "/5ed14152-03d7-4918-8d89-63a23bc40a4b")
+		(sheetname "Okapi_5")
+		(sheetfile "Okapi_5.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 1.5 1.5)
@@ -15506,7 +16007,7 @@
 				)
 			)
 		)
-		(property "Value" "TPS62822DLC"
+		(property "Value" "TPS6282DLC"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -15540,6 +16041,9 @@
 				)
 			)
 		)
+		(path "/a9e57e8f-d92d-4572-b9cb-496e5bd77e7a")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 1 -0.75)
@@ -15710,6 +16214,9 @@
 				)
 			)
 		)
+		(path "/40267341-e808-4a81-97a6-421a71d3c42c")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.4224 -0.6604)
@@ -15828,6 +16335,9 @@
 				)
 			)
 		)
+		(path "/16ca223d-bed5-491a-b310-a69179a1ed42")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.356 -0.40025)
@@ -15994,6 +16504,9 @@
 				)
 			)
 		)
+		(path "/4823cfa4-09dd-42e6-adee-8bd94e7ee1bb")
+		(sheetname "Okapi_3")
+		(sheetfile "Okapi_3.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 2.45 -1)
@@ -16285,6 +16798,9 @@
 				)
 			)
 		)
+		(path "/83faf95c-95dd-4aa3-a3eb-653040cb551d")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.432 -0.356)
@@ -16451,6 +16967,9 @@
 				)
 			)
 		)
+		(path "/1ab78158-4731-4823-8be9-5df4852b6b3f")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.41 -0.635)
@@ -16617,6 +17136,9 @@
 				)
 			)
 		)
+		(path "/0cd56689-f6e5-4309-9717-e4eb1ad4e1b1")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.975 -0.6)
@@ -16825,6 +17347,9 @@
 				)
 			)
 		)
+		(path "/0d10c794-9f5f-4b8d-ba9d-8c97e0c693b5")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.4224 -0.6604)
@@ -16943,6 +17468,9 @@
 				)
 			)
 		)
+		(path "/04da240b-4145-4eeb-a678-49e6b9d4a727")
+		(sheetname "Okapi_5")
+		(sheetfile "Okapi_5.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.245 0.224)
@@ -17109,6 +17637,9 @@
 				)
 			)
 		)
+		(path "/fcefaef7-dcde-47fe-98c4-97fb36509381")
+		(sheetname "Okapi_2")
+		(sheetfile "Okapi_2.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.245 -0.224)
@@ -17275,6 +17806,9 @@
 				)
 			)
 		)
+		(path "/826638aa-c441-4ecf-88dc-11056464e086")
+		(sheetname "Okapi_2")
+		(sheetfile "Okapi_2.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.245 -0.224)
@@ -17407,7 +17941,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "R-EU_R0805"
 			(at 0 1.397 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -17441,6 +17975,9 @@
 				)
 			)
 		)
+		(path "/b86fb1cb-bb04-491d-b27b-e877ddc59e15")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.41 -0.635)
@@ -17573,7 +18110,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "MOUNTING_HOLE4_NP"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -17607,6 +18144,9 @@
 				)
 			)
 		)
+		(path "/19e76af8-586f-4ca4-8b6d-d51f852d6fb8")
+		(sheetname "Okapi_3")
+		(sheetfile "Okapi_3.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -17690,6 +18230,21 @@
 				)
 			)
 		)
+		(property "MPN" "RC0603FR-07330RL"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2c5fa404-58dc-4a95-8cab-86dddf9c273d")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/8c3ff912-2234-49fe-a8b9-53dd4548b35f")
+		(sheetname "Okapi_2")
+		(sheetfile "Okapi_2.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.245 0.224)
@@ -17855,6 +18410,9 @@
 				)
 			)
 		)
+		(path "/24e357a9-d967-4b38-abd6-43d74342428d")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -2 2)
@@ -18280,6 +18838,9 @@
 				)
 			)
 		)
+		(path "/966b8d55-9e16-4b0a-87d6-ed4499070909")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.432 0.356)
@@ -18445,6 +19006,9 @@
 				)
 			)
 		)
+		(path "/3a447bf1-5965-4aa4-a58a-f99eadb08843")
+		(sheetname "Okapi_2")
+		(sheetfile "Okapi_2.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.725 0.525)
@@ -18614,6 +19178,9 @@
 				)
 			)
 		)
+		(path "/1c8c0a7c-f14f-4fee-a0a6-12c3208850dc")
+		(sheetname "Okapi_2")
+		(sheetfile "Okapi_2.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -2.032 -1.968)
@@ -18969,6 +19536,9 @@
 				)
 			)
 		)
+		(path "/d6167a5f-7fac-45db-8331-d60c1d2169fc")
+		(sheetname "Okapi_2")
+		(sheetfile "Okapi_2.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.245 0.224)
@@ -19135,6 +19705,9 @@
 				)
 			)
 		)
+		(path "/cbab808f-97ad-4dbf-8490-91dd34dbb488")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.245 0.224)
@@ -19267,7 +19840,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "LT3652DD"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -19301,6 +19874,9 @@
 				)
 			)
 		)
+		(path "/7952c6ef-7018-4ae1-a497-e2727f85eb51")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.5 -1.5)
@@ -19535,7 +20111,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "DIODEDO-214AC"
 			(at -0.1 1.54 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19569,6 +20145,45 @@
 				)
 			)
 		)
+		(property "DIGIKEY" "CMSH3-40MATR13CT-ND"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e434a51f-a044-4287-ae18-83aaf4f62b58")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MF" "Central Semiconductor"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "60eb83d9-f389-4b68-8ce8-21ddb2e34484")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "CMSH3-40MA TR13"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6a60415f-5f7e-44e8-a6c0-57a272f0eecf")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/ed64aebe-152f-4e28-99ea-2f682c0d2065")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 2.3 0.95)
@@ -19745,6 +20360,9 @@
 				)
 			)
 		)
+		(path "/8c4049ed-2784-4c7c-b56f-2ad115b1a317")
+		(sheetname "Okapi_2")
+		(sheetfile "Okapi_2.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.245 -0.224)
@@ -19911,6 +20529,9 @@
 				)
 			)
 		)
+		(path "/ec8dd54e-a868-4f39-b1b1-743fb544ea11")
+		(sheetname "Okapi_2")
+		(sheetfile "Okapi_2.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -3.35 -1.3)
@@ -20113,6 +20734,9 @@
 				)
 			)
 		)
+		(path "/6d8b779c-1106-40b0-99b1-9398ec03a72b")
+		(sheetname "Okapi_2")
+		(sheetfile "Okapi_2.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.245 -0.224)
@@ -20279,6 +20903,45 @@
 				)
 			)
 		)
+		(property "DIGIKEY" "1276-1254-1-ND"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fc1ba8dc-7063-4e23-901b-81748baa468b")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MF" "Samsung"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0b8a9fbf-2b37-4e5f-9d60-618b06738ed1")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "CL10C120JB8NNNC"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c11f209d-1074-4330-8afa-6271e180adaf")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/c69de6c7-0aaa-492e-b4e9-2ac90042e0a5")
+		(sheetname "Okapi_6")
+		(sheetfile "Okapi_6.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.245 0.224)
@@ -20445,6 +21108,9 @@
 				)
 			)
 		)
+		(path "/c4359448-b59a-4088-a69a-07c04b061899")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.432 -0.356)
@@ -20610,6 +21276,9 @@
 				)
 			)
 		)
+		(path "/4a6ca48a-8e6b-4888-a156-4e764dcdc7c7")
+		(sheetname "Okapi_3")
+		(sheetfile "Okapi_3.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.6 -1.4)
@@ -20722,7 +21391,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "MOUNTING_HOLE4_NP"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -20756,6 +21425,9 @@
 				)
 			)
 		)
+		(path "/b4c25c47-691a-4663-a068-34eca02450e4")
+		(sheetname "Okapi_3")
+		(sheetfile "Okapi_3.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -20839,6 +21511,9 @@
 				)
 			)
 		)
+		(path "/93c90f95-6234-4908-9f49-325860db7cb0")
+		(sheetname "Okapi_2")
+		(sheetfile "Okapi_2.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.245 -0.224)
@@ -21005,6 +21680,9 @@
 				)
 			)
 		)
+		(path "/0eb3a2c3-50de-4827-a32b-c5ebb6fecbf0")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.245 -0.224)
@@ -21173,6 +21851,9 @@
 				)
 			)
 		)
+		(path "/5584b0d5-d128-41df-9ebf-1f3a1652bf8a")
+		(sheetname "Okapi_5")
+		(sheetfile "Okapi_5.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 4.75 -4.54)
@@ -21375,6 +22056,9 @@
 				)
 			)
 		)
+		(path "/97b3005e-7473-4f3f-8286-dabb5c9f1c15")
+		(sheetname "Okapi_6")
+		(sheetfile "Okapi_6.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.245 0.224)
@@ -21541,6 +22225,9 @@
 				)
 			)
 		)
+		(path "/222b1c70-39bd-4bde-835f-73c05109380b")
+		(sheetname "Okapi_3")
+		(sheetfile "Okapi_3.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.245 -0.224)
@@ -21707,6 +22394,9 @@
 				)
 			)
 		)
+		(path "/a49614a9-a528-4cb2-9969-8816a492d0a0")
+		(sheetname "Okapi_4")
+		(sheetfile "Okapi_4.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.245 -0.224)
@@ -21873,6 +22563,9 @@
 				)
 			)
 		)
+		(path "/6a61d6e5-5574-435a-b6b9-f1d777e8a1c1")
+		(sheetname "Okapi_2")
+		(sheetfile "Okapi_2.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.245 -0.224)
@@ -22039,6 +22732,9 @@
 				)
 			)
 		)
+		(path "/b3897a62-d3a0-4762-b610-638f20b408aa")
+		(sheetname "Okapi_6")
+		(sheetfile "Okapi_6.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 2 2)
@@ -22390,6 +23086,21 @@
 				)
 			)
 		)
+		(property "MPN" "RC0603FR-07330RL"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "50582fe6-6ad8-4f6f-913d-d19081bd2630")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/e986f55f-0c19-4602-98de-770f64935264")
+		(sheetname "Okapi_3")
+		(sheetfile "Okapi_3.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.245 0.224)
@@ -22556,6 +23267,9 @@
 				)
 			)
 		)
+		(path "/2e8d1a1f-0b2b-4b57-8efe-3f8a37be5b47")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.245 -0.224)
@@ -22722,6 +23436,9 @@
 				)
 			)
 		)
+		(path "/afe9431a-6b12-4266-9915-4906fabbc7be")
+		(sheetname "Okapi_6")
+		(sheetfile "Okapi_6.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -3.4 -3.4)
@@ -23947,6 +24664,9 @@
 				)
 			)
 		)
+		(path "/bdc45b79-dff6-4203-aa32-dd268c6fb27d")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 1.5 0.8)
@@ -24102,6 +24822,9 @@
 				)
 			)
 		)
+		(path "/59df32c8-c580-4a3b-a4b2-77247533dad8")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.4224 -0.6604)
@@ -24220,6 +24943,21 @@
 				)
 			)
 		)
+		(property "MPN" "RC0603FR-07330RL"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e4e9a631-3072-4b84-add5-7f7256b43576")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/d1738faf-e607-4816-ac89-47325c5cab82")
+		(sheetname "Okapi_2")
+		(sheetfile "Okapi_2.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.245 0.224)
@@ -24386,6 +25124,45 @@
 				)
 			)
 		)
+		(property "DIGIKEY" "732-11316-1-ND"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "58ba4c5f-5a1f-4a00-97e1-573df2ea8981")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MF" "Wurth"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2790e903-f158-4a51-912d-640534465f6a")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "78438356047"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1697152a-9274-41a7-94cb-5ea650021f18")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/c679455b-2428-44c5-8d66-34708e24d305")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -2.05 -2.05)
@@ -24496,6 +25273,9 @@
 				)
 			)
 		)
+		(path "/b361925b-f0cf-424b-98cf-2671c248eba9")
+		(sheetname "Okapi_5")
+		(sheetfile "Okapi_5.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.245 -0.224)
@@ -24628,7 +25408,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "MOUNTING_HOLE4_NP"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -24662,6 +25442,9 @@
 				)
 			)
 		)
+		(path "/686b2a8b-a723-4ecd-9f08-17b91e6f75f4")
+		(sheetname "Okapi_3")
+		(sheetfile "Okapi_3.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -24745,6 +25528,9 @@
 				)
 			)
 		)
+		(path "/55323a14-e05f-4f66-9680-f101d6b2e222")
+		(sheetname "Okapi_2")
+		(sheetfile "Okapi_2.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.245 0.224)
@@ -24913,6 +25699,9 @@
 				)
 			)
 		)
+		(path "/45b17b3d-bc77-451c-96cf-cfdcfa555f40")
+		(sheetname "Okapi_4")
+		(sheetfile "Okapi_4.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.95 0.9)
@@ -25307,6 +26096,9 @@
 				)
 			)
 		)
+		(path "/9f738f4e-63df-4c31-8bef-1e8e967ba8bf")
+		(sheetname "Okapi_6")
+		(sheetfile "Okapi_6.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.245 0.224)
@@ -25472,6 +26264,9 @@
 				)
 			)
 		)
+		(path "/6fb7e52f-b107-4fcc-94b0-f57c7bbba6af")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 1.5 0.8)
@@ -25625,6 +26420,9 @@
 				)
 			)
 		)
+		(path "/b5d9a7db-6983-448a-830f-1a0dc37425df")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.1224 0.6604)
@@ -25710,7 +26508,7 @@
 				(justify top)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "PPTC1.5A"
 			(at 0 1.143 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -25745,6 +26543,9 @@
 				)
 			)
 		)
+		(path "/336ab5f4-e7b0-48c2-bb54-3661841c0bd3")
+		(sheetname "Okapi_3")
+		(sheetfile "Okapi_3.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.965 0.787)
@@ -25911,6 +26712,9 @@
 				)
 			)
 		)
+		(path "/db9504e8-2de2-4020-a7c2-a7a8c9019f4a")
+		(sheetname "Okapi_6")
+		(sheetfile "Okapi_6.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.245 0.224)
@@ -26076,6 +26880,9 @@
 				)
 			)
 		)
+		(path "/cee5981a-384c-429d-b29b-78050333263f")
+		(sheetname "Okapi_2")
+		(sheetfile "Okapi_2.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.5 -0.8)
@@ -26227,6 +27034,9 @@
 				)
 			)
 		)
+		(path "/33d788bd-3bed-4481-9568-d11ad9750c25")
+		(sheetname "Okapi_2")
+		(sheetfile "Okapi_2.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 1.5 1.5)
@@ -26395,6 +27205,9 @@
 				)
 			)
 		)
+		(path "/9953fa9c-a214-425f-bf66-626981258083")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.432 0.356)
@@ -26563,6 +27376,9 @@
 				)
 			)
 		)
+		(path "/85119972-665a-40e5-9a87-6a6ee9168ddc")
+		(sheetname "Okapi_3")
+		(sheetfile "Okapi_3.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -10.39 3.2)
@@ -26863,6 +27679,9 @@
 				)
 			)
 		)
+		(path "/dcf40b20-8331-46d0-abc0-252f718cfc63")
+		(sheetname "Okapi_2")
+		(sheetfile "Okapi_2.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.4 -0.4)
@@ -27063,6 +27882,45 @@
 				)
 			)
 		)
+		(property "DIGIKEY" "732-4849-1-ND"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "db0b21ce-8b2f-4de9-b40a-aa54dd18a5ff")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MF" "Wurth"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0a974723-d986-4694-967a-ff529e0a6427")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "74438323068"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cfcf9060-d2b2-409e-8aea-6db6a9f302e8")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/a447d650-a6a1-4e94-877c-1983926f3f92")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 1.25 -1)
@@ -27173,6 +28031,9 @@
 				)
 			)
 		)
+		(path "/cf21d5b5-aacc-4d49-9625-80c1746fa0db")
+		(sheetname "Okapi_2")
+		(sheetfile "Okapi_2.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.245 0.224)
@@ -27339,6 +28200,9 @@
 				)
 			)
 		)
+		(path "/93cbab54-c899-412b-8fc5-80a89f26427c")
+		(sheetname "Okapi_3")
+		(sheetfile "Okapi_3.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.245 0.224)
@@ -27504,6 +28368,9 @@
 				)
 			)
 		)
+		(path "/d94c95fb-188e-48a4-8a2b-7cbed4d42dc8")
+		(sheetname "Okapi_5")
+		(sheetfile "Okapi_5.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 1.25 -1.25)
@@ -27673,6 +28540,9 @@
 				)
 			)
 		)
+		(path "/69afb946-6592-4ce3-a357-b34dddeae8a6")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.381 -0.66)
@@ -27839,6 +28709,45 @@
 				)
 			)
 		)
+		(property "DIGIKEY" "478-5408-1-ND"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "07e6abaa-2791-4141-b83a-dd17a76d7384")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MF" "AVX"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f58fb9d2-bd18-4a5e-91eb-50f0cc1b07d0")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "TPSY227K010R0100"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a3a4eda0-2620-4493-9ca7-2785f78d8e7b")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/7a1b9816-25a3-4fe3-9a83-8723e71b86de")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -3.65 -2.15)
@@ -27961,6 +28870,9 @@
 				)
 			)
 		)
+		(path "/4afcc0cf-6840-4ae2-8093-69042a533548")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.245 0.224)
@@ -28126,6 +29038,9 @@
 				)
 			)
 		)
+		(path "/0119de58-2840-47ee-a5e9-ff72855b9d74")
+		(sheetname "Okapi_4")
+		(sheetfile "Okapi_4.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.85 0.6)
@@ -28296,6 +29211,9 @@
 				)
 			)
 		)
+		(path "/ec0f10f8-4b58-4f39-b325-67b15984104d")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 1.27 1.016)
@@ -28470,6 +29388,9 @@
 				)
 			)
 		)
+		(path "/f59f435e-80e5-4e1a-acd6-6e056c23db88")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.432 0.356)
@@ -28602,7 +29523,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "R-EU_R0805"
 			(at 0 1.397 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -28636,6 +29557,9 @@
 				)
 			)
 		)
+		(path "/151f73b6-501b-47fb-b2b2-f9c3af425976")
+		(sheetname "Okapi_3")
+		(sheetfile "Okapi_3.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.41 -0.635)
@@ -28802,6 +29726,9 @@
 				)
 			)
 		)
+		(path "/0791298c-3d9c-4566-b228-b6d5ddf47bc9")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.381 -0.66)
@@ -28968,6 +29895,9 @@
 				)
 			)
 		)
+		(path "/b967bebe-bcb5-4862-9721-a01750a87d80")
+		(sheetname "Okapi_6")
+		(sheetfile "Okapi_6.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.245 0.224)
@@ -29133,6 +30063,9 @@
 				)
 			)
 		)
+		(path "/aa3dce96-e9b2-48d9-8ce7-a29d53b44d64")
+		(sheetname "Okapi_6")
+		(sheetfile "Okapi_6.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 2.3 1.6)
@@ -29259,6 +30192,9 @@
 				)
 			)
 		)
+		(path "/a1db00c8-0707-430f-bba0-53a4d4c3b484")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.432 0.356)
@@ -29391,7 +30327,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "DIODEDO-214AC"
 			(at -0.1 1.54 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -29425,6 +30361,45 @@
 				)
 			)
 		)
+		(property "DIGIKEY" "CMSH3-40MATR13CT-ND"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f7b466bd-4f28-49c8-990c-e19cb4f03cb6")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MF" "Central Semiconductor"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bbbee0f0-74d0-49a0-ac50-127df9ac0f8e")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "CMSH3-40MA TR13"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "77740b71-8e93-4e45-8832-c94728fcc183")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/f4f965a4-2e24-4ed3-97c3-b81d4f6b9e54")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -2.3 0.95)
@@ -29600,6 +30575,9 @@
 				)
 			)
 		)
+		(path "/b9093730-6814-454d-bcfe-cfa70c29c5aa")
+		(sheetname "Okapi_3")
+		(sheetfile "Okapi_3.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.8 0.4)
@@ -29717,7 +30695,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "CONN_022.54_SCREW"
 			(at -2.54 4.064 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -29752,6 +30730,9 @@
 				)
 			)
 		)
+		(path "/103ae7f2-ce53-4f51-b720-f9ccfb6f9aef")
+		(sheetname "Okapi_3")
+		(sheetfile "Okapi_3.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -2.77 -3.3)
@@ -29895,6 +30876,9 @@
 				)
 			)
 		)
+		(path "/f9f98b59-55cc-49bd-b286-a7af8cd7a31e")
+		(sheetname "Okapi_2")
+		(sheetfile "Okapi_2.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_poly
 			(pts
@@ -30830,6 +31814,9 @@
 				)
 			)
 		)
+		(path "/1a7158a8-820f-4b30-8197-72efb374a864")
+		(sheetname "Okapi_3")
+		(sheetfile "Okapi_3.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 2.3 -1.6)
@@ -30958,6 +31945,9 @@
 				)
 			)
 		)
+		(path "/fbfe0b5c-284d-4558-91c5-fddc82db0de6")
+		(sheetname "Okapi_3")
+		(sheetfile "Okapi_3.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -5.31 3.3)
@@ -31172,6 +32162,9 @@
 				)
 			)
 		)
+		(path "/a8b83ff5-511e-45e5-be0a-17983e4b3e97")
+		(sheetname "Okapi_4")
+		(sheetfile "Okapi_4.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.95 -0.8875)
@@ -31566,6 +32559,9 @@
 				)
 			)
 		)
+		(path "/79466290-e3f6-43b0-b383-62099850ba2a")
+		(sheetname "Okapi_2")
+		(sheetfile "Okapi_2.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.245 -0.224)
@@ -31732,6 +32728,9 @@
 				)
 			)
 		)
+		(path "/6308a1bb-9e7d-422d-b711-069f07c40435")
+		(sheetname "Okapi_3")
+		(sheetfile "Okapi_3.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.245 -0.224)
@@ -31898,6 +32897,33 @@
 				)
 			)
 		)
+		(property "DIGIKEY" "311-330HRCT-ND"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d31e26ce-360e-4895-b5bd-e38ef6406d14")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "RC0603FR-07330RL"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "eaa786c0-2cf0-4e65-890a-07cfc5bee328")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/b167145a-1de4-4dc5-bdeb-26447d965a35")
+		(sheetname "Okapi_2")
+		(sheetfile "Okapi_2.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.245 -0.224)
@@ -32064,6 +33090,9 @@
 				)
 			)
 		)
+		(path "/b31a2daa-dc44-42c6-8ebf-87008b664192")
+		(sheetname "Okapi_6")
+		(sheetfile "Okapi_6.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.245 0.224)
@@ -32229,6 +33258,45 @@
 				)
 			)
 		)
+		(property "DIGIKEY" "732-5491-1-ND"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "44fe6911-bd77-4cef-8cb8-ccdb5d3f73aa")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MF" "Wurth"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "94b7a6ec-e4a7-45af-be75-45ab187c3db4")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "74404032010"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "65d48a96-f61b-413e-87ea-804b481741f3")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/cc09dcb3-c817-425b-b7e4-8b5e2eb814d9")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 1.5 -1.5)
@@ -32339,6 +33407,9 @@
 				)
 			)
 		)
+		(path "/89cc537c-7ed1-4950-bee8-8ce075a15ffc")
+		(sheetname "Okapi_2")
+		(sheetfile "Okapi_2.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.975 0.6)
@@ -32545,6 +33616,9 @@
 				)
 			)
 		)
+		(path "/dc8deef5-8517-4c34-8763-57c04298e1cb")
+		(sheetname "Okapi_2")
+		(sheetfile "Okapi_2.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.245 0.224)
@@ -32713,6 +33787,9 @@
 				)
 			)
 		)
+		(path "/23c17b55-d6a2-4574-9245-5324322a2352")
+		(sheetname "Okapi_3")
+		(sheetfile "Okapi_3.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 15 42)
@@ -33563,6 +34640,9 @@
 				)
 			)
 		)
+		(path "/e37eda2b-9aec-4492-916e-90e6d22b0bda")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.381 -0.66)
@@ -33696,7 +34776,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "CONN_022.54_SCREW"
 			(at -2.54 4.064 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -33731,6 +34811,9 @@
 				)
 			)
 		)
+		(path "/514816fa-2830-4344-ae85-f4f0ec65cb90")
+		(sheetname "Okapi_3")
+		(sheetfile "Okapi_3.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -2.77 -3.3)
@@ -33874,6 +34957,9 @@
 				)
 			)
 		)
+		(path "/35aa1585-9885-4c12-894b-1e9cb9cde1c4")
+		(sheetname "Okapi_2")
+		(sheetfile "Okapi_2.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_poly
 			(pts
@@ -34810,6 +35896,9 @@
 				)
 			)
 		)
+		(path "/c38c3b2a-7048-44a2-a0f4-4d599a1b0859")
+		(sheetname "Okapi_5")
+		(sheetfile "Okapi_5.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.245 0.224)
@@ -34976,6 +36065,9 @@
 				)
 			)
 		)
+		(path "/b014ac61-43ee-42e2-9e88-82a6582613fb")
+		(sheetname "Okapi_4")
+		(sheetfile "Okapi_4.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.245 0.224)
@@ -35142,6 +36234,9 @@
 				)
 			)
 		)
+		(path "/11b72d56-6312-4afe-91c1-497c03a47e8e")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.245 0.224)
@@ -35307,6 +36402,9 @@
 				)
 			)
 		)
+		(path "/f42e9b64-dcda-4126-8500-b93f66dbb7d2")
+		(sheetname "Okapi_2")
+		(sheetfile "Okapi_2.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.725 -0.525)
@@ -35476,6 +36574,9 @@
 				)
 			)
 		)
+		(path "/4a58b4d2-4587-4c4f-8271-bd804728a8aa")
+		(sheetname "Okapi_5")
+		(sheetfile "Okapi_5.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.245 -0.224)
@@ -35641,6 +36742,9 @@
 				)
 			)
 		)
+		(path "/f35c3672-4800-497b-82d0-73be4f9758da")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1 0.625)
@@ -35759,7 +36863,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "R-EU_R0402"
 			(at 0 1.016 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -35793,6 +36897,9 @@
 				)
 			)
 		)
+		(path "/d6179ebf-e1f0-494f-b882-d4f08e6adf53")
+		(sheetname "Okapi_2")
+		(sheetfile "Okapi_2.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.245 0.224)
@@ -35959,6 +37066,9 @@
 				)
 			)
 		)
+		(path "/eb1c93bb-1ac1-4b22-a0fd-b2c7b4547aa4")
+		(sheetname "Okapi_5")
+		(sheetfile "Okapi_5.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.245 0.224)
@@ -36125,6 +37235,9 @@
 				)
 			)
 		)
+		(path "/52b6dcdb-6fba-4a80-bd99-245510627a63")
+		(sheetname "Okapi_3")
+		(sheetfile "Okapi_3.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.245 -0.224)
@@ -36293,6 +37406,9 @@
 				)
 			)
 		)
+		(path "/ef58ea2d-16e6-4b38-8c14-7d8ef32127c7")
+		(sheetname "Okapi_5")
+		(sheetfile "Okapi_5.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -2.7178 -1.4526)
@@ -36624,6 +37740,9 @@
 				)
 			)
 		)
+		(path "/c16fba76-e709-4b97-95a9-e71d9bbf3ec4")
+		(sheetname "Okapi_3")
+		(sheetfile "Okapi_3.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.245 -0.224)
@@ -36757,7 +37876,7 @@
 				(justify right top)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "CONN_102.54_SCREW"
 			(at -7.62 4.191 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -36792,6 +37911,9 @@
 				)
 			)
 		)
+		(path "/1cb412b0-58ca-4499-b489-1ca41275afd0")
+		(sheetname "Okapi_3")
+		(sheetfile "Okapi_3.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -12.93 3.2)
@@ -37136,6 +38258,9 @@
 				)
 			)
 		)
+		(path "/1625aa03-81bc-4244-b484-8aea8bcb654c")
+		(sheetname "Okapi_2")
+		(sheetfile "Okapi_2.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.245 -0.224)
@@ -37268,7 +38393,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "DIODESOD-323"
 			(at 0 1.284 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -37302,6 +38427,45 @@
 				)
 			)
 		)
+		(property "DIGIKEY" "CMDSH2-3CT-ND"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "807b78e6-d9c5-498f-bee0-ee9f95239f0d")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MF" "Central Semiconductor"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c60ace3e-3da0-407a-9a8f-89e43186a9e3")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "CMDSH2-3 TR"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d149c5c1-99c4-438d-b4f6-2572ec8b821d")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/c680cd5a-86ae-44ea-899c-bd6291670cf6")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1 -0.7)
@@ -37454,6 +38618,9 @@
 				)
 			)
 		)
+		(path "/8a695537-4338-428a-80c4-1ea37215f76c")
+		(sheetname "Okapi_5")
+		(sheetfile "Okapi_5.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.245 0.224)
@@ -37620,6 +38787,9 @@
 				)
 			)
 		)
+		(path "/a6424051-b631-42b9-9ba2-c7fe4dd3f191")
+		(sheetname "Okapi_5")
+		(sheetfile "Okapi_5.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.245 -0.224)
@@ -37786,6 +38956,9 @@
 				)
 			)
 		)
+		(path "/fe1c1cad-1837-44d0-97ac-f8662ba45e79")
+		(sheetname "Okapi_6")
+		(sheetfile "Okapi_6.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.245 -0.224)
@@ -37952,6 +39125,9 @@
 				)
 			)
 		)
+		(path "/ac252d19-6d11-471e-86ea-38c2a8b72726")
+		(sheetname "Okapi_3")
+		(sheetfile "Okapi_3.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.245 -0.224)
@@ -38117,6 +39293,9 @@
 				)
 			)
 		)
+		(path "/dfbf4b2d-b5fb-4f37-a5eb-a4b6d6af1216")
+		(sheetname "Okapi_4")
+		(sheetfile "Okapi_4.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 1.75 -1.75)
@@ -38388,6 +39567,9 @@
 				)
 			)
 		)
+		(path "/284db35e-303b-4b3a-b0d1-5af6fa2c70e0")
+		(sheetname "Okapi_2")
+		(sheetfile "Okapi_2.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 1.5 1.5)
@@ -38556,6 +39738,9 @@
 				)
 			)
 		)
+		(path "/9d842955-87bd-42d1-9148-68d797091ea9")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.245 -0.224)
@@ -38722,6 +39907,9 @@
 				)
 			)
 		)
+		(path "/16c29590-bb53-4453-a22b-eac8f2a78ed1")
+		(sheetname "Okapi_4")
+		(sheetfile "Okapi_4.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.245 0.224)
@@ -38887,6 +40075,9 @@
 				)
 			)
 		)
+		(path "/f8f7540c-9f84-4b28-ae2d-3096f63dc34e")
+		(sheetname "Okapi_3")
+		(sheetfile "Okapi_3.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.8 -0.4)
@@ -39037,6 +40228,9 @@
 				)
 			)
 		)
+		(path "/2f0cf6cf-85d7-4b7a-b110-8fd89851b07c")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.245 0.224)
@@ -39203,6 +40397,9 @@
 				)
 			)
 		)
+		(path "/503a4636-1484-4811-9b34-767ae26aa25e")
+		(sheetname "Okapi_5")
+		(sheetfile "Okapi_5.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.245 -0.224)
@@ -39369,6 +40566,9 @@
 				)
 			)
 		)
+		(path "/3205d82c-cf73-44ea-99b4-157f0613d059")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.356 -0.40025)
@@ -39535,6 +40735,9 @@
 				)
 			)
 		)
+		(path "/24c59ff9-71e1-4ae5-b6c5-eec6dd05ce99")
+		(sheetname "Okapi_3")
+		(sheetfile "Okapi_3.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.245 -0.224)
@@ -39701,6 +40904,9 @@
 				)
 			)
 		)
+		(path "/ce9f839a-7198-49eb-97e9-3232a333cae8")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.432 0.356)
@@ -39866,6 +41072,45 @@
 				)
 			)
 		)
+		(property "DIGIKEY" "732-10707-1-ND"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "22ff5d52-6265-48b0-a6d4-2cfc56877af8")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MF" "Wurth"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "34890e14-68a5-48bd-b6cc-de068fb6b509")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "74439346100"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "750bd227-e9fc-49a9-989c-053aef15e79e")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/795ae58f-04a3-4f6c-947e-e6a6f32dc7c3")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 3.225 -3.325)
@@ -39975,6 +41220,9 @@
 				)
 			)
 		)
+		(path "/89f1082c-f196-4eb4-8642-bdc48bbea5bd")
+		(sheetname "Okapi_4")
+		(sheetfile "Okapi_4.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.85 -0.65)
@@ -40128,6 +41376,9 @@
 				)
 			)
 		)
+		(path "/5737fbbc-3204-4feb-9dfd-82089f102cd7")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.432 -0.356)
@@ -40294,6 +41545,9 @@
 				)
 			)
 		)
+		(path "/7092f581-d2e1-4fd7-8799-1d6f4dca7130")
+		(sheetname "Okapi_2")
+		(sheetfile "Okapi_2.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.5 -1.5)
@@ -40463,6 +41717,9 @@
 				)
 			)
 		)
+		(path "/8bac833b-d6f0-43ea-8293-d607b6849beb")
+		(sheetname "Okapi_3")
+		(sheetfile "Okapi_3.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 1.1224 -0.6604)
@@ -40581,6 +41838,9 @@
 				)
 			)
 		)
+		(path "/e1ba752a-a064-403e-a3ac-2c78f65710bf")
+		(sheetname "Okapi_5")
+		(sheetfile "Okapi_5.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.245 -0.224)
@@ -40747,6 +42007,9 @@
 				)
 			)
 		)
+		(path "/3137b5dd-13d8-40ac-a294-9b770c65e0ff")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.245 0.224)
@@ -40913,6 +42176,9 @@
 				)
 			)
 		)
+		(path "/83707fcc-8a40-4bdb-9e64-b64816306885")
+		(sheetname "Okapi_2")
+		(sheetfile "Okapi_2.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.245 -0.224)
@@ -41079,6 +42345,9 @@
 				)
 			)
 		)
+		(path "/2faf8386-9741-47ef-879d-d0eb0298e0a9")
+		(sheetname "Okapi_2")
+		(sheetfile "Okapi_2.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.245 -0.224)
@@ -41245,6 +42514,9 @@
 				)
 			)
 		)
+		(path "/3e577cfe-b9ee-4817-a69f-bf4310f23af5")
+		(sheetname "Okapi_3")
+		(sheetfile "Okapi_3.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.245 -0.224)
@@ -41378,7 +42650,7 @@
 				(justify top)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "LM4040"
 			(at 1.651 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -41413,6 +42685,9 @@
 				)
 			)
 		)
+		(path "/9fcff8a2-37d2-491a-be97-0501a1c81e62")
+		(sheetname "Okapi_5")
+		(sheetfile "Okapi_5.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 1.4224 -0.6604)
@@ -41530,6 +42805,9 @@
 				)
 			)
 		)
+		(path "/c738fcce-7001-401a-98aa-9878d08a3c0a")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.432 -0.356)
@@ -41696,6 +42974,21 @@
 				)
 			)
 		)
+		(property "DIGIKEY" "311-10.0KHRCT-ND"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1e927a6c-c019-4941-9f42-828e84ba0c0d")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/3818fd28-21c0-47c1-a9ca-d4f468a7d2e8")
+		(sheetname "Okapi_6")
+		(sheetfile "Okapi_6.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.245 0.224)
@@ -41862,6 +43155,9 @@
 				)
 			)
 		)
+		(path "/26fd13ae-0926-4682-848f-fd7ac06e2461")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.245 -0.224)
@@ -42027,6 +43323,9 @@
 				)
 			)
 		)
+		(path "/f1f2d163-9e85-43c6-bebe-7ca407ac3bda")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.45 -0.8)
@@ -42180,6 +43479,9 @@
 				)
 			)
 		)
+		(path "/de782090-5024-4cae-93c2-4117707ab5d6")
+		(sheetname "Okapi_2")
+		(sheetfile "Okapi_2.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.356 0.66)
@@ -42346,6 +43648,9 @@
 				)
 			)
 		)
+		(path "/5ac8bf61-e190-4ff6-802f-3d3036c6410c")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.381 -0.66)
@@ -42512,6 +43817,9 @@
 				)
 			)
 		)
+		(path "/0494ead7-1c3c-4e3e-8eed-98965925e805")
+		(sheetname "Okapi_2")
+		(sheetfile "Okapi_2.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.245 0.224)
@@ -42680,6 +43988,9 @@
 				)
 			)
 		)
+		(path "/81c6880c-1b2c-4c0d-8a59-2d94a1a05a2c")
+		(sheetname "Okapi_3")
+		(sheetfile "Okapi_3.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 2.3368 -1.9463)
@@ -43013,6 +44324,9 @@
 				)
 			)
 		)
+		(path "/fcefe885-15b8-4e2e-add6-0a5ea03bff4d")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.245 -0.224)
@@ -43179,6 +44493,9 @@
 				)
 			)
 		)
+		(path "/073aacb5-ab52-4420-a761-bd06c3ab1b27")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.432 0.356)
@@ -43344,6 +44661,9 @@
 				)
 			)
 		)
+		(path "/eecbc2e2-fe28-4848-bf1a-7b105c58951f")
+		(sheetname "Okapi_2")
+		(sheetfile "Okapi_2.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 1.6 1.4)
@@ -43489,6 +44809,9 @@
 				)
 			)
 		)
+		(path "/0cc22b3a-8ef1-4d16-8944-b5760b7851c9")
+		(sheetname "Okapi_4")
+		(sheetfile "Okapi_4.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 1.75 -1.75)
@@ -43760,6 +45083,9 @@
 				)
 			)
 		)
+		(path "/60c706d5-b29f-4e35-b792-80c21c511f91")
+		(sheetname "Okapi_5")
+		(sheetfile "Okapi_5.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.381 -0.66)
@@ -43926,6 +45252,9 @@
 				)
 			)
 		)
+		(path "/2ccc205f-6629-44af-aeea-abc7a6d5a910")
+		(sheetname "Okapi_2")
+		(sheetfile "Okapi_2.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.5 -1.5)
@@ -44094,6 +45423,9 @@
 				)
 			)
 		)
+		(path "/1f9ee5e3-8154-4fea-91b3-603575e4c70e")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.432 -0.356)
@@ -44259,6 +45591,9 @@
 				)
 			)
 		)
+		(path "/554939a8-64bb-4baa-9a43-b8733f5a43fb")
+		(sheetname "Okapi_3")
+		(sheetfile "Okapi_3.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.8 -0.4)
@@ -44408,6 +45743,9 @@
 				)
 			)
 		)
+		(path "/fc56ebd6-5372-4706-8a56-a116a3399a6d")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.75 -0.75)
@@ -44577,6 +45915,21 @@
 				)
 			)
 		)
+		(property "DIGIKEY" "311-10.0KHRCT-ND"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8e0c69dc-0280-49a7-80ce-5eb2cad7280c")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/f67947ed-21f7-449f-847b-f11be47b342e")
+		(sheetname "Okapi_3")
+		(sheetfile "Okapi_3.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.245 -0.224)
@@ -44743,6 +46096,9 @@
 				)
 			)
 		)
+		(path "/deea3345-7208-41c0-92f7-44113d0e6468")
+		(sheetname "Okapi_5")
+		(sheetfile "Okapi_5.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -2 2)
@@ -45043,6 +46399,9 @@
 				)
 			)
 		)
+		(path "/40804015-37f6-4615-a26d-746ac193460c")
+		(sheetname "Okapi_3")
+		(sheetfile "Okapi_3.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.8 -0.4)
@@ -45160,7 +46519,7 @@
 				(justify bottom)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "PPTC1.5A"
 			(at 0 1.143 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -45195,6 +46554,9 @@
 				)
 			)
 		)
+		(path "/df7cea93-e30f-4c8e-80aa-116ffb102c3b")
+		(sheetname "Okapi_2")
+		(sheetfile "Okapi_2.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.965 -0.787)
@@ -45361,6 +46723,9 @@
 				)
 			)
 		)
+		(path "/c8439b30-fc45-481a-a389-0ad8c202bfc9")
+		(sheetname "Okapi_2")
+		(sheetfile "Okapi_2.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.356 0.66)
@@ -45526,6 +46891,9 @@
 				)
 			)
 		)
+		(path "/f5756950-1311-4eb4-8d8a-e71eec76cf1b")
+		(sheetname "Okapi_3")
+		(sheetfile "Okapi_3.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -2.3 -1.6)
@@ -45652,6 +47020,9 @@
 				)
 			)
 		)
+		(path "/bf09d4ff-4da4-4a52-95bb-d64f0c55e000")
+		(sheetname "Okapi_2")
+		(sheetfile "Okapi_2.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.245 -0.224)
@@ -45784,7 +47155,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "R-EU_R0402"
 			(at 0 1.016 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -45818,6 +47189,9 @@
 				)
 			)
 		)
+		(path "/7df1cfae-bf72-4b84-9a32-2d556b09b9c8")
+		(sheetname "Okapi_3")
+		(sheetfile "Okapi_3.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.245 0.224)
@@ -45984,6 +47358,9 @@
 				)
 			)
 		)
+		(path "/635417de-2941-4c59-be3e-e0f9e03c91c5")
+		(sheetname "Okapi_4")
+		(sheetfile "Okapi_4.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.245 -0.224)
@@ -46150,6 +47527,9 @@
 				)
 			)
 		)
+		(path "/92c75951-2d23-4dad-8919-8935d6e12f37")
+		(sheetname "Okapi_5")
+		(sheetfile "Okapi_5.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.432 0.356)
@@ -46316,6 +47696,45 @@
 				)
 			)
 		)
+		(property "DIGIKEY" "1276-6524-1-ND"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dc3986e9-a93f-4867-bb13-1e3c2e093197")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MF" "Samsung"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "301e2905-ec62-4531-a4d0-8f07c5297150")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "CL10B105MO8NNWC"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d14946a0-ac9f-4489-a482-7c77a2a825a9")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/2ad873e2-4137-425b-8529-2ba64d405949")
+		(sheetname "Okapi_6")
+		(sheetfile "Okapi_6.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.245 0.224)
@@ -46482,6 +47901,9 @@
 				)
 			)
 		)
+		(path "/69370d93-dc71-4b57-845c-f63c11baf7dc")
+		(sheetname "Okapi_2")
+		(sheetfile "Okapi_2.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.245 -0.224)
@@ -46614,7 +48036,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "R-EU_R0402"
 			(at 0 1.016 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -46648,6 +48070,9 @@
 				)
 			)
 		)
+		(path "/e6615e88-982f-4e3d-9b88-f32a347d1e5e")
+		(sheetname "Okapi_3")
+		(sheetfile "Okapi_3.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.245 -0.224)
@@ -46814,6 +48239,45 @@
 				)
 			)
 		)
+		(property "DIGIKEY" "P19888CT-ND"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dc1aabac-5457-43e8-b4d8-d8abc2294e4e")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MF" "Panasonic "
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a651c5a4-5ef7-4460-b9cc-7c2302757dc7")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "EVP-BB2A9B000"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2c498665-6ba0-4180-a3ad-9c642d7e5eb1")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/8b3774a2-bbbc-4f90-946c-004ef9878116")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 1.3 -0.8)
@@ -46984,6 +48448,9 @@
 				(justify mirror)
 			)
 		)
+		(path "/d54d512c-132b-460a-867f-99b17ca2e37e")
+		(sheetname "Okapi_2")
+		(sheetfile "Okapi_2.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.8636 -1.016)
@@ -47141,6 +48608,9 @@
 				(justify mirror)
 			)
 		)
+		(path "/b4da9338-a392-463e-b9ef-c247e2148634")
+		(sheetname "Okapi_5")
+		(sheetfile "Okapi_5.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 1.1176 -0.762)
@@ -47298,6 +48768,9 @@
 				(justify mirror)
 			)
 		)
+		(path "/8890f210-ac03-497a-80a5-01bd992db888")
+		(sheetname "Okapi_3")
+		(sheetfile "Okapi_3.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.8636 1.016)
@@ -47455,6 +48928,9 @@
 				(justify mirror)
 			)
 		)
+		(path "/6a9ba0cc-7e25-4fef-8f8b-357d2735ad74")
+		(sheetname "Okapi_2")
+		(sheetfile "Okapi_2.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.8636 -1.016)
@@ -47612,6 +49088,9 @@
 				(justify mirror)
 			)
 		)
+		(path "/5a24ab25-ede3-4296-bec2-17e1d2cae49a")
+		(sheetname "Okapi_2")
+		(sheetfile "Okapi_2.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.8636 1.016)
@@ -47994,6 +49473,9 @@
 				(justify mirror)
 			)
 		)
+		(path "/6e50ba49-a97e-4109-be28-4e361e3657e4")
+		(sheetname "Okapi_2")
+		(sheetfile "Okapi_2.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.8636 -1.016)
@@ -48151,6 +49633,9 @@
 				(justify mirror)
 			)
 		)
+		(path "/daabcb3c-eb66-4c63-b0b6-22e79b3dc285")
+		(sheetname "Okapi_5")
+		(sheetfile "Okapi_5.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.1176 -0.762)
