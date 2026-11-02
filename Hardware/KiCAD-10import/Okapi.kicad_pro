@@ -645,64 +645,14 @@
     "top_level_sheets": [
       {
         "filename": "Okapi.kicad_sch",
-        "name": "Okapi_1",
-        "uuid": "e97a07b4-6e34-4248-9322-0f85acbe01a2"
-      },
-      {
-        "filename": "Okapi_2.kicad_sch",
-        "name": "Okapi_2",
-        "uuid": "3dd31293-6ae3-4f66-8627-1be24cd6852a"
-      },
-      {
-        "filename": "Okapi_3.kicad_sch",
-        "name": "Okapi_3",
-        "uuid": "10aba3ee-909a-48aa-939c-0ed2f35ae808"
-      },
-      {
-        "filename": "Okapi_4.kicad_sch",
-        "name": "Okapi_4",
-        "uuid": "8331c974-22ad-4a6a-83dd-312978a20592"
-      },
-      {
-        "filename": "Okapi_5.kicad_sch",
-        "name": "Okapi_5",
-        "uuid": "47186d55-53e9-458c-b6b0-10c5128248cd"
-      },
-      {
-        "filename": "Okapi_6.kicad_sch",
-        "name": "Okapi_6",
-        "uuid": "954c922c-2bc9-4190-8430-6ded24571977"
+        "name": "Okapi",
+        "uuid": "1ee451ae-bb3e-4642-885f-a7d8b2e03084"
       }
     ],
     "used_designators": "",
     "variants": []
   },
-  "sheets": [
-    [
-      "e97a07b4-6e34-4248-9322-0f85acbe01a2",
-      "Okapi_1"
-    ],
-    [
-      "3dd31293-6ae3-4f66-8627-1be24cd6852a",
-      "Okapi_2"
-    ],
-    [
-      "10aba3ee-909a-48aa-939c-0ed2f35ae808",
-      "Okapi_3"
-    ],
-    [
-      "8331c974-22ad-4a6a-83dd-312978a20592",
-      "Okapi_4"
-    ],
-    [
-      "47186d55-53e9-458c-b6b0-10c5128248cd",
-      "Okapi_5"
-    ],
-    [
-      "954c922c-2bc9-4190-8430-6ded24571977",
-      "Okapi_6"
-    ]
-  ],
+  "sheets": [],
   "text_variables": {},
   "tuning_profiles": {
     "meta": {

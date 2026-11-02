@@ -5482,14 +5482,6 @@
 		(pin "1"
 			(uuid "51a28a33-c966-420a-95a9-e49330ab54d2")
 		)
-		(instances
-			(project "Okapi"
-				(path "/8331c974-22ad-4a6a-83dd-312978a20592"
-					(reference "#GND77")
-					(unit 1)
-				)
-			)
-		)
 	)
 	(symbol
 		(lib_id "Okapi-eagle-import:TXS0102DQM")
@@ -5582,14 +5574,6 @@
 		(pin "8"
 			(uuid "fe1e1200-cc9b-4080-82ae-c17c0e8f1783")
 		)
-		(instances
-			(project "Okapi"
-				(path "/8331c974-22ad-4a6a-83dd-312978a20592"
-					(reference "U26")
-					(unit 1)
-				)
-			)
-		)
 	)
 	(symbol
 		(lib_id "Okapi-eagle-import:supply1_371_GND")
@@ -5659,14 +5643,6 @@
 		)
 		(pin "1"
 			(uuid "3796a0b2-3bf9-49e5-a5fb-41a684eacb28")
-		)
-		(instances
-			(project "Okapi"
-				(path "/8331c974-22ad-4a6a-83dd-312978a20592"
-					(reference "#GND47")
-					(unit 1)
-				)
-			)
 		)
 	)
 	(symbol
@@ -5775,14 +5751,6 @@
 		(pin "EP"
 			(uuid "7b2a5d01-787f-46d1-9f10-01c52ee632d7")
 		)
-		(instances
-			(project "Okapi"
-				(path "/8331c974-22ad-4a6a-83dd-312978a20592"
-					(reference "U27")
-					(unit 1)
-				)
-			)
-		)
 	)
 	(symbol
 		(lib_id "Okapi-eagle-import:C-EUC0402")
@@ -5855,14 +5823,6 @@
 		)
 		(pin "2"
 			(uuid "1365e782-22d3-4789-bfbd-d21965652491")
-		)
-		(instances
-			(project "Okapi"
-				(path "/8331c974-22ad-4a6a-83dd-312978a20592"
-					(reference "C26")
-					(unit 1)
-				)
-			)
 		)
 	)
 	(symbol
@@ -5937,14 +5897,6 @@
 		(pin "2"
 			(uuid "feb2a837-319e-486b-9ce9-37693f3352d7")
 		)
-		(instances
-			(project "Okapi"
-				(path "/8331c974-22ad-4a6a-83dd-312978a20592"
-					(reference "C28")
-					(unit 1)
-				)
-			)
-		)
 	)
 	(symbol
 		(lib_id "Okapi-eagle-import:supply1_371_GND")
@@ -6014,14 +5966,6 @@
 		)
 		(pin "1"
 			(uuid "14bc940b-c373-46a5-bfc3-7bbd34ec7111")
-		)
-		(instances
-			(project "Okapi"
-				(path "/8331c974-22ad-4a6a-83dd-312978a20592"
-					(reference "#GND48")
-					(unit 1)
-				)
-			)
 		)
 	)
 	(symbol
@@ -6113,14 +6057,6 @@
 		(pin "8"
 			(uuid "f97fda48-a5c3-42ab-9707-9f0ca726a470")
 		)
-		(instances
-			(project "Okapi"
-				(path "/8331c974-22ad-4a6a-83dd-312978a20592"
-					(reference "U25")
-					(unit 1)
-				)
-			)
-		)
 	)
 	(symbol
 		(lib_id "Okapi-eagle-import:supply1_371_GND")
@@ -6190,14 +6126,6 @@
 		)
 		(pin "1"
 			(uuid "fa51fde9-166d-4d63-a093-90e1e5c62e7a")
-		)
-		(instances
-			(project "Okapi"
-				(path "/8331c974-22ad-4a6a-83dd-312978a20592"
-					(reference "#GND50")
-					(unit 1)
-				)
-			)
 		)
 	)
 	(symbol
@@ -6272,14 +6200,6 @@
 		(pin "2"
 			(uuid "f1e6cda9-325b-4201-a27f-fe2e2a9f551d")
 		)
-		(instances
-			(project "Okapi"
-				(path "/8331c974-22ad-4a6a-83dd-312978a20592"
-					(reference "C37")
-					(unit 1)
-				)
-			)
-		)
 	)
 	(symbol
 		(lib_id "Okapi-eagle-import:supply1_371_GND")
@@ -6349,14 +6269,6 @@
 		)
 		(pin "1"
 			(uuid "5d9a13a1-5e4d-4901-a14e-54b6cc618940")
-		)
-		(instances
-			(project "Okapi"
-				(path "/8331c974-22ad-4a6a-83dd-312978a20592"
-					(reference "#GND52")
-					(unit 1)
-				)
-			)
 		)
 	)
 	(symbol
@@ -6450,14 +6362,6 @@
 		(pin "8"
 			(uuid "c9fd5267-044d-4ae4-8574-203066eff8a5")
 		)
-		(instances
-			(project "Okapi"
-				(path "/8331c974-22ad-4a6a-83dd-312978a20592"
-					(reference "U28")
-					(unit 1)
-				)
-			)
-		)
 	)
 	(symbol
 		(lib_id "Okapi-eagle-import:supply1_371_GND")
@@ -6527,14 +6431,6 @@
 		)
 		(pin "1"
 			(uuid "9ef4f930-6c21-4f67-9c65-960cf23e0984")
-		)
-		(instances
-			(project "Okapi"
-				(path "/8331c974-22ad-4a6a-83dd-312978a20592"
-					(reference "#GND49")
-					(unit 1)
-				)
-			)
 		)
 	)
 	(symbol
@@ -6609,14 +6505,6 @@
 		(pin "2"
 			(uuid "c8e5aea0-f8f7-48d2-a20c-19e4fbdbe571")
 		)
-		(instances
-			(project "Okapi"
-				(path "/8331c974-22ad-4a6a-83dd-312978a20592"
-					(reference "R46")
-					(unit 1)
-				)
-			)
-		)
 	)
 	(symbol
 		(lib_id "Okapi-eagle-import:supply1_371_GND")
@@ -6687,14 +6575,6 @@
 		(pin "1"
 			(uuid "f18ffbf1-a1c0-4305-b376-b9a8fdddfa4a")
 		)
-		(instances
-			(project "Okapi"
-				(path "/8331c974-22ad-4a6a-83dd-312978a20592"
-					(reference "#GND65")
-					(unit 1)
-				)
-			)
-		)
 	)
 	(symbol
 		(lib_id "Okapi-eagle-import:supply1_371_GND")
@@ -6764,14 +6644,6 @@
 		)
 		(pin "1"
 			(uuid "bce6d4be-2961-4949-ae25-3ddf540cf5e6")
-		)
-		(instances
-			(project "Okapi"
-				(path "/8331c974-22ad-4a6a-83dd-312978a20592"
-					(reference "#GND53")
-					(unit 1)
-				)
-			)
 		)
 	)
 	(symbol
@@ -6845,14 +6717,6 @@
 		)
 		(pin "2"
 			(uuid "7ca9760d-4140-484f-938a-d0d04a0ae978")
-		)
-		(instances
-			(project "Okapi"
-				(path "/8331c974-22ad-4a6a-83dd-312978a20592"
-					(reference "C45")
-					(unit 1)
-				)
-			)
 		)
 	)
 	(symbol
@@ -6961,14 +6825,6 @@
 		(pin "EP"
 			(uuid "32ffeaa2-8e90-4d77-b338-6005996459d2")
 		)
-		(instances
-			(project "Okapi"
-				(path "/8331c974-22ad-4a6a-83dd-312978a20592"
-					(reference "U42")
-					(unit 1)
-				)
-			)
-		)
 	)
 	(symbol
 		(lib_id "Okapi-eagle-import:SN74LVC1G3157DRL")
@@ -7053,14 +6909,6 @@
 		(pin "6"
 			(uuid "27fcc861-a714-4414-9461-285255853a70")
 		)
-		(instances
-			(project "Okapi"
-				(path "/8331c974-22ad-4a6a-83dd-312978a20592"
-					(reference "U24")
-					(unit 1)
-				)
-			)
-		)
 	)
 	(symbol
 		(lib_id "Okapi-eagle-import:supply1_371_GND")
@@ -7130,14 +6978,6 @@
 		)
 		(pin "1"
 			(uuid "800d5e72-b141-4c97-8c1a-c3156a529874")
-		)
-		(instances
-			(project "Okapi"
-				(path "/8331c974-22ad-4a6a-83dd-312978a20592"
-					(reference "#GND88")
-					(unit 1)
-				)
-			)
 		)
 	)
 	(symbol
@@ -7211,14 +7051,6 @@
 		)
 		(pin "2"
 			(uuid "f9f05cb7-d66d-45a6-b181-cde8ed654ffa")
-		)
-		(instances
-			(project "Okapi"
-				(path "/8331c974-22ad-4a6a-83dd-312978a20592"
-					(reference "C27")
-					(unit 1)
-				)
-			)
 		)
 	)
 	(symbol
@@ -7312,14 +7144,6 @@
 		(pin "8"
 			(uuid "c7297282-216d-4b5d-86de-327fa046f78c")
 		)
-		(instances
-			(project "Okapi"
-				(path "/8331c974-22ad-4a6a-83dd-312978a20592"
-					(reference "U36")
-					(unit 1)
-				)
-			)
-		)
 	)
 	(symbol
 		(lib_id "Okapi-eagle-import:supply1_371_GND")
@@ -7390,14 +7214,6 @@
 		(pin "1"
 			(uuid "caaafeff-7752-4ff3-a128-0b3c254e9e5d")
 		)
-		(instances
-			(project "Okapi"
-				(path "/8331c974-22ad-4a6a-83dd-312978a20592"
-					(reference "#GND89")
-					(unit 1)
-				)
-			)
-		)
 	)
 	(symbol
 		(lib_id "Okapi-eagle-import:supply1_371_GND")
@@ -7467,14 +7283,6 @@
 		)
 		(pin "1"
 			(uuid "24bc4061-978d-4896-994f-a1c7f969c691")
-		)
-		(instances
-			(project "Okapi"
-				(path "/8331c974-22ad-4a6a-83dd-312978a20592"
-					(reference "#GND87")
-					(unit 1)
-				)
-			)
 		)
 	)
 	(symbol
@@ -7549,14 +7357,6 @@
 		(pin "2"
 			(uuid "17072d76-6dad-4176-9301-514737e8400e")
 		)
-		(instances
-			(project "Okapi"
-				(path "/8331c974-22ad-4a6a-83dd-312978a20592"
-					(reference "C44")
-					(unit 1)
-				)
-			)
-		)
 	)
 	(symbol
 		(lib_id "Okapi-eagle-import:supply1_371_GND")
@@ -7626,14 +7426,6 @@
 		)
 		(pin "1"
 			(uuid "9342f9b0-759a-48e8-b3cf-a134b5860ef0")
-		)
-		(instances
-			(project "Okapi"
-				(path "/8331c974-22ad-4a6a-83dd-312978a20592"
-					(reference "#GND86")
-					(unit 1)
-				)
-			)
 		)
 	)
 	(symbol
@@ -7726,14 +7518,6 @@
 		)
 		(pin "8"
 			(uuid "3cf36bf4-5b49-4b3b-b2a8-4cbee5b71cf4")
-		)
-		(instances
-			(project "Okapi"
-				(path "/8331c974-22ad-4a6a-83dd-312978a20592"
-					(reference "U34")
-					(unit 1)
-				)
-			)
 		)
 	)
 	(symbol
@@ -7842,14 +7626,6 @@
 		(pin "EP"
 			(uuid "d478f211-32a2-463e-a612-bc02a5778071")
 		)
-		(instances
-			(project "Okapi"
-				(path "/8331c974-22ad-4a6a-83dd-312978a20592"
-					(reference "U29")
-					(unit 1)
-				)
-			)
-		)
 	)
 	(symbol
 		(lib_id "Okapi-eagle-import:supply1_371_GND")
@@ -7919,14 +7695,6 @@
 		)
 		(pin "1"
 			(uuid "825af9e2-f90f-493c-9a3c-93023d7211d0")
-		)
-		(instances
-			(project "Okapi"
-				(path "/8331c974-22ad-4a6a-83dd-312978a20592"
-					(reference "#GND51")
-					(unit 1)
-				)
-			)
 		)
 	)
 	(symbol
@@ -8000,19 +7768,6 @@
 		)
 		(pin "2"
 			(uuid "3833594f-224e-41fa-9c7c-ebb9dc09eec1")
-		)
-		(instances
-			(project "Okapi"
-				(path "/8331c974-22ad-4a6a-83dd-312978a20592"
-					(reference "R47")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(sheet_instances
-		(path "/"
-			(page "4")
 		)
 	)
 )

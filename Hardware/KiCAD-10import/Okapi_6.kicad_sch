@@ -5663,14 +5663,6 @@
 		(pin "1"
 			(uuid "3094d3e4-6cba-4609-b541-fd034affe237")
 		)
-		(instances
-			(project "Okapi"
-				(path "/954c922c-2bc9-4190-8430-6ded24571977"
-					(reference "#GND68")
-					(unit 1)
-				)
-			)
-		)
 	)
 	(symbol
 		(lib_id "Okapi-eagle-import:CRYSTAL5X3.2")
@@ -5746,14 +5738,6 @@
 		(pin "OSC2"
 			(uuid "ff7d4b31-5888-4ae4-be39-bb1c6bd88114")
 		)
-		(instances
-			(project "Okapi"
-				(path "/954c922c-2bc9-4190-8430-6ded24571977"
-					(reference "XTAL1")
-					(unit 1)
-				)
-			)
-		)
 	)
 	(symbol
 		(lib_id "Okapi-eagle-import:bschulz_passives_R-EU_R0402")
@@ -5827,14 +5811,6 @@
 		(pin "2"
 			(uuid "7a973776-61ac-410f-a081-396a58de94c1")
 		)
-		(instances
-			(project "Okapi"
-				(path "/954c922c-2bc9-4190-8430-6ded24571977"
-					(reference "R59")
-					(unit 1)
-				)
-			)
-		)
 	)
 	(symbol
 		(lib_id "Okapi-eagle-import:GND")
@@ -5904,14 +5880,6 @@
 		)
 		(pin "1"
 			(uuid "7486ba62-c137-4217-b3f5-ba9d80710fb2")
-		)
-		(instances
-			(project "Okapi"
-				(path "/954c922c-2bc9-4190-8430-6ded24571977"
-					(reference "#GND67")
-					(unit 1)
-				)
-			)
 		)
 	)
 	(symbol
@@ -6022,14 +5990,6 @@
 		(pin "2"
 			(uuid "3ff1ad29-1b15-40d7-8624-335033bcebb2")
 		)
-		(instances
-			(project "Okapi"
-				(path "/954c922c-2bc9-4190-8430-6ded24571977"
-					(reference "C42")
-					(unit 1)
-				)
-			)
-		)
 	)
 	(symbol
 		(lib_id "Okapi-eagle-import:bschulz_passives_R-EU_R0402")
@@ -6115,14 +6075,6 @@
 		(pin "2"
 			(uuid "05d71f51-50ec-401e-842d-bc4084bf6283")
 		)
-		(instances
-			(project "Okapi"
-				(path "/954c922c-2bc9-4190-8430-6ded24571977"
-					(reference "R52")
-					(unit 1)
-				)
-			)
-		)
 	)
 	(symbol
 		(lib_id "Okapi-eagle-import:bschulz_passives_R-EU_R0402")
@@ -6195,14 +6147,6 @@
 		)
 		(pin "2"
 			(uuid "53016422-bf72-4502-b6c1-abedb6f2a3dd")
-		)
-		(instances
-			(project "Okapi"
-				(path "/954c922c-2bc9-4190-8430-6ded24571977"
-					(reference "R58")
-					(unit 1)
-				)
-			)
 		)
 	)
 	(symbol
@@ -6313,14 +6257,6 @@
 		(pin "2"
 			(uuid "fd17d243-9022-4655-b0a3-2dd896d3b9b3")
 		)
-		(instances
-			(project "Okapi"
-				(path "/954c922c-2bc9-4190-8430-6ded24571977"
-					(reference "C41")
-					(unit 1)
-				)
-			)
-		)
 	)
 	(symbol
 		(lib_id "Okapi-eagle-import:bschulz_passives_R-EU_R0402")
@@ -6394,14 +6330,6 @@
 		(pin "2"
 			(uuid "8166c752-b8fd-46c5-a947-45546ba3e5c4")
 		)
-		(instances
-			(project "Okapi"
-				(path "/954c922c-2bc9-4190-8430-6ded24571977"
-					(reference "R56")
-					(unit 1)
-				)
-			)
-		)
 	)
 	(symbol
 		(lib_id "Okapi-eagle-import:bschulz_passives_R-EU_R0402")
@@ -6474,14 +6402,6 @@
 		)
 		(pin "2"
 			(uuid "de2a9217-0f3b-4133-bd2a-6cc7e6d04497")
-		)
-		(instances
-			(project "Okapi"
-				(path "/954c922c-2bc9-4190-8430-6ded24571977"
-					(reference "R68")
-					(unit 1)
-				)
-			)
 		)
 	)
 	(symbol
@@ -6564,14 +6484,6 @@
 		(pin "4"
 			(uuid "df5489c2-affe-4a04-a125-347b915f1dab")
 		)
-		(instances
-			(project "Okapi"
-				(path "/954c922c-2bc9-4190-8430-6ded24571977"
-					(reference "S4")
-					(unit 1)
-				)
-			)
-		)
 	)
 	(symbol
 		(lib_id "Okapi-eagle-import:GND")
@@ -6641,14 +6553,6 @@
 		)
 		(pin "1"
 			(uuid "b632ede6-724a-42c1-a7b8-f13bfba85e94")
-		)
-		(instances
-			(project "Okapi"
-				(path "/954c922c-2bc9-4190-8430-6ded24571977"
-					(reference "#GND69")
-					(unit 1)
-				)
-			)
 		)
 	)
 	(symbol
@@ -6852,14 +6756,6 @@
 		(pin "TH"
 			(uuid "32771add-cc13-44bd-8941-dcd33ce3d125")
 		)
-		(instances
-			(project "Okapi"
-				(path "/954c922c-2bc9-4190-8430-6ded24571977"
-					(reference "IC1")
-					(unit 1)
-				)
-			)
-		)
 	)
 	(symbol
 		(lib_id "Okapi-eagle-import:bschulz_passives_R-EU_R0402")
@@ -6932,14 +6828,6 @@
 		)
 		(pin "2"
 			(uuid "9f3b3705-ec60-4709-aaf0-bbba99130d9e")
-		)
-		(instances
-			(project "Okapi"
-				(path "/954c922c-2bc9-4190-8430-6ded24571977"
-					(reference "R57")
-					(unit 1)
-				)
-			)
 		)
 	)
 	(symbol
@@ -7084,14 +6972,6 @@
 		(pin "EP"
 			(uuid "5747a029-7760-4338-a787-a77820b172c0")
 		)
-		(instances
-			(project "Okapi"
-				(path "/954c922c-2bc9-4190-8430-6ded24571977"
-					(reference "U41")
-					(unit 1)
-				)
-			)
-		)
 	)
 	(symbol
 		(lib_id "Okapi-eagle-import:bschulz_passives_R-EU_R0402")
@@ -7164,14 +7044,6 @@
 		)
 		(pin "2"
 			(uuid "46fcf6e6-3294-4c31-b079-22ac9099b351")
-		)
-		(instances
-			(project "Okapi"
-				(path "/954c922c-2bc9-4190-8430-6ded24571977"
-					(reference "R61")
-					(unit 1)
-				)
-			)
 		)
 	)
 	(symbol
@@ -7282,14 +7154,6 @@
 		(pin "2"
 			(uuid "bebe4d41-adc3-4c00-9f6d-e3c27e0d5621")
 		)
-		(instances
-			(project "Okapi"
-				(path "/954c922c-2bc9-4190-8430-6ded24571977"
-					(reference "C40")
-					(unit 1)
-				)
-			)
-		)
 	)
 	(symbol
 		(lib_id "Okapi-eagle-import:supply1_371_GND")
@@ -7359,14 +7223,6 @@
 		)
 		(pin "1"
 			(uuid "a06cf5d2-9057-4fc1-b98d-29e3c31ef6cb")
-		)
-		(instances
-			(project "Okapi"
-				(path "/954c922c-2bc9-4190-8430-6ded24571977"
-					(reference "#GND84")
-					(unit 1)
-				)
-			)
 		)
 	)
 	(symbol
@@ -7441,14 +7297,6 @@
 		(pin "2"
 			(uuid "68f733c8-ed42-4254-9140-321823ed0b4d")
 		)
-		(instances
-			(project "Okapi"
-				(path "/954c922c-2bc9-4190-8430-6ded24571977"
-					(reference "R55")
-					(unit 1)
-				)
-			)
-		)
 	)
 	(symbol
 		(lib_id "Okapi-eagle-import:GND")
@@ -7518,14 +7366,6 @@
 		)
 		(pin "1"
 			(uuid "50ae0498-edc5-4512-b40d-c7832e622d9c")
-		)
-		(instances
-			(project "Okapi"
-				(path "/954c922c-2bc9-4190-8430-6ded24571977"
-					(reference "#GND66")
-					(unit 1)
-				)
-			)
 		)
 	)
 	(symbol
@@ -7599,19 +7439,6 @@
 		)
 		(pin "2"
 			(uuid "85e58c58-ce17-44a3-ad04-32b2ef6f5598")
-		)
-		(instances
-			(project "Okapi"
-				(path "/954c922c-2bc9-4190-8430-6ded24571977"
-					(reference "C39")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(sheet_instances
-		(path "/"
-			(page "6")
 		)
 	)
 )
