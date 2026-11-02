@@ -33,7 +33,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "Okapi:C0402"
+			(property "Footprint" "nw-cold-silicon:C0402"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -189,7 +189,7 @@
 					)
 				)
 			)
-			(property "Footprint" "Okapi:DCU_(R-PDSO-G8)"
+			(property "Footprint" "nw-cold-silicon:DCU_(R-PDSO-G8)"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -681,7 +681,7 @@
 					)
 				)
 			)
-			(property "Footprint" "Okapi:DRL_R-PDSO-N6"
+			(property "Footprint" "nw-cold-silicon:DRL_R-PDSO-N6"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1060,7 +1060,7 @@
 					)
 				)
 			)
-			(property "Footprint" "Okapi:DCU_(R-PDSO-G8)"
+			(property "Footprint" "nw-cold-silicon:DCU_(R-PDSO-G8)"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1336,7 +1336,7 @@
 					)
 				)
 			)
-			(property "Footprint" "Okapi:DQM_R-PX2SON-N8"
+			(property "Footprint" "nw-cold-silicon:DQM_R-PX2SON-N8"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1612,7 +1612,7 @@
 					)
 				)
 			)
-			(property "Footprint" "Okapi:RGY_S-PVQFN-N14"
+			(property "Footprint" "nw-cold-silicon:RGY_S-PVQFN-N14"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1977,7 +1977,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "Okapi:R0402"
+			(property "Footprint" "nw-cold-silicon:R0402"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -5525,7 +5525,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Okapi:DQM_R-PX2SON-N8"
+		(property "Footprint" "nw-cold-silicon:DQM_R-PX2SON-N8"
 			(at 63.5 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -5703,7 +5703,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Okapi:RGY_S-PVQFN-N14"
+		(property "Footprint" "nw-cold-silicon:RGY_S-PVQFN-N14"
 			(at 139.7 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -5817,7 +5817,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Okapi:C0402"
+		(property "Footprint" "nw-cold-silicon:C0402"
 			(at 104.14 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -5898,7 +5898,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Okapi:C0402"
+		(property "Footprint" "nw-cold-silicon:C0402"
 			(at 251.46 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -6056,7 +6056,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Okapi:DCU_(R-PDSO-G8)"
+		(property "Footprint" "nw-cold-silicon:DCU_(R-PDSO-G8)"
 			(at 63.5 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -6233,7 +6233,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Okapi:C0402"
+		(property "Footprint" "nw-cold-silicon:C0402"
 			(at 76.2 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -6393,7 +6393,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Okapi:DCU_(R-PDSO-G8)"
+		(property "Footprint" "nw-cold-silicon:DCU_(R-PDSO-G8)"
 			(at 142.24 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -6570,7 +6570,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Okapi:R0402"
+		(property "Footprint" "nw-cold-silicon:R0402"
 			(at 160.02 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -6807,7 +6807,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Okapi:C0402"
+		(property "Footprint" "nw-cold-silicon:C0402"
 			(at 104.14 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -6889,7 +6889,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Okapi:RGY_S-PVQFN-N14"
+		(property "Footprint" "nw-cold-silicon:RGY_S-PVQFN-N14"
 			(at 139.7 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -7002,7 +7002,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Okapi:DRL_R-PDSO-N6"
+		(property "Footprint" "nw-cold-silicon:DRL_R-PDSO-N6"
 			(at 63.5 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -7173,7 +7173,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Okapi:C0402"
+		(property "Footprint" "nw-cold-silicon:C0402"
 			(at 104.14 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -7255,7 +7255,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Okapi:DCU_(R-PDSO-G8)"
+		(property "Footprint" "nw-cold-silicon:DCU_(R-PDSO-G8)"
 			(at 142.24 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -7510,7 +7510,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Okapi:C0402"
+		(property "Footprint" "nw-cold-silicon:C0402"
 			(at 104.14 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -7670,7 +7670,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Okapi:DQM_R-PX2SON-N8"
+		(property "Footprint" "nw-cold-silicon:DQM_R-PX2SON-N8"
 			(at 63.5 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -7770,7 +7770,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Okapi:RGY_S-PVQFN-N14"
+		(property "Footprint" "nw-cold-silicon:RGY_S-PVQFN-N14"
 			(at 210.82 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -7962,7 +7962,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Okapi:R0402"
+		(property "Footprint" "nw-cold-silicon:R0402"
 			(at 160.02 127 0)
 			(hide yes)
 			(show_name no)
