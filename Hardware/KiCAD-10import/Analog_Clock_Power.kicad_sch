@@ -3994,7 +3994,7 @@
 	)
 	(global_label "RTC_INT"
 		(shape bidirectional)
-		(at 55.88 121.92 270)
+		(at 55.88 121.92 180)
 		(fields_autoplaced yes)
 		(effects
 			(font

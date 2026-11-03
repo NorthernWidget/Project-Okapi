@@ -4703,13 +4703,13 @@
 	)
 	(global_label "MISO"
 		(shape bidirectional)
-		(at 26.67 101.6 0)
+		(at 26.67 101.6 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "d1e3f833-4b9c-468e-ba83-57772ca0fb9a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
