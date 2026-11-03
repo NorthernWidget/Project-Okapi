@@ -2755,6 +2755,32 @@
 		)
 		(uuid "363fef02-0cd3-4c61-a49d-abcea75c8238")
 	)
+	(text "Analog, Clock & Power Monitor"
+		(exclude_from_sim no)
+		(at 12.7 15.24 0)
+		(effects
+			(font
+				(size 5.08 4.318)
+				(thickness 0.8636)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "4af348f0-891d-5c9e-b954-cf045760d5f1")
+	)
+	(text "Real-time clock"
+		(exclude_from_sim no)
+		(at 51.12 127.318 0)
+		(effects
+			(font
+				(size 3.048 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "566db907-d8cb-5956-93a2-1755ce639c70")
+	)
 	(text "ADR=0x10 - FLEX"
 		(exclude_from_sim no)
 		(at 170.18 81.28 0)
@@ -2766,6 +2792,32 @@
 		)
 		(uuid "583669f8-f202-4399-86e6-2d6acb25a469")
 	)
+	(text "DAC & reference"
+		(exclude_from_sim no)
+		(at 46.2 78.55 0)
+		(effects
+			(font
+				(size 3.048 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "5cc42462-9486-5015-be77-f205e78ffeb2")
+	)
+	(text "ADS1115 ADC"
+		(exclude_from_sim no)
+		(at 159.07 89.218 0)
+		(effects
+			(font
+				(size 3.048 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "680c275f-cd0b-58be-9dfc-bcf0f6961050")
+	)
 	(text "ADR=0x62"
 		(exclude_from_sim no)
 		(at 71.12 86.36 0)
@@ -2776,6 +2828,19 @@
 			(justify left bottom)
 		)
 		(uuid "ba7611e9-7dc7-4de0-b6bb-e1c19aa9bf00")
+	)
+	(text "PAC1934 power monitor"
+		(exclude_from_sim no)
+		(at 159.324 73.724 0)
+		(effects
+			(font
+				(size 3.048 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "c0b3df1c-cbff-5395-951f-d585ad21b6dd")
 	)
 	(junction
 		(at 60.96 63.5)
