@@ -4053,7 +4053,7 @@
 	)
 	(text "Reverse Polarity Protection"
 		(exclude_from_sim no)
-		(at 25.4 100.33 0)
+		(at 10.16 96.52 0)
 		(effects
 			(font
 				(size 0.8128 0.6908)
@@ -5291,7 +5291,7 @@
 	)
 	(global_label "V_LI_SENSE"
 		(shape bidirectional)
-		(at 92.71 43.18 0)
+		(at 92.71 43.18 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5339,13 +5339,13 @@
 	)
 	(global_label "V_PRIME_SENSE"
 		(shape bidirectional)
-		(at 220.98 58.42 180)
+		(at 223.52 58.42 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.016 1.016)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "1521be99-570a-4c32-a5b5-dc01459d55ee")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -5819,7 +5819,7 @@
 	)
 	(global_label "V_SOLAR_SENSE"
 		(shape bidirectional)
-		(at 25.4 105.41 0)
+		(at 25.4 105.41 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6117,7 +6117,7 @@
 		(dnp no)
 		(uuid "151f73b6-501b-47fb-b2b2-f9c3af425976")
 		(property "Reference" "R73"
-			(at 224.79 56.9214 0)
+			(at 228.6 55.372 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6128,7 +6128,8 @@
 			)
 		)
 		(property "Value" "R-EU_R0805"
-			(at 224.79 61.722 0)
+			(at 228.6 61.722 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7856,7 +7857,7 @@
 		(dnp no)
 		(uuid "b922429d-37bd-4646-b14c-e32cf02e3fa9")
 		(property "Reference" "R74"
-			(at 26.67 103.9114 0)
+			(at 33.02 102.87 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7867,7 +7868,8 @@
 			)
 		)
 		(property "Value" "R-EU_R0805"
-			(at 26.67 108.712 0)
+			(at 33.02 109.22 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8111,7 +8113,7 @@
 		(dnp no)
 		(uuid "c680cd5a-86ae-44ea-899c-bd6291670cf6")
 		(property "Reference" "D2"
-			(at 106.68 110.9726 0)
+			(at 100.33 113.03 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8122,7 +8124,8 @@
 			)
 		)
 		(property "Value" "DIODESOD-323"
-			(at 106.68 108.1786 0)
+			(at 100.33 115.57 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8305,6 +8308,7 @@
 		)
 		(property "Value" "R-EU_R0805"
 			(at 93.98 46.482 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8962,6 +8966,7 @@
 		)
 		(property "Value" "DIODEDO-214AC"
 			(at 116.84 92.9386 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9059,7 +9064,7 @@
 		(dnp no)
 		(uuid "f4f965a4-2e24-4ed3-97c3-b81d4f6b9e54")
 		(property "Reference" "D1"
-			(at 20.32 104.9274 0)
+			(at 12.7 102.87 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9070,7 +9075,8 @@
 			)
 		)
 		(property "Value" "DIODEDO-214AC"
-			(at 20.32 107.7214 0)
+			(at 12.7 109.22 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
