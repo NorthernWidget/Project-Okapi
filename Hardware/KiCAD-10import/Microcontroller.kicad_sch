@@ -1972,6 +1972,19 @@
 		)
 		(uuid "3f631921-c5f4-4926-ac4c-aa8d524ed82e")
 	)
+	(text "Reset"
+		(exclude_from_sim no)
+		(at 16.59 49.404 0)
+		(effects
+			(font
+				(size 3.048 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "407ce5e8-8d78-5800-b79d-9ad06f3d9559")
+	)
 	(text "Pin 18"
 		(exclude_from_sim no)
 		(at 128.27 99.06 0)
@@ -2159,7 +2172,7 @@
 		)
 		(uuid "a4da6cec-b4ad-42a5-adc0-006e0e7b603b")
 	)
-	(text "Microcontroller & GPIO Expander"
+	(text "Microcontroller"
 		(exclude_from_sim no)
 		(at 12.7 15.24 0)
 		(effects
@@ -2194,6 +2207,19 @@
 		)
 		(uuid "b0e41c8d-2a11-428e-ad3f-23b0edaad5db")
 	)
+	(text "ATmega1284"
+		(exclude_from_sim no)
+		(at 24.61 32.83 0)
+		(effects
+			(font
+				(size 3.048 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "b2c99de6-e4b6-59fc-b97a-7fa5ead51c1c")
+	)
 	(text "Pin 14"
 		(exclude_from_sim no)
 		(at 128.27 111.76 0)
@@ -2226,6 +2252,19 @@
 			(justify left bottom)
 		)
 		(uuid "c9f19254-fd06-4d99-951e-9fdbafeef3b6")
+	)
+	(text "Clock"
+		(exclude_from_sim no)
+		(at 24.258 46.96 0)
+		(effects
+			(font
+				(size 3.048 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "cf6040fa-932e-5d8b-9a86-63deb5b29b82")
 	)
 	(text "Pin 7"
 		(exclude_from_sim no)
