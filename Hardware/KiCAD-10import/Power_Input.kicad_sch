@@ -4042,7 +4042,7 @@
 	)
 	(text "V_PRIME"
 		(exclude_from_sim no)
-		(at 207.17 51.372 0)
+		(at 207.17 49.53 0)
 		(effects
 			(font
 				(size 3.048 2.54)
@@ -4055,7 +4055,7 @@
 	)
 	(text "Solar"
 		(exclude_from_sim no)
-		(at 207.17 76.772 0)
+		(at 207.17 52.07 0)
 		(effects
 			(font
 				(size 3.048 2.54)
@@ -4068,7 +4068,7 @@
 	)
 	(text "Battery protection"
 		(exclude_from_sim no)
-		(at 9.69 63.31 0)
+		(at 9.69 43.18 0)
 		(effects
 			(font
 				(size 3.048 2.54)
@@ -4081,7 +4081,7 @@
 	)
 	(text "Solar charger"
 		(exclude_from_sim no)
-		(at 34.93 95.314 0)
+		(at 34.93 92.71 0)
 		(effects
 			(font
 				(size 3.048 2.54)
@@ -4094,7 +4094,7 @@
 	)
 	(text "Battery"
 		(exclude_from_sim no)
-		(at 207.17 64.072 0)
+		(at 207.17 50.8 0)
 		(effects
 			(font
 				(size 3.048 2.54)
