@@ -4508,7 +4508,7 @@
 	)
 	(text "3V3_AUX & 5V_AUX Rails"
 		(exclude_from_sim no)
-		(at 12.7 81.28 0)
+		(at 12.7 88.9 0)
 		(effects
 			(font
 				(size 5.08 4.318)
@@ -4521,7 +4521,7 @@
 	)
 	(text "POWER_EN logic"
 		(exclude_from_sim no)
-		(at 152.88 142.24 0)
+		(at 152.88 140.97 0)
 		(effects
 			(font
 				(size 3.048 2.54)
@@ -4534,7 +4534,7 @@
 	)
 	(text "C0/C1 decode"
 		(exclude_from_sim no)
-		(at 9.21 27.94 0)
+		(at 9.21 26.67 0)
 		(effects
 			(font
 				(size 3.048 2.54)
@@ -4558,7 +4558,7 @@
 	)
 	(text "V_HP switches"
 		(exclude_from_sim no)
-		(at 127.96 27.94 0)
+		(at 127.96 26.67 0)
 		(effects
 			(font
 				(size 3.048 2.54)
@@ -4571,7 +4571,7 @@
 	)
 	(text "3V3_AUX buck"
 		(exclude_from_sim no)
-		(at 32.39 95.25 0)
+		(at 32.39 93.98 0)
 		(effects
 			(font
 				(size 3.048 2.54)
@@ -4597,7 +4597,7 @@
 	)
 	(text "5V_AUX boost"
 		(exclude_from_sim no)
-		(at 34.93 138.43 0)
+		(at 34.93 137.16 0)
 		(effects
 			(font
 				(size 3.048 2.54)
