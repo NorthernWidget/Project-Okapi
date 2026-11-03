@@ -4042,7 +4042,7 @@
 	)
 	(text "V_PRIME"
 		(exclude_from_sim no)
-		(at 170.18 60.96 0)
+		(at 173.99 60.96 0)
 		(effects
 			(font
 				(size 3.048 2.54)
@@ -4055,7 +4055,7 @@
 	)
 	(text "Solar"
 		(exclude_from_sim no)
-		(at 186.69 86.36 0)
+		(at 173.99 86.36 0)
 		(effects
 			(font
 				(size 3.048 2.54)
@@ -4094,7 +4094,7 @@
 	)
 	(text "Battery"
 		(exclude_from_sim no)
-		(at 172.72 73.66 0)
+		(at 173.99 73.66 0)
 		(effects
 			(font
 				(size 3.048 2.54)
