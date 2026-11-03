@@ -1167,9 +1167,9 @@
 		)
 		(uuid "29c87391-eca0-5807-95dc-a72c87a32ece")
 	)
-	(text "TCA9406 (U36)"
+	(text "I2C shifters, TCA9406"
 		(exclude_from_sim no)
-		(at 200.66 96.52 0)
+		(at 139.7 33.02 0)
 		(effects
 			(font
 				(size 3.048 2.54)
@@ -1178,11 +1178,11 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "561304df-d6a0-55e9-be11-4d11ab63c008")
+		(uuid "6428023b-5626-5224-9463-dbebf80a1685")
 	)
-	(text "TXS0104 (U28)"
+	(text "4-bit shifters, TXS0104"
 		(exclude_from_sim no)
-		(at 118.11 57.15 0)
+		(at 38.1 33.02 0)
 		(effects
 			(font
 				(size 3.048 2.54)
@@ -1191,46 +1191,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "6b4e1e24-328a-5321-b8f9-5e03f3800275")
-	)
-	(text "TCA9406 (U29)"
-		(exclude_from_sim no)
-		(at 200.66 57.15 0)
-		(effects
-			(font
-				(size 3.048 2.54)
-				(thickness 0.508)
-				(bold yes)
-			)
-			(justify left bottom)
-		)
-		(uuid "6f2fb08f-8a70-5c58-abb6-219103941097")
-	)
-	(text "TXS0104 (U42)"
-		(exclude_from_sim no)
-		(at 118.11 139.7 0)
-		(effects
-			(font
-				(size 3.048 2.54)
-				(thickness 0.508)
-				(bold yes)
-			)
-			(justify left bottom)
-		)
-		(uuid "76e52770-669b-5f52-a894-fe8602e551c7")
-	)
-	(text "TXS0104 (U27)"
-		(exclude_from_sim no)
-		(at 118.11 96.52 0)
-		(effects
-			(font
-				(size 3.048 2.54)
-				(thickness 0.508)
-				(bold yes)
-			)
-			(justify left bottom)
-		)
-		(uuid "9e8d5345-41d4-5e21-8afa-ef21032b9457")
+		(uuid "b90a1a99-ce8c-5a7c-9455-90e2d2dfb71e")
 	)
 	(junction
 		(at 74.93 139.7)
