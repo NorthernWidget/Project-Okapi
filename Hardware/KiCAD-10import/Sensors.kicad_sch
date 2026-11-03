@@ -4192,6 +4192,19 @@
 		)
 		(uuid "458a4fdc-a8fd-4aea-a9aa-dbb5acf8e61c")
 	)
+	(text "On-Board Sensors"
+		(exclude_from_sim no)
+		(at 12.7 15.24 0)
+		(effects
+			(font
+				(size 5.08 4.318)
+				(thickness 0.8636)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "579cff05-842d-5558-9f99-20c8551822f8")
+	)
 	(text "ADR=0x10 - FLEX"
 		(exclude_from_sim no)
 		(at 227.33 81.28 0)
