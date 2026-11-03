@@ -1154,19 +1154,6 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "TCA9406 I2C"
-		(exclude_from_sim no)
-		(at 37.15 30.48 0)
-		(effects
-			(font
-				(size 3.048 2.54)
-				(thickness 0.508)
-				(bold yes)
-			)
-			(justify left bottom)
-		)
-		(uuid "1f3b4f2a-00b7-5dca-8e4d-8401e44ff514")
-	)
 	(text "Level Shifters: Port Side"
 		(exclude_from_sim no)
 		(at 12.7 15.24 0)
@@ -1180,9 +1167,9 @@
 		)
 		(uuid "29c87391-eca0-5807-95dc-a72c87a32ece")
 	)
-	(text "TXS0104"
+	(text "TCA9406 (U36)"
 		(exclude_from_sim no)
-		(at 137.48 114.3 0)
+		(at 200.66 96.52 0)
 		(effects
 			(font
 				(size 3.048 2.54)
@@ -1191,11 +1178,11 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "39306440-d3c4-5e46-9191-27116746b53d")
+		(uuid "561304df-d6a0-55e9-be11-4d11ab63c008")
 	)
-	(text "TXS0104"
+	(text "TXS0104 (U28)"
 		(exclude_from_sim no)
-		(at 35.88 149.67 0)
+		(at 118.11 57.15 0)
 		(effects
 			(font
 				(size 3.048 2.54)
@@ -1204,11 +1191,11 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "577d71b8-0d0e-5bdd-bc72-b78541c3dcee")
+		(uuid "6b4e1e24-328a-5321-b8f9-5e03f3800275")
 	)
-	(text "TCA9406 I2C"
+	(text "TCA9406 (U29)"
 		(exclude_from_sim no)
-		(at 136.21 101.41 0)
+		(at 200.66 57.15 0)
 		(effects
 			(font
 				(size 3.048 2.54)
@@ -1217,11 +1204,11 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "dd9157ea-09ab-5a7e-98ba-64043e9d98e6")
+		(uuid "6f2fb08f-8a70-5c58-abb6-219103941097")
 	)
-	(text "TXS0104"
+	(text "TXS0104 (U42)"
 		(exclude_from_sim no)
-		(at 35.88 106.49 0)
+		(at 118.11 139.7 0)
 		(effects
 			(font
 				(size 3.048 2.54)
@@ -1230,7 +1217,20 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "e0ab0d85-cb55-5b4a-b6bf-9fc2925a46e7")
+		(uuid "76e52770-669b-5f52-a894-fe8602e551c7")
+	)
+	(text "TXS0104 (U27)"
+		(exclude_from_sim no)
+		(at 118.11 96.52 0)
+		(effects
+			(font
+				(size 3.048 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "9e8d5345-41d4-5e21-8afa-ef21032b9457")
 	)
 	(junction
 		(at 74.93 139.7)
