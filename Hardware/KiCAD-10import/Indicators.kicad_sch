@@ -1944,7 +1944,7 @@
 	)
 	(text "Status LED"
 		(exclude_from_sim no)
-		(at 160.02 25.4 0)
+		(at 160.02 22.86 0)
 		(effects
 			(font
 				(size 3.048 2.54)
