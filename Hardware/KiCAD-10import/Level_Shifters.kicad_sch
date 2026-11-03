@@ -1523,7 +1523,33 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "Level Shifters"
+	(text "TXS0102"
+		(exclude_from_sim no)
+		(at 44.77 147.13 0)
+		(effects
+			(font
+				(size 3.048 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "056345ee-5a80-5d92-bc9e-962358103c1c")
+	)
+	(text "Feather UART (TXS0102)"
+		(exclude_from_sim no)
+		(at 44.77 55.69 0)
+		(effects
+			(font
+				(size 3.048 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "52ca7875-9691-5cdd-9184-4e99fec5adcd")
+	)
+	(text "Level Shifters: Core Side"
 		(exclude_from_sim no)
 		(at 12.7 15.24 0)
 		(effects
@@ -1535,6 +1561,32 @@
 			(justify left bottom)
 		)
 		(uuid "6d5d888d-d035-5844-93c8-f119bff13c80")
+	)
+	(text "SDA select (mux)"
+		(exclude_from_sim no)
+		(at 43.5 98.87 0)
+		(effects
+			(font
+				(size 3.048 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "b7359041-9eb4-5b0e-b21c-fe3420f8c0a1")
+	)
+	(text "SPI buffer"
+		(exclude_from_sim no)
+		(at 43.5 121.73 0)
+		(effects
+			(font
+				(size 3.048 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "d576bd47-04fa-5806-a862-366da766865e")
 	)
 	(junction
 		(at 76.2 48.26)
