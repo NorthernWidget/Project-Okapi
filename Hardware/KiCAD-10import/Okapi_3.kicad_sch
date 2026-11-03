@@ -2594,222 +2594,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "nw-cold-silicon:CONN_022.54_SCREW"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "J"
-				(at -2.54 5.588 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.778 1.778)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Value" ""
-				(at -2.54 -4.826 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.778 1.778)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Footprint" "nw-cold-silicon:1X02_2.54_SCREWTERM"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "Genaric 2 terminal header\n\nSCREW_2.54\n39532_RA"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "DIGIKEY" "ED10561-ND"
-				(at 0 -6.35 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "MF" "OnShore"
-				(at 0 -7.874 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "MPN" "OSTVN02A150"
-				(at 0 -9.398 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "CONN_022.54_SCREW_1_0"
-				(polyline
-					(pts
-						(xy -2.54 5.08) (xy -2.54 -2.54)
-					)
-					(stroke
-						(width 0.4064)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.54 5.08) (xy 3.81 5.08)
-					)
-					(stroke
-						(width 0.4064)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 2.54) (xy 2.54 2.54)
-					)
-					(stroke
-						(width 0.6096)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 0) (xy 2.54 0)
-					)
-					(stroke
-						(width 0.6096)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 3.81 -2.54) (xy -2.54 -2.54)
-					)
-					(stroke
-						(width 0.4064)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 3.81 -2.54) (xy 3.81 5.08)
-					)
-					(stroke
-						(width 0.4064)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at 7.62 0 180)
-					(length 5.08)
-					(name "1"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-					(number "P1"
-						(effects
-							(font
-								(size 1.524 1.524)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 7.62 2.54 180)
-					(length 5.08)
-					(name "2"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-					(number "P2"
-						(effects
-							(font
-								(size 1.524 1.524)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "nw-cold-silicon:CONN_102.54_SCREW"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -4873,438 +4657,6 @@
 						)
 					)
 					(number "1"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "nw-cold-silicon:JST_2MM_MALE"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "J"
-				(at -2.54 5.842 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Value" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "nw-cold-silicon:JST-2-SMD"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "JST 2MM MALE RA CONNECTOR Two pin, compact surface mount connector. Commonly used as a battery input connection point. We really like the solid locking feeling and high current rating on these small connectors. We use these all the time as battery connectors. Mates to single-cell LiPo batteries.\n\nHere is the connector we sell at SparkFun:\n\n• https://www.sparkfun.com/products/8612 JST Right Angle Connector - White (PRT-08612)\n• http://www.sparkfun.com/datasheets/Prototyping/Connectors/JST-Horizontal.pdf Datasheet\n\nIt was used on these SparkFun products:\n\n• https://www.sparkfun.com/products/11214 SparkFun MOSFET Power Controller (PRT-11214)\n• https://www.sparkfun.com/products/13777 SparkFun Battery Babysitter - LiPo Battery Manager (PRT-13777)\n• And many, many others that required a lipo battery connection."
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "DIGIKEY" "455-1749-1-ND"
-				(at 0 -1.524 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "MF" "JST"
-				(at 0 -3.048 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "MPN" "S2B-PH-SM4-TB(LF)(SN)"
-				(at 0 -4.572 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "JST_2MM_MALE_1_0"
-				(polyline
-					(pts
-						(xy -2.54 5.08) (xy 5.08 5.08)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.54 3.302) (xy -2.54 5.08)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.54 1.778) (xy -2.54 3.302)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.54 1.778) (xy -1.778 1.778)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.54 -2.54) (xy -2.54 1.778)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.54 -2.54) (xy -1.524 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.778 3.302) (xy -2.54 3.302)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.778 1.778) (xy -1.778 3.302)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.524 0) (xy -1.524 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 0.508) (xy 0 1.524)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.032 1.016) (xy 3.048 1.016)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 0.508) (xy 2.54 1.524)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 4.064 0) (xy -1.524 0)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 4.064 -2.54) (xy 4.064 0)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 4.318 3.302) (xy 5.08 3.302)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 4.318 1.778) (xy 4.318 3.302)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 5.08 5.08) (xy 5.08 3.302)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 5.08 3.302) (xy 5.08 1.778)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 5.08 1.778) (xy 4.318 1.778)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 5.08 1.778) (xy 5.08 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 5.08 -2.54) (xy 4.064 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin bidirectional line
-					(at 0 -5.08 90)
-					(length 5.08)
-					(name "-"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 2.54 -5.08 90)
-					(length 5.08)
-					(name "+"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -2.54 2.54 90)
-					(length 0)
-					(name "PAD1"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-					(number "NC1"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 5.08 2.54 90)
-					(length 0)
-					(name "PAD2"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-					(number "NC2"
 						(effects
 							(font
 								(size 0 0)
@@ -8115,165 +7467,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "nw-cold-silicon:R-EU_R0805"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "R"
-				(at -3.81 1.4986 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Value" ""
-				(at -3.81 -3.302 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Footprint" "nw-cold-silicon:R0805"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "RESISTOR, European symbol\n\nDigikey Parts:\n\n•  Yageo, 0402\n•  Yageo, 0603\n•  Panasonic, 0603\n•  Panasonic, precision, 0603\n•  Panasonic, 0805\n•  Rohm, current sense\n•  Vishay, pulse proof automotive"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "R-EU_R0805_1_0"
-				(polyline
-					(pts
-						(xy -2.54 -0.889) (xy -2.54 0.889)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.54 -0.889) (xy 2.54 -0.889)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 0.889) (xy -2.54 0.889)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 -0.889) (xy 2.54 0.889)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -5.08 0 0)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 0 180)
-					(length 2.54)
-					(name "2"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "nw-cold-silicon:USB_MICROVERT"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -9136,16 +8329,6 @@
 	)
 	(wire
 		(pts
-			(xy 236.22 236.22) (xy 241.3 236.22)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "16faeccd-ff66-423f-a793-548dce04e3a7")
-	)
-	(wire
-		(pts
 			(xy 269.24 101.6) (xy 279.4 101.6)
 		)
 		(stroke
@@ -9413,16 +8596,6 @@
 			(type solid)
 		)
 		(uuid "2b9e3cdb-1742-41c0-b349-359a652c76f6")
-	)
-	(wire
-		(pts
-			(xy 269.24 223.52) (xy 274.32 223.52)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "2bdac3ae-9041-47d6-8227-4dbee5ddd956")
 	)
 	(wire
 		(pts
@@ -9826,16 +8999,6 @@
 	)
 	(wire
 		(pts
-			(xy 238.76 213.36) (xy 238.76 215.9)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "5dd4038c-4adb-4eef-8d98-ecc6ef972253")
-	)
-	(wire
-		(pts
 			(xy 175.26 139.7) (xy 177.8 139.7)
 		)
 		(stroke
@@ -9973,16 +9136,6 @@
 			(type solid)
 		)
 		(uuid "7080932f-eac5-4c31-9de7-08582a070a36")
-	)
-	(wire
-		(pts
-			(xy 236.22 213.36) (xy 238.76 213.36)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "70d797a7-07ab-4a25-8296-3bcf600e8bce")
 	)
 	(wire
 		(pts
@@ -10436,16 +9589,6 @@
 	)
 	(wire
 		(pts
-			(xy 236.22 238.76) (xy 241.3 238.76)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "988cbccc-23cc-4798-a05f-dd47ddadd1da")
-	)
-	(wire
-		(pts
 			(xy 73.66 208.28) (xy 73.66 210.82)
 		)
 		(stroke
@@ -10523,26 +9666,6 @@
 			(type solid)
 		)
 		(uuid "9c583ab3-1bd7-4ee3-9a3e-9e7ae1f4ef26")
-	)
-	(wire
-		(pts
-			(xy 238.76 215.9) (xy 241.3 215.9)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "9dc3d792-2e05-457e-b92e-e73065d02f5a")
-	)
-	(wire
-		(pts
-			(xy 269.24 226.06) (xy 274.32 226.06)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "9efcd22e-190a-4e69-b8a9-1e1447a7abf4")
 	)
 	(wire
 		(pts
@@ -10686,16 +9809,6 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 210.82) (xy 251.46 210.82)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "ab1d497e-d6a5-4688-a6e5-d8715e254dcc")
-	)
-	(wire
-		(pts
 			(xy 144.78 35.56) (xy 144.78 33.02)
 		)
 		(stroke
@@ -10813,16 +9926,6 @@
 			(type solid)
 		)
 		(uuid "ba999d1d-2fd9-4d5e-82f2-ef6a7afd24c7")
-	)
-	(wire
-		(pts
-			(xy 236.22 226.06) (xy 241.3 226.06)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "be394e50-0df5-47aa-af60-f22fb8e7523a")
 	)
 	(wire
 		(pts
@@ -11216,16 +10319,6 @@
 	)
 	(wire
 		(pts
-			(xy 236.22 223.52) (xy 241.3 223.52)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "ea87648d-6aec-46dd-9ca2-7c31ba98b2d5")
-	)
-	(wire
-		(pts
 			(xy 289.56 114.3) (xy 289.56 116.84)
 		)
 		(stroke
@@ -11293,16 +10386,6 @@
 			(type solid)
 		)
 		(uuid "f0817540-d792-4eaf-8ab1-f75925891601")
-	)
-	(wire
-		(pts
-			(xy 236.22 210.82) (xy 238.76 210.82)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "f2553f66-e1a2-44d4-a6c5-bdb10c42e331")
 	)
 	(wire
 		(pts
@@ -11839,30 +10922,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-			)
-		)
-	)
-	(global_label "V_PRIME_SENSE"
-		(shape bidirectional)
-		(at 236.22 210.82 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.016 1.016)
-			)
-			(justify right)
-		)
-		(uuid "1521be99-570a-4c32-a5b5-dc01459d55ee")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 221.0899 210.82 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 			)
 		)
 	)
@@ -12418,30 +11477,6 @@
 			)
 		)
 	)
-	(global_label "LI-"
-		(shape bidirectional)
-		(at 274.32 226.06 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 0.569 0.569)
-			)
-			(justify left)
-		)
-		(uuid "4e07462d-07ea-44ef-9469-2a4e9299f75a")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 277.5915 226.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
 	(global_label "TX"
 		(shape bidirectional)
 		(at 129.54 284.48 0)
@@ -12455,30 +11490,6 @@
 		(uuid "4ef8d061-c749-4cf9-b7ad-af5eb43560cc")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 135.6878 284.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "LI-"
-		(shape bidirectional)
-		(at 241.3 226.06 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 0.569 0.569)
-			)
-			(justify left)
-		)
-		(uuid "592cc7dd-9777-49ac-9282-624b70b4769c")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 244.5715 226.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12634,54 +11645,6 @@
 			)
 		)
 	)
-	(global_label "LI+"
-		(shape bidirectional)
-		(at 241.3 223.52 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 0.569 0.569)
-			)
-			(justify left)
-		)
-		(uuid "634d93f4-a4c0-4f16-bfa3-ac58d332104c")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 244.5715 223.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "V_SOLAR"
-		(shape bidirectional)
-		(at 241.3 236.22 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 0.569 0.569)
-			)
-			(justify left)
-		)
-		(uuid "636e6145-64a2-4da6-9c8c-4acc9c454aa7")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 246.7119 236.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
 	(global_label "RX"
 		(shape bidirectional)
 		(at 177.8 114.3 0)
@@ -12815,30 +11778,6 @@
 		(uuid "673336f7-2f44-4834-98d6-e50c0528d206")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 196.5633 281.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "V_PRIME"
-		(shape bidirectional)
-		(at 251.46 210.82 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 0.569 0.569)
-			)
-			(justify left)
-		)
-		(uuid "6774a271-028c-4b24-a8a7-36d56e340f8a")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 256.7907 210.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13255,30 +12194,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-			)
-		)
-	)
-	(global_label "GND"
-		(shape bidirectional)
-		(at 241.3 238.76 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 0.569 0.569)
-			)
-			(justify left)
-		)
-		(uuid "8c8f58d5-2845-4e3d-b997-c2736361dcaa")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 244.8695 238.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 			)
 		)
 	)
@@ -13906,30 +12821,6 @@
 			)
 		)
 	)
-	(global_label "LI+"
-		(shape bidirectional)
-		(at 274.32 223.52 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 0.569 0.569)
-			)
-			(justify left)
-		)
-		(uuid "bf68f383-17f4-4c8a-93b1-7f81b3f2a3aa")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 277.5915 223.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
 	(global_label "SD_CD"
 		(shape bidirectional)
 		(at 38.1 213.36 270)
@@ -13951,30 +12842,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-			)
-		)
-	)
-	(global_label "V_PRIME-"
-		(shape bidirectional)
-		(at 241.3 215.9 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 0.569 0.569)
-			)
-			(justify left)
-		)
-		(uuid "c157a6c3-33c6-48f4-ad04-a38d296ef564")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 247.3352 215.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 			)
 		)
 	)
@@ -14456,152 +13323,6 @@
 				)
 				(justify right)
 			)
-		)
-	)
-	(symbol
-		(lib_id "nw-cold-silicon:CONN_022.54_SCREW")
-		(at 228.6 213.36 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "103ae7f2-ce53-4f51-b720-f9ccfb6f9aef")
-		(property "Reference" "J5"
-			(at 226.06 207.772 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.778 1.778)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "CONN_022.54_SCREW"
-			(at 226.06 218.186 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.778 1.778)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "nw-cold-silicon:1X02_2.54_SCREWTERM"
-			(at 228.6 213.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 228.6 213.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 228.6 213.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "P1"
-			(uuid "81709f1b-a365-463e-a927-9dc8e31264c6")
-		)
-		(pin "P2"
-			(uuid "200d1109-d7c2-43ca-96aa-d20f4407323d")
-		)
-	)
-	(symbol
-		(lib_id "nw-cold-silicon:R-EU_R0805")
-		(at 243.84 210.82 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "151f73b6-501b-47fb-b2b2-f9c3af425976")
-		(property "Reference" "R73"
-			(at 240.03 209.3214 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "R-EU_R0805"
-			(at 240.03 214.122 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "nw-cold-silicon:R0805"
-			(at 243.84 210.82 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 243.84 210.82 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 243.84 210.82 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "55c4a5de-7d7d-4517-845d-28abfd5cd137")
-		)
-		(pin "2"
-			(uuid "65f95733-e91e-4176-b6ac-30e5a8997ff5")
 		)
 	)
 	(symbol
@@ -16217,79 +14938,6 @@
 		)
 		(pin "1"
 			(uuid "2f091527-b634-47f3-a53f-0c9d61e4a06c")
-		)
-	)
-	(symbol
-		(lib_id "nw-cold-silicon:CONN_022.54_SCREW")
-		(at 228.6 226.06 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "514816fa-2830-4344-ae85-f4f0ec65cb90")
-		(property "Reference" "J6"
-			(at 226.06 220.472 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.778 1.778)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "CONN_022.54_SCREW"
-			(at 226.06 230.886 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.778 1.778)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "nw-cold-silicon:1X02_2.54_SCREWTERM"
-			(at 228.6 226.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 228.6 226.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 228.6 226.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "P1"
-			(uuid "0c707c5a-1cf6-4cfe-9211-1ac21465585c")
-		)
-		(pin "P2"
-			(uuid "db6da13c-b4df-4046-8d4c-1e116796f463")
 		)
 	)
 	(symbol
@@ -19146,79 +17794,6 @@
 		)
 	)
 	(symbol
-		(lib_id "nw-cold-silicon:CONN_022.54_SCREW")
-		(at 228.6 238.76 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "d579097c-0967-4166-873d-8a2130066597")
-		(property "Reference" "J7"
-			(at 226.06 233.172 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.778 1.778)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "CONN_022.54_SCREW"
-			(at 226.06 243.586 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.778 1.778)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "nw-cold-silicon:1X02_2.54_SCREWTERM"
-			(at 228.6 238.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 228.6 238.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 228.6 238.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "P1"
-			(uuid "31b0bbe8-3829-46a7-8c83-51006f1b774e")
-		)
-		(pin "P2"
-			(uuid "88ce3ffe-206e-4432-b5b3-6d5400ed68f3")
-		)
-	)
-	(symbol
 		(lib_id "nw-cold-silicon:GND")
 		(at 73.66 218.44 0)
 		(unit 1)
@@ -19988,85 +18563,6 @@
 		)
 		(pin "CATHODE"
 			(uuid "d9c1a9d5-8d7f-45c8-90f2-6e868559feb6")
-		)
-	)
-	(symbol
-		(lib_id "nw-cold-silicon:JST_2MM_MALE")
-		(at 264.16 226.06 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "fa165aa6-5231-4dd1-a06d-e737e64720de")
-		(property "Reference" "J8"
-			(at 258.318 228.6 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "JST_2MM_MALE"
-			(at 264.16 226.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "nw-cold-silicon:JST-2-SMD"
-			(at 264.16 226.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 264.16 226.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 264.16 226.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "6fac224b-2ab9-41c0-a0be-860fe7a19637")
-		)
-		(pin "2"
-			(uuid "f166b439-1318-4f7d-acd4-2004ba8bd5f2")
-		)
-		(pin "NC1"
-			(uuid "46e7d0be-cfa5-4f1f-bf8a-6f192bdf5e2a")
-		)
-		(pin "NC2"
-			(uuid "d60614a8-9b4a-43cc-8e39-38b7ea66b598")
 		)
 	)
 	(symbol
