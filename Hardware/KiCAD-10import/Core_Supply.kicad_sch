@@ -3188,7 +3188,7 @@
 	)
 	(text "5V_LP boost"
 		(exclude_from_sim no)
-		(at 51.28 81.344 0)
+		(at 51.28 62.23 0)
 		(effects
 			(font
 				(size 3.048 2.54)
@@ -3227,7 +3227,7 @@
 	)
 	(text "3V3_CORE LDO"
 		(exclude_from_sim no)
-		(at 96.84 154.75 0)
+		(at 96.84 148.59 0)
 		(effects
 			(font
 				(size 3.048 2.54)
@@ -3240,7 +3240,7 @@
 	)
 	(text "V_CORE select"
 		(exclude_from_sim no)
-		(at 19.53 139.764 0)
+		(at 19.53 115.57 0)
 		(effects
 			(font
 				(size 3.048 2.54)
