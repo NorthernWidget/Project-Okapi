@@ -5,7 +5,7 @@
 	(uuid "a92e5e7b-d13d-41b7-babb-8d16f7b3f990")
 	(paper "User" 470.0778 234.696)
 	(lib_symbols
-		(symbol "Okapi-eagle-import:BAT54C"
+		(symbol "nw-cold-silicon:BAT54C"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -387,112 +387,6 @@
 						)
 					)
 					(number "3"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "Okapi-eagle-import:supply1_371_GND"
-			(power global)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "#GND"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" ""
-				(at -2.54 -2.54 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "SUPPLY SYMBOL"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "supply1_371_GND_1_0"
-				(polyline
-					(pts
-						(xy -1.905 0) (xy 1.905 0)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin power_in line
-					(at 0 2.54 270)
-					(length 2.54)
-					(name "GND"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-					(number "1"
 						(effects
 							(font
 								(size 0 0)
@@ -2192,6 +2086,112 @@
 						)
 					)
 					(number "C"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "nw-cold-silicon:GND"
+			(power global)
+			(exclude_from_sim yes)
+			(in_bom no)
+			(on_board no)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "#PWR"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "GND"
+				(at 0 -0.254 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.778 1.5113)
+					)
+					(justify top)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Ground Supply Symbol\n\nGeneric signal ground supply symbol."
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "GND_1_0"
+				(polyline
+					(pts
+						(xy -1.905 0) (xy 1.905 0)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin power_in line
+					(at 0 2.54 270)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "1"
 						(effects
 							(font
 								(size 0 0)
@@ -13395,7 +13395,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:supply1_371_GND")
+		(lib_id "nw-cold-silicon:GND")
 		(at 322.58 111.76 0)
 		(unit 1)
 		(body_style 1)
@@ -13548,7 +13548,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:supply1_371_GND")
+		(lib_id "nw-cold-silicon:GND")
 		(at 386.08 68.58 0)
 		(unit 1)
 		(body_style 1)
@@ -13914,7 +13914,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:supply1_371_GND")
+		(lib_id "nw-cold-silicon:GND")
 		(at 73.66 86.36 0)
 		(unit 1)
 		(body_style 1)
@@ -13984,7 +13984,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:supply1_371_GND")
+		(lib_id "nw-cold-silicon:GND")
 		(at 264.16 149.86 0)
 		(unit 1)
 		(body_style 1)
@@ -14273,7 +14273,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:supply1_371_GND")
+		(lib_id "nw-cold-silicon:GND")
 		(at 78.74 175.26 0)
 		(unit 1)
 		(body_style 1)
@@ -14519,7 +14519,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:supply1_371_GND")
+		(lib_id "nw-cold-silicon:GND")
 		(at 203.2 195.58 0)
 		(unit 1)
 		(body_style 1)
@@ -14732,7 +14732,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:supply1_371_GND")
+		(lib_id "nw-cold-silicon:GND")
 		(at 106.68 119.38 0)
 		(unit 1)
 		(body_style 1)
@@ -15044,7 +15044,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:supply1_371_GND")
+		(lib_id "nw-cold-silicon:GND")
 		(at 60.96 182.88 0)
 		(unit 1)
 		(body_style 1)
@@ -15260,7 +15260,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:supply1_371_GND")
+		(lib_id "nw-cold-silicon:GND")
 		(at 416.56 210.82 0)
 		(unit 1)
 		(body_style 1)
@@ -15403,7 +15403,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:supply1_371_GND")
+		(lib_id "nw-cold-silicon:GND")
 		(at 198.12 152.4 0)
 		(unit 1)
 		(body_style 1)
@@ -15546,7 +15546,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:supply1_371_GND")
+		(lib_id "nw-cold-silicon:GND")
 		(at 106.68 198.12 0)
 		(unit 1)
 		(body_style 1)
@@ -15766,7 +15766,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:supply1_371_GND")
+		(lib_id "nw-cold-silicon:GND")
 		(at 261.62 116.84 0)
 		(unit 1)
 		(body_style 1)
@@ -15836,7 +15836,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:supply1_371_GND")
+		(lib_id "nw-cold-silicon:GND")
 		(at 353.06 190.5 0)
 		(unit 1)
 		(body_style 1)
@@ -15906,7 +15906,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:supply1_371_GND")
+		(lib_id "nw-cold-silicon:GND")
 		(at 322.58 48.26 0)
 		(unit 1)
 		(body_style 1)
@@ -16049,7 +16049,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:supply1_371_GND")
+		(lib_id "nw-cold-silicon:GND")
 		(at 130.81 162.56 0)
 		(unit 1)
 		(body_style 1)
@@ -16119,7 +16119,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:BAT54C")
+		(lib_id "nw-cold-silicon:BAT54C")
 		(at 312.42 30.48 270)
 		(unit 1)
 		(body_style 1)
@@ -16418,7 +16418,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:supply1_371_GND")
+		(lib_id "nw-cold-silicon:GND")
 		(at 200.66 86.36 0)
 		(unit 1)
 		(body_style 1)
@@ -16488,7 +16488,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:supply1_371_GND")
+		(lib_id "nw-cold-silicon:GND")
 		(at 236.22 91.44 0)
 		(unit 1)
 		(body_style 1)
@@ -16631,7 +16631,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:supply1_371_GND")
+		(lib_id "nw-cold-silicon:GND")
 		(at 368.3 68.58 0)
 		(unit 1)
 		(body_style 1)
@@ -16701,7 +16701,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:supply1_371_GND")
+		(lib_id "nw-cold-silicon:GND")
 		(at 218.44 157.48 0)
 		(unit 1)
 		(body_style 1)
@@ -16930,7 +16930,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:supply1_371_GND")
+		(lib_id "nw-cold-silicon:GND")
 		(at 124.46 129.54 0)
 		(unit 1)
 		(body_style 1)
@@ -17073,7 +17073,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:supply1_371_GND")
+		(lib_id "nw-cold-silicon:GND")
 		(at 73.66 119.38 0)
 		(unit 1)
 		(body_style 1)
@@ -17576,7 +17576,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:supply1_371_GND")
+		(lib_id "nw-cold-silicon:GND")
 		(at 109.22 38.1 0)
 		(unit 1)
 		(body_style 1)
@@ -17869,7 +17869,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:supply1_371_GND")
+		(lib_id "nw-cold-silicon:GND")
 		(at 160.02 198.12 0)
 		(unit 1)
 		(body_style 1)
@@ -18128,7 +18128,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:supply1_371_GND")
+		(lib_id "nw-cold-silicon:GND")
 		(at 114.3 81.28 0)
 		(unit 1)
 		(body_style 1)
@@ -18490,7 +18490,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:supply1_371_GND")
+		(lib_id "nw-cold-silicon:GND")
 		(at 142.24 195.58 0)
 		(unit 1)
 		(body_style 1)
@@ -18904,7 +18904,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:supply1_371_GND")
+		(lib_id "nw-cold-silicon:GND")
 		(at 254 165.1 0)
 		(unit 1)
 		(body_style 1)
@@ -18974,7 +18974,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:supply1_371_GND")
+		(lib_id "nw-cold-silicon:GND")
 		(at 146.05 114.3 0)
 		(unit 1)
 		(body_style 1)
@@ -19044,7 +19044,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:supply1_371_GND")
+		(lib_id "nw-cold-silicon:GND")
 		(at 414.02 124.46 0)
 		(unit 1)
 		(body_style 1)
@@ -19114,7 +19114,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:supply1_371_GND")
+		(lib_id "nw-cold-silicon:GND")
 		(at 322.58 68.58 0)
 		(unit 1)
 		(body_style 1)
@@ -19184,7 +19184,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:supply1_371_GND")
+		(lib_id "nw-cold-silicon:GND")
 		(at 106.68 93.98 0)
 		(unit 1)
 		(body_style 1)
@@ -19330,7 +19330,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:supply1_371_GND")
+		(lib_id "nw-cold-silicon:GND")
 		(at 58.42 86.36 0)
 		(unit 1)
 		(body_style 1)
@@ -19705,7 +19705,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:supply1_371_GND")
+		(lib_id "nw-cold-silicon:GND")
 		(at 43.18 114.3 0)
 		(unit 1)
 		(body_style 1)
@@ -20365,7 +20365,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:supply1_371_GND")
+		(lib_id "nw-cold-silicon:GND")
 		(at 55.88 162.56 0)
 		(unit 1)
 		(body_style 1)
@@ -20839,7 +20839,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:supply1_371_GND")
+		(lib_id "nw-cold-silicon:GND")
 		(at 431.8 68.58 0)
 		(unit 1)
 		(body_style 1)
@@ -20985,7 +20985,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:supply1_371_GND")
+		(lib_id "nw-cold-silicon:GND")
 		(at 101.6 33.02 0)
 		(unit 1)
 		(body_style 1)
@@ -21128,7 +21128,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:supply1_371_GND")
+		(lib_id "nw-cold-silicon:GND")
 		(at 238.76 203.2 0)
 		(unit 1)
 		(body_style 1)
@@ -21344,7 +21344,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:supply1_371_GND")
+		(lib_id "nw-cold-silicon:GND")
 		(at 106.68 175.26 0)
 		(unit 1)
 		(body_style 1)
@@ -21414,7 +21414,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:supply1_371_GND")
+		(lib_id "nw-cold-silicon:GND")
 		(at 175.26 134.62 0)
 		(unit 1)
 		(body_style 1)
@@ -21889,7 +21889,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:supply1_371_GND")
+		(lib_id "nw-cold-silicon:GND")
 		(at 345.44 198.12 0)
 		(unit 1)
 		(body_style 1)
