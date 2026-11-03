@@ -1153,7 +1153,7 @@
 	)
 	(text "J2"
 		(exclude_from_sim no)
-		(at 96.68 62.548 0)
+		(at 96.68 55.88 0)
 		(effects
 			(font
 				(size 3.048 2.54)
