@@ -4519,6 +4519,32 @@
 		)
 		(uuid "1f39c410-fa04-5ab8-a78b-b7a843697fa6")
 	)
+	(text "POWER_EN logic"
+		(exclude_from_sim no)
+		(at 152.88 157.544 0)
+		(effects
+			(font
+				(size 3.048 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "33ff68f9-ca71-5052-9900-290a53a9c15c")
+	)
+	(text "C0/C1 decode"
+		(exclude_from_sim no)
+		(at 9.21 31.306 0)
+		(effects
+			(font
+				(size 3.048 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "83b71866-aa3e-5677-a3d1-fd49e905870f")
+	)
 	(text "Remove PG pullup?"
 		(exclude_from_sim no)
 		(at 160.02 92.71 0)
@@ -4529,6 +4555,32 @@
 			(justify left bottom)
 		)
 		(uuid "a41516e3-ad8f-4be7-8b2a-ad212e1f3753")
+	)
+	(text "V_HP switches"
+		(exclude_from_sim no)
+		(at 127.96 39.434 0)
+		(effects
+			(font
+				(size 3.048 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "a5b5e350-08a7-5454-8741-ab3798a6c945")
+	)
+	(text "3V3_AUX buck"
+		(exclude_from_sim no)
+		(at 32.39 103.95 0)
+		(effects
+			(font
+				(size 3.048 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "dbff8da6-6ee0-54e0-8f60-e7925bb84dbb")
 	)
 	(text "V_HP Source Select"
 		(exclude_from_sim no)
@@ -4542,6 +4594,19 @@
 			(justify left bottom)
 		)
 		(uuid "f384cea4-fb80-5b04-bce2-e37fdb25c27f")
+	)
+	(text "5V_AUX boost"
+		(exclude_from_sim no)
+		(at 34.93 160.084 0)
+		(effects
+			(font
+				(size 3.048 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "f6f3e7a6-1b48-5357-8f5e-086ae9fa455a")
 	)
 	(junction
 		(at 132.08 91.44)
