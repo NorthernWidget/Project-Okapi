@@ -4610,7 +4610,7 @@
 		(uuid "5c032218-ef87-4f8f-83a2-a04a64b5f78a")
 	)
 	(junction
-		(at 124.46 170.18)
+		(at 205.74 144.78)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "683d80be-9533-4c66-931c-c6985825c079")
@@ -4719,7 +4719,7 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 170.18) (xy 124.46 167.64)
+			(xy 205.74 144.78) (xy 205.74 142.24)
 		)
 		(stroke
 			(width 0.1524)
@@ -4729,7 +4729,7 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 177.8) (xy 86.36 177.8)
+			(xy 172.72 152.4) (xy 167.64 152.4)
 		)
 		(stroke
 			(width 0.1524)
@@ -4779,7 +4779,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 185.42) (xy 142.24 182.88)
+			(xy 223.52 160.02) (xy 223.52 157.48)
 		)
 		(stroke
 			(width 0.1524)
@@ -4789,7 +4789,7 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 180.34) (xy 124.46 182.88)
+			(xy 205.74 154.94) (xy 205.74 157.48)
 		)
 		(stroke
 			(width 0.1524)
@@ -4809,7 +4809,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 172.72) (xy 142.24 170.18)
+			(xy 223.52 147.32) (xy 223.52 144.78)
 		)
 		(stroke
 			(width 0.1524)
@@ -4959,7 +4959,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 170.18) (xy 124.46 170.18)
+			(xy 223.52 144.78) (xy 205.74 144.78)
 		)
 		(stroke
 			(width 0.1524)
@@ -4969,7 +4969,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 182.88) (xy 88.9 185.42)
+			(xy 170.18 157.48) (xy 170.18 160.02)
 		)
 		(stroke
 			(width 0.1524)
@@ -5059,7 +5059,7 @@
 	)
 	(wire
 		(pts
-			(xy 111.76 177.8) (xy 116.84 177.8)
+			(xy 193.04 152.4) (xy 198.12 152.4)
 		)
 		(stroke
 			(width 0.1524)
@@ -5469,7 +5469,7 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 182.88) (xy 88.9 182.88)
+			(xy 172.72 157.48) (xy 170.18 157.48)
 		)
 		(stroke
 			(width 0.1524)
@@ -5509,7 +5509,7 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 167.64) (xy 127 167.64)
+			(xy 205.74 142.24) (xy 208.28 142.24)
 		)
 		(stroke
 			(width 0.1524)
@@ -5559,7 +5559,7 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 172.72) (xy 88.9 172.72)
+			(xy 172.72 147.32) (xy 170.18 147.32)
 		)
 		(stroke
 			(width 0.1524)
@@ -5721,13 +5721,13 @@
 	)
 	(global_label "POWER_EN"
 		(shape bidirectional)
-		(at 58.42 147.32 180)
+		(at 58.42 147.32 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.7112 0.7112)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "292b87d0-e334-42a4-b842-c8f194102a9e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -5841,7 +5841,7 @@
 	)
 	(global_label "3V3_CORE"
 		(shape bidirectional)
-		(at 88.9 172.72 180)
+		(at 170.18 147.32 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5851,7 +5851,7 @@
 		)
 		(uuid "4b1a78c7-fa8b-4b32-8474-8ebb7a714fe0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 81.2889 172.72 0)
+			(at 162.5689 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6033,7 +6033,7 @@
 	)
 	(global_label "5V_AUX"
 		(shape bidirectional)
-		(at 127 167.64 0)
+		(at 208.28 142.24 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6043,7 +6043,7 @@
 		)
 		(uuid "86b2ee7b-29ca-45a9-80d8-b49fd8a8e1cf")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 133.1548 167.64 0)
+			(at 214.4348 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6153,7 +6153,7 @@
 	)
 	(global_label "POWER_EN"
 		(shape bidirectional)
-		(at 86.36 177.8 180)
+		(at 167.64 152.4 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6163,7 +6163,7 @@
 		)
 		(uuid "e1631a48-c520-4e48-a008-c30ba52d5652")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 78.5117 177.8 0)
+			(at 159.7917 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6390,7 +6390,7 @@
 	)
 	(symbol
 		(lib_id "nw-cold-silicon:SN74AUP1G04YFP")
-		(at 101.6 177.8 0)
+		(at 182.88 152.4 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6400,7 +6400,7 @@
 		(dnp no)
 		(uuid "0822bf5b-6595-4534-9c52-3a39e77f3618")
 		(property "Reference" "U13"
-			(at 101.6 186.944 0)
+			(at 182.88 161.544 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6412,7 +6412,7 @@
 			)
 		)
 		(property "Value" "SN74AUP1G04YFP"
-			(at 101.6 177.8 0)
+			(at 182.88 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6423,7 +6423,7 @@
 			)
 		)
 		(property "Footprint" "nw-cold-silicon:DSBGD_4"
-			(at 101.6 177.8 0)
+			(at 182.88 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6434,7 +6434,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 101.6 177.8 0)
+			(at 182.88 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6445,7 +6445,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 101.6 177.8 0)
+			(at 182.88 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6626,7 +6626,7 @@
 	)
 	(symbol
 		(lib_id "nw-cold-silicon:R-EU_R0402")
-		(at 142.24 177.8 90)
+		(at 223.52 152.4 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6636,7 +6636,7 @@
 		(dnp no)
 		(uuid "0eb3a2c3-50de-4827-a32b-c5ebb6fecbf0")
 		(property "Reference" "R67"
-			(at 140.7414 181.61 0)
+			(at 222.0214 156.21 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6647,7 +6647,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 145.542 181.61 0)
+			(at 226.822 156.21 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6658,7 +6658,7 @@
 			)
 		)
 		(property "Footprint" "nw-cold-silicon:R0402"
-			(at 142.24 177.8 0)
+			(at 223.52 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6669,7 +6669,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 142.24 177.8 0)
+			(at 223.52 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6680,7 +6680,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 142.24 177.8 0)
+			(at 223.52 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7427,7 +7427,7 @@
 	)
 	(symbol
 		(lib_id "nw-cold-silicon:GND")
-		(at 88.9 187.96 0)
+		(at 170.18 162.56 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7437,7 +7437,7 @@
 		(dnp no)
 		(uuid "3813f858-c503-4936-9d62-1fe62cf7b950")
 		(property "Reference" "#GND83"
-			(at 88.9 187.96 0)
+			(at 170.18 162.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7448,7 +7448,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 86.36 190.5 0)
+			(at 167.64 165.1 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7459,7 +7459,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 88.9 187.96 0)
+			(at 170.18 162.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7470,7 +7470,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 88.9 187.96 0)
+			(at 170.18 162.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7481,7 +7481,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 88.9 187.96 0)
+			(at 170.18 162.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7998,7 +7998,7 @@
 	)
 	(symbol
 		(lib_id "nw-cold-silicon:GND")
-		(at 142.24 187.96 0)
+		(at 223.52 162.56 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8008,7 +8008,7 @@
 		(dnp no)
 		(uuid "866e6133-86dc-4d0e-81e1-451c04fc191e")
 		(property "Reference" "#GND82"
-			(at 142.24 187.96 0)
+			(at 223.52 162.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8019,7 +8019,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 139.7 190.5 0)
+			(at 220.98 165.1 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8030,7 +8030,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 142.24 187.96 0)
+			(at 223.52 162.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8041,7 +8041,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 142.24 187.96 0)
+			(at 223.52 162.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8052,7 +8052,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 142.24 187.96 0)
+			(at 223.52 162.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8224,7 +8224,7 @@
 	)
 	(symbol
 		(lib_id "nw-cold-silicon:GND")
-		(at 124.46 185.42 0)
+		(at 205.74 160.02 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8234,7 +8234,7 @@
 		(dnp no)
 		(uuid "9bd991e8-801c-4d4e-9963-1a34bc2d7580")
 		(property "Reference" "#GND81"
-			(at 124.46 185.42 0)
+			(at 205.74 160.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8245,7 +8245,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 121.92 187.96 0)
+			(at 203.2 162.56 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8256,7 +8256,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 124.46 185.42 0)
+			(at 205.74 160.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8267,7 +8267,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 124.46 185.42 0)
+			(at 205.74 160.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8278,7 +8278,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 124.46 185.42 0)
+			(at 205.74 160.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8596,7 +8596,7 @@
 	)
 	(symbol
 		(lib_id "nw-cold-silicon:MOSFET-NCH-2N7002PW")
-		(at 121.92 175.26 0)
+		(at 203.2 149.86 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8606,7 +8606,7 @@
 		(dnp no)
 		(uuid "b5d9a7db-6983-448a-830f-1a0dc37425df")
 		(property "Reference" "Q7"
-			(at 127 175.26 0)
+			(at 208.28 149.86 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8617,7 +8617,7 @@
 			)
 		)
 		(property "Value" "2N7002"
-			(at 127 177.8 0)
+			(at 208.28 152.4 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8628,7 +8628,7 @@
 			)
 		)
 		(property "Footprint" "nw-cold-silicon:SOT323"
-			(at 121.92 175.26 0)
+			(at 203.2 149.86 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8639,7 +8639,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 121.92 175.26 0)
+			(at 203.2 149.86 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8650,7 +8650,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 121.92 175.26 0)
+			(at 203.2 149.86 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
