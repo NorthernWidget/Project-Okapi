@@ -3,14 +3,14 @@
 	(generator "eeschema")
 	(generator_version "10.0")
 	(uuid "1ee451ae-bb3e-4642-885f-a7d8b2e03084")
-	(paper "A4")
+	(paper "USLetter")
 	(title_block
 		(date "2024-11-02")
 		(rev "1.0")
 	)
 	(lib_symbols)
 	(sheet
-		(at 25.4 69.85)
+		(at 88.9 25.4)
 		(size 50.8 31.75)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -25,8 +25,8 @@
 			(color 0 0 0 0)
 		)
 		(uuid "106d8c10-e3d3-4dc4-b556-96715ff22034")
-		(property "Sheetname" "Okapi_4"
-			(at 25.4 69.1384 0)
+		(property "Sheetname" "Level_Shifters"
+			(at 88.9 24.6884 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -36,8 +36,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "Okapi_4.kicad_sch"
-			(at 25.4 102.1846 0)
+		(property "Sheetfile" "Level_Shifters.kicad_sch"
+			(at 88.9 57.6846 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -50,53 +50,7 @@
 		(instances
 			(project "Okapi"
 				(path "/1ee451ae-bb3e-4642-885f-a7d8b2e03084"
-					(page "5")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 152.4 25.4)
-		(size 50.8 31.75)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0)
-		)
-		(uuid "2153ea5a-57d8-4557-9861-4c1c1e592d35")
-		(property "Sheetname" "Okapi_3"
-			(at 152.4 24.6884 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "Okapi_3.kicad_sch"
-			(at 152.4 57.7346 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "Okapi"
-				(path "/1ee451ae-bb3e-4642-885f-a7d8b2e03084"
-					(page "4")
+					(page "3")
 				)
 			)
 		)
@@ -116,8 +70,8 @@
 		(fill
 			(color 0 0 0 0)
 		)
-		(uuid "29a2f83a-1e97-434c-a654-9be07bc8f096")
-		(property "Sheetname" "Okapi_6"
+		(uuid "2153ea5a-57d8-4557-9861-4c1c1e592d35")
+		(property "Sheetname" "Okapi_3"
 			(at 152.4 69.1384 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -128,8 +82,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "Okapi_6.kicad_sch"
-			(at 152.4 102.1846 0)
+		(property "Sheetfile" "Okapi_3.kicad_sch"
+			(at 152.4 102.1346 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -143,52 +97,6 @@
 			(project "Okapi"
 				(path "/1ee451ae-bb3e-4642-885f-a7d8b2e03084"
 					(page "7")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 88.9 25.4)
-		(size 50.8 31.75)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0)
-		)
-		(uuid "522bdf4e-cbbf-4df1-8ec4-1da5dbf4d02a")
-		(property "Sheetname" "Okapi_2"
-			(at 88.9 24.6884 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "Okapi_2.kicad_sch"
-			(at 88.9 57.7346 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "Okapi"
-				(path "/1ee451ae-bb3e-4642-885f-a7d8b2e03084"
-					(page "3")
 				)
 			)
 		)
@@ -208,8 +116,8 @@
 		(fill
 			(color 0 0 0 0)
 		)
-		(uuid "a92e5e7b-d13d-41b7-babb-8d16f7b3f990")
-		(property "Sheetname" "Okapi_1"
+		(uuid "29a2f83a-1e97-434c-a654-9be07bc8f096")
+		(property "Sheetname" "Microcontroller"
 			(at 25.4 24.6884 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -220,8 +128,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "Okapi_1.kicad_sch"
-			(at 25.4 57.7346 0)
+		(property "Sheetfile" "Microcontroller.kicad_sch"
+			(at 25.4 57.6846 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -254,8 +162,8 @@
 		(fill
 			(color 0 0 0 0)
 		)
-		(uuid "f56bb8c8-f3a8-4e99-863b-e7bdd3ebac44")
-		(property "Sheetname" "Okapi_5"
+		(uuid "522bdf4e-cbbf-4df1-8ec4-1da5dbf4d02a")
+		(property "Sheetname" "Okapi_2"
 			(at 88.9 69.1384 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -266,8 +174,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "Okapi_5.kicad_sch"
-			(at 88.9 102.1846 0)
+		(property "Sheetfile" "Okapi_2.kicad_sch"
+			(at 88.9 102.1346 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -281,6 +189,98 @@
 			(project "Okapi"
 				(path "/1ee451ae-bb3e-4642-885f-a7d8b2e03084"
 					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25.4 69.85)
+		(size 50.8 31.75)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "a92e5e7b-d13d-41b7-babb-8d16f7b3f990")
+		(property "Sheetname" "Okapi_1"
+			(at 25.4 69.1384 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Okapi_1.kicad_sch"
+			(at 25.4 102.1346 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Okapi"
+				(path "/1ee451ae-bb3e-4642-885f-a7d8b2e03084"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 152.4 25.4)
+		(size 50.8 31.75)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "f56bb8c8-f3a8-4e99-863b-e7bdd3ebac44")
+		(property "Sheetname" "Sensors"
+			(at 152.4 24.6884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Sensors.kicad_sch"
+			(at 152.4 57.6846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Okapi"
+				(path "/1ee451ae-bb3e-4642-885f-a7d8b2e03084"
+					(page "4")
 				)
 			)
 		)
