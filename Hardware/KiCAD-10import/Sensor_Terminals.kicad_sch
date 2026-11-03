@@ -1140,7 +1140,7 @@
 	)
 	(text "J3"
 		(exclude_from_sim no)
-		(at 144.94 25.4 0)
+		(at 144.94 24.13 0)
 		(effects
 			(font
 				(size 3.048 2.54)
@@ -1153,7 +1153,7 @@
 	)
 	(text "J2"
 		(exclude_from_sim no)
-		(at 96.68 62.23 0)
+		(at 96.68 60.96 0)
 		(effects
 			(font
 				(size 3.048 2.54)
@@ -1166,7 +1166,7 @@
 	)
 	(text "J4"
 		(exclude_from_sim no)
-		(at 195.74 39.688 0)
+		(at 195.74 48.26 0)
 		(effects
 			(font
 				(size 3.048 2.54)
@@ -1179,7 +1179,7 @@
 	)
 	(text "J1"
 		(exclude_from_sim no)
-		(at 40.8 25.4 0)
+		(at 40.8 24.13 0)
 		(effects
 			(font
 				(size 3.048 2.54)
