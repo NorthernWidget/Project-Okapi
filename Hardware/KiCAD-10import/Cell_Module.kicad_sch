@@ -3877,7 +3877,7 @@
 	)
 	(text "B-series module"
 		(exclude_from_sim no)
-		(at 100.65 172.53 0)
+		(at 100.65 68.58 0)
 		(effects
 			(font
 				(size 3.048 2.54)
@@ -3890,7 +3890,7 @@
 	)
 	(text "RGB LED"
 		(exclude_from_sim no)
-		(at 26.83 105.03 0)
+		(at 26.83 100.33 0)
 		(effects
 			(font
 				(size 3.048 2.54)
@@ -3903,7 +3903,7 @@
 	)
 	(text "Mode / reset buttons"
 		(exclude_from_sim no)
-		(at 212.57 137.034 0)
+		(at 212.57 125.73 0)
 		(effects
 			(font
 				(size 3.048 2.54)
@@ -3926,7 +3926,7 @@
 	)
 	(text "Module USB"
 		(exclude_from_sim no)
-		(at 32.164 45.022 0)
+		(at 32.164 43.18 0)
 		(effects
 			(font
 				(size 3.048 2.54)
@@ -3939,7 +3939,7 @@
 	)
 	(text "FRAM"
 		(exclude_from_sim no)
-		(at 36.99 166.688 0)
+		(at 36.99 123.19 0)
 		(effects
 			(font
 				(size 3.048 2.54)
