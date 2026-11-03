@@ -2731,6 +2731,14 @@
 		(uuid "26dc076c-8a48-5cde-b891-ca2cf9c9beff")
 	)
 	(no_connect
+		(at 34.29 69.85)
+		(uuid "4498d3b8-1473-569f-8106-d339fb53ec70")
+	)
+	(no_connect
+		(at 34.29 67.31)
+		(uuid "645d265d-f364-5465-b729-e649009c4556")
+	)
+	(no_connect
 		(at 143.51 80.01)
 		(uuid "9e6007d9-bd4a-5e6f-bc96-ffa6ba0ec7bf")
 	)
@@ -3512,16 +3520,6 @@
 		)
 		(uuid "1d921452-1373-41d4-aa7f-9ad62127609e")
 	)
-	(label "SBU1"
-		(at 34.29 67.31 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "2a363c28-57c6-41a9-bb64-3cbfd5fb3f09")
-	)
 	(label "CC2"
 		(at 34.29 64.77 0)
 		(effects
@@ -3571,16 +3569,6 @@
 			(justify left bottom)
 		)
 		(uuid "a6b9d9ca-3ec6-4d71-99eb-340d9ef81dd3")
-	)
-	(label "SBU2"
-		(at 34.29 69.85 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "aa6e467a-5fdb-4338-89c5-6e88fe035b70")
 	)
 	(label "3V3_FTDI"
 		(at 128.27 34.29 0)
