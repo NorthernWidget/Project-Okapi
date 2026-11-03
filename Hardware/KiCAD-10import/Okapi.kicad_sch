@@ -10,7 +10,7 @@
 	)
 	(lib_symbols)
 	(sheet
-		(at 215.9 63.5)
+		(at 152.4 101.6)
 		(size 50.8 31.75)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -26,7 +26,7 @@
 		)
 		(uuid "00d7b7a7-9bf2-5bd0-b659-342e60e6116f")
 		(property "Sheetname" "Cell_Module"
-			(at 215.9 62.7884 0)
+			(at 152.4 100.8884 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -37,7 +37,7 @@
 			)
 		)
 		(property "Sheetfile" "Cell_Module.kicad_sch"
-			(at 215.9 95.7846 0)
+			(at 152.4 133.8846 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -50,7 +50,53 @@
 		(instances
 			(project "Okapi"
 				(path "/1ee451ae-bb3e-4642-885f-a7d8b2e03084"
-					(page "9")
+					(page "12")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25.4 101.6)
+		(size 50.8 31.75)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "01acab74-d69c-56f0-ae64-27a5f837504e")
+		(property "Sheetname" "Analog_Clock_Power"
+			(at 25.4 100.8884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Analog_Clock_Power.kicad_sch"
+			(at 25.4 133.8846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Okapi"
+				(path "/1ee451ae-bb3e-4642-885f-a7d8b2e03084"
+					(page "10")
 				)
 			)
 		)
@@ -70,8 +116,8 @@
 		(fill
 			(color 0 0 0 0)
 		)
-		(uuid "01acab74-d69c-56f0-ae64-27a5f837504e")
-		(property "Sheetname" "Analog_Clock_Power"
+		(uuid "106d8c10-e3d3-4dc4-b556-96715ff22034")
+		(property "Sheetname" "Level_Shifters"
 			(at 25.4 138.9884 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -82,7 +128,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "Analog_Clock_Power.kicad_sch"
+		(property "Sheetfile" "Level_Shifters.kicad_sch"
 			(at 25.4 171.9846 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -97,52 +143,6 @@
 			(project "Okapi"
 				(path "/1ee451ae-bb3e-4642-885f-a7d8b2e03084"
 					(page "14")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 88.9 101.6)
-		(size 50.8 31.75)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0)
-		)
-		(uuid "106d8c10-e3d3-4dc4-b556-96715ff22034")
-		(property "Sheetname" "Level_Shifters"
-			(at 88.9 100.8884 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "Level_Shifters.kicad_sch"
-			(at 88.9 133.8846 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "Okapi"
-				(path "/1ee451ae-bb3e-4642-885f-a7d8b2e03084"
-					(page "11")
 				)
 			)
 		)
@@ -240,7 +240,7 @@
 		)
 	)
 	(sheet
-		(at 88.9 139.7)
+		(at 152.4 139.7)
 		(size 50.8 31.75)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -256,144 +256,6 @@
 		)
 		(uuid "34f0e119-e3ed-573f-aa6d-1156728ef2dc")
 		(property "Sheetname" "Sensor_Ports"
-			(at 88.9 138.9884 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "Sensor_Ports.kicad_sch"
-			(at 88.9 171.9846 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "Okapi"
-				(path "/1ee451ae-bb3e-4642-885f-a7d8b2e03084"
-					(page "15")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 152.4 25.4)
-		(size 50.8 31.75)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0)
-		)
-		(uuid "47c857d9-a9a7-5afc-b674-759fcaf9d056")
-		(property "Sheetname" "Core_Power_Path"
-			(at 152.4 24.6884 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "Core_Power_Path.kicad_sch"
-			(at 152.4 57.6846 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "Okapi"
-				(path "/1ee451ae-bb3e-4642-885f-a7d8b2e03084"
-					(page "4")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 88.9 25.4)
-		(size 50.8 31.75)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0)
-		)
-		(uuid "5eca41ce-7d06-5f79-a82d-12f7f499b86a")
-		(property "Sheetname" "Core_Supply"
-			(at 88.9 24.6884 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "Core_Supply.kicad_sch"
-			(at 88.9 57.6846 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "Okapi"
-				(path "/1ee451ae-bb3e-4642-885f-a7d8b2e03084"
-					(page "3")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 152.4 139.7)
-		(size 50.8 31.75)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0)
-		)
-		(uuid "820d9e20-e133-5196-9c3b-3990b4a32190")
-		(property "Sheetname" "Sensor_Terminals"
 			(at 152.4 138.9884 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -404,7 +266,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "Sensor_Terminals.kicad_sch"
+		(property "Sheetfile" "Sensor_Ports.kicad_sch"
 			(at 152.4 171.9846 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -424,7 +286,145 @@
 		)
 	)
 	(sheet
+		(at 88.9 25.4)
+		(size 50.8 31.75)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "47c857d9-a9a7-5afc-b674-759fcaf9d056")
+		(property "Sheetname" "Core_Power_Path"
+			(at 88.9 24.6884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Core_Power_Path.kicad_sch"
+			(at 88.9 57.6846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Okapi"
+				(path "/1ee451ae-bb3e-4642-885f-a7d8b2e03084"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 152.4 25.4)
+		(size 50.8 31.75)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "5eca41ce-7d06-5f79-a82d-12f7f499b86a")
+		(property "Sheetname" "Core_Supply"
+			(at 152.4 24.6884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Core_Supply.kicad_sch"
+			(at 152.4 57.6846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Okapi"
+				(path "/1ee451ae-bb3e-4642-885f-a7d8b2e03084"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 215.9 139.7)
+		(size 50.8 31.75)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "820d9e20-e133-5196-9c3b-3990b4a32190")
+		(property "Sheetname" "Sensor_Terminals"
+			(at 215.9 138.9884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Sensor_Terminals.kicad_sch"
+			(at 215.9 171.9846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Okapi"
+				(path "/1ee451ae-bb3e-4642-885f-a7d8b2e03084"
+					(page "17")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 152.4 63.5)
 		(size 50.8 31.75)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -440,7 +440,7 @@
 		)
 		(uuid "d66e1667-b5ee-5591-bc79-d77fa9fa52ef")
 		(property "Sheetname" "USB_ISP_Feather"
-			(at 215.9 138.9884 0)
+			(at 152.4 62.7884 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -451,7 +451,7 @@
 			)
 		)
 		(property "Sheetfile" "USB_ISP_Feather.kicad_sch"
-			(at 215.9 171.9846 0)
+			(at 152.4 95.7846 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -464,7 +464,7 @@
 		(instances
 			(project "Okapi"
 				(path "/1ee451ae-bb3e-4642-885f-a7d8b2e03084"
-					(page "17")
+					(page "8")
 				)
 			)
 		)
@@ -516,7 +516,7 @@
 		)
 	)
 	(sheet
-		(at 25.4 101.6)
+		(at 215.9 101.6)
 		(size 50.8 31.75)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -532,7 +532,7 @@
 		)
 		(uuid "ea9f4436-aafb-508d-b2b5-766418895052")
 		(property "Sheetname" "Feather_ISP"
-			(at 25.4 100.8884 0)
+			(at 215.9 100.8884 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -543,7 +543,7 @@
 			)
 		)
 		(property "Sheetfile" "Feather_ISP.kicad_sch"
-			(at 25.4 133.8846 0)
+			(at 215.9 133.8846 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -556,13 +556,13 @@
 		(instances
 			(project "Okapi"
 				(path "/1ee451ae-bb3e-4642-885f-a7d8b2e03084"
-					(page "10")
+					(page "13")
 				)
 			)
 		)
 	)
 	(sheet
-		(at 215.9 101.6)
+		(at 88.9 101.6)
 		(size 50.8 31.75)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -578,7 +578,7 @@
 		)
 		(uuid "f56bb8c8-f3a8-4e99-863b-e7bdd3ebac44")
 		(property "Sheetname" "Sensors"
-			(at 215.9 100.8884 0)
+			(at 88.9 100.8884 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -589,7 +589,7 @@
 			)
 		)
 		(property "Sheetfile" "Sensors.kicad_sch"
-			(at 215.9 133.8846 0)
+			(at 88.9 133.8846 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -602,7 +602,7 @@
 		(instances
 			(project "Okapi"
 				(path "/1ee451ae-bb3e-4642-885f-a7d8b2e03084"
-					(page "13")
+					(page "11")
 				)
 			)
 		)
@@ -654,7 +654,7 @@
 		)
 	)
 	(sheet
-		(at 152.4 63.5)
+		(at 215.9 63.5)
 		(size 50.8 31.75)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -670,7 +670,7 @@
 		)
 		(uuid "fd8b9211-be12-5e65-9fc6-29c0ddb5c627")
 		(property "Sheetname" "Indicators"
-			(at 152.4 62.7884 0)
+			(at 215.9 62.7884 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -681,7 +681,7 @@
 			)
 		)
 		(property "Sheetfile" "Indicators.kicad_sch"
-			(at 152.4 95.7846 0)
+			(at 215.9 95.7846 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -694,13 +694,13 @@
 		(instances
 			(project "Okapi"
 				(path "/1ee451ae-bb3e-4642-885f-a7d8b2e03084"
-					(page "8")
+					(page "9")
 				)
 			)
 		)
 	)
 	(sheet
-		(at 152.4 101.6)
+		(at 88.9 139.7)
 		(size 50.8 31.75)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -716,7 +716,7 @@
 		)
 		(uuid "fe945dc3-0727-5c9f-a0ee-5cce60d34114")
 		(property "Sheetname" "Level_Shifters_Ports"
-			(at 152.4 100.8884 0)
+			(at 88.9 138.9884 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -727,7 +727,7 @@
 			)
 		)
 		(property "Sheetfile" "Level_Shifters_Ports.kicad_sch"
-			(at 152.4 133.8846 0)
+			(at 88.9 171.9846 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -740,7 +740,7 @@
 		(instances
 			(project "Okapi"
 				(path "/1ee451ae-bb3e-4642-885f-a7d8b2e03084"
-					(page "12")
+					(page "15")
 				)
 			)
 		)
