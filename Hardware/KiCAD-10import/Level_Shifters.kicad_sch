@@ -1525,7 +1525,7 @@
 	)
 	(text "TXS0102"
 		(exclude_from_sim no)
-		(at 44.77 147.13 0)
+		(at 44.77 133.35 0)
 		(effects
 			(font
 				(size 3.048 2.54)
@@ -1564,7 +1564,7 @@
 	)
 	(text "SDA select (mux)"
 		(exclude_from_sim no)
-		(at 43.5 98.87 0)
+		(at 43.5 85.09 0)
 		(effects
 			(font
 				(size 3.048 2.54)
@@ -1577,7 +1577,7 @@
 	)
 	(text "SPI buffer"
 		(exclude_from_sim no)
-		(at 43.5 121.73 0)
+		(at 43.5 85.09 0)
 		(effects
 			(font
 				(size 3.048 2.54)
