@@ -3,7 +3,7 @@
 	(generator "eeschema")
 	(generator_version "10.0")
 	(uuid "2153ea5a-57d8-4557-9861-4c1c1e592d35")
-	(paper "User" 365.0234 351.9678)
+	(paper "A2")
 	(lib_symbols
 		(symbol "nw-cold-silicon:3V3_CORE"
 			(power global)

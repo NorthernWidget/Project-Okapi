@@ -3,7 +3,7 @@
 	(generator "eeschema")
 	(generator_version "10.0")
 	(uuid "a92e5e7b-d13d-41b7-babb-8d16f7b3f990")
-	(paper "User" 470.0778 234.696)
+	(paper "A2")
 	(lib_symbols
 		(symbol "nw-cold-silicon:BAT54C"
 			(exclude_from_sim no)
