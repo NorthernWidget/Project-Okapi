@@ -3391,6 +3391,32 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "SDA jumper"
+		(exclude_from_sim no)
+		(at 22.94 19.94 0)
+		(effects
+			(font
+				(size 3.048 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "29c499b8-8cbe-5b83-9903-23e66ac18b51")
+	)
+	(text "ICSP header"
+		(exclude_from_sim no)
+		(at 35.72 62.04 0)
+		(effects
+			(font
+				(size 3.048 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "4a87e181-3f9b-523b-9318-30a68d55c54b")
+	)
 	(text "J9"
 		(exclude_from_sim no)
 		(at 68.58 88.9 0)
@@ -3450,6 +3476,19 @@
 		)
 		(uuid "b3e1b084-4ff0-4c25-ad82-9fefe21fea27")
 	)
+	(text "Feather socket"
+		(exclude_from_sim no)
+		(at 23.02 84.9 0)
+		(effects
+			(font
+				(size 3.048 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "bf121685-8b91-5f8a-b55e-6c0f4335c372")
+	)
 	(text "ICSP"
 		(exclude_from_sim no)
 		(at 45.72 50.8 0)
@@ -3460,6 +3499,19 @@
 			(justify left bottom)
 		)
 		(uuid "d734987a-beae-44fc-a82b-fd820eba95cb")
+	)
+	(text "Feather enable"
+		(exclude_from_sim no)
+		(at 73.98 144.4 0)
+		(effects
+			(font
+				(size 3.048 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "ebcee14d-51f4-5130-8d88-eae8ebaca733")
 	)
 	(junction
 		(at 81.28 154.94)
