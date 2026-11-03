@@ -3864,7 +3864,7 @@
 	)
 	(text "Cellular Module"
 		(exclude_from_sim no)
-		(at 12.7 15.24 0)
+		(at 101.6 15.24 0)
 		(effects
 			(font
 				(size 5.08 4.318)
