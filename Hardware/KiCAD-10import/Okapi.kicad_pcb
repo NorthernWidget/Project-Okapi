@@ -49273,7 +49273,7 @@
 		(layer "B.Cu")
 		(uuid "c2b53f26-a4d3-424f-8826-ba24d7b2c4bd")
 		(at 176.1971 119.4176 180)
-		(property "Reference" "U$4"
+		(property "Reference" "LOGO1"
 			(at 0 0 0)
 			(layer "B.SilkS")
 			(hide yes)
@@ -49285,7 +49285,7 @@
 				(justify left bottom mirror)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "NWLOGO_MED"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -49309,7 +49309,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Northern Widget logo, medium, silkscreen"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -49321,6 +49321,10 @@
 				(justify mirror)
 			)
 		)
+		(path "/a92e5e7b-d13d-41b7-babb-8d16f7b3f990/d3267275-2501-4498-8412-a9f1b6e0c9b0")
+		(sheetname "Okapi_1")
+		(sheetfile "Okapi_1.kicad_sch")
+		(attr exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 3.585428 1.993)
