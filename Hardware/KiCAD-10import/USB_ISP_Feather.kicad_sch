@@ -2602,19 +2602,6 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "FT231X USB serial"
-		(exclude_from_sim no)
-		(at 84.14 88.71 0)
-		(effects
-			(font
-				(size 3.048 2.54)
-				(thickness 0.508)
-				(bold yes)
-			)
-			(justify left bottom)
-		)
-		(uuid "4cb662fb-7bfe-5067-8069-3f4e7c9551cd")
-	)
 	(text "Check current rating~"
 		(exclude_from_sim no)
 		(at 60.96 21.59 0)
@@ -2625,19 +2612,6 @@
 			(justify left bottom)
 		)
 		(uuid "4e3c473d-9e12-4666-afeb-34ef23ffca24")
-	)
-	(text "USB-C"
-		(exclude_from_sim no)
-		(at 5.16 70.994 0)
-		(effects
-			(font
-				(size 3.048 2.54)
-				(thickness 0.508)
-				(bold yes)
-			)
-			(justify left bottom)
-		)
-		(uuid "b723b207-c6ae-577b-a464-d6599b578133")
 	)
 	(text "USB"
 		(exclude_from_sim no)

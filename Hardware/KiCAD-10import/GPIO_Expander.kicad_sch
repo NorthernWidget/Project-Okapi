@@ -936,45 +936,6 @@
 		)
 		(uuid "8a107b6d-2a43-428e-b313-3f83200ebc85")
 	)
-	(text "Pull-ups"
-		(exclude_from_sim no)
-		(at 32.9514 125.35 0)
-		(effects
-			(font
-				(size 3.048 2.54)
-				(thickness 0.508)
-				(bold yes)
-			)
-			(justify left bottom)
-		)
-		(uuid "ca86dc86-aa94-5adb-8e5d-99bc4e0282f0")
-	)
-	(text "MCP23018"
-		(exclude_from_sim no)
-		(at 21.91 81.344 0)
-		(effects
-			(font
-				(size 3.048 2.54)
-				(thickness 0.508)
-				(bold yes)
-			)
-			(justify left bottom)
-		)
-		(uuid "d16d3e36-bca8-57fb-8ef3-dab5d0e80d9b")
-	)
-	(text "GPIO Expander"
-		(exclude_from_sim no)
-		(at 12.7 15.24 0)
-		(effects
-			(font
-				(size 5.08 4.318)
-				(thickness 0.8636)
-				(bold yes)
-			)
-			(justify left bottom)
-		)
-		(uuid "d78d5cf6-880d-573b-b268-13b442a68712")
-	)
 	(text "ADR=0x20"
 		(exclude_from_sim no)
 		(at 34.29 88.9 0)
