@@ -102,52 +102,6 @@
 		)
 	)
 	(sheet
-		(at 152.4 158.75)
-		(size 50.8 31.75)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0)
-		)
-		(uuid "2153ea5a-57d8-4557-9861-4c1c1e592d35")
-		(property "Sheetname" "Okapi_3"
-			(at 152.4 158.0384 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "Okapi_3.kicad_sch"
-			(at 152.4 191.0346 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "Okapi"
-				(path "/1ee451ae-bb3e-4642-885f-a7d8b2e03084"
-					(page "13")
-				)
-			)
-		)
-	)
-	(sheet
 		(at 25.4 69.85)
 		(size 50.8 31.75)
 		(exclude_from_sim no)
@@ -240,52 +194,6 @@
 		)
 	)
 	(sheet
-		(at 88.9 158.75)
-		(size 50.8 31.75)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0)
-		)
-		(uuid "522bdf4e-cbbf-4df1-8ec4-1da5dbf4d02a")
-		(property "Sheetname" "Okapi_2"
-			(at 88.9 158.0384 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "Okapi_2.kicad_sch"
-			(at 88.9 191.0346 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "Okapi"
-				(path "/1ee451ae-bb3e-4642-885f-a7d8b2e03084"
-					(page "12")
-				)
-			)
-		)
-	)
-	(sheet
 		(at 88.9 25.4)
 		(size 50.8 31.75)
 		(exclude_from_sim no)
@@ -346,8 +254,8 @@
 		(fill
 			(color 0 0 0 0)
 		)
-		(uuid "a92e5e7b-d13d-41b7-babb-8d16f7b3f990")
-		(property "Sheetname" "Okapi_1"
+		(uuid "d66e1667-b5ee-5591-bc79-d77fa9fa52ef")
+		(property "Sheetname" "USB_ISP_Feather"
 			(at 25.4 158.0384 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -358,7 +266,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "Okapi_1.kicad_sch"
+		(property "Sheetfile" "USB_ISP_Feather.kicad_sch"
 			(at 25.4 191.0346 0)
 			(show_name no)
 			(do_not_autoplace no)
