@@ -1156,7 +1156,7 @@
 	)
 	(text "TCA9406 I2C"
 		(exclude_from_sim no)
-		(at 37.15 55.69 0)
+		(at 37.15 25.4 0)
 		(effects
 			(font
 				(size 3.048 2.54)
@@ -1182,7 +1182,7 @@
 	)
 	(text "TXS0104"
 		(exclude_from_sim no)
-		(at 137.48 60.77 0)
+		(at 137.48 24.13 0)
 		(effects
 			(font
 				(size 3.048 2.54)
