@@ -4735,6 +4735,18 @@
 		(uuid "f60c93c3-1ffb-4163-aaf3-efa19ce49bd8")
 	)
 	(no_connect
+		(at 90.17 157.48)
+		(uuid "398c0d57-5cef-57d0-8459-f564df6d1678")
+	)
+	(no_connect
+		(at 176.53 41.91)
+		(uuid "3b379c84-a2f5-510f-83b2-51c9d049f34c")
+	)
+	(no_connect
+		(at 176.53 64.77)
+		(uuid "6b5c0425-9dfe-57f4-904e-c1d62274a4af")
+	)
+	(no_connect
 		(at 201.93 64.77)
 		(uuid "b50b0dd7-6162-4dd3-9933-e7ee6edfdb13")
 	)
