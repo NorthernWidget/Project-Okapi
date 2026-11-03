@@ -1477,7 +1477,7 @@
 	)
 	(wire
 		(pts
-			(xy 72.39 58.42) (xy 77.47 58.42)
+			(xy 72.39 58.42) (xy 80.01 58.42)
 		)
 		(stroke
 			(width 0.1524)
@@ -1727,7 +1727,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 139.7) (xy 77.47 139.7)
+			(xy 74.93 139.7) (xy 80.01 139.7)
 		)
 		(stroke
 			(width 0.1524)
@@ -2211,7 +2211,7 @@
 	)
 	(global_label "BUS_LOGIC_EN_SEC"
 		(shape bidirectional)
-		(at 77.47 139.7 0)
+		(at 80.01 139.7 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2835,7 +2835,7 @@
 	)
 	(global_label "BUS_LOGIC_EN_PRIME"
 		(shape bidirectional)
-		(at 77.47 58.42 0)
+		(at 80.01 58.42 90)
 		(fields_autoplaced yes)
 		(effects
 			(font

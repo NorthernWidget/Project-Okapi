@@ -1993,7 +1993,7 @@
 	)
 	(text "Select address~{}"
 		(exclude_from_sim no)
-		(at 10.16 67.31 0)
+		(at 10.16 59.69 0)
 		(effects
 			(font
 				(size 1.778 1.778)

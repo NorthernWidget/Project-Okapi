@@ -927,7 +927,7 @@
 	)
 	(text "Also ext PWM"
 		(exclude_from_sim no)
-		(at 29.21 81.28 0)
+		(at 30.48 81.28 0)
 		(effects
 			(font
 				(size 1.778 1.778)

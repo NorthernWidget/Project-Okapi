@@ -3797,7 +3797,7 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 63.5) (xy 31.75 63.5)
+			(xy 39.37 63.5) (xy 24.13 63.5)
 		)
 		(stroke
 			(width 0.1524)
@@ -4511,7 +4511,7 @@
 	)
 	(global_label "MISO"
 		(shape bidirectional)
-		(at 31.75 63.5 180)
+		(at 24.13 63.5 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4535,7 +4535,7 @@
 	)
 	(global_label "3V3_CORE"
 		(shape bidirectional)
-		(at 69.85 63.5 0)
+		(at 69.85 63.5 90)
 		(fields_autoplaced yes)
 		(effects
 			(font

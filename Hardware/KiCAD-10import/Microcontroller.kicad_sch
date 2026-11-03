@@ -2764,7 +2764,7 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 40.64) (xy 52.07 43.18)
+			(xy 52.07 38.1) (xy 52.07 43.18)
 		)
 		(stroke
 			(width 0.1524)
@@ -3460,7 +3460,7 @@
 	)
 	(global_label "3V3_CORE"
 		(shape bidirectional)
-		(at 52.07 40.64 90)
+		(at 52.07 38.1 90)
 		(fields_autoplaced yes)
 		(effects
 			(font

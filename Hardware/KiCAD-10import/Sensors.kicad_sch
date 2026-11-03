@@ -1751,7 +1751,7 @@
 	)
 	(text "ADR = 0x48"
 		(exclude_from_sim no)
-		(at 72.136 103.886 0)
+		(at 72.136 105.156 0)
 		(effects
 			(font
 				(size 1.778 1.778)

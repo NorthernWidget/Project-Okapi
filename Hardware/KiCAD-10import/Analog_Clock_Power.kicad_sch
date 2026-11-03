@@ -3678,7 +3678,7 @@
 	)
 	(wire
 		(pts
-			(xy 193.04 119.38) (xy 198.12 119.38)
+			(xy 193.04 119.38) (xy 203.2 119.38)
 		)
 		(stroke
 			(width 0.1524)
@@ -4474,7 +4474,7 @@
 	)
 	(global_label "ADC_3"
 		(shape bidirectional)
-		(at 198.12 119.38 0)
+		(at 203.2 119.38 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
