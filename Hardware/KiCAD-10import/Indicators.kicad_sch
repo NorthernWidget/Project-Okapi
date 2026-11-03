@@ -1939,17 +1939,6 @@
 		)
 		(uuid "5c9073c0-8b77-509a-a720-a6b3d26250cb")
 	)
-	(text "Indicators"
-		(exclude_from_sim no)
-		(at 171.45 22.86 0)
-		(effects
-			(font
-				(size 1.778 1.778)
-			)
-			(justify left bottom)
-		)
-		(uuid "70322d95-c39e-455e-9fed-eb57c9f5597c")
-	)
 	(text "Indicator LEDs"
 		(exclude_from_sim no)
 		(at 12.7 15.24 0)
