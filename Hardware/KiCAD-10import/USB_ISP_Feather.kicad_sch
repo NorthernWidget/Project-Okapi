@@ -2652,17 +2652,6 @@
 		)
 		(uuid "b89c52ac-878a-5ef6-a875-e65f5c7daf0c")
 	)
-	(text "USB & ISP"
-		(exclude_from_sim no)
-		(at 173.99 39.37 0)
-		(effects
-			(font
-				(size 1.778 1.778)
-			)
-			(justify left bottom)
-		)
-		(uuid "e802b0be-a95f-4b09-999a-f1f76a6f553f")
-	)
 	(junction
 		(at 97.79 72.39)
 		(diameter 0)

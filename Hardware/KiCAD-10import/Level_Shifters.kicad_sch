@@ -1525,7 +1525,7 @@
 	)
 	(text "TXS0102"
 		(exclude_from_sim no)
-		(at 55.88 148.59 0)
+		(at 182.88 97.79 0)
 		(effects
 			(font
 				(size 3.048 2.54)
@@ -1564,7 +1564,7 @@
 	)
 	(text "SDA select (mux)"
 		(exclude_from_sim no)
-		(at 45.72 91.44 0)
+		(at 172.72 25.4 0)
 		(effects
 			(font
 				(size 3.048 2.54)
@@ -1577,7 +1577,7 @@
 	)
 	(text "SPI buffer"
 		(exclude_from_sim no)
-		(at 52.07 120.65 0)
+		(at 52.07 100.33 0)
 		(effects
 			(font
 				(size 3.048 2.54)
@@ -1595,7 +1595,7 @@
 		(uuid "8708faae-ccd3-4049-b5f5-f570d78915b6")
 	)
 	(junction
-		(at 53.34 154.94)
+		(at 180.34 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d2846034-1ed2-4515-885c-5c35f68df838")
@@ -1612,7 +1612,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 160.02) (xy 78.74 160.02)
+			(xy 203.2 109.22) (xy 205.74 109.22)
 		)
 		(stroke
 			(width 0.1524)
@@ -1622,7 +1622,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 106.68) (xy 43.18 106.68)
+			(xy 177.8 40.64) (xy 170.18 40.64)
 		)
 		(stroke
 			(width 0.1524)
@@ -1632,7 +1632,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 129.54) (xy 45.72 129.54)
+			(xy 50.8 109.22) (xy 45.72 109.22)
 		)
 		(stroke
 			(width 0.1524)
@@ -1642,7 +1642,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 154.94) (xy 81.28 154.94)
+			(xy 203.2 104.14) (xy 208.28 104.14)
 		)
 		(stroke
 			(width 0.1524)
@@ -1652,7 +1652,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 149.86) (xy 53.34 149.86)
+			(xy 205.74 99.06) (xy 180.34 99.06)
 		)
 		(stroke
 			(width 0.1524)
@@ -1672,7 +1672,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 101.6) (xy 78.74 101.6)
+			(xy 203.2 35.56) (xy 205.74 35.56)
 		)
 		(stroke
 			(width 0.1524)
@@ -1682,7 +1682,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 157.48) (xy 78.74 149.86)
+			(xy 205.74 106.68) (xy 205.74 99.06)
 		)
 		(stroke
 			(width 0.1524)
@@ -1692,7 +1692,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 162.56) (xy 78.74 162.56)
+			(xy 203.2 111.76) (xy 205.74 111.76)
 		)
 		(stroke
 			(width 0.1524)
@@ -1712,7 +1712,7 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 160.02) (xy 50.8 160.02)
+			(xy 180.34 109.22) (xy 177.8 109.22)
 		)
 		(stroke
 			(width 0.1524)
@@ -1722,7 +1722,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 127) (xy 45.72 127)
+			(xy 50.8 106.68) (xy 45.72 106.68)
 		)
 		(stroke
 			(width 0.1524)
@@ -1752,7 +1752,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 157.48) (xy 78.74 157.48)
+			(xy 203.2 106.68) (xy 205.74 106.68)
 		)
 		(stroke
 			(width 0.1524)
@@ -1772,7 +1772,7 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 149.86) (xy 53.34 154.94)
+			(xy 180.34 99.06) (xy 180.34 104.14)
 		)
 		(stroke
 			(width 0.1524)
@@ -1782,7 +1782,7 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 157.48) (xy 50.8 157.48)
+			(xy 180.34 106.68) (xy 177.8 106.68)
 		)
 		(stroke
 			(width 0.1524)
@@ -1802,7 +1802,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 132.08) (xy 78.74 132.08)
+			(xy 76.2 111.76) (xy 78.74 111.76)
 		)
 		(stroke
 			(width 0.1524)
@@ -1812,7 +1812,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 162.56) (xy 50.8 165.1)
+			(xy 177.8 111.76) (xy 177.8 114.3)
 		)
 		(stroke
 			(width 0.1524)
@@ -1832,7 +1832,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 127) (xy 78.74 127)
+			(xy 76.2 106.68) (xy 78.74 106.68)
 		)
 		(stroke
 			(width 0.1524)
@@ -1842,7 +1842,7 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 162.56) (xy 50.8 162.56)
+			(xy 180.34 111.76) (xy 177.8 111.76)
 		)
 		(stroke
 			(width 0.1524)
@@ -1852,7 +1852,7 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 154.94) (xy 50.8 154.94)
+			(xy 180.34 104.14) (xy 177.8 104.14)
 		)
 		(stroke
 			(width 0.1524)
@@ -1862,7 +1862,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 106.68) (xy 78.74 106.68)
+			(xy 203.2 40.64) (xy 205.74 40.64)
 		)
 		(stroke
 			(width 0.1524)
@@ -1902,7 +1902,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 132.08) (xy 45.72 132.08)
+			(xy 50.8 111.76) (xy 45.72 111.76)
 		)
 		(stroke
 			(width 0.1524)
@@ -1912,7 +1912,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 99.06) (xy 43.18 99.06)
+			(xy 177.8 33.02) (xy 170.18 33.02)
 		)
 		(stroke
 			(width 0.1524)
@@ -1922,7 +1922,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 96.52) (xy 78.74 96.52)
+			(xy 203.2 30.48) (xy 205.74 30.48)
 		)
 		(stroke
 			(width 0.1524)
@@ -1932,7 +1932,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 137.16) (xy 45.72 137.16)
+			(xy 50.8 116.84) (xy 45.72 116.84)
 		)
 		(stroke
 			(width 0.1524)
@@ -1952,7 +1952,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 101.6) (xy 30.48 101.6)
+			(xy 177.8 35.56) (xy 157.48 35.56)
 		)
 		(stroke
 			(width 0.1524)
@@ -1962,7 +1962,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 129.54) (xy 78.74 129.54)
+			(xy 76.2 109.22) (xy 78.74 109.22)
 		)
 		(stroke
 			(width 0.1524)
@@ -1972,7 +1972,7 @@
 	)
 	(global_label "SCL"
 		(shape bidirectional)
-		(at 50.8 160.02 180)
+		(at 177.8 109.22 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1982,7 +1982,7 @@
 		)
 		(uuid "0d124a03-5e11-41e9-902d-a6b0649ad5fe")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 47.3931 160.02 0)
+			(at 174.3931 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2020,7 +2020,7 @@
 	)
 	(global_label "SDA_EXT"
 		(shape bidirectional)
-		(at 78.74 101.6 0)
+		(at 205.74 35.56 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2030,7 +2030,7 @@
 		)
 		(uuid "1586a76b-b251-4d7f-b77d-67091296cdbe")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 90.4589 101.6 0)
+			(at 217.4589 35.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2068,7 +2068,7 @@
 	)
 	(global_label "SD_CS_BUF"
 		(shape bidirectional)
-		(at 78.74 132.08 0)
+		(at 78.74 111.76 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2078,7 +2078,7 @@
 		)
 		(uuid "1e1cc351-a11a-4856-ada4-53e9cc1403ee")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 93.1259 132.08 0)
+			(at 93.1259 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2092,7 +2092,7 @@
 	)
 	(global_label "GND"
 		(shape bidirectional)
-		(at 45.72 137.16 0)
+		(at 45.72 116.84 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2102,7 +2102,7 @@
 		)
 		(uuid "1ed92bd8-9f6b-4e9a-afe4-5c36127ae8a3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 53.5273 137.16 0)
+			(at 53.5273 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2116,7 +2116,7 @@
 	)
 	(global_label "SDA_OB"
 		(shape bidirectional)
-		(at 50.8 157.48 180)
+		(at 177.8 106.68 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2126,7 +2126,7 @@
 		)
 		(uuid "36a0a883-47a0-4ac3-8a58-c1672d653535")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 45.7674 157.48 0)
+			(at 172.7674 106.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2140,7 +2140,7 @@
 	)
 	(global_label "MOSI_BUF"
 		(shape bidirectional)
-		(at 78.74 127 0)
+		(at 78.74 106.68 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2150,7 +2150,7 @@
 		)
 		(uuid "3b8d95f1-7634-4682-b5c9-62e4f991e6ac")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 91.8221 127 0)
+			(at 91.8221 106.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2188,7 +2188,7 @@
 	)
 	(global_label "3V3_AUX"
 		(shape bidirectional)
-		(at 78.74 106.68 0)
+		(at 205.74 40.64 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2198,7 +2198,7 @@
 		)
 		(uuid "545b3518-334a-469d-a214-753694389797")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 90.6959 106.68 0)
+			(at 217.6959 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2212,7 +2212,7 @@
 	)
 	(global_label "5V_AUX"
 		(shape bidirectional)
-		(at 81.28 154.94 0)
+		(at 208.28 104.14 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2222,7 +2222,7 @@
 		)
 		(uuid "599451d9-ff0b-4633-83aa-6818a7d81491")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 86.2042 154.94 0)
+			(at 213.2042 104.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2236,7 +2236,7 @@
 	)
 	(global_label "3V3_AUX"
 		(shape bidirectional)
-		(at 76.2 137.16 0)
+		(at 76.2 116.84 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2246,7 +2246,7 @@
 		)
 		(uuid "66ef3b83-037b-4b7b-b3ed-1b716aeb14a9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 88.1559 137.16 0)
+			(at 88.1559 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2260,7 +2260,7 @@
 	)
 	(global_label "SD_CS"
 		(shape bidirectional)
-		(at 45.72 132.08 180)
+		(at 45.72 111.76 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2270,7 +2270,7 @@
 		)
 		(uuid "6c5cc8db-83fe-4cb3-8447-eefd6365551a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 55.5423 132.08 0)
+			(at 55.5423 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2284,7 +2284,7 @@
 	)
 	(global_label "MOSI"
 		(shape bidirectional)
-		(at 45.72 127 180)
+		(at 45.72 106.68 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2294,7 +2294,7 @@
 		)
 		(uuid "762d1f6d-a2be-473f-854f-656dcc7e41d4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 54.2385 127 0)
+			(at 54.2385 106.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2308,7 +2308,7 @@
 	)
 	(global_label "SCK"
 		(shape bidirectional)
-		(at 45.72 129.54 180)
+		(at 45.72 109.22 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2318,7 +2318,7 @@
 		)
 		(uuid "774056ae-9d10-4be1-94ef-bb41f617347b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 53.4087 129.54 0)
+			(at 53.4087 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2332,7 +2332,7 @@
 	)
 	(global_label "SDA_5V"
 		(shape bidirectional)
-		(at 78.74 160.02 0)
+		(at 205.74 109.22 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2342,7 +2342,7 @@
 		)
 		(uuid "79a0da26-2d59-40c5-ac8b-a7246bc72e3f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 83.6371 160.02 0)
+			(at 210.6371 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2356,7 +2356,7 @@
 	)
 	(global_label "GND"
 		(shape bidirectional)
-		(at 43.18 106.68 180)
+		(at 170.18 40.64 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2366,7 +2366,7 @@
 		)
 		(uuid "7a7be222-0123-4e99-8432-e4187cd0e6f2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 50.9873 106.68 0)
+			(at 177.9873 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2380,7 +2380,7 @@
 	)
 	(global_label "SCL_5V"
 		(shape bidirectional)
-		(at 78.74 162.56 0)
+		(at 205.74 111.76 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2390,7 +2390,7 @@
 		)
 		(uuid "8e570211-a865-4685-b5a2-77eec39c0055")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 83.61 162.56 0)
+			(at 210.61 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2404,7 +2404,7 @@
 	)
 	(global_label "SCK_BUF"
 		(shape bidirectional)
-		(at 78.74 129.54 0)
+		(at 78.74 109.22 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2414,7 +2414,7 @@
 		)
 		(uuid "9ae33421-ec5f-4dc7-aea0-46c19976c55a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 90.9923 129.54 0)
+			(at 90.9923 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2476,7 +2476,7 @@
 	)
 	(global_label "SDA_CTRL"
 		(shape bidirectional)
-		(at 30.48 101.6 180)
+		(at 157.48 35.56 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2486,7 +2486,7 @@
 		)
 		(uuid "babe0578-594c-430f-aee0-f12b25afed80")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 43.3842 101.6 0)
+			(at 170.3842 35.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2500,7 +2500,7 @@
 	)
 	(global_label "SDA_OB"
 		(shape bidirectional)
-		(at 78.74 96.52 0)
+		(at 205.74 30.48 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2510,7 +2510,7 @@
 		)
 		(uuid "c2cac4da-0ca8-4feb-8826-2e231f8533b6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 89.7477 96.52 0)
+			(at 216.7477 30.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2548,7 +2548,7 @@
 	)
 	(global_label "SDA"
 		(shape bidirectional)
-		(at 43.18 99.06 180)
+		(at 170.18 33.02 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2558,7 +2558,7 @@
 		)
 		(uuid "e0888146-60b8-4735-800a-d3b5295e09e1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 50.6909 99.06 0)
+			(at 177.6909 33.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2596,7 +2596,7 @@
 	)
 	(global_label "3V3_CORE_ISO"
 		(shape bidirectional)
-		(at 50.8 154.94 180)
+		(at 177.8 104.14 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2606,7 +2606,7 @@
 		)
 		(uuid "fbb15b3d-e44f-4ca2-b56f-0b01c224f185")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 42.8682 154.94 0)
+			(at 169.8682 104.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2690,7 +2690,7 @@
 	)
 	(symbol
 		(lib_id "nw-cold-silicon:TXS0102DQM")
-		(at 63.5 160.02 0)
+		(at 190.5 109.22 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2700,7 +2700,7 @@
 		(dnp no)
 		(uuid "0119de58-2840-47ee-a5e9-ff72855b9d74")
 		(property "Reference" "U26"
-			(at 64.77 166.37 0)
+			(at 191.77 115.57 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2712,7 +2712,7 @@
 			)
 		)
 		(property "Value" "TXS0102DQM"
-			(at 63.5 160.02 0)
+			(at 190.5 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2723,7 +2723,7 @@
 			)
 		)
 		(property "Footprint" "nw-cold-silicon:DQM_R-PX2SON-N8"
-			(at 63.5 160.02 0)
+			(at 190.5 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2734,7 +2734,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 63.5 160.02 0)
+			(at 190.5 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2745,7 +2745,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 63.5 160.02 0)
+			(at 190.5 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2782,7 +2782,7 @@
 	)
 	(symbol
 		(lib_id "nw-cold-silicon:GND")
-		(at 50.8 167.64 0)
+		(at 177.8 116.84 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2792,7 +2792,7 @@
 		(dnp no)
 		(uuid "01ad48ca-57b6-42fa-b5b7-65acd9df65c1")
 		(property "Reference" "#GND47"
-			(at 50.8 167.64 0)
+			(at 177.8 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2803,7 +2803,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 48.26 170.18 0)
+			(at 175.26 119.38 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2814,7 +2814,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 50.8 167.64 0)
+			(at 177.8 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2825,7 +2825,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 50.8 167.64 0)
+			(at 177.8 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2836,7 +2836,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 50.8 167.64 0)
+			(at 177.8 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2852,7 +2852,7 @@
 	)
 	(symbol
 		(lib_id "nw-cold-silicon:SN74AUP3G34DCU")
-		(at 63.5 132.08 0)
+		(at 63.5 111.76 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2862,7 +2862,7 @@
 		(dnp no)
 		(uuid "1a3bd04a-a181-4ba8-a00b-24de8c3d7a60")
 		(property "Reference" "U25"
-			(at 63.5 140.97 0)
+			(at 63.5 120.65 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2872,7 +2872,7 @@
 			)
 		)
 		(property "Value" "SN74AUP3G34DCU"
-			(at 63.5 132.08 0)
+			(at 63.5 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2883,7 +2883,7 @@
 			)
 		)
 		(property "Footprint" "nw-cold-silicon:DCU_(R-PDSO-G8)"
-			(at 63.5 132.08 0)
+			(at 63.5 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2894,7 +2894,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 63.5 132.08 0)
+			(at 63.5 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2905,7 +2905,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 63.5 132.08 0)
+			(at 63.5 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3085,7 +3085,7 @@
 	)
 	(symbol
 		(lib_id "nw-cold-silicon:SN74LVC1G3157DRL")
-		(at 63.5 99.06 0)
+		(at 190.5 33.02 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3095,7 +3095,7 @@
 		(dnp no)
 		(uuid "89f1082c-f196-4eb4-8642-bdc48bbea5bd")
 		(property "Reference" "U24"
-			(at 63.5 110.49 0)
+			(at 190.5 44.45 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3105,7 +3105,7 @@
 			)
 		)
 		(property "Value" "SN74LVC1G3157DRL"
-			(at 63.5 99.06 0)
+			(at 190.5 33.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3116,7 +3116,7 @@
 			)
 		)
 		(property "Footprint" "nw-cold-silicon:DRL_R-PDSO-N6"
-			(at 63.5 99.06 0)
+			(at 190.5 33.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3127,7 +3127,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 63.5 99.06 0)
+			(at 190.5 33.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3138,7 +3138,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 63.5 99.06 0)
+			(at 190.5 33.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

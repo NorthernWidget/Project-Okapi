@@ -1497,7 +1497,7 @@
 	)
 	(wire
 		(pts
-			(xy 19.05 180.34) (xy 19.05 182.88)
+			(xy 120.65 149.86) (xy 120.65 152.4)
 		)
 		(stroke
 			(width 0.1524)
@@ -1677,7 +1677,7 @@
 	)
 	(wire
 		(pts
-			(xy 19.05 170.18) (xy 21.59 170.18)
+			(xy 120.65 139.7) (xy 123.19 139.7)
 		)
 		(stroke
 			(width 0.1524)
@@ -1957,7 +1957,7 @@
 	)
 	(wire
 		(pts
-			(xy 19.05 172.72) (xy 19.05 170.18)
+			(xy 120.65 142.24) (xy 120.65 139.7)
 		)
 		(stroke
 			(width 0.1524)
@@ -2331,7 +2331,7 @@
 	)
 	(global_label "3V3_CORE_ISO"
 		(shape bidirectional)
-		(at 21.59 170.18 0)
+		(at 123.19 139.7 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2341,7 +2341,7 @@
 		)
 		(uuid "31719d2d-1a53-4052-8e17-895e73096c91")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 29.5218 170.18 0)
+			(at 131.1218 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4616,7 +4616,7 @@
 	)
 	(symbol
 		(lib_id "nw-cold-silicon:GND")
-		(at 19.05 185.42 0)
+		(at 120.65 154.94 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4626,7 +4626,7 @@
 		(dnp no)
 		(uuid "aeb18e56-da29-4402-bb95-411449c1577c")
 		(property "Reference" "#GND87"
-			(at 19.05 185.42 0)
+			(at 120.65 154.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4637,7 +4637,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 16.51 187.96 0)
+			(at 118.11 157.48 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4648,7 +4648,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 19.05 185.42 0)
+			(at 120.65 154.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4659,7 +4659,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 19.05 185.42 0)
+			(at 120.65 154.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4670,7 +4670,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 19.05 185.42 0)
+			(at 120.65 154.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4686,7 +4686,7 @@
 	)
 	(symbol
 		(lib_id "nw-cold-silicon:C-EUC0402")
-		(at 19.05 175.26 0)
+		(at 120.65 144.78 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4696,7 +4696,7 @@
 		(dnp no)
 		(uuid "b014ac61-43ee-42e2-9e88-82a6582613fb")
 		(property "Reference" "C44"
-			(at 20.574 174.879 0)
+			(at 122.174 144.399 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4707,7 +4707,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 20.574 179.959 0)
+			(at 122.174 149.479 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4718,7 +4718,7 @@
 			)
 		)
 		(property "Footprint" "nw-cold-silicon:C0402"
-			(at 19.05 175.26 0)
+			(at 120.65 144.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4729,7 +4729,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 19.05 175.26 0)
+			(at 120.65 144.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4740,7 +4740,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 19.05 175.26 0)
+			(at 120.65 144.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
