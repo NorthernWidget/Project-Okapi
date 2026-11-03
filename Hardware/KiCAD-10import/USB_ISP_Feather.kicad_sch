@@ -2604,7 +2604,7 @@
 	)
 	(text "FT231X USB serial"
 		(exclude_from_sim no)
-		(at 84.14 88.71 0)
+		(at 84.14 38.1 0)
 		(effects
 			(font
 				(size 3.048 2.54)
@@ -2628,7 +2628,7 @@
 	)
 	(text "USB-C"
 		(exclude_from_sim no)
-		(at 5.16 70.994 0)
+		(at 5.16 50.8 0)
 		(effects
 			(font
 				(size 3.048 2.54)
