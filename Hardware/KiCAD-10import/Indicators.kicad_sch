@@ -1944,7 +1944,7 @@
 	)
 	(text "Status LED"
 		(exclude_from_sim no)
-		(at 160.02 22.86 0)
+		(at 163.83 22.86 0)
 		(effects
 			(font
 				(size 3.048 2.54)
@@ -1967,7 +1967,7 @@
 	)
 	(text "Status LED & Log Button"
 		(exclude_from_sim no)
-		(at 152.4 15.24 0)
+		(at 163.83 15.24 0)
 		(effects
 			(font
 				(size 5.08 4.318)
