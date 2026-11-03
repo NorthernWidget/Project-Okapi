@@ -4521,7 +4521,7 @@
 	)
 	(text "POWER_EN logic"
 		(exclude_from_sim no)
-		(at 152.88 157.544 0)
+		(at 152.88 135.89 0)
 		(effects
 			(font
 				(size 3.048 2.54)
@@ -4571,7 +4571,7 @@
 	)
 	(text "3V3_AUX buck"
 		(exclude_from_sim no)
-		(at 32.39 103.95 0)
+		(at 32.39 88.9 0)
 		(effects
 			(font
 				(size 3.048 2.54)
@@ -4597,7 +4597,7 @@
 	)
 	(text "5V_AUX boost"
 		(exclude_from_sim no)
-		(at 34.93 160.084 0)
+		(at 34.93 132.08 0)
 		(effects
 			(font
 				(size 3.048 2.54)
