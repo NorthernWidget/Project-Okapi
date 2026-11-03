@@ -1734,7 +1734,7 @@
 	)
 	(text "Battery switch"
 		(exclude_from_sim no)
-		(at 169.23 70.93 0)
+		(at 169.23 59.69 0)
 		(effects
 			(font
 				(size 3.048 2.54)
@@ -1747,7 +1747,7 @@
 	)
 	(text "Ideal diode"
 		(exclude_from_sim no)
-		(at 20.8 74.74 0)
+		(at 20.8 53.34 0)
 		(effects
 			(font
 				(size 3.048 2.54)
