@@ -1918,7 +1918,7 @@
 	)
 	(text "Log button"
 		(exclude_from_sim no)
-		(at 195.58 99.06 0)
+		(at 195.58 97.79 0)
 		(effects
 			(font
 				(size 3.048 2.54)
@@ -2694,7 +2694,7 @@
 	)
 	(polyline
 		(pts
-			(xy 160.02 12.7) (xy 160.02 118.11)
+			(xy 160.02 17.78) (xy 160.02 118.11)
 		)
 		(stroke
 			(width 0.1524)

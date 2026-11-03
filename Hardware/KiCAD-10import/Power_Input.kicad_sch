@@ -4068,7 +4068,7 @@
 	)
 	(text "Battery protection"
 		(exclude_from_sim no)
-		(at 38.1 41.91 0)
+		(at 38.1 40.64 0)
 		(effects
 			(font
 				(size 3.048 2.54)
@@ -4081,7 +4081,7 @@
 	)
 	(text "Solar charger"
 		(exclude_from_sim no)
-		(at 62.23 105.41 0)
+		(at 62.23 104.14 0)
 		(effects
 			(font
 				(size 3.048 2.54)
@@ -4875,7 +4875,7 @@
 	)
 	(polyline
 		(pts
-			(xy 186.69 10.16) (xy 186.69 172.72)
+			(xy 186.69 17.78) (xy 186.69 172.72)
 		)
 		(stroke
 			(width 0.1524)

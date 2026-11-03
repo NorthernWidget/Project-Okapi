@@ -4521,7 +4521,7 @@
 	)
 	(text "POWER_EN logic"
 		(exclude_from_sim no)
-		(at 167.64 147.32 0)
+		(at 167.64 146.05 0)
 		(effects
 			(font
 				(size 3.048 2.54)
@@ -4534,7 +4534,7 @@
 	)
 	(text "C0/C1 decode"
 		(exclude_from_sim no)
-		(at 19.05 35.56 0)
+		(at 19.05 34.29 0)
 		(effects
 			(font
 				(size 3.048 2.54)
@@ -4558,7 +4558,7 @@
 	)
 	(text "V_HP switches"
 		(exclude_from_sim no)
-		(at 173.99 26.67 0)
+		(at 173.99 25.4 0)
 		(effects
 			(font
 				(size 3.048 2.54)
@@ -4597,7 +4597,7 @@
 	)
 	(text "5V_AUX boost"
 		(exclude_from_sim no)
-		(at 63.5 142.24 0)
+		(at 63.5 140.97 0)
 		(effects
 			(font
 				(size 3.048 2.54)
@@ -5224,7 +5224,7 @@
 	)
 	(polyline
 		(pts
-			(xy 11.43 80.01) (xy 270.51 80.01)
+			(xy 11.43 80.01) (xy 269.24 80.01)
 		)
 		(stroke
 			(width 0.1524)

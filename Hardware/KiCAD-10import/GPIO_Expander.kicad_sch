@@ -938,7 +938,7 @@
 	)
 	(text "Pull-ups"
 		(exclude_from_sim no)
-		(at 38.1 121.92 0)
+		(at 38.1 120.65 0)
 		(effects
 			(font
 				(size 3.048 2.54)
@@ -951,7 +951,7 @@
 	)
 	(text "MCP23018"
 		(exclude_from_sim no)
-		(at 38.1 33.02 0)
+		(at 38.1 31.75 0)
 		(effects
 			(font
 				(size 3.048 2.54)
