@@ -1974,7 +1974,7 @@
 	)
 	(text "Reset"
 		(exclude_from_sim no)
-		(at 16.59 34.29 0)
+		(at 16.59 33.02 0)
 		(effects
 			(font
 				(size 3.048 2.54)
@@ -2209,7 +2209,7 @@
 	)
 	(text "ATmega1284"
 		(exclude_from_sim no)
-		(at 24.61 25.4 0)
+		(at 24.61 24.13 0)
 		(effects
 			(font
 				(size 3.048 2.54)
@@ -2255,7 +2255,7 @@
 	)
 	(text "Clock"
 		(exclude_from_sim no)
-		(at 24.258 25.4 0)
+		(at 24.258 87.63 0)
 		(effects
 			(font
 				(size 3.048 2.54)
