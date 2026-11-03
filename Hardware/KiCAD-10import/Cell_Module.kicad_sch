@@ -7319,6 +7319,7 @@
 		)
 		(property "Value" "R-EU_R0402"
 			(at 113.792 53.34 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7848,6 +7849,7 @@
 		)
 		(property "Value" "R-EU_R0402"
 			(at 113.792 33.02 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects

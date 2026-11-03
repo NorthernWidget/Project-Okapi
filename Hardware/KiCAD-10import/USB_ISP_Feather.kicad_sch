@@ -10133,6 +10133,7 @@
 		)
 		(property "Value" "R-EU_R0402"
 			(at 257.302 163.83 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10280,6 +10281,7 @@
 		)
 		(property "Value" "R-EU_R0402"
 			(at 59.182 73.66 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10353,6 +10355,7 @@
 		)
 		(property "Value" "JUMPER-SMT_2_NO_SILK"
 			(at 200.66 43.18 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11539,6 +11542,7 @@
 		)
 		(property "Value" "R-EU_R0402"
 			(at 49.022 73.66 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
