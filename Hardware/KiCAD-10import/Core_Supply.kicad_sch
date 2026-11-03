@@ -2945,14 +2945,199 @@
 					)
 				)
 			)
-			(symbol "NWLOGO_MED_1_0"
-				(text "Northern Widget Logo"
-					(at -7.62 0 0)
-					(effects
-						(font
-							(size 1.27 1.0795)
-						)
-						(justify left bottom)
+			(symbol "NWLOGO_MED_0_1"
+				(polyline
+					(pts
+						(xy -7.0597 3.5886) (xy -5.8758 4.1805)
+					)
+					(stroke
+						(width 0.4)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -5.8758 4.1805) (xy -2.3241 -2.923)
+					)
+					(stroke
+						(width 0.4)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.3241 -5.8814) (xy -7.0597 3.5886)
+					)
+					(stroke
+						(width 0.4)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.3241 -5.8814) (xy 0.0437 -1.1471)
+					)
+					(stroke
+						(width 0.4)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.0437 1.8127) (xy -3.0647 -4.4029)
+					)
+					(stroke
+						(width 0.4)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.0437 -1.1471) (xy 2.4102 -5.8814)
+					)
+					(stroke
+						(width 0.4)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.4102 -2.923) (xy 0.0437 1.8127)
+					)
+					(stroke
+						(width 0.4)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.4102 -5.8814) (xy 6.8499 2.1087)
+					)
+					(stroke
+						(width 0.4)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.1508 -4.4029) (xy 2.4102 -5.8814) (xy 0.0437 -1.1471) (xy -2.3241 -5.8814) (xy -2.3241 -2.923)
+						(xy 0.0437 1.8127) (xy 3.1508 -4.4029)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 4.9156 2.6895) (xy 7.1709 3.986)
+					)
+					(stroke
+						(width 0.4)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.666 2.7006) (xy 2.4102 -2.923)
+					)
+					(stroke
+						(width 0.4)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.8499 2.1087) (xy 2.4102 -5.8814) (xy 0.0437 -1.1471) (xy -2.3241 -5.8814) (xy -3.0647 -4.4029)
+						(xy 0.0437 1.8127) (xy 2.4102 -2.923) (xy 5.666 2.7006) (xy 6.8499 2.1087)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.1681 1.3847) (xy 4.9156 2.6895)
+					)
+					(stroke
+						(width 0.4)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.1681 1.3847) (xy 4.9156 2.6895) (xy 7.1709 3.986) (xy 7.1681 1.3847)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.1681 1.3847) (xy 4.9156 2.6895) (xy 7.1709 3.986) (xy 7.1681 1.3847)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.1709 3.986) (xy 7.1681 1.3847)
+					)
+					(stroke
+						(width 0.4)
+						(type default)
+					)
+					(fill
+						(type none)
 					)
 				)
 			)
@@ -8332,7 +8517,7 @@
 	)
 	(symbol
 		(lib_id "nw-cold-silicon:NWLOGO_MED")
-		(at 17.78 15.24 0)
+		(at 260.35 12.7 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim yes)
@@ -8342,7 +8527,8 @@
 		(dnp no)
 		(uuid "d3267275-2501-4498-8412-a9f1b6e0c9b0")
 		(property "Reference" "LOGO1"
-			(at 17.78 15.24 0)
+			(at 260.35 12.7 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8352,7 +8538,8 @@
 			)
 		)
 		(property "Value" "NWLOGO_MED"
-			(at 17.78 15.24 0)
+			(at 260.35 12.7 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8362,7 +8549,7 @@
 			)
 		)
 		(property "Footprint" "nw-cold-silicon:NWLOGO_MED"
-			(at 17.78 15.24 0)
+			(at 260.35 12.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8373,7 +8560,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 17.78 15.24 0)
+			(at 260.35 12.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8384,7 +8571,7 @@
 			)
 		)
 		(property "Description" "Northern Widget logo, medium, silkscreen"
-			(at 17.78 15.24 0)
+			(at 260.35 12.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
