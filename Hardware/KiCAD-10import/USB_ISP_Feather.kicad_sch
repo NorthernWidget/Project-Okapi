@@ -8547,6 +8547,7 @@
 		)
 		(property "Value" "MOUNTING_HOLE4_NP"
 			(at 134.112 203.1238 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9517,6 +9518,7 @@
 		)
 		(property "Value" "MOUNTING_HOLE4_NP"
 			(at 141.732 203.1238 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11090,6 +11092,7 @@
 		)
 		(property "Value" "MOUNTING_HOLE4_NP"
 			(at 126.492 203.1238 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
