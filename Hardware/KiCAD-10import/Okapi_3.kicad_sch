@@ -4,6 +4,10 @@
 	(generator_version "10.0")
 	(uuid "2153ea5a-57d8-4557-9861-4c1c1e592d35")
 	(paper "A2")
+	(title_block
+		(date "2024-11-02")
+		(rev "1.0")
+	)
 	(lib_symbols
 		(symbol "nw-cold-silicon:3V3_CORE"
 			(power global)
