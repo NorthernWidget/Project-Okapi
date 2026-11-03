@@ -10,7 +10,7 @@
 	)
 	(lib_symbols)
 	(sheet
-		(at 88.9 69.85)
+		(at 152.4 69.85)
 		(size 50.8 31.75)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -26,7 +26,7 @@
 		)
 		(uuid "106d8c10-e3d3-4dc4-b556-96715ff22034")
 		(property "Sheetname" "Level_Shifters"
-			(at 88.9 69.1384 0)
+			(at 152.4 69.1384 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -37,7 +37,7 @@
 			)
 		)
 		(property "Sheetfile" "Level_Shifters.kicad_sch"
-			(at 88.9 102.1346 0)
+			(at 152.4 102.1346 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -50,13 +50,13 @@
 		(instances
 			(project "Okapi"
 				(path "/1ee451ae-bb3e-4642-885f-a7d8b2e03084"
-					(page "6")
+					(page "7")
 				)
 			)
 		)
 	)
 	(sheet
-		(at 152.4 114.3)
+		(at 25.4 158.75)
 		(size 50.8 31.75)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -72,7 +72,7 @@
 		)
 		(uuid "2153ea5a-57d8-4557-9861-4c1c1e592d35")
 		(property "Sheetname" "Okapi_3"
-			(at 152.4 113.5884 0)
+			(at 25.4 158.0384 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -83,7 +83,7 @@
 			)
 		)
 		(property "Sheetfile" "Okapi_3.kicad_sch"
-			(at 152.4 146.5846 0)
+			(at 25.4 191.0346 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -96,7 +96,7 @@
 		(instances
 			(project "Okapi"
 				(path "/1ee451ae-bb3e-4642-885f-a7d8b2e03084"
-					(page "10")
+					(page "11")
 				)
 			)
 		)
@@ -148,7 +148,7 @@
 		)
 	)
 	(sheet
-		(at 88.9 114.3)
+		(at 152.4 114.3)
 		(size 50.8 31.75)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -164,7 +164,7 @@
 		)
 		(uuid "522bdf4e-cbbf-4df1-8ec4-1da5dbf4d02a")
 		(property "Sheetname" "Okapi_2"
-			(at 88.9 113.5884 0)
+			(at 152.4 113.5884 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -175,7 +175,7 @@
 			)
 		)
 		(property "Sheetfile" "Okapi_2.kicad_sch"
-			(at 88.9 146.5846 0)
+			(at 152.4 146.5846 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -188,7 +188,7 @@
 		(instances
 			(project "Okapi"
 				(path "/1ee451ae-bb3e-4642-885f-a7d8b2e03084"
-					(page "9")
+					(page "10")
 				)
 			)
 		)
@@ -240,7 +240,7 @@
 		)
 	)
 	(sheet
-		(at 25.4 114.3)
+		(at 88.9 114.3)
 		(size 50.8 31.75)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -256,7 +256,7 @@
 		)
 		(uuid "a92e5e7b-d13d-41b7-babb-8d16f7b3f990")
 		(property "Sheetname" "Okapi_1"
-			(at 25.4 113.5884 0)
+			(at 88.9 113.5884 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -267,7 +267,7 @@
 			)
 		)
 		(property "Sheetfile" "Okapi_1.kicad_sch"
-			(at 25.4 146.5846 0)
+			(at 88.9 146.5846 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -280,7 +280,7 @@
 		(instances
 			(project "Okapi"
 				(path "/1ee451ae-bb3e-4642-885f-a7d8b2e03084"
-					(page "8")
+					(page "9")
 				)
 			)
 		)
@@ -332,7 +332,7 @@
 		)
 	)
 	(sheet
-		(at 152.4 69.85)
+		(at 25.4 114.3)
 		(size 50.8 31.75)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -348,7 +348,7 @@
 		)
 		(uuid "f56bb8c8-f3a8-4e99-863b-e7bdd3ebac44")
 		(property "Sheetname" "Sensors"
-			(at 152.4 69.1384 0)
+			(at 25.4 113.5884 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -359,7 +359,7 @@
 			)
 		)
 		(property "Sheetfile" "Sensors.kicad_sch"
-			(at 152.4 102.1346 0)
+			(at 25.4 146.5846 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -372,7 +372,7 @@
 		(instances
 			(project "Okapi"
 				(path "/1ee451ae-bb3e-4642-885f-a7d8b2e03084"
-					(page "7")
+					(page "8")
 				)
 			)
 		)
@@ -419,6 +419,52 @@
 			(project "Okapi"
 				(path "/1ee451ae-bb3e-4642-885f-a7d8b2e03084"
 					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 88.9 69.85)
+		(size 50.8 31.75)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "fd8b9211-be12-5e65-9fc6-29c0ddb5c627")
+		(property "Sheetname" "Indicators"
+			(at 88.9 69.1384 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Indicators.kicad_sch"
+			(at 88.9 102.1346 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Okapi"
+				(path "/1ee451ae-bb3e-4642-885f-a7d8b2e03084"
+					(page "6")
 				)
 			)
 		)
