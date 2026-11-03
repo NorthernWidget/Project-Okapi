@@ -2770,7 +2770,7 @@
 	)
 	(text "Real-time clock"
 		(exclude_from_sim no)
-		(at 51.12 127.318 0)
+		(at 51.12 124.46 0)
 		(effects
 			(font
 				(size 3.048 2.54)
@@ -2794,7 +2794,7 @@
 	)
 	(text "DAC & reference"
 		(exclude_from_sim no)
-		(at 46.2 78.55 0)
+		(at 46.2 60.96 0)
 		(effects
 			(font
 				(size 3.048 2.54)
@@ -2807,7 +2807,7 @@
 	)
 	(text "ADS1115 ADC"
 		(exclude_from_sim no)
-		(at 159.07 89.218 0)
+		(at 159.07 87.63 0)
 		(effects
 			(font
 				(size 3.048 2.54)
