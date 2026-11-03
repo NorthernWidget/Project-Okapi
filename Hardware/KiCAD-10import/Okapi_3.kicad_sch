@@ -8628,7 +8628,7 @@
 		)
 		(uuid "70322d95-c39e-455e-9fed-eb57c9f5597c")
 	)
-	(text "Jump SDA channels together, prevents using occupied addresses on the external I2C port"
+	(text "Jump SDA channels together,\nprevents using occupied addresses\non the external I2C port"
 		(exclude_from_sim no)
 		(at 157.48 198.12 0)
 		(effects
@@ -11404,16 +11404,6 @@
 		)
 		(uuid "0aab8860-e96e-448f-8d74-1fb66895ab0c")
 	)
-	(label "RST_TRIG"
-		(at 180.34 279.4 0)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify left bottom)
-		)
-		(uuid "10391fe2-84bb-4ec4-b72f-9cae83653c0f")
-	)
 	(label "RED"
 		(at 121.92 147.32 180)
 		(effects
@@ -11433,16 +11423,6 @@
 			(justify right bottom)
 		)
 		(uuid "20793c9c-170d-4a04-920d-989cc82122a5")
-	)
-	(label "RST_TRIG"
-		(at 185.42 312.42 180)
-		(effects
-			(font
-				(size 0.569 0.569)
-			)
-			(justify right bottom)
-		)
-		(uuid "24894a3c-c8b4-4821-917e-edd21fe8cae7")
 	)
 	(label "BLUE"
 		(at 121.92 152.4 180)
@@ -11513,16 +11493,6 @@
 			(justify left bottom)
 		)
 		(uuid "8c747058-fc64-41bf-a90d-518f36513e73")
-	)
-	(label "RST_TRIG"
-		(at 177.8 152.4 0)
-		(effects
-			(font
-				(size 0.569 0.569)
-			)
-			(justify left bottom)
-		)
-		(uuid "9050ee7f-7c4f-4b50-af0e-d81500b7bc04")
 	)
 	(label "BLUE"
 		(at 58.42 114.3 0)
@@ -11765,6 +11735,30 @@
 		(uuid "0d725127-1ccc-4252-a56c-ed771d13f0db")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 191.1106 266.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "RST_TRIG"
+		(shape bidirectional)
+		(at 180.34 279.4 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.2446 1.2446)
+			)
+			(justify left)
+		)
+		(uuid "10391fe2-84bb-4ec4-b72f-9cae83653c0f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 192.948 279.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12101,6 +12095,30 @@
 		(uuid "243eb3ad-e912-4c56-840c-c28f155a5a75")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 185.1627 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "RST_TRIG"
+		(shape bidirectional)
+		(at 185.42 312.42 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.2446 1.2446)
+			)
+			(justify left)
+		)
+		(uuid "24894a3c-c8b4-4821-917e-edd21fe8cae7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 198.028 312.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13253,6 +13271,30 @@
 		(uuid "8c8f58d5-2845-4e3d-b997-c2736361dcaa")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 244.8695 238.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "RST_TRIG"
+		(shape bidirectional)
+		(at 177.8 152.4 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.2446 1.2446)
+			)
+			(justify left)
+		)
+		(uuid "9050ee7f-7c4f-4b50-af0e-d81500b7bc04")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 190.408 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
