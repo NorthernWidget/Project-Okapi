@@ -5,7 +5,113 @@
 	(uuid "106d8c10-e3d3-4dc4-b556-96715ff22034")
 	(paper "A4")
 	(lib_symbols
-		(symbol "Okapi-eagle-import:C-EUC0402"
+		(symbol "Okapi-eagle-import:supply1_371_GND"
+			(power global)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "#GND"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at -2.54 -2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.778 1.5113)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "SUPPLY SYMBOL"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "supply1_371_GND_1_0"
+				(polyline
+					(pts
+						(xy -1.905 0) (xy 1.905 0)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin power_in line
+					(at 0 2.54 270)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "nw-cold-silicon:C-EUC0402"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -81,7 +187,7 @@
 					(start -2.032 -1.016)
 					(end 2.032 -0.508)
 					(stroke
-						(width 0)
+						(width -0.0001)
 						(type default)
 					)
 					(fill
@@ -92,7 +198,7 @@
 					(start -2.032 -2.032)
 					(end 2.032 -1.524)
 					(stroke
-						(width 0)
+						(width -0.0001)
 						(type default)
 					)
 					(fill
@@ -162,7 +268,177 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Okapi-eagle-import:SN74AUP3G34DCU"
+		(symbol "nw-cold-silicon:R-EU_R0402"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "R"
+				(at -3.81 1.4986 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.778 1.5113)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" ""
+				(at -3.81 -3.302 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.778 1.5113)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "nw-cold-silicon:R0402"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "RESISTOR, European symbol\n\nDigikey Parts:\n\n•  Yageo, 0402\n•  Yageo, 0603\n•  Panasonic, 0603\n•  Panasonic, precision, 0603\n•  Panasonic, 0805\n•  Rohm, current sense\n•  Vishay, pulse proof automotive"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MF" "Yageo"
+				(at 0 -4.826 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "R-EU_R0402_1_0"
+				(polyline
+					(pts
+						(xy -2.54 -0.889) (xy -2.54 0.889)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.54 -0.889) (xy 2.54 -0.889)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 0.889) (xy -2.54 0.889)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 -0.889) (xy 2.54 0.889)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "nw-cold-silicon:SN74AUP3G34DCU"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -213,6 +489,39 @@
 			)
 			(property "Description" "SN74AUP3G34 - Logic Buffer\n\nCharacteristics:\n\n• VCC: 0.8~3.6V\n• Operating Temperature: -40°C to 85°C\n• Number of Gates: 3 /li>\n•  Inverting: No\n\nDigikey:\n296-27503-1-ND (UQFN, RSE)    	296-36973-1-ND (XFDFN, DQE)    296-25595-1-ND (VFSOP, DCU)"
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "DIGIKEY" "296-25595-1-ND"
+				(at 0 -10.414 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MF" "TI"
+				(at 0 -11.938 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MPN" "SN74AUP3G34DCUR"
+				(at 0 -13.462 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -497,7 +806,7 @@
 						(type none)
 					)
 				)
-				(text "${DISP}"
+				(text "SN74AUP3G34"
 					(at 0 8.89 0)
 					(effects
 						(font
@@ -654,7 +963,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Okapi-eagle-import:SN74LVC1G3157DRL"
+		(symbol "nw-cold-silicon:SN74LVC1G3157DRL"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -705,6 +1014,52 @@
 			)
 			(property "Description" "SN74LVC1G3157 - SPDT Analog Switch\n\nCharacteristics:\n\n• VCC: 1.65~5.5V\n• Operating Temperature: -40°C to 85°C\n• On state resistace: 15 &Omega;, Max\n• Channel to Channel Matching: 0.1 &Omega;, Typical\n\nDigikey:\n296-14909-1-ND (SC70, DCK)    	296-18015-1-ND (SOT-666, DRL)"
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "DISP" "SN74LVC1G3157"
+				(at 0 6.604 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.0795)
+						(thickness 0.2159)
+						(bold yes)
+					)
+				)
+			)
+			(property "DIGIKEY" "296-18015-1-ND"
+				(at 0 -12.954 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MF" "TI"
+				(at 0 -14.478 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MPN" "SN74LVC1G3157DRLR"
+				(at 0 -16.002 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -890,16 +1245,6 @@
 						(type none)
 					)
 				)
-				(text "${DISP}"
-					(at 0 6.604 0)
-					(effects
-						(font
-							(size 1.27 1.0795)
-							(thickness 0.2159)
-							(bold yes)
-						)
-					)
-				)
 				(text "0"
 					(at 5.08 3.81 0)
 					(effects
@@ -1031,7 +1376,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Okapi-eagle-import:TCA9406DCU"
+		(symbol "nw-cold-silicon:TCA9406DCU"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -1084,6 +1429,39 @@
 			)
 			(property "Description" "TCA9406 - I2C Bidirectional 1MHz Logic Level Translator\n\nCharacteristics:\n\n• Vcc: 1.65V ~ 5.5V\n•  IOut: 25 mA\n• IQ: 14.4&mu;A\n• Operating Temperature: -40°C to 85°C\n• Internal Pullups: 10k&Omega;\n\nDigikey:\n\n296-28109-1-ND (VSSOP, DCU)    296-28108-1-ND (SM8, DCT)"
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "DIGIKEY" "296-28109-1-ND"
+				(at 0 -7.874 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MF" "TI"
+				(at 0 -9.398 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MPN" "TCA9406DCUR"
+				(at 0 -10.922 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -1307,7 +1685,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Okapi-eagle-import:TXS0102DQM"
+		(symbol "nw-cold-silicon:TXS0102DQM"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -1358,8 +1736,52 @@
 					)
 				)
 			)
-			(property "Description" "TXS0102 - 2 Channel Bidirectional Voltage Level Translator\n\nCharacteristics:\n\n• Vcc: 1.65 ~ 3.6V (Port A), 2.3 ~ 5.5V (Port B)\n• IQ: 14.4&mu;A\n• Output Current: 50mA\n• Output Type: Open Drain/Push-Pull\n• Operating Temperature: -40°C to 85°C\n\nDigikey:\n296-28368-1-ND (DQE)   296-28435-1-ND (DQM)   296-21931-1-ND (DCU)   296-TXS0102DCTRCT-ND (DCT)   296-TXS0102YZCT-ND (YZP)"
+			(property "Description" "TXS0102 - 2 Channel Bidirectional Voltage Level Translator\n\nCharacteristics:\n\n• Vcc: 1.65 ~ 3.6V (Port A), 2.3 ~ 5.5V (Port B)\n• IQ: 14.4&mu;A\n• Output Current: 50mA\n• Output Type: Open Drain/Push-Pull\n• Operating Temperature: -40°C to 85°C\n\nDigikey:\n296-28368-1-ND (DQE)   296-28435-1-ND (DQM)   296-21931-1-ND (DCU)   296-TXS0102YZCT-ND (YZP)"
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "DISP" "TXS0102"
+				(at 1.27 9.144 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.0795)
+					)
+				)
+			)
+			(property "DIGIKEY" "296-28435-1-ND"
+				(at 1.27 -7.874 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MF" "TI"
+				(at 1.27 -9.398 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MPN" "TXS0102DQMR"
+				(at 1.27 -10.922 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -1426,14 +1848,6 @@
 					)
 					(fill
 						(type none)
-					)
-				)
-				(text "${DISP}"
-					(at 1.27 9.144 0)
-					(effects
-						(font
-							(size 1.27 1.0795)
-						)
 					)
 				)
 				(pin power_in line
@@ -1583,7 +1997,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Okapi-eagle-import:TXS0104RGY"
+		(symbol "nw-cold-silicon:TXS0104RGY"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -1636,6 +2050,50 @@
 			)
 			(property "Description" "TXS0104 - 4 Channel Bidirectional Voltage Level Translator\n\nCharacteristics:\n\n• Vcc: 1.65 ~ 3.6V (Port A), 2.3 ~ 5.5V (Port B)\n• IQ: 14.4&mu;A\n• Output Current: 50mA\n• Output Type: Open Drain/Push-Pull\n• Operating Temperature: -40°C to 85°C\n\nDigikey:\n296-20698-1-ND (RGY)"
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "DISP" "TXS0104"
+				(at 1.27 9.144 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.0795)
+					)
+				)
+			)
+			(property "DIGIKEY" "296-20698-1-ND"
+				(at 1.27 -12.954 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MF" "TI"
+				(at 1.27 -14.478 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MPN" "TXS0104ERGYR"
+				(at 1.27 -16.002 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -1702,14 +2160,6 @@
 					)
 					(fill
 						(type none)
-					)
-				)
-				(text "${DISP}"
-					(at 1.27 9.144 0)
-					(effects
-						(font
-							(size 1.27 1.0795)
-						)
 					)
 				)
 				(pin power_in line
@@ -1939,271 +2389,6 @@
 						)
 					)
 					(number "EP"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "Okapi-eagle-import:bschulz_passives_R-EU_R0402"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "R"
-				(at -3.81 1.4986 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Value" ""
-				(at -3.81 -3.302 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Footprint" "nw-cold-silicon:R0402"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "RESISTOR, European symbol\n\nDigikey Parts:\n\n•  Yageo, 0402\n•  Yageo, 0603\n•  Panasonic, 0603\n•  Panasonic, precision, 0603\n•  Panasonic, 0805\n•  Rohm, current sense\n•  Vishay, pulse proof automotive"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "bschulz_passives_R-EU_R0402_1_0"
-				(polyline
-					(pts
-						(xy -2.54 -0.889) (xy -2.54 0.889)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.54 -0.889) (xy 2.54 -0.889)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 0.889) (xy -2.54 0.889)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 -0.889) (xy 2.54 0.889)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -5.08 0 0)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 0 180)
-					(length 2.54)
-					(name "2"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "Okapi-eagle-import:supply1_371_GND"
-			(power global)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "#GND"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" ""
-				(at -2.54 -2.54 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "SUPPLY SYMBOL"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "supply1_371_GND_1_0"
-				(polyline
-					(pts
-						(xy -1.905 0) (xy 1.905 0)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin power_in line
-					(at 0 2.54 270)
-					(length 2.54)
-					(name "GND"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-					(number "1"
 						(effects
 							(font
 								(size 0 0)
@@ -5484,7 +5669,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:TXS0102DQM")
+		(lib_id "nw-cold-silicon:TXS0102DQM")
 		(at 63.5 144.78 0)
 		(unit 1)
 		(body_style 1)
@@ -5646,7 +5831,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:TXS0104RGY")
+		(lib_id "nw-cold-silicon:TXS0104RGY")
 		(at 139.7 91.44 0)
 		(unit 1)
 		(body_style 1)
@@ -5753,7 +5938,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:C-EUC0402")
+		(lib_id "nw-cold-silicon:C-EUC0402")
 		(at 104.14 88.9 0)
 		(unit 1)
 		(body_style 1)
@@ -5826,7 +6011,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:C-EUC0402")
+		(lib_id "nw-cold-silicon:C-EUC0402")
 		(at 251.46 88.9 0)
 		(unit 1)
 		(body_style 1)
@@ -5969,7 +6154,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:SN74AUP3G34DCU")
+		(lib_id "nw-cold-silicon:SN74AUP3G34DCU")
 		(at 63.5 116.84 0)
 		(unit 1)
 		(body_style 1)
@@ -6129,7 +6314,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:C-EUC0402")
+		(lib_id "nw-cold-silicon:C-EUC0402")
 		(at 76.2 30.48 0)
 		(unit 1)
 		(body_style 1)
@@ -6272,7 +6457,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:TCA9406DCU")
+		(lib_id "nw-cold-silicon:TCA9406DCU")
 		(at 142.24 53.34 0)
 		(unit 1)
 		(body_style 1)
@@ -6434,7 +6619,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:bschulz_passives_R-EU_R0402")
+		(lib_id "nw-cold-silicon:R-EU_R0402")
 		(at 160.02 83.82 90)
 		(unit 1)
 		(body_style 1)
@@ -6647,7 +6832,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:C-EUC0402")
+		(lib_id "nw-cold-silicon:C-EUC0402")
 		(at 104.14 48.26 0)
 		(unit 1)
 		(body_style 1)
@@ -6720,7 +6905,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:TXS0104RGY")
+		(lib_id "nw-cold-silicon:TXS0104RGY")
 		(at 139.7 134.62 0)
 		(unit 1)
 		(body_style 1)
@@ -6827,7 +7012,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:SN74LVC1G3157DRL")
+		(lib_id "nw-cold-silicon:SN74LVC1G3157DRL")
 		(at 63.5 91.44 0)
 		(unit 1)
 		(body_style 1)
@@ -6981,7 +7166,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:C-EUC0402")
+		(lib_id "nw-cold-silicon:C-EUC0402")
 		(at 104.14 132.08 0)
 		(unit 1)
 		(body_style 1)
@@ -7054,7 +7239,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:TCA9406DCU")
+		(lib_id "nw-cold-silicon:TCA9406DCU")
 		(at 142.24 172.72 0)
 		(unit 1)
 		(body_style 1)
@@ -7286,7 +7471,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:C-EUC0402")
+		(lib_id "nw-cold-silicon:C-EUC0402")
 		(at 104.14 167.64 0)
 		(unit 1)
 		(body_style 1)
@@ -7429,7 +7614,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:TXS0102DQM")
+		(lib_id "nw-cold-silicon:TXS0102DQM")
 		(at 63.5 53.34 0)
 		(unit 1)
 		(body_style 1)
@@ -7521,7 +7706,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:TXS0104RGY")
+		(lib_id "nw-cold-silicon:TXS0104RGY")
 		(at 210.82 91.44 0)
 		(unit 1)
 		(body_style 1)
@@ -7698,7 +7883,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:bschulz_passives_R-EU_R0402")
+		(lib_id "nw-cold-silicon:R-EU_R0402")
 		(at 160.02 127 90)
 		(unit 1)
 		(body_style 1)

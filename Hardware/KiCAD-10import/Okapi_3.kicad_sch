@@ -123,443 +123,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Okapi-eagle-import:AVRISP-6"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "ISP"
-				(at -2.54 -7.62 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Value" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "nw-cold-silicon:AVRISP"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "AVR ISP HEADER\nStandard 6 pin header for AVR programming"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "AVRISP-6_1_0"
-				(polyline
-					(pts
-						(xy -7.62 5.08) (xy 10.16 5.08)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -7.62 -5.08) (xy -7.62 5.08)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 10.16 5.08) (xy 10.16 -5.08)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 10.16 -5.08) (xy -7.62 -5.08)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin input line
-					(at -12.7 2.54 0)
-					(length 5.08)
-					(name "MISO"
-						(effects
-							(font
-								(size 1.524 1.524)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.524 1.524)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 15.24 2.54 180)
-					(length 5.08)
-					(name "VCC"
-						(effects
-							(font
-								(size 1.524 1.524)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.524 1.524)
-							)
-						)
-					)
-				)
-				(pin output line
-					(at -12.7 0 0)
-					(length 5.08)
-					(name "SCK"
-						(effects
-							(font
-								(size 1.524 1.524)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.524 1.524)
-							)
-						)
-					)
-				)
-				(pin output line
-					(at 15.24 0 180)
-					(length 5.08)
-					(name "MOSI"
-						(effects
-							(font
-								(size 1.524 1.524)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.524 1.524)
-							)
-						)
-					)
-				)
-				(pin output line
-					(at -12.7 -2.54 0)
-					(length 5.08)
-					(name "RST"
-						(effects
-							(font
-								(size 1.524 1.524)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.524 1.524)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 15.24 -2.54 180)
-					(length 5.08)
-					(name "GND"
-						(effects
-							(font
-								(size 1.524 1.524)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 1.524 1.524)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "Okapi-eagle-import:BUTTON4.2X3.2"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "S"
-				(at 7.62 -4.064 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.0795)
-						(thickness 0.2159)
-						(bold yes)
-					)
-				)
-			)
-			(property "Value" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "nw-cold-silicon:SWITCH_4.2X3.2"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "Genaric SPST Push button"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "BUTTON4.2X3.2_1_0"
-				(polyline
-					(pts
-						(xy 5.08 0) (xy 10.16 2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 5.08 0)
-					(radius 0.5679)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 5.08 -2.54) (xy 5.08 0)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 10.16 0)
-					(radius 0.5679)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 10.16 -2.54) (xy 10.16 0)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin bidirectional line
-					(at 0 0 0)
-					(length 5.08)
-					(name "1"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 0 -2.54 0)
-					(length 5.08)
-					(name "2"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 15.24 -2.54 180)
-					(length 5.08)
-					(name "4"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 15.24 0 180)
-					(length 5.08)
-					(name "3"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Okapi-eagle-import:B_SERIES_M.2EKEY_NOPROG"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -1943,7 +1506,1128 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Okapi-eagle-import:C-EUC0402"
+		(symbol "Okapi-eagle-import:GND"
+			(power global)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "#GND"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 -0.254 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.778 1.5113)
+					)
+					(justify top)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Ground Supply Symbol\n\nGeneric signal ground supply symbol."
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "GND_1_0"
+				(polyline
+					(pts
+						(xy -1.905 0) (xy 1.905 0)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin power_in line
+					(at 0 2.54 270)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Okapi-eagle-import:USB_MICROVERT"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "USB"
+				(at -7.366 5.588 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.0795)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" ""
+				(at -7.62 -10.16 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.0795)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "nw-cold-silicon:USB_MICRO_VERT_MOLEX"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "General Micro USB - AB Connector"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "USB_MICROVERT_1_0"
+				(polyline
+					(pts
+						(xy -7.62 5.08) (xy -7.62 -7.62)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -7.62 -7.62) (xy 7.62 -7.62)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 5.08) (xy -7.62 5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 -7.62) (xy 7.62 5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin power_in line
+					(at 12.7 2.54 180)
+					(length 5.08)
+					(name "VDD"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -12.7 0 0)
+					(length 5.08)
+					(name "D-"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -12.7 2.54 0)
+					(length 5.08)
+					(name "D+"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -12.7 -2.54 0)
+					(length 5.08)
+					(name "ID"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 12.7 -2.54 180)
+					(length 5.08)
+					(name "GND"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 12.7 -5.08 180)
+					(length 5.08)
+					(name "BODY"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+					(number "P$1"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 12.7 -5.08 180)
+					(length 5.08)
+					(name "BODY"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+					(number "P$2"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 12.7 -5.08 180)
+					(length 5.08)
+					(name "BODY"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+					(number "P$3"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 12.7 -5.08 180)
+					(length 5.08)
+					(name "BODY"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+					(number "P$4"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 12.7 -5.08 180)
+					(length 5.08)
+					(name "BODY"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+					(number "P$5"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 12.7 -5.08 180)
+					(length 5.08)
+					(name "BODY"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+					(number "P$6"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Okapi-eagle-import:VCC"
+			(power global)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "#SUPPLY"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 2.794 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.778 1.5113)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "VCC Voltage Supply\n\nPositive voltage supply (traditionally for a BJT device, C=collector)."
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "VCC_1_0"
+				(polyline
+					(pts
+						(xy 0 2.54) (xy -0.762 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 1.27) (xy 0 2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin power_in line
+					(at 0 0 90)
+					(length 2.54)
+					(name "VCC"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Okapi-eagle-import:supply1_371_GND"
+			(power global)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "#GND"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at -2.54 -2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.778 1.5113)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "SUPPLY SYMBOL"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "supply1_371_GND_1_0"
+				(polyline
+					(pts
+						(xy -1.905 0) (xy 1.905 0)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin power_in line
+					(at 0 2.54 270)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "nw-cold-silicon:AVRISP-6"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "ISP"
+				(at -2.54 -7.62 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.778 1.5113)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "nw-cold-silicon:AVRISP"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "AVR ISP HEADER\nStandard 6 pin header for AVR programming"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "AVRISP-6_1_0"
+				(polyline
+					(pts
+						(xy -7.62 5.08) (xy 10.16 5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -7.62 -5.08) (xy -7.62 5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 10.16 5.08) (xy 10.16 -5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 10.16 -5.08) (xy -7.62 -5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin input line
+					(at -12.7 2.54 0)
+					(length 5.08)
+					(name "MISO"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 15.24 2.54 180)
+					(length 5.08)
+					(name "VCC"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -12.7 0 0)
+					(length 5.08)
+					(name "SCK"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 15.24 0 180)
+					(length 5.08)
+					(name "MOSI"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -12.7 -2.54 0)
+					(length 5.08)
+					(name "RST"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 15.24 -2.54 180)
+					(length 5.08)
+					(name "GND"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "nw-cold-silicon:BUTTON4.2X3.2"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "S"
+				(at 7.62 -4.064 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.0795)
+						(thickness 0.2159)
+						(bold yes)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "nw-cold-silicon:SWITCH_4.2X3.2"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Genaric SPST Push button"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "DIGIKEY" "CKN10504CT-ND"
+				(at 7.62 -5.588 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MF" "C&K"
+				(at 7.62 -7.112 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MPN" "PTS810 SJG 250 SMTR LFS"
+				(at 7.62 -8.636 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "BUTTON4.2X3.2_1_0"
+				(polyline
+					(pts
+						(xy 5.08 0) (xy 10.16 2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 5.08 0)
+					(radius 0.5679)
+					(stroke
+						(width -0.0001)
+						(type solid)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 -2.54) (xy 5.08 0)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 10.16 0)
+					(radius 0.5679)
+					(stroke
+						(width -0.0001)
+						(type solid)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 10.16 -2.54) (xy 10.16 0)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin bidirectional line
+					(at 0 0 0)
+					(length 5.08)
+					(name "1"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 0 -2.54 0)
+					(length 5.08)
+					(name "2"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 15.24 -2.54 180)
+					(length 5.08)
+					(name "4"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 15.24 0 180)
+					(length 5.08)
+					(name "3"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "nw-cold-silicon:C-EUC0402"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -2019,7 +2703,7 @@
 					(start -2.032 -1.016)
 					(end 2.032 -0.508)
 					(stroke
-						(width 0)
+						(width -0.0001)
 						(type default)
 					)
 					(fill
@@ -2030,7 +2714,7 @@
 					(start -2.032 -2.032)
 					(end 2.032 -1.524)
 					(stroke
-						(width 0)
+						(width -0.0001)
 						(type default)
 					)
 					(fill
@@ -2100,7 +2784,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Okapi-eagle-import:CLVBA-FKA"
+		(symbol "nw-cold-silicon:CLVBA-FKA"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -2153,6 +2837,39 @@
 			)
 			(property "Description" "Cree RGB LED, Small Package, Common Anode, CLVBA-FKA  Digikey: https://www.digikey.com/product-detail/en/cree-inc/CLVBA-FKA-CAEDH8BBB7A363/CLVBA-FKA-CAEDH8BBB7A363CT-ND/2650500"
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "DIGIKEY" "CLVBA-FKA-CAEDH8BBB7A363CT-ND"
+				(at 2.54 -6.604 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MF" "Cree"
+				(at 2.54 -8.128 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MPN" "CLVBA-FKA-CAEDH8BBB7A363"
+				(at 2.54 -9.652 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -2524,7 +3241,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Okapi-eagle-import:CONN_022.54_SCREW"
+		(symbol "nw-cold-silicon:CONN_022.54_SCREW"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -2576,6 +3293,39 @@
 			)
 			(property "Description" "Genaric 2 terminal header\n\nSCREW_2.54\n39532_RA"
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "DIGIKEY" "ED10561-ND"
+				(at 0 -6.35 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MF" "OnShore"
+				(at 0 -7.874 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MPN" "OSTVN02A150"
+				(at 0 -9.398 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -2707,7 +3457,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Okapi-eagle-import:CONN_102.54_SCREW"
+		(symbol "nw-cold-silicon:CONN_102.54_SCREW"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -2759,6 +3509,39 @@
 			)
 			(property "Description" "Genaric 10 terminal header\n\nDigikey\n2.54_SCREW\n3.5_SCREW"
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "DIGIKEY" "ED10567-ND"
+				(at 0 -3.81 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MF" "On Shore"
+				(at 0 -5.334 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MPN" "OSTVN10A150"
+				(at 0 -6.858 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -3130,7 +3913,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Okapi-eagle-import:CONN_42.54_SCREW"
+		(symbol "nw-cold-silicon:CONN_42.54_SCREW"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -3182,6 +3965,39 @@
 			)
 			(property "Description" "Genaric 4 terminal header\n\nDigikey\n2.54_SCREW"
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "DIGIKEY" "ED10563-ND"
+				(at 0 -8.89 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MF" "On Shore"
+				(at 0 -10.414 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MPN" "OSTVN04A150"
+				(at 0 -11.938 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -3373,7 +4189,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Okapi-eagle-import:CONN_82.54_SCREW"
+		(symbol "nw-cold-silicon:CONN_82.54_SCREW"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -3425,6 +4241,39 @@
 			)
 			(property "Description" "Genaric 8 terminal header\n\nDigikey\n2.54_SCREW"
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "DIGIKEY" "ED10566-ND"
+				(at 0 -19.05 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MF" "On Shore"
+				(at 0 -20.574 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MPN" "OSTVN08A150"
+				(at 0 -22.098 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -3736,7 +4585,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Okapi-eagle-import:FEATHERWINGLAYOUT"
+		(symbol "nw-cold-silicon:FEATHERWINGLAYOUT"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -4575,113 +5424,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Okapi-eagle-import:GND"
-			(power global)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "#GND"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" ""
-				(at 0 -0.254 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "Ground Supply Symbol\n\nGeneric signal ground supply symbol."
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "GND_1_0"
-				(polyline
-					(pts
-						(xy -1.905 0) (xy 1.905 0)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin power_in line
-					(at 0 2.54 270)
-					(length 2.54)
-					(name "GND"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "Okapi-eagle-import:JST_2MM_MALE"
+		(symbol "nw-cold-silicon:JST_2MM_MALE"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -4733,6 +5476,39 @@
 			)
 			(property "Description" "JST 2MM MALE RA CONNECTOR Two pin, compact surface mount connector. Commonly used as a battery input connection point. We really like the solid locking feeling and high current rating on these small connectors. We use these all the time as battery connectors. Mates to single-cell LiPo batteries.\n\nHere is the connector we sell at SparkFun:\n\n• https://www.sparkfun.com/products/8612 JST Right Angle Connector - White (PRT-08612)\n• http://www.sparkfun.com/datasheets/Prototyping/Connectors/JST-Horizontal.pdf Datasheet\n\nIt was used on these SparkFun products:\n\n• https://www.sparkfun.com/products/11214 SparkFun MOSFET Power Controller (PRT-11214)\n• https://www.sparkfun.com/products/13777 SparkFun Battery Babysitter - LiPo Battery Manager (PRT-13777)\n• And many, many others that required a lipo battery connection."
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "DIGIKEY" "455-1749-1-ND"
+				(at 0 -1.524 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MF" "JST"
+				(at 0 -3.048 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MPN" "S2B-PH-SM4-TB(LF)(SN)"
+				(at 0 -4.572 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -5080,30 +5856,32 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Okapi-eagle-import:JUMPER-SMT_2_NO_SILK"
+		(symbol "nw-cold-silicon:JUMPER-SMT_2_NO_SILK"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
 			(in_pos_files yes)
 			(duplicate_pin_numbers_are_jumpers no)
 			(property "Reference" "JP"
-				(at 0 2.794 0)
+				(at -2.54 2.54 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.778 1.778)
 					)
+					(justify left bottom)
 				)
 			)
 			(property "Value" ""
-				(at 0 -2.794 0)
+				(at -2.54 -2.54 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.778 1.778)
 					)
+					(justify left top)
 				)
 			)
 			(property "Footprint" "nw-cold-silicon:SMT-JUMPER_2_NO_SILK"
@@ -5130,6 +5908,39 @@
 			)
 			(property "Description" "Normally open jumper\n\nThis jumper has two pads in close proximity to each other. Apply solder to close the connection.\n\nRound pads are easier to solder for beginners, but are a lot larger.\n\nSparkFun Product that uses the round pads:\n\n• https://www.sparkfun.com/products/12781 SparkFun EL Sequencer"
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "DIGIKEY" "DNP"
+				(at 0 -4.064 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MF" "N/A"
+				(at 0 -5.588 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MPN" "N/A"
+				(at 0 -7.112 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -5237,7 +6048,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Okapi-eagle-import:LED0603"
+		(symbol "nw-cold-silicon:LED0603"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -5505,7 +6316,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Okapi-eagle-import:MB85RC"
+		(symbol "nw-cold-silicon:MB85RC"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -5558,6 +6369,52 @@
 			)
 			(property "Description" "MB85RCx - FRAM I2C Memory\n\nCharacteristics:\n\n• Vin: 1.8 ~ 3.6V\n•  IQ: 15&mu;A typ\n•  ISleep: 4&mu;A\n•  Capacity: 64kb, 512kb, 1Mb\n• Operating Temperature: -40°C to 85°C\n\nDigikey:\n\n865-1269-1-ND"
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "DISP" "MB85RC512"
+				(at 0 11.684 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.778 1.5113)
+						(thickness 0.3023)
+						(bold yes)
+					)
+				)
+			)
+			(property "DIGIKEY" "865-1269-1-ND"
+				(at 0 -13.462 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MF" "Fujitsu"
+				(at 0 -14.986 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MPN" "MB85RC512TPNF-G-JNERE1"
+				(at 0 -16.51 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -5624,16 +6481,6 @@
 					)
 					(fill
 						(type none)
-					)
-				)
-				(text "${DISP}"
-					(at 0 11.684 0)
-					(effects
-						(font
-							(size 1.778 1.5113)
-							(thickness 0.3023)
-							(bold yes)
-						)
 					)
 				)
 				(pin input line
@@ -5783,7 +6630,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Okapi-eagle-import:MICROSDCD"
+		(symbol "nw-cold-silicon:MICROSDCD"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -5835,6 +6682,39 @@
 			)
 			(property "Description" "Micro-SD / Transflash card holder with SPI pinout\n\nFor the 3M # 2908-05WB-MG and/or 4UCON #19656\npush-push type"
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "DIGIKEY" "WM19093CT-ND"
+				(at 0 -1.524 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MF" "Molex"
+				(at 0 -3.048 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MPN" "5025700893"
+				(at 0 -4.572 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -6239,7 +7119,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Okapi-eagle-import:MOSFET-NCH-2N7002PW"
+		(symbol "nw-cold-silicon:MOSFET-NCH-2N7002PW"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -6256,7 +7136,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Value" ""
+			(property "Value" "2N7002"
 				(at 5.08 -2.54 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -6291,6 +7171,50 @@
 			)
 			(property "Description" "N-channel MOSFET\nSmall Signal/Low Power:\n\n• BSS138\n• 2N7002P\n• 2N7002PW\n• RE1C002UN"
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "DIGIKEY" "2N7002W-FDICT-ND"
+				(at 5.08 -4.064 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MF" "Diodes Incorporated"
+				(at 5.08 -5.588 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MPN" "2N7002W-7-F"
+				(at 5.08 -7.112 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "PROD_ID" "TRANS-11151"
+				(at 5.08 -8.636 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -6373,7 +7297,7 @@
 				)
 				(polyline
 					(pts
-						(xy -1.9812 0) (xy -1.2192 -0.254) (xy -1.2192 0.254)
+						(xy -1.9812 0) (xy -1.2192 0.254) (xy -1.2192 -0.254) (xy -1.9812 0)
 					)
 					(stroke
 						(width 0.1524)
@@ -6457,7 +7381,7 @@
 				)
 				(polyline
 					(pts
-						(xy 1.778 0.7112) (xy 2.54 -0.5588) (xy 3.302 0.7112)
+						(xy 1.778 -0.7112) (xy 2.54 0.5588) (xy 3.302 -0.7112) (xy 1.778 -0.7112)
 					)
 					(stroke
 						(width 0.1524)
@@ -6620,7 +7544,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Okapi-eagle-import:MOUNTING_HOLE4_NP"
+		(symbol "nw-cold-silicon:MOUNTING_HOLE4_NP"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -6672,6 +7596,39 @@
 			)
 			(property "Description" "Genaric Mechanical Mounting Hole\nHole diameter based on max body diameter + 15%\nKeepout ring is for diameter of socket cap screw (minimum required clearance)\nTPlace ring is for diameter of pan head screw (recomended clearance)\n•  Specifications:\n\n• Socket Cap\n• Button Head Socket Cap\n• Pan Head"
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "DIGIKEY" "DNP"
+				(at 2.032 -3.9878 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MF" "N/A"
+				(at 2.032 -5.5118 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MPN" "DNP"
+				(at 2.032 -7.0358 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -6765,7 +7722,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Okapi-eagle-import:PCA9634QFN"
+		(symbol "nw-cold-silicon:PCA9634QFN"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -6818,6 +7775,52 @@
 			)
 			(property "Description" "PCA9634 - I2C LED Driver, 8 Channel\n\nCharacteristics:\n\n• Vcc: 2.3V ~ 5.5V\n•  IOut: >25mA\n• IQ: 2.9&mu;A @ 3.3V\n• PWM Resolution: 256 Steps\n• Operating Temperature: -40°C to 85°C\n\nDigikey:\n\n568-8717-1-ND (QFN)"
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "DISP" "PCA9634"
+				(at 0 19.304 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.778 1.5113)
+						(thickness 0.3023)
+						(bold yes)
+					)
+				)
+			)
+			(property "DIGIKEY" "568-8717-1-ND"
+				(at 0 -21.082 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MF" "NXP"
+				(at 0 -22.606 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MPN" "PCA9634BS,118"
+				(at 0 -24.13 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -6884,16 +7887,6 @@
 					)
 					(fill
 						(type none)
-					)
-				)
-				(text "${DISP}"
-					(at 0 19.304 0)
-					(effects
-						(font
-							(size 1.778 1.5113)
-							(thickness 0.3023)
-							(bold yes)
-						)
 					)
 				)
 				(pin input line
@@ -7277,7 +8270,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Okapi-eagle-import:PPTC1.5A"
+		(symbol "nw-cold-silicon:PPTC1.5A"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -7329,6 +8322,39 @@
 			)
 			(property "Description" "Bel Fuse PPTC"
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "DIGIKEY" "MF-NSMF150-2CT-ND"
+				(at 1.905 -4.318 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MF" "Bourns"
+				(at 1.905 -5.842 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MPN" "MF-NSMF150-2"
+				(at 1.905 -7.366 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -7460,446 +8486,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Okapi-eagle-import:USB_MICROVERT"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "USB"
-				(at -7.366 5.588 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.0795)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Value" ""
-				(at -7.62 -10.16 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.0795)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Footprint" "nw-cold-silicon:USB_MICRO_VERT_MOLEX"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "General Micro USB - AB Connector"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "USB_MICROVERT_1_0"
-				(polyline
-					(pts
-						(xy -7.62 5.08) (xy -7.62 -7.62)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -7.62 -7.62) (xy 7.62 -7.62)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 5.08) (xy -7.62 5.08)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 -7.62) (xy 7.62 5.08)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin power_in line
-					(at 12.7 2.54 180)
-					(length 5.08)
-					(name "VDD"
-						(effects
-							(font
-								(size 1.524 1.524)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.524 1.524)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -12.7 0 0)
-					(length 5.08)
-					(name "D-"
-						(effects
-							(font
-								(size 1.524 1.524)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.524 1.524)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -12.7 2.54 0)
-					(length 5.08)
-					(name "D+"
-						(effects
-							(font
-								(size 1.524 1.524)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.524 1.524)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -12.7 -2.54 0)
-					(length 5.08)
-					(name "ID"
-						(effects
-							(font
-								(size 1.524 1.524)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.524 1.524)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 12.7 -2.54 180)
-					(length 5.08)
-					(name "GND"
-						(effects
-							(font
-								(size 1.524 1.524)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.524 1.524)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 12.7 -5.08 180)
-					(length 5.08)
-					(name "BODY"
-						(effects
-							(font
-								(size 1.524 1.524)
-							)
-						)
-					)
-					(number "P$1"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 12.7 -5.08 180)
-					(length 5.08)
-					(name "BODY"
-						(effects
-							(font
-								(size 1.524 1.524)
-							)
-						)
-					)
-					(number "P$2"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 12.7 -5.08 180)
-					(length 5.08)
-					(name "BODY"
-						(effects
-							(font
-								(size 1.524 1.524)
-							)
-						)
-					)
-					(number "P$3"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 12.7 -5.08 180)
-					(length 5.08)
-					(name "BODY"
-						(effects
-							(font
-								(size 1.524 1.524)
-							)
-						)
-					)
-					(number "P$4"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 12.7 -5.08 180)
-					(length 5.08)
-					(name "BODY"
-						(effects
-							(font
-								(size 1.524 1.524)
-							)
-						)
-					)
-					(number "P$5"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 12.7 -5.08 180)
-					(length 5.08)
-					(name "BODY"
-						(effects
-							(font
-								(size 1.524 1.524)
-							)
-						)
-					)
-					(number "P$6"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "Okapi-eagle-import:VCC"
-			(power global)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "#SUPPLY"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" ""
-				(at 0 2.794 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify bottom)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "VCC Voltage Supply\n\nPositive voltage supply (traditionally for a BJT device, C=collector)."
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "VCC_1_0"
-				(polyline
-					(pts
-						(xy 0 2.54) (xy -0.762 1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.762 1.27) (xy 0 2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin power_in line
-					(at 0 0 90)
-					(length 2.54)
-					(name "VCC"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "Okapi-eagle-import:bschulz_passives_R-EU_R0402"
+		(symbol "nw-cold-silicon:R-EU_R0402"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -7960,6 +8547,17 @@
 					)
 				)
 			)
+			(property "MF" "Yageo"
+				(at 0 -4.826 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
 			(property "ki_locked" ""
 				(at 0 0 0)
 				(show_name no)
@@ -7970,7 +8568,7 @@
 					)
 				)
 			)
-			(symbol "bschulz_passives_R-EU_R0402_1_0"
+			(symbol "R-EU_R0402_1_0"
 				(polyline
 					(pts
 						(xy -2.54 -0.889) (xy -2.54 0.889)
@@ -8058,7 +8656,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Okapi-eagle-import:bschulz_passives_R-EU_R0805"
+		(symbol "nw-cold-silicon:R-EU_R0805"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -8129,7 +8727,7 @@
 					)
 				)
 			)
-			(symbol "bschulz_passives_R-EU_R0805_1_0"
+			(symbol "R-EU_R0805_1_0"
 				(polyline
 					(pts
 						(xy -2.54 -0.889) (xy -2.54 0.889)
@@ -8207,112 +8805,6 @@
 						)
 					)
 					(number "2"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "Okapi-eagle-import:supply1_371_GND"
-			(power global)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "#GND"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" ""
-				(at -2.54 -2.54 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "SUPPLY SYMBOL"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "supply1_371_GND_1_0"
-				(polyline
-					(pts
-						(xy -1.905 0) (xy 1.905 0)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin power_in line
-					(at 0 2.54 270)
-					(length 2.54)
-					(name "GND"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-					(number "1"
 						(effects
 							(font
 								(size 0 0)
@@ -14145,7 +14637,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:CONN_022.54_SCREW")
+		(lib_id "nw-cold-silicon:CONN_022.54_SCREW")
 		(at 228.6 213.36 0)
 		(unit 1)
 		(body_style 1)
@@ -14218,7 +14710,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:bschulz_passives_R-EU_R0805")
+		(lib_id "nw-cold-silicon:R-EU_R0805")
 		(at 243.84 210.82 0)
 		(unit 1)
 		(body_style 1)
@@ -14291,7 +14783,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:MOUNTING_HOLE4_NP")
+		(lib_id "nw-cold-silicon:MOUNTING_HOLE4_NP")
 		(at 152.4 302.26 0)
 		(unit 1)
 		(body_style 1)
@@ -14358,7 +14850,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:MICROSDCD")
+		(lib_id "nw-cold-silicon:MICROSDCD")
 		(at 55.88 190.5 90)
 		(unit 1)
 		(body_style 1)
@@ -14467,7 +14959,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:BUTTON4.2X3.2")
+		(lib_id "nw-cold-silicon:BUTTON4.2X3.2")
 		(at 129.54 33.02 0)
 		(unit 1)
 		(body_style 1)
@@ -14548,7 +15040,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:CONN_102.54_SCREW")
+		(lib_id "nw-cold-silicon:CONN_102.54_SCREW")
 		(at 45.72 297.18 180)
 		(unit 1)
 		(body_style 1)
@@ -14645,7 +15137,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:CLVBA-FKA")
+		(lib_id "nw-cold-silicon:CLVBA-FKA")
 		(at 218.44 264.16 270)
 		(unit 1)
 		(body_style 1)
@@ -14726,7 +15218,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:bschulz_passives_R-EU_R0402")
+		(lib_id "nw-cold-silicon:R-EU_R0402")
 		(at 279.4 109.22 90)
 		(unit 1)
 		(body_style 1)
@@ -14799,7 +15291,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:bschulz_passives_R-EU_R0402")
+		(lib_id "nw-cold-silicon:R-EU_R0402")
 		(at 269.24 109.22 90)
 		(unit 1)
 		(body_style 1)
@@ -15149,7 +15641,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:C-EUC0402")
+		(lib_id "nw-cold-silicon:C-EUC0402")
 		(at 45.72 129.54 0)
 		(unit 1)
 		(body_style 1)
@@ -15292,7 +15784,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:PPTC1.5A")
+		(lib_id "nw-cold-silicon:PPTC1.5A")
 		(at 198.12 88.9 0)
 		(unit 1)
 		(body_style 1)
@@ -15435,7 +15927,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:bschulz_passives_R-EU_R0402")
+		(lib_id "nw-cold-silicon:R-EU_R0402")
 		(at 289.56 109.22 90)
 		(unit 1)
 		(body_style 1)
@@ -15508,7 +16000,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:LED0603")
+		(lib_id "nw-cold-silicon:LED0603")
 		(at 320.04 119.38 180)
 		(unit 1)
 		(body_style 1)
@@ -15582,7 +16074,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:LED0603")
+		(lib_id "nw-cold-silicon:LED0603")
 		(at 289.56 119.38 180)
 		(unit 1)
 		(body_style 1)
@@ -15756,7 +16248,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:CLVBA-FKA")
+		(lib_id "nw-cold-silicon:CLVBA-FKA")
 		(at 33.02 106.68 0)
 		(unit 1)
 		(body_style 1)
@@ -15906,7 +16398,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:CONN_022.54_SCREW")
+		(lib_id "nw-cold-silicon:CONN_022.54_SCREW")
 		(at 228.6 226.06 0)
 		(unit 1)
 		(body_style 1)
@@ -15979,7 +16471,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:bschulz_passives_R-EU_R0402")
+		(lib_id "nw-cold-silicon:R-EU_R0402")
 		(at 50.8 106.68 0)
 		(unit 1)
 		(body_style 1)
@@ -16052,7 +16544,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:LED0603")
+		(lib_id "nw-cold-silicon:LED0603")
 		(at 330.2 119.38 180)
 		(unit 1)
 		(body_style 1)
@@ -16126,7 +16618,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:bschulz_passives_R-EU_R0402")
+		(lib_id "nw-cold-silicon:R-EU_R0402")
 		(at 330.2 109.22 90)
 		(unit 1)
 		(body_style 1)
@@ -16199,7 +16691,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:bschulz_passives_R-EU_R0402")
+		(lib_id "nw-cold-silicon:R-EU_R0402")
 		(at 50.8 114.3 0)
 		(unit 1)
 		(body_style 1)
@@ -16412,7 +16904,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:MOUNTING_HOLE4_NP")
+		(lib_id "nw-cold-silicon:MOUNTING_HOLE4_NP")
 		(at 160.02 302.26 0)
 		(unit 1)
 		(body_style 1)
@@ -16479,7 +16971,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:LED0603")
+		(lib_id "nw-cold-silicon:LED0603")
 		(at 309.88 119.38 180)
 		(unit 1)
 		(body_style 1)
@@ -16693,7 +17185,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:PCA9634QFN")
+		(lib_id "nw-cold-silicon:PCA9634QFN")
 		(at 248.92 142.24 0)
 		(unit 1)
 		(body_style 1)
@@ -16824,7 +17316,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:bschulz_passives_R-EU_R0402")
+		(lib_id "nw-cold-silicon:R-EU_R0402")
 		(at 119.38 48.26 90)
 		(unit 1)
 		(body_style 1)
@@ -16897,7 +17389,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:bschulz_passives_R-EU_R0402")
+		(lib_id "nw-cold-silicon:R-EU_R0402")
 		(at 187.96 317.5 90)
 		(unit 1)
 		(body_style 1)
@@ -16970,7 +17462,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:MB85RC")
+		(lib_id "nw-cold-silicon:MB85RC")
 		(at 55.88 157.48 0)
 		(unit 1)
 		(body_style 1)
@@ -17062,7 +17554,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:CONN_82.54_SCREW")
+		(lib_id "nw-cold-silicon:CONN_82.54_SCREW")
 		(at 45.72 266.7 180)
 		(unit 1)
 		(body_style 1)
@@ -17153,7 +17645,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:JUMPER-SMT_2_NO_SILK")
+		(lib_id "nw-cold-silicon:JUMPER-SMT_2_NO_SILK")
 		(at 137.16 198.12 0)
 		(unit 1)
 		(body_style 1)
@@ -17226,7 +17718,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:LED0603")
+		(lib_id "nw-cold-silicon:LED0603")
 		(at 269.24 119.38 180)
 		(unit 1)
 		(body_style 1)
@@ -17300,7 +17792,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:MOSFET-NCH-2N7002PW")
+		(lib_id "nw-cold-silicon:MOSFET-NCH-2N7002PW")
 		(at 195.58 309.88 0)
 		(unit 1)
 		(body_style 1)
@@ -17446,7 +17938,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:bschulz_passives_R-EU_R0402")
+		(lib_id "nw-cold-silicon:R-EU_R0402")
 		(at 340.36 109.22 90)
 		(unit 1)
 		(body_style 1)
@@ -17519,7 +18011,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:LED0603")
+		(lib_id "nw-cold-silicon:LED0603")
 		(at 340.36 119.38 180)
 		(unit 1)
 		(body_style 1)
@@ -17593,7 +18085,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:BUTTON4.2X3.2")
+		(lib_id "nw-cold-silicon:BUTTON4.2X3.2")
 		(at 129.54 53.34 0)
 		(unit 1)
 		(body_style 1)
@@ -17674,7 +18166,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:AVRISP-6")
+		(lib_id "nw-cold-silicon:AVRISP-6")
 		(at 154.94 228.6 0)
 		(unit 1)
 		(body_style 1)
@@ -17795,7 +18287,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:bschulz_passives_R-EU_R0402")
+		(lib_id "nw-cold-silicon:R-EU_R0402")
 		(at 218.44 281.94 90)
 		(unit 1)
 		(body_style 1)
@@ -18090,7 +18582,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:bschulz_passives_R-EU_R0402")
+		(lib_id "nw-cold-silicon:R-EU_R0402")
 		(at 299.72 109.22 90)
 		(unit 1)
 		(body_style 1)
@@ -18163,7 +18655,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:bschulz_passives_R-EU_R0402")
+		(lib_id "nw-cold-silicon:R-EU_R0402")
 		(at 259.08 175.26 90)
 		(unit 1)
 		(body_style 1)
@@ -18236,7 +18728,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:bschulz_passives_R-EU_R0402")
+		(lib_id "nw-cold-silicon:R-EU_R0402")
 		(at 320.04 109.22 90)
 		(unit 1)
 		(body_style 1)
@@ -18309,7 +18801,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:MOUNTING_HOLE4_NP")
+		(lib_id "nw-cold-silicon:MOUNTING_HOLE4_NP")
 		(at 144.78 302.26 0)
 		(unit 1)
 		(body_style 1)
@@ -18376,7 +18868,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:LED0603")
+		(lib_id "nw-cold-silicon:LED0603")
 		(at 279.4 119.38 180)
 		(unit 1)
 		(body_style 1)
@@ -18450,7 +18942,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:bschulz_passives_R-EU_R0402")
+		(lib_id "nw-cold-silicon:R-EU_R0402")
 		(at 50.8 99.06 0)
 		(unit 1)
 		(body_style 1)
@@ -18523,7 +19015,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:FEATHERWINGLAYOUT")
+		(lib_id "nw-cold-silicon:FEATHERWINGLAYOUT")
 		(at 139.7 246.38 270)
 		(unit 1)
 		(body_style 1)
@@ -18674,7 +19166,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:bschulz_passives_R-EU_R0402")
+		(lib_id "nw-cold-silicon:R-EU_R0402")
 		(at 309.88 109.22 90)
 		(unit 1)
 		(body_style 1)
@@ -18747,7 +19239,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:bschulz_passives_R-EU_R0402")
+		(lib_id "nw-cold-silicon:R-EU_R0402")
 		(at 210.82 281.94 90)
 		(unit 1)
 		(body_style 1)
@@ -18832,7 +19324,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:CONN_022.54_SCREW")
+		(lib_id "nw-cold-silicon:CONN_022.54_SCREW")
 		(at 228.6 238.76 0)
 		(unit 1)
 		(body_style 1)
@@ -19045,7 +19537,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:bschulz_passives_R-EU_R0402")
+		(lib_id "nw-cold-silicon:R-EU_R0402")
 		(at 119.38 27.94 90)
 		(unit 1)
 		(body_style 1)
@@ -19188,7 +19680,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:bschulz_passives_R-EU_R0402")
+		(lib_id "nw-cold-silicon:R-EU_R0402")
 		(at 226.06 281.94 90)
 		(unit 1)
 		(body_style 1)
@@ -19273,7 +19765,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:BUTTON4.2X3.2")
+		(lib_id "nw-cold-silicon:BUTTON4.2X3.2")
 		(at 251.46 271.78 0)
 		(unit 1)
 		(body_style 1)
@@ -19354,7 +19846,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:bschulz_passives_R-EU_R0402")
+		(lib_id "nw-cold-silicon:R-EU_R0402")
 		(at 27.94 203.2 90)
 		(unit 1)
 		(body_style 1)
@@ -19427,7 +19919,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:bschulz_passives_R-EU_R0402")
+		(lib_id "nw-cold-silicon:R-EU_R0402")
 		(at 271.78 269.24 90)
 		(unit 1)
 		(body_style 1)
@@ -19512,7 +20004,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:CONN_82.54_SCREW")
+		(lib_id "nw-cold-silicon:CONN_82.54_SCREW")
 		(at 83.82 287.02 180)
 		(unit 1)
 		(body_style 1)
@@ -19603,7 +20095,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:LED0603")
+		(lib_id "nw-cold-silicon:LED0603")
 		(at 299.72 119.38 180)
 		(unit 1)
 		(body_style 1)
@@ -19677,7 +20169,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:JST_2MM_MALE")
+		(lib_id "nw-cold-silicon:JST_2MM_MALE")
 		(at 264.16 226.06 90)
 		(unit 1)
 		(body_style 1)
@@ -19756,7 +20248,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Okapi-eagle-import:CONN_42.54_SCREW")
+		(lib_id "nw-cold-silicon:CONN_42.54_SCREW")
 		(at 78.74 256.54 180)
 		(unit 1)
 		(body_style 1)
