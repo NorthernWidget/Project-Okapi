@@ -3952,7 +3952,7 @@
 	)
 	(text "SD Card"
 		(exclude_from_sim no)
-		(at 217.17 15.24 0)
+		(at 210.82 15.24 0)
 		(effects
 			(font
 				(size 5.08 4.318)
@@ -4024,7 +4024,7 @@
 		(uuid "95facfc0-8d53-4ef8-9d79-af1eb78fb884")
 	)
 	(junction
-		(at 269.24 48.26)
+		(at 262.89 48.26)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a6594782-c765-460c-8226-f29e1f0d9c4b")
@@ -4060,7 +4060,7 @@
 		(uuid "e0eb0c41-7ad7-4ff2-b30c-a42304137051")
 	)
 	(junction
-		(at 233.68 45.72)
+		(at 227.33 45.72)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f2a21987-c909-43dc-9216-1f1995f965d8")
@@ -4151,7 +4151,7 @@
 	)
 	(wire
 		(pts
-			(xy 261.62 45.72) (xy 261.62 50.8)
+			(xy 255.27 45.72) (xy 255.27 50.8)
 		)
 		(stroke
 			(width 0.1524)
@@ -4211,7 +4211,7 @@
 	)
 	(wire
 		(pts
-			(xy 233.68 45.72) (xy 223.52 45.72)
+			(xy 227.33 45.72) (xy 217.17 45.72)
 		)
 		(stroke
 			(width 0.1524)
@@ -4221,7 +4221,7 @@
 	)
 	(wire
 		(pts
-			(xy 233.68 45.72) (xy 233.68 50.8)
+			(xy 227.33 45.72) (xy 227.33 50.8)
 		)
 		(stroke
 			(width 0.1524)
@@ -4321,7 +4321,7 @@
 	)
 	(wire
 		(pts
-			(xy 269.24 48.26) (xy 271.78 48.26)
+			(xy 262.89 48.26) (xy 265.43 48.26)
 		)
 		(stroke
 			(width 0.1524)
@@ -4371,7 +4371,7 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 48.26) (xy 269.24 48.26)
+			(xy 257.81 48.26) (xy 262.89 48.26)
 		)
 		(stroke
 			(width 0.1524)
@@ -4391,7 +4391,7 @@
 	)
 	(wire
 		(pts
-			(xy 251.46 45.72) (xy 251.46 50.8)
+			(xy 245.11 45.72) (xy 245.11 50.8)
 		)
 		(stroke
 			(width 0.1524)
@@ -4401,7 +4401,7 @@
 	)
 	(wire
 		(pts
-			(xy 223.52 33.02) (xy 220.98 33.02)
+			(xy 217.17 33.02) (xy 214.63 33.02)
 		)
 		(stroke
 			(width 0.1524)
@@ -4681,7 +4681,7 @@
 	)
 	(wire
 		(pts
-			(xy 236.22 45.72) (xy 236.22 60.96)
+			(xy 229.87 45.72) (xy 229.87 60.96)
 		)
 		(stroke
 			(width 0.1524)
@@ -4741,7 +4741,7 @@
 	)
 	(wire
 		(pts
-			(xy 269.24 45.72) (xy 269.24 48.26)
+			(xy 262.89 45.72) (xy 262.89 48.26)
 		)
 		(stroke
 			(width 0.1524)
@@ -4751,7 +4751,7 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 45.72) (xy 248.92 50.8)
+			(xy 242.57 45.72) (xy 242.57 50.8)
 		)
 		(stroke
 			(width 0.1524)
@@ -4781,7 +4781,7 @@
 	)
 	(wire
 		(pts
-			(xy 243.84 45.72) (xy 243.84 50.8)
+			(xy 237.49 45.72) (xy 237.49 50.8)
 		)
 		(stroke
 			(width 0.1524)
@@ -4891,7 +4891,7 @@
 	)
 	(wire
 		(pts
-			(xy 271.78 48.26) (xy 271.78 45.72)
+			(xy 265.43 48.26) (xy 265.43 45.72)
 		)
 		(stroke
 			(width 0.1524)
@@ -4921,7 +4921,7 @@
 	)
 	(wire
 		(pts
-			(xy 223.52 35.56) (xy 223.52 33.02)
+			(xy 217.17 35.56) (xy 217.17 33.02)
 		)
 		(stroke
 			(width 0.1524)
@@ -4941,7 +4941,7 @@
 	)
 	(wire
 		(pts
-			(xy 269.24 53.34) (xy 269.24 48.26)
+			(xy 262.89 53.34) (xy 262.89 48.26)
 		)
 		(stroke
 			(width 0.1524)
@@ -5041,7 +5041,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 45.72) (xy 246.38 50.8)
+			(xy 240.03 45.72) (xy 240.03 50.8)
 		)
 		(stroke
 			(width 0.1524)
@@ -5081,7 +5081,7 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 45.72) (xy 264.16 48.26)
+			(xy 257.81 45.72) (xy 257.81 48.26)
 		)
 		(stroke
 			(width 0.1524)
@@ -5445,7 +5445,7 @@
 	)
 	(global_label "3V3_AUX"
 		(shape bidirectional)
-		(at 220.98 33.02 180)
+		(at 214.63 33.02 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5455,7 +5455,7 @@
 		)
 		(uuid "23aee603-8002-4e0c-8a36-62f9e8f6225c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 215.5139 33.02 0)
+			(at 209.1639 33.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5517,7 +5517,7 @@
 	)
 	(global_label "3V3_AUX"
 		(shape bidirectional)
-		(at 261.62 50.8 270)
+		(at 255.27 50.8 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5527,7 +5527,7 @@
 		)
 		(uuid "343757bc-8663-4383-b91d-f7932c0edafd")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 261.62 56.2661 90)
+			(at 255.27 56.2661 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5853,7 +5853,7 @@
 	)
 	(global_label "SD_CS_BUF"
 		(shape bidirectional)
-		(at 251.46 50.8 270)
+		(at 245.11 50.8 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5863,7 +5863,7 @@
 		)
 		(uuid "96b63705-fe44-4d5d-9059-873912d7866a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 251.46 57.377 90)
+			(at 245.11 57.377 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5925,7 +5925,7 @@
 	)
 	(global_label "SCK_BUF"
 		(shape bidirectional)
-		(at 248.92 50.8 270)
+		(at 242.57 50.8 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5935,7 +5935,7 @@
 		)
 		(uuid "a6cf2233-91c8-4199-b993-13c0ec79fc85")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 248.92 56.4016 90)
+			(at 242.57 56.4016 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5997,7 +5997,7 @@
 	)
 	(global_label "SD_CD"
 		(shape bidirectional)
-		(at 233.68 50.8 270)
+		(at 227.33 50.8 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6007,7 +6007,7 @@
 		)
 		(uuid "c035f4f4-9dee-4807-a0b2-125b8c6e3218")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 233.68 55.3178 90)
+			(at 227.33 55.3178 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6021,7 +6021,7 @@
 	)
 	(global_label "MOSI_BUF"
 		(shape bidirectional)
-		(at 246.38 50.8 270)
+		(at 240.03 50.8 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6031,7 +6031,7 @@
 		)
 		(uuid "c19d4afc-be0e-4650-ac4d-d2a8402b7dcf")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 246.38 56.781 90)
+			(at 240.03 56.781 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6189,7 +6189,7 @@
 	)
 	(global_label "MISO"
 		(shape bidirectional)
-		(at 243.84 50.8 270)
+		(at 237.49 50.8 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6199,7 +6199,7 @@
 		)
 		(uuid "fd33994d-7bf4-447f-855c-1ce806599252")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 243.84 54.6947 90)
+			(at 237.49 54.6947 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6213,7 +6213,7 @@
 	)
 	(symbol
 		(lib_id "nw-cold-silicon:MICROSDCD")
-		(at 251.46 27.94 90)
+		(at 245.11 27.94 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6223,7 +6223,7 @@
 		(dnp no)
 		(uuid "19eb6a48-4c4c-4f81-92c2-0b27f52e2c25")
 		(property "Reference" "SD1"
-			(at 251.46 27.94 0)
+			(at 245.11 27.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6234,7 +6234,7 @@
 			)
 		)
 		(property "Value" "MICROSDCD"
-			(at 251.46 27.94 0)
+			(at 245.11 27.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6245,7 +6245,7 @@
 			)
 		)
 		(property "Footprint" "nw-cold-silicon:MICROSD_CD"
-			(at 251.46 27.94 0)
+			(at 245.11 27.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6256,7 +6256,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 251.46 27.94 0)
+			(at 245.11 27.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6267,7 +6267,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 251.46 27.94 0)
+			(at 245.11 27.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7752,7 +7752,7 @@
 	)
 	(symbol
 		(lib_id "nw-cold-silicon:GND")
-		(at 269.24 55.88 0)
+		(at 262.89 55.88 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7762,7 +7762,7 @@
 		(dnp no)
 		(uuid "e2146d44-9152-4d08-9cfe-fe2171faf71d")
 		(property "Reference" "#GND44"
-			(at 269.24 55.88 0)
+			(at 262.89 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7773,7 +7773,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 266.7 58.42 0)
+			(at 260.35 58.42 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7784,7 +7784,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 269.24 55.88 0)
+			(at 262.89 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7795,7 +7795,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 269.24 55.88 0)
+			(at 262.89 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7806,7 +7806,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 269.24 55.88 0)
+			(at 262.89 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7966,7 +7966,7 @@
 	)
 	(symbol
 		(lib_id "nw-cold-silicon:GND")
-		(at 236.22 63.5 0)
+		(at 229.87 63.5 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7976,7 +7976,7 @@
 		(dnp no)
 		(uuid "e7b7600d-6cc9-477e-8f99-a7ab3cec291a")
 		(property "Reference" "#GND43"
-			(at 236.22 63.5 0)
+			(at 229.87 63.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7987,7 +7987,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 233.68 66.04 0)
+			(at 227.33 66.04 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7998,7 +7998,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 236.22 63.5 0)
+			(at 229.87 63.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8009,7 +8009,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 236.22 63.5 0)
+			(at 229.87 63.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8020,7 +8020,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 236.22 63.5 0)
+			(at 229.87 63.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8036,7 +8036,7 @@
 	)
 	(symbol
 		(lib_id "nw-cold-silicon:R-EU_R0402")
-		(at 223.52 40.64 90)
+		(at 217.17 40.64 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8046,7 +8046,7 @@
 		(dnp no)
 		(uuid "f6330c95-7d2a-4efe-bc2e-b15dac6ffdc6")
 		(property "Reference" "R41"
-			(at 222.0214 44.45 0)
+			(at 215.6714 44.45 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8057,7 +8057,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 226.822 44.45 0)
+			(at 220.472 44.45 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8068,7 +8068,7 @@
 			)
 		)
 		(property "Footprint" "nw-cold-silicon:R0402"
-			(at 223.52 40.64 0)
+			(at 217.17 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8079,7 +8079,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 223.52 40.64 0)
+			(at 217.17 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8090,7 +8090,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 223.52 40.64 0)
+			(at 217.17 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

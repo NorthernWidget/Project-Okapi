@@ -3088,7 +3088,7 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 152.4) (xy 48.26 157.48)
+			(xy 38.1 152.4) (xy 38.1 157.48)
 		)
 		(stroke
 			(width 0.1524)
@@ -3108,7 +3108,7 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 157.48) (xy 93.98 157.48)
+			(xy 38.1 157.48) (xy 93.98 157.48)
 		)
 		(stroke
 			(width 0.1524)
@@ -3528,7 +3528,7 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 144.78) (xy 66.04 144.78)
+			(xy 38.1 144.78) (xy 66.04 144.78)
 		)
 		(stroke
 			(width 0.1524)
@@ -5669,7 +5669,7 @@
 	)
 	(symbol
 		(lib_id "nw-cold-silicon:C-EUC0402")
-		(at 48.26 147.32 0)
+		(at 38.1 147.32 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5679,7 +5679,7 @@
 		(dnp no)
 		(uuid "8c5bdaf5-729c-454b-9618-870deedf66ee")
 		(property "Reference" "C32"
-			(at 49.784 146.939 0)
+			(at 39.624 146.939 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5690,7 +5690,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 49.784 152.019 0)
+			(at 39.624 152.019 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5701,7 +5701,7 @@
 			)
 		)
 		(property "Footprint" "nw-cold-silicon:C0402"
-			(at 48.26 147.32 0)
+			(at 38.1 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5712,7 +5712,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 48.26 147.32 0)
+			(at 38.1 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5723,7 +5723,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 48.26 147.32 0)
+			(at 38.1 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
