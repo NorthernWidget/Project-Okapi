@@ -1918,7 +1918,7 @@
 	)
 	(text "Log button"
 		(exclude_from_sim no)
-		(at 204.63 100.204 0)
+		(at 195.58 99.06 0)
 		(effects
 			(font
 				(size 3.048 2.54)

@@ -2770,7 +2770,7 @@
 	)
 	(text "Real-time clock"
 		(exclude_from_sim no)
-		(at 51.12 129.54 0)
+		(at 62.23 132.08 0)
 		(effects
 			(font
 				(size 3.048 2.54)
@@ -2794,7 +2794,7 @@
 	)
 	(text "DAC & reference"
 		(exclude_from_sim no)
-		(at 46.2 66.04 0)
+		(at 59.69 67.31 0)
 		(effects
 			(font
 				(size 3.048 2.54)
@@ -2807,7 +2807,7 @@
 	)
 	(text "ADS1115 ADC"
 		(exclude_from_sim no)
-		(at 159.07 167.64 0)
+		(at 165.1 96.52 0)
 		(effects
 			(font
 				(size 3.048 2.54)
@@ -2831,7 +2831,7 @@
 	)
 	(text "PAC1934 power monitor"
 		(exclude_from_sim no)
-		(at 159.324 24.13 0)
+		(at 153.67 25.4 0)
 		(effects
 			(font
 				(size 3.048 2.54)

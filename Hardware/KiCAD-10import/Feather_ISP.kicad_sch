@@ -3393,7 +3393,7 @@
 	)
 	(text "SDA jumper"
 		(exclude_from_sim no)
-		(at 26.75 25.4 0)
+		(at 22.86 31.75 0)
 		(effects
 			(font
 				(size 3.048 2.54)
@@ -3406,7 +3406,7 @@
 	)
 	(text "ICSP header"
 		(exclude_from_sim no)
-		(at 39.53 52.07 0)
+		(at 39.37 54.61 0)
 		(effects
 			(font
 				(size 3.048 2.54)
@@ -3478,7 +3478,7 @@
 	)
 	(text "Feather socket"
 		(exclude_from_sim no)
-		(at 26.83 88.9 0)
+		(at 20.32 92.71 0)
 		(effects
 			(font
 				(size 3.048 2.54)
@@ -3502,7 +3502,7 @@
 	)
 	(text "Feather enable"
 		(exclude_from_sim no)
-		(at 77.79 147.32 0)
+		(at 76.2 149.86 0)
 		(effects
 			(font
 				(size 3.048 2.54)

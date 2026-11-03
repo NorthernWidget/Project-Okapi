@@ -4042,7 +4042,7 @@
 	)
 	(text "V_PRIME"
 		(exclude_from_sim no)
-		(at 189.39 46.99 0)
+		(at 180.34 60.96 0)
 		(effects
 			(font
 				(size 3.048 2.54)
@@ -4055,7 +4055,7 @@
 	)
 	(text "Solar"
 		(exclude_from_sim no)
-		(at 189.39 34.29 0)
+		(at 185.42 86.36 0)
 		(effects
 			(font
 				(size 3.048 2.54)
@@ -4068,7 +4068,7 @@
 	)
 	(text "Battery protection"
 		(exclude_from_sim no)
-		(at 12.23 40.64 0)
+		(at 38.1 41.91 0)
 		(effects
 			(font
 				(size 3.048 2.54)
@@ -4081,7 +4081,7 @@
 	)
 	(text "Solar charger"
 		(exclude_from_sim no)
-		(at 37.47 90.17 0)
+		(at 62.23 95.25 0)
 		(effects
 			(font
 				(size 3.048 2.54)
@@ -4094,7 +4094,7 @@
 	)
 	(text "Battery"
 		(exclude_from_sim no)
-		(at 189.39 40.64 0)
+		(at 180.34 73.66 0)
 		(effects
 			(font
 				(size 3.048 2.54)
@@ -5967,6 +5967,7 @@
 		)
 		(property "Value" "CONN_022.54_SCREW"
 			(at 199.39 65.786 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6906,6 +6907,7 @@
 		)
 		(property "Value" "CONN_022.54_SCREW"
 			(at 199.39 78.486 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8585,6 +8587,7 @@
 		)
 		(property "Value" "CONN_022.54_SCREW"
 			(at 199.39 91.186 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects

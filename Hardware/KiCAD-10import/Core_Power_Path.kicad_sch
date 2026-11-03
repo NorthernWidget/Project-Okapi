@@ -1734,7 +1734,7 @@
 	)
 	(text "Battery switch"
 		(exclude_from_sim no)
-		(at 169.23 64.77 0)
+		(at 172.72 66.04 0)
 		(effects
 			(font
 				(size 3.048 2.54)
@@ -1747,7 +1747,7 @@
 	)
 	(text "Ideal diode"
 		(exclude_from_sim no)
-		(at 20.8 58.42 0)
+		(at 29.21 54.61 0)
 		(effects
 			(font
 				(size 3.048 2.54)
@@ -1760,7 +1760,7 @@
 	)
 	(text "Battery / USB sense"
 		(exclude_from_sim no)
-		(at 25.88 22.86 0)
+		(at 35.56 25.4 0)
 		(effects
 			(font
 				(size 3.048 2.54)
@@ -2431,6 +2431,7 @@
 		)
 		(property "DIGIKEY" "B340A-FDICT-ND"
 			(at 57.15 49.53 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2441,6 +2442,7 @@
 		)
 		(property "MF" "Diodes Incorporated"
 			(at 57.15 49.53 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2451,6 +2453,7 @@
 		)
 		(property "MPN" "B340A-13-F"
 			(at 57.15 49.53 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects

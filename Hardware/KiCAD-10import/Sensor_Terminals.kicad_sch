@@ -1140,7 +1140,7 @@
 	)
 	(text "J3"
 		(exclude_from_sim no)
-		(at 144.94 24.13 0)
+		(at 147.32 27.94 0)
 		(effects
 			(font
 				(size 3.048 2.54)
@@ -1153,7 +1153,7 @@
 	)
 	(text "J2"
 		(exclude_from_sim no)
-		(at 96.68 60.96 0)
+		(at 104.14 63.5 0)
 		(effects
 			(font
 				(size 3.048 2.54)
@@ -1166,7 +1166,7 @@
 	)
 	(text "J4"
 		(exclude_from_sim no)
-		(at 195.74 48.26 0)
+		(at 203.2 49.53 0)
 		(effects
 			(font
 				(size 3.048 2.54)
@@ -1179,7 +1179,7 @@
 	)
 	(text "J1"
 		(exclude_from_sim no)
-		(at 40.8 24.13 0)
+		(at 48.26 27.94 0)
 		(effects
 			(font
 				(size 3.048 2.54)
@@ -2227,6 +2227,7 @@
 		)
 		(property "Value" "CONN_102.54_SCREW"
 			(at 106.68 43.434 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2324,6 +2325,7 @@
 		)
 		(property "Value" "CONN_82.54_SCREW"
 			(at 50.8 28.194 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2415,6 +2417,7 @@
 		)
 		(property "Value" "CONN_82.54_SCREW"
 			(at 205.74 18.034 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2506,6 +2509,7 @@
 		)
 		(property "Value" "CONN_42.54_SCREW"
 			(at 154.94 28.194 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects

@@ -1701,7 +1701,7 @@
 	)
 	(text "BMA456 accelerometer"
 		(exclude_from_sim no)
-		(at 180.66 41.91 0)
+		(at 177.8 43.18 0)
 		(effects
 			(font
 				(size 3.048 2.54)
@@ -1714,7 +1714,7 @@
 	)
 	(text "VEML6030 light"
 		(exclude_from_sim no)
-		(at 58.74 86.36 0)
+		(at 62.23 87.63 0)
 		(effects
 			(font
 				(size 3.048 2.54)
@@ -1762,7 +1762,7 @@
 	)
 	(text "MLX90393 magnetometer"
 		(exclude_from_sim no)
-		(at 180.66 80.01 0)
+		(at 176.53 81.28 0)
 		(effects
 			(font
 				(size 3.048 2.54)
@@ -1775,7 +1775,7 @@
 	)
 	(text "BME280 environment"
 		(exclude_from_sim no)
-		(at 24.45 41.91 0)
+		(at 25.4 49.53 0)
 		(effects
 			(font
 				(size 3.048 2.54)
