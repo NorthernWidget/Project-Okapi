@@ -2260,13 +2260,13 @@
 	)
 	(global_label "SD_CS"
 		(shape bidirectional)
-		(at 45.72 124.46 0)
+		(at 45.72 124.46 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "6c5cc8db-83fe-4cb3-8447-eefd6365551a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -2284,13 +2284,13 @@
 	)
 	(global_label "MOSI"
 		(shape bidirectional)
-		(at 45.72 119.38 0)
+		(at 45.72 119.38 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "762d1f6d-a2be-473f-854f-656dcc7e41d4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -2308,13 +2308,13 @@
 	)
 	(global_label "SCK"
 		(shape bidirectional)
-		(at 45.72 121.92 0)
+		(at 45.72 121.92 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "774056ae-9d10-4be1-94ef-bb41f617347b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -2356,13 +2356,13 @@
 	)
 	(global_label "GND"
 		(shape bidirectional)
-		(at 43.18 106.68 0)
+		(at 43.18 106.68 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "7a7be222-0123-4e99-8432-e4187cd0e6f2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -2476,13 +2476,13 @@
 	)
 	(global_label "SDA_CTRL"
 		(shape bidirectional)
-		(at 30.48 101.6 0)
+		(at 30.48 101.6 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "babe0578-594c-430f-aee0-f12b25afed80")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -2548,13 +2548,13 @@
 	)
 	(global_label "SDA"
 		(shape bidirectional)
-		(at 43.18 99.06 0)
+		(at 43.18 99.06 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "e0888146-60b8-4735-800a-d3b5295e09e1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"

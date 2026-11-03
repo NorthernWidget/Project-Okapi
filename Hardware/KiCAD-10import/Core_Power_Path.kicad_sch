@@ -2077,13 +2077,13 @@
 	)
 	(global_label "VUSB_POWER"
 		(shape bidirectional)
-		(at 49.53 49.53 180)
+		(at 49.53 49.53 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "55e08ce0-af9b-48e6-ad7a-153e96667293")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -2125,7 +2125,7 @@
 	)
 	(global_label "V_BETA_SENSE"
 		(shape bidirectional)
-		(at 64.77 49.53 0)
+		(at 59.69 49.53 90)
 		(fields_autoplaced yes)
 		(effects
 			(font

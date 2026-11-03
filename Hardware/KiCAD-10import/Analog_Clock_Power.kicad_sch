@@ -3802,13 +3802,13 @@
 	)
 	(global_label "3V3_AUX"
 		(shape bidirectional)
-		(at 55.88 144.78 180)
+		(at 55.88 144.78 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "10be5518-5b2c-4e3f-866c-c2df283590cd")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -3994,7 +3994,7 @@
 	)
 	(global_label "RTC_INT"
 		(shape bidirectional)
-		(at 55.88 147.32 180)
+		(at 55.88 147.32 270)
 		(fields_autoplaced yes)
 		(effects
 			(font

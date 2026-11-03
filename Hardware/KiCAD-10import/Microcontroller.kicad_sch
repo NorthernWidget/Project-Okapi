@@ -2384,16 +2384,6 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 40.64) (xy 34.29 40.64)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "09e6b206-b18e-4580-909f-08525ae2e79d")
-	)
-	(wire
-		(pts
 			(xy 34.29 68.58) (xy 49.53 68.58)
 		)
 		(stroke
@@ -3470,7 +3460,7 @@
 	)
 	(global_label "3V3_CORE"
 		(shape bidirectional)
-		(at 34.29 40.64 90)
+		(at 49.53 40.64 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
