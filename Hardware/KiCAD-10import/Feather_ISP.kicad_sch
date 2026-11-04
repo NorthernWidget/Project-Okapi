@@ -129,7 +129,7 @@
 						(type none)
 					)
 				)
-				(pin input line
+				(pin passive line
 					(at -12.7 2.54 0)
 					(length 5.08)
 					(name "MISO"
@@ -147,7 +147,7 @@
 						)
 					)
 				)
-				(pin power_in line
+				(pin passive line
 					(at 15.24 2.54 180)
 					(length 5.08)
 					(name "VCC"
@@ -165,7 +165,7 @@
 						)
 					)
 				)
-				(pin output line
+				(pin passive line
 					(at -12.7 0 0)
 					(length 5.08)
 					(name "SCK"
@@ -183,7 +183,7 @@
 						)
 					)
 				)
-				(pin output line
+				(pin passive line
 					(at 15.24 0 180)
 					(length 5.08)
 					(name "MOSI"
@@ -201,7 +201,7 @@
 						)
 					)
 				)
-				(pin output line
+				(pin passive line
 					(at -12.7 -2.54 0)
 					(length 5.08)
 					(name "RST"
@@ -219,7 +219,7 @@
 						)
 					)
 				)
-				(pin power_in line
+				(pin passive line
 					(at 15.24 -2.54 180)
 					(length 5.08)
 					(name "GND"
