@@ -3076,7 +3076,7 @@
 						)
 					)
 				)
-				(pin input line
+				(pin output line
 					(at 15.24 0 180)
 					(length 5.08)
 					(name "DRVN"
