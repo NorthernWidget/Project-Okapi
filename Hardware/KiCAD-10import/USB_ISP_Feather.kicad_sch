@@ -942,7 +942,7 @@
 						(justify left bottom)
 					)
 				)
-				(pin bidirectional line
+				(pin input line
 					(at 20.32 12.7 180)
 					(length 5.08)
 					(name "RXD"
@@ -960,7 +960,7 @@
 						)
 					)
 				)
-				(pin bidirectional line
+				(pin input line
 					(at 20.32 -2.54 180)
 					(length 5.08)
 					(name "RI#"
@@ -978,7 +978,7 @@
 						)
 					)
 				)
-				(pin bidirectional line
+				(pin power_in line
 					(at -2.54 -22.86 90)
 					(length 5.08)
 					(name "GND"
@@ -996,7 +996,7 @@
 						)
 					)
 				)
-				(pin bidirectional line
+				(pin input line
 					(at 20.32 2.54 180)
 					(length 5.08)
 					(name "DSR#"
@@ -1014,7 +1014,7 @@
 						)
 					)
 				)
-				(pin bidirectional line
+				(pin input line
 					(at 20.32 0 180)
 					(length 5.08)
 					(name "DCD#"
@@ -1032,7 +1032,7 @@
 						)
 					)
 				)
-				(pin bidirectional line
+				(pin input line
 					(at 20.32 7.62 180)
 					(length 5.08)
 					(name "CTS#"
@@ -1104,7 +1104,7 @@
 						)
 					)
 				)
-				(pin bidirectional line
+				(pin power_out line
 					(at -20.32 15.24 0)
 					(length 5.08)
 					(name "3V3OUT"
@@ -1122,7 +1122,7 @@
 						)
 					)
 				)
-				(pin bidirectional line
+				(pin input line
 					(at -20.32 0 0)
 					(length 5.08)
 					(name "RESET#"
@@ -1140,7 +1140,7 @@
 						)
 					)
 				)
-				(pin bidirectional line
+				(pin power_in line
 					(at -2.54 22.86 270)
 					(length 5.08)
 					(name "VCC"
@@ -1158,7 +1158,7 @@
 						)
 					)
 				)
-				(pin bidirectional line
+				(pin power_in line
 					(at 0 -22.86 90)
 					(length 5.08)
 					(name "GND"
@@ -1230,7 +1230,7 @@
 						)
 					)
 				)
-				(pin bidirectional line
+				(pin output line
 					(at 20.32 15.24 180)
 					(length 5.08)
 					(name "TXD"
@@ -1248,7 +1248,7 @@
 						)
 					)
 				)
-				(pin bidirectional line
+				(pin output line
 					(at 20.32 5.08 180)
 					(length 5.08)
 					(name "DTR#"
@@ -1266,7 +1266,7 @@
 						)
 					)
 				)
-				(pin bidirectional line
+				(pin output line
 					(at 20.32 10.16 180)
 					(length 5.08)
 					(name "RTS#"
@@ -1284,7 +1284,7 @@
 						)
 					)
 				)
-				(pin bidirectional line
+				(pin power_in line
 					(at 2.54 22.86 270)
 					(length 5.08)
 					(name "VCCIO"
@@ -1302,7 +1302,7 @@
 						)
 					)
 				)
-				(pin bidirectional line
+				(pin power_in line
 					(at 2.54 -22.86 90)
 					(length 5.08)
 					(name "GND"

@@ -462,7 +462,7 @@
 						(type none)
 					)
 				)
-				(pin bidirectional line
+				(pin passive line
 					(at 0 0 0)
 					(length 5.08)
 					(name "1"
@@ -480,7 +480,7 @@
 						)
 					)
 				)
-				(pin bidirectional line
+				(pin passive line
 					(at 0 -2.54 0)
 					(length 5.08)
 					(name "2"
@@ -498,7 +498,7 @@
 						)
 					)
 				)
-				(pin bidirectional line
+				(pin passive line
 					(at 15.24 0 180)
 					(length 5.08)
 					(name "3"
@@ -516,7 +516,7 @@
 						)
 					)
 				)
-				(pin bidirectional line
+				(pin passive line
 					(at 15.24 -2.54 180)
 					(length 5.08)
 					(name "4"
@@ -2236,7 +2236,7 @@
 						(type none)
 					)
 				)
-				(pin bidirectional line
+				(pin passive line
 					(at 0 -5.08 90)
 					(length 5.08)
 					(name "-"
@@ -2254,7 +2254,7 @@
 						)
 					)
 				)
-				(pin bidirectional line
+				(pin passive line
 					(at 2.54 -5.08 90)
 					(length 5.08)
 					(name "+"
@@ -2272,7 +2272,7 @@
 						)
 					)
 				)
-				(pin bidirectional line
+				(pin passive line
 					(at -2.54 2.54 90)
 					(length 0)
 					(name "PAD1"
@@ -2290,7 +2290,7 @@
 						)
 					)
 				)
-				(pin bidirectional line
+				(pin passive line
 					(at 5.08 2.54 90)
 					(length 0)
 					(name "PAD2"
@@ -2464,7 +2464,7 @@
 						(type none)
 					)
 				)
-				(pin bidirectional line
+				(pin power_in line
 					(at -5.08 27.94 0)
 					(length 5.08)
 					(name "VIN"
@@ -2482,7 +2482,7 @@
 						)
 					)
 				)
-				(pin bidirectional line
+				(pin input line
 					(at -5.08 22.86 0)
 					(length 5.08)
 					(name "VIN_REG"
@@ -2500,7 +2500,7 @@
 						)
 					)
 				)
-				(pin bidirectional line
+				(pin input line
 					(at -5.08 17.78 0)
 					(length 5.08)
 					(name "~{SHDN}"
@@ -2518,7 +2518,7 @@
 						)
 					)
 				)
-				(pin bidirectional line
+				(pin open_collector line
 					(at -5.08 12.7 0)
 					(length 5.08)
 					(name "~{CHRG}"
@@ -2536,7 +2536,7 @@
 						)
 					)
 				)
-				(pin bidirectional line
+				(pin open_collector line
 					(at -5.08 7.62 0)
 					(length 5.08)
 					(name "~{FAULT}"
@@ -2554,7 +2554,7 @@
 						)
 					)
 				)
-				(pin bidirectional line
+				(pin passive line
 					(at -5.08 2.54 0)
 					(length 5.08)
 					(name "TIMER"
@@ -2572,7 +2572,7 @@
 						)
 					)
 				)
-				(pin bidirectional line
+				(pin input line
 					(at 30.48 2.54 180)
 					(length 5.08)
 					(name "VFB"
@@ -2590,7 +2590,7 @@
 						)
 					)
 				)
-				(pin bidirectional line
+				(pin input line
 					(at 30.48 7.62 180)
 					(length 5.08)
 					(name "NTC"
@@ -2608,7 +2608,7 @@
 						)
 					)
 				)
-				(pin bidirectional line
+				(pin power_out line
 					(at 30.48 12.7 180)
 					(length 5.08)
 					(name "BAT"
@@ -2626,7 +2626,7 @@
 						)
 					)
 				)
-				(pin bidirectional line
+				(pin input line
 					(at 30.48 17.78 180)
 					(length 5.08)
 					(name "SENSE"
@@ -2644,7 +2644,7 @@
 						)
 					)
 				)
-				(pin bidirectional line
+				(pin passive line
 					(at 30.48 22.86 180)
 					(length 5.08)
 					(name "BOOST"
@@ -2680,7 +2680,7 @@
 						)
 					)
 				)
-				(pin bidirectional line
+				(pin power_in line
 					(at 12.7 -2.54 90)
 					(length 2.54)
 					(name "GND_PAD"

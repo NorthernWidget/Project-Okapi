@@ -173,7 +173,7 @@
 						(type none)
 					)
 				)
-				(pin bidirectional line
+				(pin passive line
 					(at 0 0 0)
 					(length 5.08)
 					(name "1"
@@ -191,7 +191,7 @@
 						)
 					)
 				)
-				(pin bidirectional line
+				(pin passive line
 					(at 0 -2.54 0)
 					(length 5.08)
 					(name "2"
@@ -209,7 +209,7 @@
 						)
 					)
 				)
-				(pin bidirectional line
+				(pin passive line
 					(at 15.24 -2.54 180)
 					(length 5.08)
 					(name "4"
@@ -227,7 +227,7 @@
 						)
 					)
 				)
-				(pin bidirectional line
+				(pin passive line
 					(at 15.24 0 180)
 					(length 5.08)
 					(name "3"

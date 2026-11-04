@@ -486,7 +486,7 @@
 						)
 					)
 				)
-				(pin output line
+				(pin input line
 					(at -12.7 0 0)
 					(length 5.08)
 					(name "CTL"
