@@ -138,7 +138,7 @@
 						)
 					)
 				)
-				(pin bidirectional line
+				(pin input line
 					(at -12.7 2.54 0)
 					(length 5.08)
 					(name "ADDR"
@@ -1624,7 +1624,7 @@
 						(type none)
 					)
 				)
-				(pin power_in line
+				(pin passive line
 					(at 0 7.62 270)
 					(length 5.08)
 					(name "C"
@@ -1642,7 +1642,7 @@
 						)
 					)
 				)
-				(pin power_in line
+				(pin passive line
 					(at 0 -5.08 90)
 					(length 5.08)
 					(name "A"
@@ -2335,7 +2335,7 @@
 						)
 					)
 				)
-				(pin open_collector line
+				(pin power_in line
 					(at -15.24 10.16 0)
 					(length 5.08)
 					(name "VDD_IO"
