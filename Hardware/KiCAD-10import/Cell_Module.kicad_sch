@@ -3884,25 +3884,7 @@
 					)
 				)
 				(pin bidirectional line
-					(at 12.7 -5.08 180)
-					(length 5.08)
-					(name "BODY"
-						(effects
-							(font
-								(size 1.524 1.524)
-							)
-						)
-					)
-					(number "P$2"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 12.7 -5.08 180)
+					(at 12.7 -7.62 180)
 					(length 5.08)
 					(name "BODY"
 						(effects
@@ -3920,25 +3902,7 @@
 					)
 				)
 				(pin bidirectional line
-					(at 12.7 -5.08 180)
-					(length 5.08)
-					(name "BODY"
-						(effects
-							(font
-								(size 1.524 1.524)
-							)
-						)
-					)
-					(number "P$4"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 12.7 -5.08 180)
+					(at 12.7 -10.16 180)
 					(length 5.08)
 					(name "BODY"
 						(effects
@@ -3948,24 +3912,6 @@
 						)
 					)
 					(number "P$5"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 12.7 -5.08 180)
-					(length 5.08)
-					(name "BODY"
-						(effects
-							(font
-								(size 1.524 1.524)
-							)
-						)
-					)
-					(number "P$6"
 						(effects
 							(font
 								(size 0 0)
@@ -4187,6 +4133,10 @@
 		(uuid "fa1ff67d-04bc-490a-81bc-28137b995669")
 	)
 	(no_connect
+		(at 62.23 62.23)
+		(uuid "0cf4c51a-ec11-53c1-b5c8-4ca0424778ae")
+	)
+	(no_connect
 		(at 115.57 135.89)
 		(uuid "0e5c594b-33ce-5f0a-8915-9d44fad60db6")
 	)
@@ -4297,6 +4247,10 @@
 	(no_connect
 		(at 115.57 140.97)
 		(uuid "b6fe9624-4347-56db-b6d3-b241e1fb69e4")
+	)
+	(no_connect
+		(at 62.23 64.77)
+		(uuid "c62beb18-6fbd-52c1-a748-3468f5d29dab")
 	)
 	(no_connect
 		(at 166.37 92.71)
@@ -7135,20 +7089,11 @@
 		(pin "P$1"
 			(uuid "e71f0bc8-af3a-4b88-b1b4-7a22c4d7012b")
 		)
-		(pin "P$2"
-			(uuid "38a1b645-4010-4547-bdff-fd2e2f8a8029")
-		)
 		(pin "P$3"
 			(uuid "58a5128d-e6ca-438b-9adc-24b40a74106f")
 		)
-		(pin "P$4"
-			(uuid "e3393b29-231f-4c73-8154-3da72b683545")
-		)
 		(pin "P$5"
 			(uuid "2c8e4572-d969-4e80-a57d-9bd20adefe1a")
-		)
-		(pin "P$6"
-			(uuid "d0e8e2d5-6851-4b6c-b840-6119867afdb4")
 		)
 	)
 	(symbol

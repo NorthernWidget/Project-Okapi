@@ -16535,67 +16535,8 @@
 		(path "/00d7b7a7-9bf2-5bd0-b659-342e60e6116f/4823cfa4-09dd-42e6-adee-8bd94e7ee1bb")
 		(sheetname "Cell_Module")
 		(sheetfile "Cell_Module.kicad_sch")
+		(attr allow_soldermask_bridges)
 		(duplicate_pad_numbers_are_jumpers no)
-		(fp_line
-			(start 2.45 -1)
-			(end 3.15 -1)
-			(stroke
-				(width 1.1)
-				(type solid)
-			)
-			(layer "F.Cu")
-			(uuid "3cab687f-9e9e-4b65-95c9-12b755336178")
-		)
-		(fp_line
-			(start -3.15 -1)
-			(end -2.45 -1)
-			(stroke
-				(width 1.1)
-				(type solid)
-			)
-			(layer "F.Cu")
-			(uuid "9c4cd56a-bf90-465e-a4ca-af543b4147c4")
-		)
-		(fp_line
-			(start -0.55 1.15)
-			(end 0.55 1.15)
-			(stroke
-				(width 1.1)
-				(type solid)
-			)
-			(layer "F.Cu")
-			(uuid "b3e3e791-fbf9-4444-9d5d-b7977b45f445")
-		)
-		(fp_line
-			(start 2.45 -1)
-			(end 3.15 -1)
-			(stroke
-				(width 1.1)
-				(type solid)
-			)
-			(layer "B.Cu")
-			(uuid "ecff6e51-bfc2-48e9-96c2-9a2fb22d4336")
-		)
-		(fp_line
-			(start -3.15 -1)
-			(end -2.45 -1)
-			(stroke
-				(width 1.1)
-				(type solid)
-			)
-			(layer "B.Cu")
-			(uuid "cf0b1c50-ceeb-4c78-9019-478b2cdedfed")
-		)
-		(fp_line
-			(start -0.55 1.15)
-			(end 0.55 1.15)
-			(stroke
-				(width 1.1)
-				(type solid)
-			)
-			(layer "B.Cu")
-			(uuid "b1b11cef-4cac-4c15-89b9-9b5d6ea9324e")
-		)
 		(fp_line
 			(start -3.5 -1)
 			(end 3.5 -1)
@@ -16604,7 +16545,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "885e5238-4d22-472c-9e2d-ed2c5581a12b")
+			(uuid "2a8d0caa-2dbb-4bc9-89f1-5745abe34928")
 		)
 		(fp_line
 			(start 4 -0.5)
@@ -16614,7 +16555,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "de582b1b-927a-4028-bcb3-4e598a58d6e5")
+			(uuid "29492734-7c72-481b-8238-02ee39df8e97")
 		)
 		(fp_line
 			(start -4 1.5)
@@ -16624,7 +16565,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "7b9309f6-e17b-4f89-8c36-f48663660ed7")
+			(uuid "441eeb70-74ae-4218-bd9d-4548b1f1904f")
 		)
 		(fp_line
 			(start 3.5 2)
@@ -16634,7 +16575,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "8397fa30-26bc-4e14-94c6-26be8c25ec3e")
+			(uuid "5c90246c-6c6c-4377-8632-98c830f23050")
 		)
 		(fp_arc
 			(start 3.5 -1)
@@ -16645,7 +16586,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "992bd920-7525-4c01-beef-815e83328a88")
+			(uuid "cb1e639f-4829-4ece-bff6-eb513f98b70a")
 		)
 		(fp_arc
 			(start -4 -0.5)
@@ -16656,7 +16597,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "85f073a1-d406-499f-8e22-782c33b2ebc2")
+			(uuid "3801103e-28b5-4bbe-92e8-83a807d9389b")
 		)
 		(fp_arc
 			(start 4 1.5)
@@ -16667,7 +16608,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "57f64388-25da-49ec-8ef1-ce4dbe6c1062")
+			(uuid "658ea93b-9353-4359-888d-d83f63c0d21c")
 		)
 		(fp_arc
 			(start -3.5 2)
@@ -16678,7 +16619,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "cf5e8b7f-cfc2-4736-8782-caf1ac0aae08")
+			(uuid "653bc5f4-a767-49a2-800e-99d4800bc578")
 		)
 		(pad "1" smd rect
 			(at -1.3 -0.78 180)
@@ -16686,7 +16627,7 @@
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net "/Cell_Module/BSOM_VUSB")
 			(thermal_bridge_angle 0)
-			(uuid "987da2ae-ba1e-44f6-9354-057de21ab2e1")
+			(uuid "77997e3d-8eb3-4721-92fe-a9f60cdebfa9")
 		)
 		(pad "2" smd rect
 			(at -0.65 -0.78 180)
@@ -16694,7 +16635,7 @@
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net "/Cell_Module/PD-")
 			(thermal_bridge_angle 0)
-			(uuid "76bb79ec-e06a-4361-862e-72e380a51228")
+			(uuid "a894fa69-c4c1-4803-8593-7bbbb899421c")
 		)
 		(pad "3" smd rect
 			(at 0 -0.75 180)
@@ -16702,7 +16643,7 @@
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net "/Cell_Module/PD+")
 			(thermal_bridge_angle 0)
-			(uuid "7a555cbf-2b1f-4f14-809e-c42f0b19eaa2")
+			(uuid "bba48652-3ee6-425f-a628-1f1a2999caa9")
 		)
 		(pad "4" smd rect
 			(at 0.65 -0.75 180)
@@ -16710,7 +16651,7 @@
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net "unconnected-(USB2-ID-Pad4)")
 			(thermal_bridge_angle 0)
-			(uuid "4a940901-6e4f-4f27-a376-593a881d72e5")
+			(uuid "3a595719-9641-47fb-a767-d88c64f9c197")
 		)
 		(pad "5" smd rect
 			(at 1.3 -0.75 180)
@@ -16718,9 +16659,9 @@
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net "GND")
 			(thermal_bridge_angle 0)
-			(uuid "51e48e77-a4c3-4646-ba19-025d15343291")
+			(uuid "7d073c98-10af-4d71-9dab-6cfcce267d03")
 		)
-		(pad "P$1" thru_hole circle
+		(pad "P$1" thru_hole custom
 			(at -3.15 -1 90)
 			(size 1.1 1.1)
 			(drill 0.5)
@@ -16728,9 +16669,20 @@
 			(remove_unused_layers no)
 			(net "unconnected-(USB2-BODY-PadP$1)")
 			(thermal_bridge_angle 0)
-			(uuid "585019ce-603f-4ac7-8875-e66c9d423b8e")
+			(options
+				(clearance outline)
+				(anchor circle)
+			)
+			(primitives
+				(gr_line
+					(start 0 0)
+					(end 0.7 0)
+					(width 1.1)
+				)
+			)
+			(uuid "61a8d1e1-d78a-4428-a86b-b1c71bd024fe")
 		)
-		(pad "P$2" thru_hole circle
+		(pad "P$1" thru_hole circle
 			(at -2.45 -1 90)
 			(size 1.1 1.1)
 			(drill 0.5)
@@ -16738,47 +16690,69 @@
 			(remove_unused_layers no)
 			(net "unconnected-(USB2-BODY-PadP$1)")
 			(thermal_bridge_angle 0)
-			(uuid "94e8eb5b-71ba-4b80-84e5-ed57b3c51878")
+			(uuid "fb0d5598-7675-4d24-b96a-9d51f17f5529")
 		)
-		(pad "P$3" thru_hole circle
+		(pad "P$3" thru_hole custom
 			(at 2.45 -1 90)
 			(size 1.1 1.1)
 			(drill 0.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net "unconnected-(USB2-BODY-PadP$1)")
+			(net "unconnected-(USB2-BODY-PadP$3)")
 			(thermal_bridge_angle 0)
-			(uuid "72d7dac2-0984-4946-b2b9-130e850ae12f")
+			(options
+				(clearance outline)
+				(anchor circle)
+			)
+			(primitives
+				(gr_line
+					(start 0 0)
+					(end 0.7 0)
+					(width 1.1)
+				)
+			)
+			(uuid "e3b89ec5-f203-41e9-9f55-63a8fa55c7d1")
 		)
-		(pad "P$4" thru_hole circle
+		(pad "P$3" thru_hole circle
 			(at 3.15 -1 90)
 			(size 1.1 1.1)
 			(drill 0.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net "unconnected-(USB2-BODY-PadP$1)")
+			(net "unconnected-(USB2-BODY-PadP$3)")
 			(thermal_bridge_angle 0)
-			(uuid "438a3e97-709e-4c91-b2a9-c8caba1cf493")
+			(uuid "63727706-7f0d-4e3a-9449-dd786eda059e")
 		)
-		(pad "P$5" thru_hole circle
+		(pad "P$5" thru_hole custom
 			(at -0.55 1.15 90)
 			(size 1.1 1.1)
 			(drill 0.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net "unconnected-(USB2-BODY-PadP$1)")
+			(net "unconnected-(USB2-BODY-PadP$5)")
 			(thermal_bridge_angle 0)
-			(uuid "346ef962-bb17-4822-a565-f2ee40e9916a")
+			(options
+				(clearance outline)
+				(anchor circle)
+			)
+			(primitives
+				(gr_line
+					(start 0 0)
+					(end 1.1 0)
+					(width 1.1)
+				)
+			)
+			(uuid "2025aad5-2fc7-4286-9eec-1574e6118d35")
 		)
-		(pad "P$6" thru_hole circle
+		(pad "P$5" thru_hole circle
 			(at 0.55 1.15 90)
 			(size 1.1 1.1)
 			(drill 0.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net "unconnected-(USB2-BODY-PadP$1)")
+			(net "unconnected-(USB2-BODY-PadP$5)")
 			(thermal_bridge_angle 0)
-			(uuid "508f57ee-5829-4b9e-9a2f-19c500558cea")
+			(uuid "bfef9599-668c-4097-9369-1b6f281580c5")
 		)
 		(embedded_fonts no)
 	)
