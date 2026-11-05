@@ -395,6 +395,12 @@ As of 2026-11-05 the logger firmware does not drive FEATHER_EN (Okapi_Library's 
 
 >> @bschulz1701: new smarter 18650 holder?
 
+### Regulator feedback dividers
+
+The two adjustable regulators set their outputs with resistor dividers that follow their datasheets: the TLV61220 (U1, the 5 V core boost) with R4 1.62 MΩ over R5 180 kΩ, the datasheet's own example value for the lower resistor, and the TPS62822 (U2, the 3.3 V aux buck) with R6 820 kΩ over R7 180 kΩ and C6 68 pF as its feed-forward capacitor, which is the datasheet's 12 ms / R2 exactly.
+
+The TPS62822's divider sits above the datasheet's center value (R2 of 100 kΩ, at most 120 kΩ, for 5 µA in the divider). That is a trade the datasheet names: a lower divider buys noise immunity at the FB node and costs light-load efficiency. Here the divider draws 3.3 µA instead of 6 µA, about 9 µW less from a rail that spends its life at light load and is switched off in sleep, and the node's sensitivity to pin bias and leakage is about twice the datasheet's, which on a regulator with a 1 % reference feeding sensors through their own switches is below anything measurable. Decided 2026-11-05 to keep the values as built (Project-Okapi #22).
+
 ### Sensor port current limits
 
 Each sensor bus (PRIME and SEC) is fed through a pair of MIC2544 high-side switches, one from the 5 V rail and one from the 3.3 V rail, and the firmware enables one or neither. Each switch limits its output current with a resistor on its ILIM pin: 232 Ω for 1 A, which is the default on every port.
