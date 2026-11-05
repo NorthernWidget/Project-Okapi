@@ -2042,16 +2042,6 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 48.26) (xy 215.9 48.26)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "46121007-f204-4b7d-b440-5a9f71d29991")
-	)
-	(wire
-		(pts
 			(xy 180.34 55.88) (xy 180.34 58.42)
 		)
 		(stroke
@@ -2349,16 +2339,6 @@
 			(type solid)
 		)
 		(uuid "fdbdea19-596d-427c-9fc8-d8d092f1d6fc")
-	)
-	(label "SENSOR_INT"
-		(at 215.9 48.26 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "13911219-a994-4b85-80c5-e65a389320ff")
 	)
 	(global_label "3V3_AUX"
 		(shape bidirectional)
@@ -2719,6 +2699,10 @@
 				(justify left)
 			)
 		)
+	)
+	(no_connect
+		(at 213.36 48.26)
+		(uuid "5cb497a9-76c9-5790-8ae8-f4a66382cfb2")
 	)
 	(symbol
 		(lib_id "nw-cold-silicon:VEML6030")

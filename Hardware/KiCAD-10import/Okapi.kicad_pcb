@@ -5884,7 +5884,7 @@
 			(at 0.8 0.25 270)
 			(size 0.3 0.25)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net "/Sensors/SENSOR_INT")
+			(net "unconnected-(U43-INT-Pad5)")
 			(thermal_bridge_angle 0)
 			(uuid "b6cd22e9-5bb5-4c3f-ad8d-841ca45073a1")
 		)
