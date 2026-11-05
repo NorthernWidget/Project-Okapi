@@ -369,6 +369,20 @@ A full index of the public variables and functions within the Okapi data logger 
 
 >> @bschulz1701?
 
+#### The 66-minute timer
+
+The telemetry module (a Boron on the FeatherWing socket, or a B-SoM on the M.2 socket) is not powered all the time. Its battery input comes through a load switch (U10) that a TPL5111 timer (U8) controls, and the timer runs on its own clock with an interval set by R20: 130 kΩ gives 66 minutes (3943 s by the TPL5111 datasheet's Equation 1; 3854 to 4033 s with a 1 % resistor). JP8 selects R62 instead, which at 330 kΩ is above the part's 170 kΩ maximum and does nothing; see Project-Okapi #33 and DECISIONS item 3 for its fate.
+
+Three things happen on that interval:
+
+1. **It powers the module every 66 minutes whether or not the logger asks.** This is the floor on telemetry: the slowest the module can ever be heard from is once an interval, even if the ATmega is asleep past its schedule or hung. A module that comes up on the timer and has nothing to send can still take in a command from the cloud and then say it is done.
+2. **It bounds every session.** From the moment the module is powered, by the timer or by the logger, it has at most one interval before the timer cuts its power for 50 ms and starts over. A module that hangs is power-cycled once an hour, and this is the only reset path to the module on the board.
+3. **It is the counter the logger restarts.** Pulling FEATHER_EN low for 20 to 30 ms (expander port B pin 7, through Q3 onto the timer's DELAY/M_DRV pin) powers the module at once and restarts the interval. Hold it low and the module stays on past the interval, so pulse it. A request while the module is already on is ignored.
+
+The module ends its own session by pulsing WD_DONE (the FeatherWing's A3, the B-SoM's ADC3): the timer drops the switch and the module draws nothing until the next interval or the next request. The 2019 Boron sketch does this from a 90-second watchdog that it refreshes on every line received from the logger, so the module stays up while rows arrive and shuts itself off 90 seconds after the last one.
+
+As of 2026-11-05 the logger firmware does not drive FEATHER_EN (Okapi_Library's backhaul writes the pin high, which on the open-drain expander releases it, and never configures it as an output), so on the boards in the field the timer alone powers the module and the backhaul succeeds only when it lands inside a module's on-window. The intended cycle, pulse FEATHER_EN when there are rows to send and let the module pulse DONE when they are sent, is the firmware fix on the list.
+
 ## Wiring
 
 >> Example needed
