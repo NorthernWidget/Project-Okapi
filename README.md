@@ -375,7 +375,7 @@ The telemetry module (a Boron on the FeatherWing socket, or a B-SoM on the M.2 s
 
 Three things happen on that interval:
 
-1. **It powers the module every 66 minutes whether or not the logger asks.** This is the floor on telemetry: the slowest the module can ever be heard from is once an interval, even if the ATmega is asleep past its schedule or hung. A module that comes up on the timer and has nothing to send can still take in a command from the cloud and then say it is done.
+1. **It powers the module every 66 minutes whether or not the logger asks.** This is the purpose of the timer: a cellular module receives only while it is powered and attached, so the hourly wake is the window in which a command, a request to resend, or a firmware update for the module can arrive from outside, and the slowest the module can ever be heard from is once an interval, even if the ATmega is asleep past its schedule or hung. For that to work the module must connect on every wake, not only when it has rows to send, and then say it is done.
 2. **It bounds every session.** From the moment the module is powered, by the timer or by the logger, it has at most one interval before the timer cuts its power for 50 ms and starts over. A module that hangs is power-cycled once an hour, and this is the only reset path to the module on the board.
 3. **It is the counter the logger restarts.** Pulling FEATHER_EN low for 20 to 30 ms (expander port B pin 7, through Q3 onto the timer's DELAY/M_DRV pin) powers the module at once and restarts the interval. Hold it low and the module stays on past the interval, so pulse it. A request while the module is already on is ignored.
 
