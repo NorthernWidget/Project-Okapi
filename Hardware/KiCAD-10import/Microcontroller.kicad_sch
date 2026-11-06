@@ -4014,7 +4014,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "887-1740-1-ND"
+		(property "DIGIKEY" "50-ECS-80-12-30-JGN-CT-ND"
 			(at 57.15 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -4026,7 +4026,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MF" "TXC"
+		(property "MF" "ECS"
 			(at 57.15 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -4038,7 +4038,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MPN" "7A-8.000MAAE-T"
+		(property "MPN" "ECS-80-12-30-JGN-TR"
 			(at 57.15 60.96 0)
 			(hide yes)
 			(show_name no)

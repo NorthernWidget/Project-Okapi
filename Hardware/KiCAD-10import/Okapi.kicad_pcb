@@ -4163,7 +4163,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "887-1740-1-ND"
+		(property "DIGIKEY" "50-ECS-80-12-30-JGN-CT-ND"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -4175,7 +4175,7 @@
 				)
 			)
 		)
-		(property "MF" "TXC"
+		(property "MF" "ECS"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -4187,7 +4187,7 @@
 				)
 			)
 		)
-		(property "MPN" "7A-8.000MAAE-T"
+		(property "MPN" "ECS-80-12-30-JGN-TR"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
