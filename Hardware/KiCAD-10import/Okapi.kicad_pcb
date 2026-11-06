@@ -11252,7 +11252,7 @@
 				)
 			)
 		)
-		(property "Value" "R-EU_R0805"
+		(property "Value" "20m"
 			(at 0 1.397 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11283,6 +11283,42 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DIGIKEY" "P.02AQCT-ND"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "667c559f-ea23-4f19-85e3-6210a725b528")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MF" "Panasonic"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9d7da62b-f0c5-44fa-835e-d143fa17e5e0")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "ERJ-6BWFR020V"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fff8097b-1a3b-4ae8-9079-7b22654caed8")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -21082,7 +21118,7 @@
 				)
 			)
 		)
-		(property "Value" "R-EU_R0805"
+		(property "Value" "20m"
 			(at 0 1.397 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -21113,6 +21149,42 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DIGIKEY" "P.02AQCT-ND"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7b167575-9c05-403c-a9e0-194809775fec")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MF" "Panasonic"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5eb27fb5-1575-4e31-bc1b-6cbe1e91d01b")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "ERJ-6BWFR020V"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0f7af864-69cc-45f3-b8f8-f1980b0c324e")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -34489,7 +34561,7 @@
 				)
 			)
 		)
-		(property "Value" "R-EU_R0805"
+		(property "Value" "20m"
 			(at 0 1.397 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -34520,6 +34592,42 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DIGIKEY" "P.02AQCT-ND"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6d9fa7ef-9128-40cd-a6ad-b812d264a328")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MF" "Panasonic"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4cbf07b6-4a08-42bc-91f7-0a68cba26ab1")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "ERJ-6BWFR020V"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "31f01b61-c293-4435-a9b7-3d23f9f88ba5")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)

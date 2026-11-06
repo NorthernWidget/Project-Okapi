@@ -6381,7 +6381,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "R-EU_R0805"
+		(property "Value" "20m"
 			(at 217.17 61.722 0)
 			(hide yes)
 			(show_name no)
@@ -6424,6 +6424,42 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "DIGIKEY" "P.02AQCT-ND"
+			(at 217.17 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "MF" "Panasonic"
+			(at 217.17 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "MPN" "ERJ-6BWFR020V"
+			(at 217.17 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
 			)
 		)
 		(pin "1"
@@ -9368,7 +9404,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "R-EU_R0805"
+		(property "Value" "20m"
 			(at 102.87 46.482 0)
 			(hide yes)
 			(show_name no)
@@ -9411,6 +9447,42 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "DIGIKEY" "P.02AQCT-ND"
+			(at 106.68 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "MF" "Panasonic"
+			(at 106.68 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "MPN" "ERJ-6BWFR020V"
+			(at 106.68 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
 			)
 		)
 		(pin "1"

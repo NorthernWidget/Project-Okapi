@@ -2944,7 +2944,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "R-EU_R0805"
+		(property "Value" "20m"
 			(at 68.58 65.532 0)
 			(hide yes)
 			(show_name no)
@@ -2987,6 +2987,42 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "DIGIKEY" "P.02AQCT-ND"
+			(at 72.39 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "MF" "Panasonic"
+			(at 72.39 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "MPN" "ERJ-6BWFR020V"
+			(at 72.39 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
 			)
 		)
 		(pin "1"
