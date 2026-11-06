@@ -7367,7 +7367,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "311-820KGRCT-ND"
+		(property "DIGIKEY" "311-820KHRCT-ND"
 			(at 107.95 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -7391,7 +7391,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MPN" "RC0603JR-07820KL"
+		(property "MPN" "RC0603FR-07820KL"
 			(at 107.95 104.14 0)
 			(hide yes)
 			(show_name no)

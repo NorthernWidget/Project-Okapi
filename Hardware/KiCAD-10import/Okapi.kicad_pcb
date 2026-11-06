@@ -53123,7 +53123,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "311-820KGRCT-ND"
+		(property "DIGIKEY" "311-820KHRCT-ND"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -53147,7 +53147,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603JR-07820KL"
+		(property "MPN" "RC0603FR-07820KL"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
