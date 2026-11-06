@@ -409,6 +409,23 @@ To let one port draw up to 1.5 A, close its solder jumper (JP1 to JP4, one per s
 
 Do not close them all. The 5 V rail is one boost converter running from the battery, and it also feeds the telemetry module, whose transmit bursts reach about 2 A. One ampere per port is what that rail can promise every port at once (the sensors we use draw far less: an Apis with its LiDAR on draws about 100 mA). The jumper is for the one port that needs more, when you know the others are light. The limit also protects the cable and the sensor: a shorted port at 1 A heats the switch and the wiring less than at 1.5 A, and the switch reports the fault to the I/O expander either way.
 
+### Power metering
+
+A PAC1934 four-channel power monitor (U32) sits on the on-board I2C bus at address 0x10 and meters four rails through 0805 sense resistors: the Li-ion cell (V_LI, R72), the backup battery (V_PRIME, R73), the input to the boost converters (V_BETA, R75), and the solar panel (V_SOLAR_IN, R74). Each channel reads the rail voltage (0 to 32 V in 488 µV steps) and the drop across its resistor (100 mV full scale in 16 bits), and the chip multiplies the two for power. The cell channel is wired for both directions: charging reads positive and discharge reads negative.
+
+| Rail | Sense resistor | Range | One count | Floor (offset at 25 °C / over −40 to +85 °C) |
+|---|---|---|---|---|
+| V_LI | R72, 20 mΩ | ±5 A | 153 µA | ±1 mA / ±10 mA |
+| V_BETA | R75, 20 mΩ | 0 to 5 A | 76 µA | ±1 mA / ±10 mA |
+| V_PRIME | R73, 20 mΩ | 0 to 5 A | 76 µA | ±1 mA / ±10 mA |
+| V_SOLAR_IN | R74, 50 mΩ | 0 to 2 A | 31 µA | ±0.4 mA / ±4 mA |
+
+The offset sets the floor, not the count size. Expect to see the logger awake (about 10 mA), a sensor port, a transmit burst (about 500 mA, read to ±10 mA with the gain and resistor tolerances), and the charge current once the panel reaches the charger's 4.95 V input threshold. Do not expect to see the sleep floor (tens of µA): measure that on the bench. For readings near zero, use bipolar mode with 8× averaging, as the datasheet recommends.
+
+The sense resistors are 0.5 W parts (Panasonic ERJ-6BW). A 3 A transmit burst on 20 mΩ dissipates 0.18 W and drops 60 mV from the cell. The chip is powered from the core 3.3 V rail whenever the board is, with no jumper, and draws 5 µA between the single-shot readings the firmware takes, 16 µA sampling eight times a second with its SLOW pin high, and 585 µA at its power-up default of 1,024 samples per second. The firmware moves it out of that default at boot (Okapi_Library sets single-shot mode) and today reads only the cell and solar voltages from it. Current and energy readings are to come.
+
+What a reading means depends on the mode. In single-shot mode each reading is the power at that instant, and energy over a logging interval is the sum of those snapshots times the interval. For true energy, leave the chip sampling between logs and read its accumulators, at the 16 µA or 585 µA cost above.
+
 ## Housing
 
 The below suggestions encompass what we use and suggest for the housing. In the end, any sufficiently waterproof enclosure will work.
