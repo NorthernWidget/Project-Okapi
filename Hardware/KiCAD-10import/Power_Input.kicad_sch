@@ -9703,7 +9703,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "2N7002W-FDICT-ND"
+		(property "DIGIKEY" "2N7002WT1GOSCT-ND"
 			(at 107.95 186.69 0)
 			(hide yes)
 			(show_name no)
@@ -9715,7 +9715,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MF" "Diodes Incorporated"
+		(property "MF" "ON Semiconductor"
 			(at 107.95 186.69 0)
 			(hide yes)
 			(show_name no)
@@ -9727,7 +9727,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MPN" "2N7002W-7-F"
+		(property "MPN" "2N7002WT1G"
 			(at 107.95 186.69 0)
 			(hide yes)
 			(show_name no)
