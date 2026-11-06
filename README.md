@@ -405,7 +405,7 @@ The TPS62822's divider sits above the datasheet's center value (R2 of 100 kΩ, a
 
 Each sensor bus (PRIME and SEC) is fed through a pair of MIC2544 high-side switches, one from the 5 V rail and one from the 3.3 V rail, and the firmware enables one or neither. Each switch limits its output current with a resistor on its ILIM pin: 232 Ω for 1 A, which is the default on every port.
 
-To let one port draw up to 1.5 A, close its solder jumper (JP1 to JP4, one per switch). This puts 453 Ω in parallel with the 232 Ω, which is the most the MIC2544 is rated to pass.
+To let one port draw up to 1.5 A, close its solder jumper (JP1 to JP4, one per switch). This puts 464 Ω in parallel with the 232 Ω, 154.7 Ω in all, which is the most the MIC2544 is rated to pass: its ILIM resistor may be no smaller than 154 Ω.
 
 Do not close them all. The 5 V rail is one boost converter running from the battery, and it also feeds the telemetry module, whose transmit bursts reach about 2 A. One ampere per port is what that rail can promise every port at once (the sensors we use draw far less: an Apis with its LiDAR on draws about 100 mA). The jumper is for the one port that needs more, when you know the others are light. The limit also protects the cable and the sensor: a shorted port at 1 A heats the switch and the wiring less than at 1.5 A, and the switch reports the fault to the I/O expander either way.
 
