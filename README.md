@@ -426,6 +426,12 @@ The sense resistors are 0.5 W parts (Panasonic ERJ-6BW). A 3 A transmit burst on
 
 What a reading means depends on the mode. In single-shot mode each reading is the power at that instant, and energy over a logging interval is the sum of those snapshots times the interval. For true energy, leave the chip sampling between logs and read its accumulators, at the 16 µA or 585 µA cost above.
 
+### Reference voltage on the sensor port
+
+The 2024 design carries a 2.5 V shunt reference (D6, an LM4040) that feeds the on-board DAC and pin 2 of the PRIME sensor terminal (J2, labeled VREF), beside its analog input. A sensor can use that pin as an ADC reference, or to excite a ratiometric part such as a potentiometer or a thermistor divider, so that the reading does not move with the supply. A load cell is not a use for it: those come on their own bridge converter, with their own excitation.
+
+The reference is biased from the 5 V rail through R48, and the current through R48 is (5 − 2.5) V / R48 whatever is attached; the reference takes what the sensor leaves. On v0.7.0 as planned R48 is 1 kΩ, which is 2.5 mA, so the pin supplies up to 2 mA to a sensor with the 5 V rail running low (any potentiometer of 1.5 kΩ or more). The 2024 design's 330 Ω was 7.6 mA, about 7 mA to a sensor. Both cost current only while the 5 V rail is up, which is the whole of each logging cycle and none of the sleep. The pads take an 0603 or an 0402 part: the board ships with the 0402, and a user who needs the larger current can hot-air it off and fit a 330 Ω 0603 (RC0603FR-07330RL). The reference needs at least 60 µA left over, so do not draw more than the pin supplies.
+
 ## Housing
 
 The below suggestions encompass what we use and suggest for the housing. In the end, any sufficiently waterproof enclosure will work.
