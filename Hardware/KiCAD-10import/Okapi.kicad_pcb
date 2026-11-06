@@ -10206,6 +10206,7 @@
 		(path "/ea9f4436-aafb-508d-b2b5-766418895052/c441fb31-59a7-4e19-a881-d591c9969109")
 		(sheetname "Feather_ISP")
 		(sheetfile "Feather_ISP.kicad_sch")
+		(attr exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0 -19.86)
