@@ -7878,7 +7878,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "R-EU_R0402"
+		(property "Value" "10k"
 			(at 228.092 160.02 0)
 			(hide yes)
 			(show_name no)
@@ -8718,7 +8718,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "R-EU_R0402"
+		(property "Value" "10k"
 			(at 228.092 139.7 0)
 			(hide yes)
 			(show_name no)

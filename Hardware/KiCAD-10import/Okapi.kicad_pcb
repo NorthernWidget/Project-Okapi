@@ -2831,7 +2831,7 @@
 				)
 			)
 		)
-		(property "Value" "R-EU_R0402"
+		(property "Value" "10k"
 			(at 0 1.016 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11397,7 +11397,7 @@
 				)
 			)
 		)
-		(property "Value" "R-EU_R0402"
+		(property "Value" "5.1k"
 			(at 0 1.016 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -42700,7 +42700,7 @@
 				)
 			)
 		)
-		(property "Value" "R-EU_R0402"
+		(property "Value" "5.1k"
 			(at 0 1.016 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -55034,7 +55034,7 @@
 				)
 			)
 		)
-		(property "Value" "R-EU_R0402"
+		(property "Value" "10k"
 			(at 0 1.016 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -56059,7 +56059,7 @@
 				)
 			)
 		)
-		(property "Value" "R-EU_R0402"
+		(property "Value" "10k"
 			(at 0 1.016 0)
 			(unlocked yes)
 			(layer "F.Fab")

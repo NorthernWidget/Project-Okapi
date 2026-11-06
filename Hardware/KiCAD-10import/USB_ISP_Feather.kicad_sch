@@ -5568,7 +5568,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "R-EU_R0402"
+		(property "Value" "5.1k"
 			(at 62.992 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -6429,7 +6429,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "R-EU_R0402"
+		(property "Value" "5.1k"
 			(at 52.832 73.66 0)
 			(hide yes)
 			(show_name no)
