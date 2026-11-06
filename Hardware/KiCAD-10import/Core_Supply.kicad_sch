@@ -5148,7 +5148,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "nw-cold-silicon:R0603"
+		(property "Footprint" "nw-cold-silicon:R0402"
 			(at 99.06 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -5181,7 +5181,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "P180KHCT-ND"
+		(property "DIGIKEY" "311-180KLRCT-ND"
 			(at 99.06 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -5193,7 +5193,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MF" "Panasonic"
+		(property "MF" "Yageo"
 			(at 99.06 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -5205,7 +5205,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MPN" "ERJ-3EKF1803V"
+		(property "MPN" "RC0402FR-07180KL"
 			(at 99.06 101.6 0)
 			(hide yes)
 			(show_name no)
