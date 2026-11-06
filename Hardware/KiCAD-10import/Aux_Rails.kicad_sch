@@ -10211,7 +10211,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "nw-cold-silicon:C0805"
+		(property "Footprint" "nw-cold-silicon:C0603"
 			(at 26.67 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -10244,7 +10244,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "399-7415-1-ND"
+		(property "DIGIKEY" "490-GRM188Z71C475KE21DCT-ND"
 			(at 26.67 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -10256,7 +10256,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MF" "Kemet"
+		(property "MF" "Murata"
 			(at 26.67 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -10268,7 +10268,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MPN" "C0805C475K4RACTU"
+		(property "MPN" "GRM188Z71C475KE21D"
 			(at 26.67 101.6 0)
 			(hide yes)
 			(show_name no)
