@@ -4193,7 +4193,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "1276-6524-1-ND"
+		(property "DIGIKEY" "1276-1445-1-ND"
 			(at 57.15 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -4217,7 +4217,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MPN" "CL10B105MO8NNWC"
+		(property "MPN" "CL05A105KA5NQNC"
 			(at 57.15 71.12 0)
 			(hide yes)
 			(show_name no)
