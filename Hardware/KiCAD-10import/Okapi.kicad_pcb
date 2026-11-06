@@ -50013,7 +50013,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "311-10.0KHRCT-ND"
+		(property "DIGIKEY" "311-10.0KLRCT-ND"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -53554,7 +53554,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "311-10.0KHRCT-ND"
+		(property "DIGIKEY" "311-10.0KLRCT-ND"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
