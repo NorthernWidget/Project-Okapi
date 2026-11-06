@@ -5848,7 +5848,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "120k"
+		(property "Value" "100k"
 			(at 163.322 54.61 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5892,7 +5892,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "311-120KLRCT-ND"
+		(property "DIGIKEY" "311-100KLRCT-ND"
 			(at 160.02 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -5916,7 +5916,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MPN" "RC0402FR-07120KL"
+		(property "MPN" "RC0402FR-07100KL"
 			(at 160.02 50.8 0)
 			(hide yes)
 			(show_name no)

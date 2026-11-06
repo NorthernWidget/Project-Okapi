@@ -15066,7 +15066,7 @@
 				)
 			)
 		)
-		(property "Value" "120k"
+		(property "Value" "100k"
 			(at 0 1.016 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15100,7 +15100,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "311-120KLRCT-ND"
+		(property "DIGIKEY" "311-100KLRCT-ND"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -15124,7 +15124,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0402FR-07120KL"
+		(property "MPN" "RC0402FR-07100KL"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
