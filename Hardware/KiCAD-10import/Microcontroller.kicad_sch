@@ -4411,7 +4411,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "1276-1254-1-ND"
+		(property "DIGIKEY" "445-5585-1-ND"
 			(at 49.53 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -4423,7 +4423,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MF" "Samsung"
+		(property "MF" "TDK"
 			(at 49.53 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -4435,7 +4435,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MPN" "CL10C120JB8NNNC"
+		(property "MPN" "CGA2B2C0G1H120J050BA"
 			(at 49.53 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -4945,7 +4945,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "1276-1254-1-ND"
+		(property "DIGIKEY" "445-5585-1-ND"
 			(at 49.53 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -4957,7 +4957,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MF" "Samsung"
+		(property "MF" "TDK"
 			(at 49.53 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -4969,7 +4969,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MPN" "CL10C120JB8NNNC"
+		(property "MPN" "CGA2B2C0G1H120J050BA"
 			(at 49.53 58.42 0)
 			(hide yes)
 			(show_name no)

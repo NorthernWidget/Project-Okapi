@@ -6320,7 +6320,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "1276-1254-1-ND"
+		(property "DIGIKEY" "445-5585-1-ND"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6332,7 +6332,7 @@
 				)
 			)
 		)
-		(property "MF" "Samsung"
+		(property "MF" "TDK"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6344,7 +6344,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL10C120JB8NNNC"
+		(property "MPN" "CGA2B2C0G1H120J050BA"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -24593,7 +24593,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "1276-1254-1-ND"
+		(property "DIGIKEY" "445-5585-1-ND"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -24605,7 +24605,7 @@
 				)
 			)
 		)
-		(property "MF" "Samsung"
+		(property "MF" "TDK"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -24617,7 +24617,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL10C120JB8NNNC"
+		(property "MPN" "CGA2B2C0G1H120J050BA"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
