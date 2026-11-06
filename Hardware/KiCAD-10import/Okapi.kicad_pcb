@@ -13002,7 +13002,7 @@
 				)
 			)
 		)
-		(property "Value" "R-EU_R0805"
+		(property "Value" "50m"
 			(at 0 1.397 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13033,6 +13033,42 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DIGIKEY" "P17581CT-ND"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d55cb4d2-867d-47fd-92f7-6eccf5e03b38")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MF" "Panasonic"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3e9d6793-9d13-403a-b064-e2680ec5ee0f")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "ERJ-6BWFR050V"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c8758350-9751-4193-8a3d-9b250ba2e069")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)

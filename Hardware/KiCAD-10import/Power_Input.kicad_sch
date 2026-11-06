@@ -8893,7 +8893,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "R-EU_R0805"
+		(property "Value" "50m"
 			(at 41.91 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -8936,6 +8936,42 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "DIGIKEY" "P17581CT-ND"
+			(at 39.37 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "MF" "Panasonic"
+			(at 39.37 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "MPN" "ERJ-6BWFR050V"
+			(at 39.37 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
 			)
 		)
 		(pin "1"
