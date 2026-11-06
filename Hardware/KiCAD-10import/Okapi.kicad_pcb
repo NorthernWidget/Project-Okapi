@@ -30916,7 +30916,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "2N7002W-FDICT-ND"
+		(property "DIGIKEY" "2N7002WT1GOSCT-ND"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -30928,7 +30928,7 @@
 				)
 			)
 		)
-		(property "MF" "Diodes Incorporated"
+		(property "MF" "ON Semiconductor"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -30940,7 +30940,7 @@
 				)
 			)
 		)
-		(property "MPN" "2N7002W-7-F"
+		(property "MPN" "2N7002WT1G"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
