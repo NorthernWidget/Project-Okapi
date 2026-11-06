@@ -5546,7 +5546,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "490-10481-1-ND"
+		(property "DIGIKEY" "490-GRM188Z71C475KE21DCT-ND"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5570,7 +5570,7 @@
 				)
 			)
 		)
-		(property "MPN" "GRM188R61C475KAAJD"
+		(property "MPN" "GRM188Z71C475KE21D"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
