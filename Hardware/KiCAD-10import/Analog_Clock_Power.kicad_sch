@@ -4647,7 +4647,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "R-EU_R0402"
+		(property "Value" "0"
 			(at 153.67 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -4692,7 +4692,31 @@
 				)
 			)
 		)
+		(property "DIGIKEY" "311-0.0JRCT-ND"
+			(at 157.48 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
 		(property "MF" "Yageo"
+			(at 157.48 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "MPN" "RC0402JR-070RL"
 			(at 157.48 58.42 0)
 			(hide yes)
 			(show_name no)
