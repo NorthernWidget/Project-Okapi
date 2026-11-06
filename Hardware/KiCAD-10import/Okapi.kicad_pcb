@@ -7368,7 +7368,7 @@
 				)
 			)
 		)
-		(property "Value" "330R"
+		(property "Value" "1k"
 			(at 0 1.397 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7402,7 +7402,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "311-330HRCT-ND"
+		(property "DIGIKEY" "311-1.00KLRCT-ND"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -7426,7 +7426,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-07330RL"
+		(property "MPN" "RC0402FR-071KL"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)

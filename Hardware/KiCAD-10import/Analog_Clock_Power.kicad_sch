@@ -6124,7 +6124,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "330R"
+		(property "Value" "1k"
 			(at 59.182 39.37 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6168,7 +6168,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "311-330HRCT-ND"
+		(property "DIGIKEY" "311-1.00KLRCT-ND"
 			(at 55.88 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -6192,7 +6192,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MPN" "RC0603FR-07330RL"
+		(property "MPN" "RC0402FR-071KL"
 			(at 55.88 35.56 0)
 			(hide yes)
 			(show_name no)
