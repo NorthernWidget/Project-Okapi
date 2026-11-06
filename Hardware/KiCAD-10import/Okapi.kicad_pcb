@@ -20853,7 +20853,7 @@
 				)
 			)
 		)
-		(property "Value" "287R"
+		(property "Value" "464"
 			(at 0 1.016 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20887,7 +20887,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "YAG3165CT-ND"
+		(property "DIGIKEY" "311-464LRCT-ND"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -20911,7 +20911,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0402FR-07453RL"
+		(property "MPN" "RC0402FR-07464RL"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -22842,7 +22842,7 @@
 				)
 			)
 		)
-		(property "Value" "287R"
+		(property "Value" "464"
 			(at 0 1.016 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -22876,7 +22876,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "YAG3165CT-ND"
+		(property "DIGIKEY" "311-464LRCT-ND"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -22900,7 +22900,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0402FR-07453RL"
+		(property "MPN" "RC0402FR-07464RL"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -25142,7 +25142,7 @@
 				)
 			)
 		)
-		(property "Value" "287R"
+		(property "Value" "464"
 			(at 0 1.016 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -25176,7 +25176,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "YAG3165CT-ND"
+		(property "DIGIKEY" "311-464LRCT-ND"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -25200,7 +25200,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0402FR-07453RL"
+		(property "MPN" "RC0402FR-07464RL"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -37791,7 +37791,7 @@
 				)
 			)
 		)
-		(property "Value" "287R"
+		(property "Value" "464"
 			(at 0 1.016 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -37825,7 +37825,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "YAG3165CT-ND"
+		(property "DIGIKEY" "311-464LRCT-ND"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -37849,7 +37849,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0402FR-07453RL"
+		(property "MPN" "RC0402FR-07464RL"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)

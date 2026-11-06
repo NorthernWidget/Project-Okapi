@@ -6123,7 +6123,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "287R"
+		(property "Value" "464"
 			(at 132.842 59.69 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6167,7 +6167,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "YAG3165CT-ND"
+		(property "DIGIKEY" "311-464LRCT-ND"
 			(at 129.54 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -6191,7 +6191,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MPN" "RC0402FR-07453RL"
+		(property "MPN" "RC0402FR-07464RL"
 			(at 129.54 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -6302,7 +6302,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "287R"
+		(property "Value" "464"
 			(at 132.842 148.59 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6346,7 +6346,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "YAG3165CT-ND"
+		(property "DIGIKEY" "311-464LRCT-ND"
 			(at 129.54 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -6370,7 +6370,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MPN" "RC0402FR-07453RL"
+		(property "MPN" "RC0402FR-07464RL"
 			(at 129.54 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -6590,7 +6590,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "287R"
+		(property "Value" "464"
 			(at 132.842 173.99 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6634,7 +6634,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "YAG3165CT-ND"
+		(property "DIGIKEY" "311-464LRCT-ND"
 			(at 129.54 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -6658,7 +6658,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MPN" "RC0402FR-07453RL"
+		(property "MPN" "RC0402FR-07464RL"
 			(at 129.54 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -7519,7 +7519,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "287R"
+		(property "Value" "464"
 			(at 132.842 85.09 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7563,7 +7563,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "YAG3165CT-ND"
+		(property "DIGIKEY" "311-464LRCT-ND"
 			(at 129.54 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -7587,7 +7587,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MPN" "RC0402FR-07453RL"
+		(property "MPN" "RC0402FR-07464RL"
 			(at 129.54 81.28 0)
 			(hide yes)
 			(show_name no)
