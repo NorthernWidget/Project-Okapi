@@ -4507,7 +4507,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "311-330HRCT-ND"
+		(property "DIGIKEY" "311-330LRCT-ND"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -4531,7 +4531,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-07330RL"
+		(property "MPN" "RC0402FR-07330RL"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5157,7 +5157,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-07330RL"
+		(property "MPN" "RC0402FR-07330RL"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6985,7 +6985,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-07330RL"
+		(property "MPN" "RC0402FR-07330RL"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -7583,7 +7583,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-07330RL"
+		(property "MPN" "RC0402FR-07330RL"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -21383,7 +21383,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-07330RL"
+		(property "MPN" "RC0402FR-07330RL"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -27041,7 +27041,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-07330RL"
+		(property "MPN" "RC0402FR-07330RL"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -29066,7 +29066,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-07330RL"
+		(property "MPN" "RC0402FR-07330RL"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -38235,7 +38235,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "311-330HRCT-ND"
+		(property "DIGIKEY" "311-330LRCT-ND"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -38247,7 +38247,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-07330RL"
+		(property "MPN" "RC0402FR-07330RL"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)

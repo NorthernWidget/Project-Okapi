@@ -5323,7 +5323,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "311-330HRCT-ND"
+		(property "DIGIKEY" "311-330LRCT-ND"
 			(at 161.29 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -5347,7 +5347,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MPN" "RC0603FR-07330RL"
+		(property "MPN" "RC0402FR-07330RL"
 			(at 161.29 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -5746,7 +5746,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MPN" "RC0603FR-07330RL"
+		(property "MPN" "RC0402FR-07330RL"
 			(at 146.05 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -6081,7 +6081,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "311-330HRCT-ND"
+		(property "DIGIKEY" "311-330LRCT-ND"
 			(at 153.67 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -6105,7 +6105,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MPN" "RC0603FR-07330RL"
+		(property "MPN" "RC0402FR-07330RL"
 			(at 153.67 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -6388,7 +6388,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MPN" "RC0603FR-07330RL"
+		(property "MPN" "RC0402FR-07330RL"
 			(at 158.75 57.15 90)
 			(hide yes)
 			(show_name no)
@@ -6934,7 +6934,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MPN" "RC0603FR-07330RL"
+		(property "MPN" "RC0402FR-07330RL"
 			(at 168.91 62.23 90)
 			(hide yes)
 			(show_name no)
