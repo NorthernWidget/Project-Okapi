@@ -3969,7 +3969,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "287R"
+		(property "Value" "232"
 			(at 120.142 173.99 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5734,7 +5734,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "287R"
+		(property "Value" "232"
 			(at 120.142 59.69 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6411,7 +6411,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "287R"
+		(property "Value" "232"
 			(at 120.142 148.59 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7267,7 +7267,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "287R"
+		(property "Value" "232"
 			(at 120.142 85.09 0)
 			(show_name no)
 			(do_not_autoplace no)

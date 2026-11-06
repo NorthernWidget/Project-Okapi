@@ -23775,7 +23775,7 @@
 				)
 			)
 		)
-		(property "Value" "287R"
+		(property "Value" "232"
 			(at 0 1.016 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -24221,7 +24221,7 @@
 				)
 			)
 		)
-		(property "Value" "287R"
+		(property "Value" "232"
 			(at -0.635 0.635 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -32663,7 +32663,7 @@
 				)
 			)
 		)
-		(property "Value" "287R"
+		(property "Value" "232"
 			(at 0.254 -1.524 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -44279,7 +44279,7 @@
 				)
 			)
 		)
-		(property "Value" "287R"
+		(property "Value" "232"
 			(at 1.016 2.159 90)
 			(unlocked yes)
 			(layer "F.Fab")
