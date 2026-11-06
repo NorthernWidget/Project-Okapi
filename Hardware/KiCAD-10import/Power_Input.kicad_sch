@@ -6656,7 +6656,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MF" "Yaiyo Yuden"
+		(property "MF" "Taiyo Yuden"
 			(at 27.94 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -7123,7 +7123,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MF" "Yaiyo Yuden"
+		(property "MF" "Taiyo Yuden"
 			(at 113.03 115.57 0)
 			(hide yes)
 			(show_name no)

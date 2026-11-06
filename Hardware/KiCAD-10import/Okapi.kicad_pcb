@@ -19255,7 +19255,7 @@
 				)
 			)
 		)
-		(property "MF" "Yaiyo Yuden"
+		(property "MF" "Taiyo Yuden"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -47257,7 +47257,7 @@
 				)
 			)
 		)
-		(property "MF" "Yaiyo Yuden"
+		(property "MF" "Taiyo Yuden"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
