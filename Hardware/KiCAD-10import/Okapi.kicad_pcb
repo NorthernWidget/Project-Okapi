@@ -45049,7 +45049,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "68pF"
 			(at 0 1.016 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -45083,7 +45083,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "490-4759-1-ND"
+		(property "DIGIKEY" "732-7474-1-ND"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -45095,7 +45095,7 @@
 				)
 			)
 		)
-		(property "MF" "Murata"
+		(property "MF" "Wurth"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -45107,7 +45107,7 @@
 				)
 			)
 		)
-		(property "MPN" "GCM155R71C104KA55D"
+		(property "MPN" "885012005060"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)

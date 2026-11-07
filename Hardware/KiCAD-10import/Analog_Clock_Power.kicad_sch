@@ -6632,7 +6632,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "68pF"
 			(at 108.204 45.339 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6676,7 +6676,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "490-4759-1-ND"
+		(property "DIGIKEY" "732-7474-1-ND"
 			(at 106.68 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -6688,7 +6688,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MF" "Murata"
+		(property "MF" "Wurth"
 			(at 106.68 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -6700,7 +6700,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MPN" "GCM155R71C104KA55D"
+		(property "MPN" "885012005060"
 			(at 106.68 40.64 0)
 			(hide yes)
 			(show_name no)
