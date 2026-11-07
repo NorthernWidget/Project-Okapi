@@ -10808,7 +10808,7 @@
 				)
 			)
 		)
-		(property "Value" "330"
+		(property "Value" "220R"
 			(at 0 1.016 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10842,7 +10842,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "311-330LRCT-ND"
+		(property "DIGIKEY" "A129619CT-ND"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -10854,7 +10854,7 @@
 				)
 			)
 		)
-		(property "MF" "Yageo"
+		(property "MF" "TE"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -10866,7 +10866,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0402FR-07330RL"
+		(property "MPN" "CRGCQ0402F220R"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)

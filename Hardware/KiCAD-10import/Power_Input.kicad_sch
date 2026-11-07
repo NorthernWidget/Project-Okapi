@@ -9003,7 +9003,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "330"
+		(property "Value" "220R"
 			(at 31.242 54.61 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9047,7 +9047,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "311-330LRCT-ND"
+		(property "DIGIKEY" "A129619CT-ND"
 			(at 27.94 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -9059,7 +9059,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MF" "Yageo"
+		(property "MF" "TE"
 			(at 27.94 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -9071,7 +9071,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MPN" "RC0402FR-07330RL"
+		(property "MPN" "CRGCQ0402F220R"
 			(at 27.94 50.8 0)
 			(hide yes)
 			(show_name no)
