@@ -27345,7 +27345,7 @@
 				)
 			)
 		)
-		(property "Value" "0.22uF"
+		(property "Value" "1uF"
 			(at 0 1.016 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -27379,7 +27379,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "490-12265-1-ND"
+		(property "DIGIKEY" "1276-1445-1-ND"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -27391,7 +27391,7 @@
 				)
 			)
 		)
-		(property "MF" "Murata"
+		(property "MF" "Samsung"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -27403,7 +27403,7 @@
 				)
 			)
 		)
-		(property "MPN" "GRT155R61E224KE01D"
+		(property "MPN" "CL05A105KA5NQNC"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -48965,7 +48965,7 @@
 				)
 			)
 		)
-		(property "Value" "0.22uF"
+		(property "Value" "1uF"
 			(at 0 1.016 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -48999,7 +48999,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "490-12265-1-ND"
+		(property "DIGIKEY" "1276-1445-1-ND"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -49011,7 +49011,7 @@
 				)
 			)
 		)
-		(property "MF" "Murata"
+		(property "MF" "Samsung"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -49023,7 +49023,7 @@
 				)
 			)
 		)
-		(property "MPN" "GRT155R61E224KE01D"
+		(property "MPN" "CL05A105KA5NQNC"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)

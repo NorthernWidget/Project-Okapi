@@ -4772,7 +4772,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "0.22uF"
+		(property "Value" "1uF"
 			(at 30.734 182.499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4816,7 +4816,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "490-12265-1-ND"
+		(property "DIGIKEY" "1276-1445-1-ND"
 			(at 26.67 180.34 0)
 			(hide yes)
 			(show_name no)
@@ -4828,7 +4828,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MF" "Murata"
+		(property "MF" "Samsung"
 			(at 26.67 180.34 0)
 			(hide yes)
 			(show_name no)
@@ -4840,7 +4840,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MPN" "GRT155R61E224KE01D"
+		(property "MPN" "CL05A105KA5NQNC"
 			(at 26.67 180.34 0)
 			(hide yes)
 			(show_name no)
@@ -4881,7 +4881,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "0.22uF"
+		(property "Value" "1uF"
 			(at 10.414 182.499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4925,7 +4925,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "490-12265-1-ND"
+		(property "DIGIKEY" "1276-1445-1-ND"
 			(at 19.05 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -4937,7 +4937,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MF" "Murata"
+		(property "MF" "Samsung"
 			(at 19.05 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -4949,7 +4949,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MPN" "GRT155R61E224KE01D"
+		(property "MPN" "CL05A105KA5NQNC"
 			(at 19.05 177.8 0)
 			(hide yes)
 			(show_name no)
