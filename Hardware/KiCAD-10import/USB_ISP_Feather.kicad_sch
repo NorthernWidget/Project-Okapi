@@ -6648,7 +6648,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "4.7uF"
 			(at 63.754 107.569 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6659,7 +6659,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "nw-cold-silicon:C0805"
+		(property "Footprint" "nw-cold-silicon:C0603"
 			(at 62.23 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -6692,7 +6692,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "490-6473-1-ND"
+		(property "DIGIKEY" "490-GRM188Z71C475KE21DCT-ND"
 			(at 62.23 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -6716,7 +6716,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MPN" "GRM21BR61C106KE15K"
+		(property "MPN" "GRM188Z71C475KE21D"
 			(at 62.23 102.87 0)
 			(hide yes)
 			(show_name no)
