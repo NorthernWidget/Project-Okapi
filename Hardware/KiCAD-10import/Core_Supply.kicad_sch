@@ -5358,7 +5358,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "22uF"
 			(at 52.324 98.679 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5402,7 +5402,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "490-6473-1-ND"
+		(property "DIGIKEY" "490-9952-1-ND"
 			(at 50.8 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -5426,7 +5426,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MPN" "GRM21BR61C106KE15K"
+		(property "MPN" "GRM219R61C226ME15L"
 			(at 50.8 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -5537,7 +5537,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "22uF"
 			(at 108.204 93.599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5581,7 +5581,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "490-6473-1-ND"
+		(property "DIGIKEY" "490-9952-1-ND"
 			(at 106.68 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -5605,7 +5605,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MPN" "GRM21BR61C106KE15K"
+		(property "MPN" "GRM219R61C226ME15L"
 			(at 106.68 88.9 0)
 			(hide yes)
 			(show_name no)

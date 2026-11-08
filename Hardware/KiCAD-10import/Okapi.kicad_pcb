@@ -15761,7 +15761,7 @@
 				)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "22uF"
 			(at 0 1.397 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15795,7 +15795,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "490-6473-1-ND"
+		(property "DIGIKEY" "490-9952-1-ND"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -15819,7 +15819,7 @@
 				)
 			)
 		)
-		(property "MPN" "GRM21BR61C106KE15K"
+		(property "MPN" "GRM219R61C226ME15L"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -15966,7 +15966,7 @@
 				)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "22uF"
 			(at 0 1.397 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -16000,7 +16000,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "490-6473-1-ND"
+		(property "DIGIKEY" "490-9952-1-ND"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -16024,7 +16024,7 @@
 				)
 			)
 		)
-		(property "MPN" "GRM21BR61C106KE15K"
+		(property "MPN" "GRM219R61C226ME15L"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -50954,7 +50954,7 @@
 				)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "22uF"
 			(at 0 1.397 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -50988,7 +50988,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "490-6473-1-ND"
+		(property "DIGIKEY" "490-9952-1-ND"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -51012,7 +51012,7 @@
 				)
 			)
 		)
-		(property "MPN" "GRM21BR61C106KE15K"
+		(property "MPN" "GRM219R61C226ME15L"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
