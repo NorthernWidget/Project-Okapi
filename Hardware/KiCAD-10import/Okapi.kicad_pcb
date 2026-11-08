@@ -38341,7 +38341,7 @@
 				)
 			)
 		)
-		(property "Value" "5.6k"
+		(property "Value" "5.1k"
 			(at 0 1.016 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -38375,7 +38375,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "311-5.6KLRCT-ND"
+		(property "DIGIKEY" "311-5.10KLRCT-ND"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -38399,7 +38399,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0402FR-075K6L"
+		(property "MPN" "RC0402FR-075K1L"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -43455,7 +43455,7 @@
 				)
 			)
 		)
-		(property "Value" "5.6k"
+		(property "Value" "5.1k"
 			(at 0 1.016 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -43489,7 +43489,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "311-5.6KLRCT-ND"
+		(property "DIGIKEY" "311-5.10KLRCT-ND"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -43513,7 +43513,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0402FR-075K6L"
+		(property "MPN" "RC0402FR-075K1L"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -44034,7 +44034,7 @@
 				)
 			)
 		)
-		(property "Value" "5.6k"
+		(property "Value" "5.1k"
 			(at 0 1.016 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -44068,7 +44068,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "311-5.6KLRCT-ND"
+		(property "DIGIKEY" "311-5.10KLRCT-ND"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -44092,7 +44092,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0402FR-075K6L"
+		(property "MPN" "RC0402FR-075K1L"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
