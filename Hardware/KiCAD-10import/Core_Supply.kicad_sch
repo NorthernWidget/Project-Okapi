@@ -5799,7 +5799,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "718-1921-1-ND"
+		(property "DIGIKEY" "490-GRM31CR61A107MEA8LCT-ND"
 			(at 80.01 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -5811,7 +5811,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MF" "Vishay Sprague"
+		(property "MF" "Murata"
 			(at 80.01 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -5823,7 +5823,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MPN" "TL8A0107M010D"
+		(property "MPN" "GRM31CR61A107MEA8L"
 			(at 80.01 177.8 0)
 			(hide yes)
 			(show_name no)

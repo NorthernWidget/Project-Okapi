@@ -17978,7 +17978,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "718-1921-1-ND"
+		(property "DIGIKEY" "490-GRM31CR61A107MEA8LCT-ND"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -17990,7 +17990,7 @@
 				)
 			)
 		)
-		(property "MF" "Vishay Sprague"
+		(property "MF" "Murata"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -18002,7 +18002,7 @@
 				)
 			)
 		)
-		(property "MPN" "TL8A0107M010D"
+		(property "MPN" "GRM31CR61A107MEA8L"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
