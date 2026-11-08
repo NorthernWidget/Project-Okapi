@@ -51970,7 +51970,7 @@
 				)
 			)
 		)
-		(property "Value" "20"
+		(property "Value" "27"
 			(at 0 1.016 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -52004,7 +52004,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "311-20LRCT-ND"
+		(property "DIGIKEY" "YAG3086CT-ND"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -52028,7 +52028,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0402FR-0720RL"
+		(property "MPN" "RC0402FR-0727RL"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)

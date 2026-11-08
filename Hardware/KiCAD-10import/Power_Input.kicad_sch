@@ -10891,7 +10891,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "20"
+		(property "Value" "27"
 			(at 49.022 54.61 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10935,7 +10935,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "311-20LRCT-ND"
+		(property "DIGIKEY" "YAG3086CT-ND"
 			(at 45.72 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -10959,7 +10959,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MPN" "RC0402FR-0720RL"
+		(property "MPN" "RC0402FR-0727RL"
 			(at 45.72 50.8 0)
 			(hide yes)
 			(show_name no)
