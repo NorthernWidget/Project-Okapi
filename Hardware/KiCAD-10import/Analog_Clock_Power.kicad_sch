@@ -6135,7 +6135,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "nw-cold-silicon:R0603"
+		(property "Footprint" "nw-cold-silicon:R0402_0603"
 			(at 55.88 35.56 0)
 			(hide yes)
 			(show_name no)

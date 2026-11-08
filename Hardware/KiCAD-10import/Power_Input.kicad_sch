@@ -8648,7 +8648,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "nw-cold-silicon:R0603"
+		(property "Footprint" "nw-cold-silicon:R0402_0603"
 			(at 74.93 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -9342,7 +9342,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "nw-cold-silicon:R0603"
+		(property "Footprint" "nw-cold-silicon:R0402_0603"
 			(at 74.93 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -10004,7 +10004,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "nw-cold-silicon:R0603"
+		(property "Footprint" "nw-cold-silicon:R0402_0603"
 			(at 110.49 173.99 0)
 			(hide yes)
 			(show_name no)
@@ -10330,7 +10330,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "nw-cold-silicon:R0603"
+		(property "Footprint" "nw-cold-silicon:R0402_0603"
 			(at 110.49 161.29 0)
 			(hide yes)
 			(show_name no)
