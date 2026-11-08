@@ -8926,7 +8926,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "360k"
+		(property "Value" "330k"
 			(at 47.752 173.99 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8970,7 +8970,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "311-360KHRCT-ND"
+		(property "DIGIKEY" "P330KHCT-ND"
 			(at 44.45 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -8982,7 +8982,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MF" "Yageo"
+		(property "MF" "Panasonic"
 			(at 44.45 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -8994,7 +8994,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MPN" "RC0603FR-07360KL"
+		(property "MPN" "ERJ-3EKF3303V"
 			(at 44.45 170.18 0)
 			(hide yes)
 			(show_name no)

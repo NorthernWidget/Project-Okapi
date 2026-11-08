@@ -35553,7 +35553,7 @@
 				)
 			)
 		)
-		(property "Value" "360k"
+		(property "Value" "330k"
 			(at 0 1.397 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -35587,7 +35587,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "311-360KHRCT-ND"
+		(property "DIGIKEY" "P330KHCT-ND"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -35599,7 +35599,7 @@
 				)
 			)
 		)
-		(property "MF" "Yageo"
+		(property "MF" "Panasonic"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -35611,7 +35611,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-07360KL"
+		(property "MPN" "ERJ-3EKF3303V"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
