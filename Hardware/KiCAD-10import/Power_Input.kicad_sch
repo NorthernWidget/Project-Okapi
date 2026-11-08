@@ -8681,7 +8681,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "311-100KHRCT-ND"
+		(property "DIGIKEY" "311-100KLRCT-ND"
 			(at 74.93 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -8705,7 +8705,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MPN" "RC0603FR-07100KL"
+		(property "MPN" "RC0402FR-07100KL"
 			(at 74.93 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -10363,7 +10363,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "P1.00MHCT-ND"
+		(property "DIGIKEY" "311-1.00MLRCT-ND"
 			(at 110.49 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -10375,7 +10375,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MF" "Panasonic"
+		(property "MF" "Yageo"
 			(at 110.49 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -10387,7 +10387,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MPN" "ERJ-3EKF1004V"
+		(property "MPN" "RC0402FR-071ML"
 			(at 110.49 161.29 0)
 			(hide yes)
 			(show_name no)

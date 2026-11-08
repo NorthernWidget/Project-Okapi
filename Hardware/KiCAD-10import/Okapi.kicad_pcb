@@ -919,7 +919,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "P1.00MHCT-ND"
+		(property "DIGIKEY" "311-1.00MLRCT-ND"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -931,7 +931,7 @@
 				)
 			)
 		)
-		(property "MF" "Panasonic"
+		(property "MF" "Yageo"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -943,7 +943,7 @@
 				)
 			)
 		)
-		(property "MPN" "ERJ-3EKF1004V"
+		(property "MPN" "RC0402FR-071ML"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -14024,7 +14024,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "311-100KHRCT-ND"
+		(property "DIGIKEY" "311-100KLRCT-ND"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -14048,7 +14048,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-07100KL"
+		(property "MPN" "RC0402FR-07100KL"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
