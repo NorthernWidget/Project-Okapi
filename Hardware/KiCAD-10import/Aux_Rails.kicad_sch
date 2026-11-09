@@ -9538,7 +9538,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "RMCF0603FT1M62CT-ND"
+		(property "DIGIKEY" "541-1.62MHCT-ND"
 			(at 44.45 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -9550,7 +9550,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MF" "Stackpole"
+		(property "MF" "Vishay"
 			(at 44.45 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -9562,7 +9562,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MPN" "RMCF0603FT1M62"
+		(property "MPN" "CRCW06031M62FKEA"
 			(at 44.45 157.48 0)
 			(hide yes)
 			(show_name no)
