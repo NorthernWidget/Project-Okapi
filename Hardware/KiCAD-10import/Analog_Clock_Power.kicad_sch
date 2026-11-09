@@ -5880,7 +5880,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "P10KDBCT-ND"
+		(property "DIGIKEY" "CRT0603-BY-1002ELFCT-ND"
 			(at 165.1 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -5892,7 +5892,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MF" "Panasonic"
+		(property "MF" "Bourns"
 			(at 165.1 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -5904,7 +5904,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MPN" "ERA-3AEB103V"
+		(property "MPN" "CRT0603-BY-1002ELF"
 			(at 165.1 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -6386,7 +6386,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "P10KDBCT-ND"
+		(property "DIGIKEY" "CRT0603-BY-1002ELFCT-ND"
 			(at 210.82 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -6398,7 +6398,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MF" "Panasonic"
+		(property "MF" "Bourns"
 			(at 210.82 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -6410,7 +6410,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MPN" "ERA-3AEB103V"
+		(property "MPN" "CRT0603-BY-1002ELF"
 			(at 210.82 124.46 0)
 			(hide yes)
 			(show_name no)

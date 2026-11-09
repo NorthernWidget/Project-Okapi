@@ -15578,7 +15578,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "P10KDBCT-ND"
+		(property "DIGIKEY" "CRT0603-BY-1002ELFCT-ND"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -15590,7 +15590,7 @@
 				)
 			)
 		)
-		(property "MF" "Panasonic"
+		(property "MF" "Bourns"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -15602,7 +15602,7 @@
 				)
 			)
 		)
-		(property "MPN" "ERA-3AEB103V"
+		(property "MPN" "CRT0603-BY-1002ELF"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -55867,7 +55867,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "P10KDBCT-ND"
+		(property "DIGIKEY" "CRT0603-BY-1002ELFCT-ND"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -55879,7 +55879,7 @@
 				)
 			)
 		)
-		(property "MF" "Panasonic"
+		(property "MF" "Bourns"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -55891,7 +55891,7 @@
 				)
 			)
 		)
-		(property "MPN" "ERA-3AEB103V"
+		(property "MPN" "CRT0603-BY-1002ELF"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
