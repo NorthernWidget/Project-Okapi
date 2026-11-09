@@ -6122,7 +6122,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "311-130KHRCT-ND"
+		(property "DIGIKEY" "P130KHCT-ND"
 			(at 170.18 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -6134,7 +6134,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MF" "Yageo"
+		(property "MF" "Panasonic"
 			(at 170.18 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -6146,7 +6146,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MPN" "RC0603FR-07130KL"
+		(property "MPN" "ERJ-3EKF1303V"
 			(at 170.18 81.28 0)
 			(hide yes)
 			(show_name no)

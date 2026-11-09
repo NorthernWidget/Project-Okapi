@@ -24974,7 +24974,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "311-130KHRCT-ND"
+		(property "DIGIKEY" "P130KHCT-ND"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -24986,7 +24986,7 @@
 				)
 			)
 		)
-		(property "MF" "Yageo"
+		(property "MF" "Panasonic"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -24998,7 +24998,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-07130KL"
+		(property "MPN" "ERJ-3EKF1303V"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
