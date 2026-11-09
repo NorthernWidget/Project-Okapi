@@ -10037,7 +10037,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "311-200KHRCT-ND"
+		(property "DIGIKEY" "P200KLCT-ND"
 			(at 110.49 173.99 0)
 			(hide yes)
 			(show_name no)
@@ -10049,7 +10049,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MF" "Yageo"
+		(property "MF" "Panasonic"
 			(at 110.49 173.99 0)
 			(hide yes)
 			(show_name no)
@@ -10061,7 +10061,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MPN" "RC0603FR-07200KL"
+		(property "MPN" "ERJ-2RKF2003X"
 			(at 110.49 173.99 0)
 			(hide yes)
 			(show_name no)
