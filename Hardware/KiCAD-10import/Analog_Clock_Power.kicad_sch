@@ -4692,6 +4692,42 @@
 				)
 			)
 		)
+		(property "ALT_DIGIKEY" "YAG1279CT-ND"
+			(at 157.48 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "ALT_MF" "Yageo"
+			(at 157.48 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "ALT_MPN" "RC0402JR-070RP"
+			(at 157.48 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
 		(property "DIGIKEY" "P0.0JCT-ND"
 			(at 157.48 58.42 0)
 			(hide yes)
@@ -5880,6 +5916,42 @@
 				)
 			)
 		)
+		(property "ALT_DIGIKEY" "RG16P10.0KBCT-ND"
+			(at 165.1 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "ALT_MF" "Susumu"
+			(at 165.1 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "ALT_MPN" "RG1608P-103-B-T5"
+			(at 165.1 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
 		(property "DIGIKEY" "CRT0603-BY-1002ELFCT-ND"
 			(at 165.1 149.86 0)
 			(hide yes)
@@ -6168,6 +6240,42 @@
 				)
 			)
 		)
+		(property "ALT_DIGIKEY" "P1.00KLCT-ND"
+			(at 55.88 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "ALT_MF" "Panasonic"
+			(at 55.88 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "ALT_MPN" "ERJ-2RKF1001X"
+			(at 55.88 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
 		(property "DIGIKEY" "311-1.00KLRCT-ND"
 			(at 55.88 35.56 0)
 			(hide yes)
@@ -6384,6 +6492,42 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "ALT_DIGIKEY" "RG16P10.0KBCT-ND"
+			(at 210.82 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "ALT_MF" "Susumu"
+			(at 210.82 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "ALT_MPN" "RG1608P-103-B-T5"
+			(at 210.82 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
 			)
 		)
 		(property "DIGIKEY" "CRT0603-BY-1002ELFCT-ND"

@@ -5597,6 +5597,42 @@
 				)
 			)
 		)
+		(property "ALT_DIGIKEY" "P10.0KLCT-ND"
+			(at 85.09 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "ALT_MF" "Panasonic"
+			(at 85.09 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "ALT_MPN" "ERJ-2RKF1002X"
+			(at 85.09 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
 		(property "DIGIKEY" "311-10.0KLRCT-ND"
 			(at 85.09 137.16 0)
 			(hide yes)
@@ -5892,6 +5928,42 @@
 				)
 			)
 		)
+		(property "ALT_DIGIKEY" "P100KLCT-ND"
+			(at 160.02 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "ALT_MF" "Panasonic"
+			(at 160.02 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "ALT_MPN" "ERJ-2RKF1003X"
+			(at 160.02 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
 		(property "DIGIKEY" "311-100KLRCT-ND"
 			(at 160.02 50.8 0)
 			(hide yes)
@@ -6120,6 +6192,42 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "ALT_DIGIKEY" "RMCF0603FT130KCT-ND"
+			(at 170.18 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "ALT_MF" "Stackpole"
+			(at 170.18 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "ALT_MPN" "RMCF0603FT130K"
+			(at 170.18 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
 			)
 		)
 		(property "DIGIKEY" "P130KHCT-ND"
@@ -6457,6 +6565,42 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "ALT_DIGIKEY" "RMCF0603FT330KCT-ND"
+			(at 180.34 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "ALT_MF" "Stackpole"
+			(at 180.34 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "ALT_MPN" "RMCF0603FT330K"
+			(at 180.34 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
 			)
 		)
 		(property "DIGIKEY" "P330KHCT-ND"

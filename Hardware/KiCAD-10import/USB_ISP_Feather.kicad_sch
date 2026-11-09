@@ -3916,6 +3916,42 @@
 				)
 			)
 		)
+		(property "ALT_DIGIKEY" "P27.0LCT-ND"
+			(at 90.17 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "ALT_MF" "Panasonic"
+			(at 90.17 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "ALT_MPN" "ERJ-2RKF27R0X"
+			(at 90.17 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
 		(property "DIGIKEY" "YAG3086CT-ND"
 			(at 90.17 67.31 0)
 			(hide yes)
@@ -5323,6 +5359,42 @@
 				)
 			)
 		)
+		(property "ALT_DIGIKEY" "P330LCT-ND"
+			(at 161.29 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "ALT_MF" "Panasonic"
+			(at 161.29 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "ALT_MPN" "ERJ-2RKF3300X"
+			(at 161.29 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
 		(property "DIGIKEY" "311-330LRCT-ND"
 			(at 161.29 95.25 0)
 			(hide yes)
@@ -5613,6 +5685,42 @@
 				)
 			)
 		)
+		(property "ALT_DIGIKEY" "P5.10KLCT-ND"
+			(at 59.69 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "ALT_MF" "Panasonic"
+			(at 59.69 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "ALT_MPN" "ERJ-2RKF5101X"
+			(at 59.69 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
 		(property "DIGIKEY" "311-5.10KLRCT-ND"
 			(at 59.69 69.85 0)
 			(hide yes)
@@ -5720,6 +5828,42 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "ALT_DIGIKEY" "P330LCT-ND"
+			(at 146.05 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "ALT_MF" "Panasonic"
+			(at 146.05 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "ALT_MPN" "ERJ-2RKF3300X"
+			(at 146.05 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
 			)
 		)
 		(property "DIGIKEY" "311-330LRCT-ND"
@@ -5902,6 +6046,42 @@
 				)
 			)
 		)
+		(property "ALT_DIGIKEY" "P27.0LCT-ND"
+			(at 90.17 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "ALT_MF" "Panasonic"
+			(at 90.17 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "ALT_MPN" "ERJ-2RKF27R0X"
+			(at 90.17 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
 		(property "DIGIKEY" "YAG3086CT-ND"
 			(at 90.17 59.69 0)
 			(hide yes)
@@ -6079,6 +6259,42 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "ALT_DIGIKEY" "P330LCT-ND"
+			(at 153.67 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "ALT_MF" "Panasonic"
+			(at 153.67 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "ALT_MPN" "ERJ-2RKF3300X"
+			(at 153.67 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
 			)
 		)
 		(property "DIGIKEY" "311-330LRCT-ND"
@@ -6364,6 +6580,42 @@
 				)
 			)
 		)
+		(property "ALT_DIGIKEY" "P330LCT-ND"
+			(at 158.75 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "ALT_MF" "Panasonic"
+			(at 158.75 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "ALT_MPN" "ERJ-2RKF3300X"
+			(at 158.75 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
 		(property "DIGIKEY" "311-330LRCT-ND"
 			(at 158.75 57.15 0)
 			(hide yes)
@@ -6474,6 +6726,42 @@
 				)
 			)
 		)
+		(property "ALT_DIGIKEY" "P5.10KLCT-ND"
+			(at 49.53 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "ALT_MF" "Panasonic"
+			(at 49.53 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "ALT_MPN" "ERJ-2RKF5101X"
+			(at 49.53 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
 		(property "DIGIKEY" "311-5.10KLRCT-ND"
 			(at 49.53 69.85 0)
 			(hide yes)
@@ -6581,6 +6869,42 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "ALT_DIGIKEY" "P100KLCT-ND"
+			(at 67.31 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "ALT_MF" "Panasonic"
+			(at 67.31 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "ALT_MPN" "ERJ-2RKF1003X"
+			(at 67.31 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
 			)
 		)
 		(property "DIGIKEY" "311-100KLRCT-ND"
@@ -6908,6 +7232,42 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "ALT_DIGIKEY" "P330LCT-ND"
+			(at 168.91 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "ALT_MF" "Panasonic"
+			(at 168.91 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "ALT_MPN" "ERJ-2RKF3300X"
+			(at 168.91 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
 			)
 		)
 		(property "DIGIKEY" "311-330LRCT-ND"

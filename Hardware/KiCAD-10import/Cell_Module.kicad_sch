@@ -7494,6 +7494,42 @@
 				)
 			)
 		)
+		(property "ALT_DIGIKEY" "P5.10KLCT-ND"
+			(at 52.07 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "ALT_MF" "Panasonic"
+			(at 52.07 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "ALT_MPN" "ERJ-2RKF5101X"
+			(at 52.07 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
 		(property "DIGIKEY" "311-5.10KLRCT-ND"
 			(at 52.07 107.95 0)
 			(hide yes)
@@ -7601,6 +7637,42 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "ALT_DIGIKEY" "P5.10KLCT-ND"
+			(at 52.07 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "ALT_MF" "Panasonic"
+			(at 52.07 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "ALT_MPN" "ERJ-2RKF5101X"
+			(at 52.07 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
 			)
 		)
 		(property "DIGIKEY" "311-5.10KLRCT-ND"
@@ -7921,6 +7993,42 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "ALT_DIGIKEY" "P10.0KLCT-ND"
+			(at 224.79 156.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "ALT_MF" "Panasonic"
+			(at 224.79 156.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "ALT_MPN" "ERJ-2RKF1002X"
+			(at 224.79 156.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
 			)
 		)
 		(property "DIGIKEY" "311-10.0KLRCT-ND"
@@ -8513,6 +8621,42 @@
 				)
 			)
 		)
+		(property "ALT_DIGIKEY" "P5.10KLCT-ND"
+			(at 52.07 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "ALT_MF" "Panasonic"
+			(at 52.07 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "ALT_MPN" "ERJ-2RKF5101X"
+			(at 52.07 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
 		(property "DIGIKEY" "311-5.10KLRCT-ND"
 			(at 52.07 100.33 0)
 			(hide yes)
@@ -8763,6 +8907,42 @@
 				)
 			)
 		)
+		(property "ALT_DIGIKEY" "P10.0KLCT-ND"
+			(at 224.79 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "ALT_MF" "Panasonic"
+			(at 224.79 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "ALT_MPN" "ERJ-2RKF1002X"
+			(at 224.79 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
 		(property "DIGIKEY" "311-10.0KLRCT-ND"
 			(at 224.79 135.89 0)
 			(hide yes)
@@ -8940,6 +9120,42 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "ALT_DIGIKEY" "P10.0KLCT-ND"
+			(at 217.17 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "ALT_MF" "Panasonic"
+			(at 217.17 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "ALT_MPN" "ERJ-2RKF1002X"
+			(at 217.17 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
 			)
 		)
 		(property "DIGIKEY" "311-10.0KLRCT-ND"
