@@ -2102,7 +2102,7 @@
 				)
 			)
 		)
-		(property "Value" "182k"
+		(property "Value" "180k"
 			(at 0 1.397 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2136,7 +2136,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "P182KHCT-ND"
+		(property "DIGIKEY" "P180KHCT-ND"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2160,7 +2160,7 @@
 				)
 			)
 		)
-		(property "MPN" "ERJ-3EKF1823V"
+		(property "MPN" "ERJ-3EKF1803V"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
