@@ -52175,7 +52175,7 @@
 				)
 			)
 		)
-		(property "Value" "470k"
+		(property "Value" "1M"
 			(at 0 1.397 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -52209,7 +52209,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "311-470KGRCT-ND"
+		(property "DIGIKEY" "P1.00MHCT-ND"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -52221,7 +52221,7 @@
 				)
 			)
 		)
-		(property "MF" "Yageo"
+		(property "MF" "Panasonic"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -52233,7 +52233,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603JR-07470KL"
+		(property "MPN" "ERJ-3EKF1004V"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)

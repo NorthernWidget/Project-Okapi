@@ -2241,7 +2241,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "470k"
+		(property "Value" "1M"
 			(at 83.312 86.36 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2285,7 +2285,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "311-470KGRCT-ND"
+		(property "DIGIKEY" "P1.00MHCT-ND"
 			(at 80.01 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -2297,7 +2297,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MF" "Yageo"
+		(property "MF" "Panasonic"
 			(at 80.01 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -2309,7 +2309,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MPN" "RC0603JR-07470KL"
+		(property "MPN" "ERJ-3EKF1004V"
 			(at 80.01 82.55 0)
 			(hide yes)
 			(show_name no)
