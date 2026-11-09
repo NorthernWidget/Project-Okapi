@@ -5763,7 +5763,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "22uF"
 			(at 34.544 37.719 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5807,7 +5807,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "490-6473-1-ND"
+		(property "DIGIKEY" "490-9952-1-ND"
 			(at 33.02 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -5831,7 +5831,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MPN" "GRM21BR61C106KE15K"
+		(property "MPN" "GRM219R61C226ME15L"
 			(at 33.02 33.02 0)
 			(hide yes)
 			(show_name no)
