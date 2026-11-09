@@ -4692,7 +4692,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "311-0.0JRCT-ND"
+		(property "DIGIKEY" "P0.0JCT-ND"
 			(at 157.48 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -4704,7 +4704,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MF" "Yageo"
+		(property "MF" "Panasonic"
 			(at 157.48 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -4716,7 +4716,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MPN" "RC0402JR-070RL"
+		(property "MPN" "ERJ-2GE0R00X"
 			(at 157.48 58.42 0)
 			(hide yes)
 			(show_name no)

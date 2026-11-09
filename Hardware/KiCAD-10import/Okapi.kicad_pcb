@@ -6613,7 +6613,7 @@
 				)
 			)
 		)
-		(property "MF" "Yageo"
+		(property "MF" "Panasonic"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6625,7 +6625,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "311-0.0JRCT-ND"
+		(property "DIGIKEY" "P0.0JCT-ND"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6637,7 +6637,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0402JR-070RL"
+		(property "MPN" "ERJ-2GE0R00X"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
