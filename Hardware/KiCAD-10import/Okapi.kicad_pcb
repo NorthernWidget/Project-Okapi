@@ -61215,6 +61215,28 @@
 		(layer "F.Fab")
 		(uuid "19163a0f-9df5-495f-bf10-125f048eeb02")
 	)
+	(gr_text "START"
+		(at 131.7471 172 0)
+		(layer "F.SilkS")
+		(uuid "769f80b5-2831-487e-ad36-acad87a671d1")
+		(effects
+			(font
+				(size 0.69088 0.69088)
+				(thickness 0.12192)
+			)
+		)
+	)
+	(gr_text "MPPT"
+		(at 135.8111 172 0)
+		(layer "F.SilkS")
+		(uuid "e8703c35-9e77-43b2-bcd4-ff284f1fc23b")
+		(effects
+			(font
+				(size 0.69088 0.69088)
+				(thickness 0.12192)
+			)
+		)
+	)
 	(gr_text "J8"
 		(at 151.6861 93.3826 0)
 		(layer "F.SilkS")
