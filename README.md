@@ -418,7 +418,7 @@ The TPS62822's divider sits above the datasheet's center value (R2 of 100 kΩ, a
 
 ### Sensor port current limits
 
-Each sensor bus (PRIME and SEC) is fed through a pair of MIC2544 high-side switches, one from the 5 V rail and one from the 3.3 V rail, and the firmware enables one or neither. Each switch limits its output current with a resistor on its ILIM pin: 232 Ω for 1 A, which is the default on every port.
+Each sensor bus (PRIME and SEC) is fed through a pair of MIC2544 high-side switches, one from the 5 V rail and one from the 3.3 V rail. A slide switch on each bus (S1 for SEC, S2 for PRIME) picks 5 V or 3.3 V, and the firmware turns the bus on or off. Logic gates make the two choices exclusive: an AND gate passes the bus enable to the 5 V switch only when the slide is at 5 V, and through an inverter to the 3.3 V switch only when it is not, so both can never be on together. On v0.7.0, a pull-down on each slide switch holds its 3.3 V side while the slider is between positions ([#53](https://github.com/NorthernWidget/Project-Okapi/issues/53)), so you can move it with the logger running. Set it to your sensor's voltage before you connect the sensor. Each switch limits its output current with a resistor on its ILIM pin: 232 Ω for 1 A, which is the default on every port.
 
 To let one port draw up to 1.5 A, close its solder jumper (JP1 to JP4, one per switch). This puts 464 Ω in parallel with the 232 Ω, 154.7 Ω in all, which is the most the MIC2544 is rated to pass: its ILIM resistor may be no smaller than 154 Ω.
 
