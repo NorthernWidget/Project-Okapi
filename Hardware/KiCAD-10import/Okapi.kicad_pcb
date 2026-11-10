@@ -7874,7 +7874,7 @@
 	(footprint "nw-cold-silicon:R0402_0603"
 		(layer "F.Cu")
 		(uuid "1f446ed4-97dc-425b-aa4b-64c0c9256ff6")
-		(at 128.9531 137.1976 90)
+		(at 129.9531 137.1976 90)
 		(descr "Resistor land that takes an 0603 or an 0402: pads 0.75 x 0.80 mm at +/-0.725 mm (gap 0.70, extent 2.20), the geometry of Blues MN_0402_0603 (blues/note-hardware, Notecarrier-XI v1.4, reflowed with both sizes on its production BOM), without its -0.025 mm paste reduction (the board's rules set paste). Inside Panasonic's 0603 land; oversized for an 0402. For user-swappable parts.")
 		(tags "resistor 0402 0603 dual")
 		(property "Reference" "R48"
@@ -61215,6 +61215,17 @@
 		(layer "F.Fab")
 		(uuid "19163a0f-9df5-495f-bf10-125f048eeb02")
 	)
+	(gr_text "VREF bias"
+		(at 130.6 139.1 0)
+		(layer "F.SilkS")
+		(uuid "f65e46e6-6da0-48bd-b4c4-619318f80412")
+		(effects
+			(font
+				(size 0.69088 0.69088)
+				(thickness 0.12192)
+			)
+		)
+	)
 	(gr_text "J8"
 		(at 151.6861 93.3826 0)
 		(layer "F.SilkS")
@@ -68982,14 +68993,6 @@
 		(uuid "0dfd8a53-9c69-4c13-9a0a-b1c969263efb")
 	)
 	(segment
-		(start 128.8261 136.2206)
-		(end 128.8261 134.4036)
-		(width 0.4064)
-		(layer "F.Cu")
-		(net "5V_AUX")
-		(uuid "0e3d3ad5-ff93-439c-bdf1-d43d84be4a4b")
-	)
-	(segment
 		(start 142.5421 123.6086)
 		(end 143.9241 123.6086)
 		(width 0.254)
@@ -69036,14 +69039,6 @@
 		(layer "F.Cu")
 		(net "5V_AUX")
 		(uuid "201631b2-e8d2-4660-907e-59aacf127784")
-	)
-	(segment
-		(start 128.9531 136.3476)
-		(end 128.8261 136.2206)
-		(width 0.4064)
-		(layer "F.Cu")
-		(net "5V_AUX")
-		(uuid "2186654c-a68d-4bd4-b48e-577c20d99d5e")
 	)
 	(segment
 		(start 129.2071 132.8796)
@@ -69158,6 +69153,14 @@
 		(uuid "64a01d30-73e5-4d36-9e0d-15a49b1a0b7d")
 	)
 	(segment
+		(start 129.9531 136.3476)
+		(end 129.9531 135.5306)
+		(width 0.4064)
+		(layer "F.Cu")
+		(net "5V_AUX")
+		(uuid "6e5cb38c-1dee-49de-add6-402cf8fbea15")
+	)
+	(segment
 		(start 161.2111 139.6106)
 		(end 155.1151 139.6106)
 		(width 0.6096)
@@ -69228,6 +69231,14 @@
 		(layer "F.Cu")
 		(net "5V_AUX")
 		(uuid "9f219ded-b918-4a6e-ab59-7d01d6ab4d78")
+	)
+	(segment
+		(start 129.9531 135.5306)
+		(end 128.8261 134.4036)
+		(width 0.4064)
+		(layer "F.Cu")
+		(net "5V_AUX")
+		(uuid "b03759ec-2300-4b0d-8145-2d6d047169e4")
 	)
 	(segment
 		(start 153.0831 116.1156)
@@ -82534,7 +82545,7 @@
 		(uuid "06813cdb-f20b-4c50-8d46-57503765e270")
 	)
 	(segment
-		(start 128.7531 137.8476)
+		(start 129.7531 137.8476)
 		(end 127.3021 137.8476)
 		(width 0.4064)
 		(layer "F.Cu")
@@ -82550,8 +82561,8 @@
 		(uuid "22db32fd-d0ad-4b52-856d-9da6f6cabe62")
 	)
 	(segment
-		(start 128.9531 138.0476)
-		(end 128.7531 137.8476)
+		(start 129.9531 138.0476)
+		(end 129.7531 137.8476)
 		(width 0.4064)
 		(layer "F.Cu")
 		(net "VREF")
