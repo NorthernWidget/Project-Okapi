@@ -5390,7 +5390,7 @@
 		)
 		(uuid "7689cab6-0103-4771-b91a-d6be9c174eba")
 	)
-	(label "BSOM_VUSB"
+	(label "PARTICLE_BSOM_VUSB"
 		(at 64.77 52.07 0)
 		(effects
 			(font
@@ -5430,7 +5430,7 @@
 		)
 		(uuid "9c071166-0bbf-4847-95d4-268e5db53231")
 	)
-	(label "BSOM_VUSB"
+	(label "PARTICLE_BSOM_VUSB"
 		(at 189.23 82.55 0)
 		(effects
 			(font
@@ -5528,7 +5528,7 @@
 			)
 		)
 	)
-	(global_label "3V3_FEATHER"
+	(global_label "PARTICLE_3V3"
 		(shape bidirectional)
 		(at 219.71 148.59 180)
 		(fields_autoplaced yes)
@@ -5648,7 +5648,7 @@
 			)
 		)
 	)
-	(global_label "FEATHER_BAT"
+	(global_label "PARTICLE_VCC"
 		(shape bidirectional)
 		(at 168.91 74.93 0)
 		(fields_autoplaced yes)
@@ -5840,7 +5840,7 @@
 			)
 		)
 	)
-	(global_label "SDA_FEATHER"
+	(global_label "SDA_PARTICLE"
 		(shape bidirectional)
 		(at 168.91 97.79 0)
 		(fields_autoplaced yes)
@@ -5888,7 +5888,7 @@
 			)
 		)
 	)
-	(global_label "3V3_FEATHER"
+	(global_label "PARTICLE_3V3"
 		(shape bidirectional)
 		(at 26.67 107.95 180)
 		(fields_autoplaced yes)
@@ -5936,7 +5936,7 @@
 			)
 		)
 	)
-	(global_label "SCL_FEATHER"
+	(global_label "SCL_PARTICLE"
 		(shape bidirectional)
 		(at 168.91 95.25 0)
 		(fields_autoplaced yes)
@@ -6056,7 +6056,7 @@
 			)
 		)
 	)
-	(global_label "FEATHER_CTS"
+	(global_label "PARTICLE_CTS"
 		(shape bidirectional)
 		(at 168.91 120.65 0)
 		(fields_autoplaced yes)
@@ -6128,7 +6128,7 @@
 			)
 		)
 	)
-	(global_label "3V3_FEATHER"
+	(global_label "PARTICLE_3V3"
 		(shape bidirectional)
 		(at 168.91 82.55 0)
 		(fields_autoplaced yes)
@@ -6152,7 +6152,7 @@
 			)
 		)
 	)
-	(global_label "FEATHER_GPIO"
+	(global_label "PARTICLE_GPIO"
 		(shape bidirectional)
 		(at 113.03 125.73 180)
 		(fields_autoplaced yes)
@@ -6224,7 +6224,7 @@
 			)
 		)
 	)
-	(global_label "3V3_FEATHER"
+	(global_label "PARTICLE_3V3"
 		(shape bidirectional)
 		(at 219.71 128.27 180)
 		(fields_autoplaced yes)
@@ -6272,7 +6272,7 @@
 			)
 		)
 	)
-	(global_label "FEATHER_RTS"
+	(global_label "PARTICLE_RTS"
 		(shape bidirectional)
 		(at 168.91 123.19 0)
 		(fields_autoplaced yes)

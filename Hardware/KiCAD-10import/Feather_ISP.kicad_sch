@@ -3905,7 +3905,7 @@
 			)
 		)
 	)
-	(global_label "FEATHER_BAT"
+	(global_label "PARTICLE_VCC"
 		(shape bidirectional)
 		(at 77.47 81.28 0)
 		(fields_autoplaced yes)
@@ -3929,7 +3929,7 @@
 			)
 		)
 	)
-	(global_label "FEATHER_RTS"
+	(global_label "PARTICLE_RTS"
 		(shape bidirectional)
 		(at 77.47 104.14 0)
 		(fields_autoplaced yes)
@@ -4025,7 +4025,7 @@
 			)
 		)
 	)
-	(global_label "FEATHER_GPIO"
+	(global_label "PARTICLE_GPIO"
 		(shape bidirectional)
 		(at 26.67 93.98 180)
 		(fields_autoplaced yes)
@@ -4121,7 +4121,7 @@
 			)
 		)
 	)
-	(global_label "SCL_FEATHER"
+	(global_label "SCL_PARTICLE"
 		(shape bidirectional)
 		(at 77.47 106.68 0)
 		(fields_autoplaced yes)
@@ -4169,7 +4169,7 @@
 			)
 		)
 	)
-	(global_label "FEATHER_CTS"
+	(global_label "PARTICLE_CTS"
 		(shape bidirectional)
 		(at 77.47 101.6 0)
 		(fields_autoplaced yes)
@@ -4289,7 +4289,7 @@
 			)
 		)
 	)
-	(global_label "SDA_FEATHER"
+	(global_label "SDA_PARTICLE"
 		(shape bidirectional)
 		(at 77.47 109.22 0)
 		(fields_autoplaced yes)
@@ -4361,7 +4361,7 @@
 			)
 		)
 	)
-	(global_label "3V3_FEATHER"
+	(global_label "PARTICLE_3V3"
 		(shape bidirectional)
 		(at 29.21 73.66 180)
 		(fields_autoplaced yes)
@@ -4385,7 +4385,7 @@
 			)
 		)
 	)
-	(global_label "FEATHER_EN"
+	(global_label "PARTICLE_EN"
 		(shape bidirectional)
 		(at 157.48 58.42 180)
 		(fields_autoplaced yes)
@@ -4529,7 +4529,7 @@
 			)
 		)
 	)
-	(global_label "FEATHER_BAT"
+	(global_label "PARTICLE_VCC"
 		(shape bidirectional)
 		(at 248.92 63.5 0)
 		(fields_autoplaced yes)

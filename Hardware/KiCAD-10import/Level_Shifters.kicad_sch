@@ -2042,7 +2042,7 @@
 			)
 		)
 	)
-	(global_label "3V3_FEATHER"
+	(global_label "PARTICLE_3V3"
 		(shape bidirectional)
 		(at 78.74 55.88 0)
 		(fields_autoplaced yes)
@@ -2162,7 +2162,7 @@
 			)
 		)
 	)
-	(global_label "3V3_FEATHER"
+	(global_label "PARTICLE_3V3"
 		(shape bidirectional)
 		(at 78.74 33.02 0)
 		(fields_autoplaced yes)
@@ -2426,7 +2426,7 @@
 			)
 		)
 	)
-	(global_label "SCL_FEATHER"
+	(global_label "SCL_PARTICLE"
 		(shape bidirectional)
 		(at 78.74 63.5 0)
 		(fields_autoplaced yes)
@@ -2522,7 +2522,7 @@
 			)
 		)
 	)
-	(global_label "SDA_FEATHER"
+	(global_label "SDA_PARTICLE"
 		(shape bidirectional)
 		(at 78.74 60.96 0)
 		(fields_autoplaced yes)

@@ -1851,7 +1851,7 @@
 			)
 		)
 	)
-	(global_label "FEATHER_EN"
+	(global_label "PARTICLE_EN"
 		(shape bidirectional)
 		(at 64.77 40.64 0)
 		(fields_autoplaced yes)

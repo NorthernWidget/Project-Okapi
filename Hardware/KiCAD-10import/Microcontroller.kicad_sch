@@ -3420,7 +3420,7 @@
 			)
 		)
 	)
-	(global_label "FEATHER_GPIO"
+	(global_label "PARTICLE_GPIO"
 		(shape bidirectional)
 		(at 140.97 45.72 0)
 		(fields_autoplaced yes)
@@ -3492,7 +3492,7 @@
 			)
 		)
 	)
-	(global_label "FEATHER_CTS"
+	(global_label "PARTICLE_CTS"
 		(shape bidirectional)
 		(at 140.97 43.18 0)
 		(fields_autoplaced yes)
@@ -3588,7 +3588,7 @@
 			)
 		)
 	)
-	(global_label "FEATHER_RTS"
+	(global_label "PARTICLE_RTS"
 		(shape bidirectional)
 		(at 140.97 40.64 0)
 		(fields_autoplaced yes)
