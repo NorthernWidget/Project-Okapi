@@ -59412,7 +59412,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "2af1c477-8e95-4acc-8543-54431510fa11")
+			(uuid "372b21b9-a94a-4889-8289-44062c6125da")
 		)
 		(fp_line
 			(start -1.3 -0.8)
@@ -59422,7 +59422,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "f284b99c-5e56-45ed-8c03-5953eaf6119c")
+			(uuid "674aebf3-e2e1-4eb2-a999-f0b180da5c6c")
 		)
 		(fp_line
 			(start 1.3 0.8)
@@ -59432,7 +59432,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "4e36c24d-fc6d-4a1f-9c2f-daf20131ae91")
+			(uuid "99984425-4bae-4e38-9bc2-2056218fd617")
 		)
 		(fp_line
 			(start -1.3 0.8)
@@ -59442,7 +59442,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "c1916a7c-a291-40db-b203-7020dac36d7e")
+			(uuid "0f20d837-2902-43bb-be21-cf0414b56919")
 		)
 		(fp_circle
 			(center 0 0)
@@ -59453,7 +59453,7 @@
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "7320dcee-954d-4c6d-ab4d-2674c4331d0c")
+			(uuid "082ae861-3a6e-46b8-a74c-259e03342f6f")
 		)
 		(pad "A" smd rect
 			(at -1.325 -0.375 90)
@@ -59461,7 +59461,7 @@
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net "LI+")
 			(thermal_bridge_angle 0)
-			(uuid "58a3d2c5-c2b9-47f6-bc4c-753b96959094")
+			(uuid "de82375d-5a8f-40bb-8695-72c2fcb17375")
 		)
 		(pad "A'" smd rect
 			(at -1.325 0.375 90)
@@ -59469,7 +59469,7 @@
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net "LI+")
 			(thermal_bridge_angle 0)
-			(uuid "24ac0da5-dd74-4030-8e6d-7cf901f69c63")
+			(uuid "09988b33-3379-4b3b-8b5d-a2e33f53b16c")
 		)
 		(pad "B" smd rect
 			(at 1.325 -0.375 90)
@@ -59477,7 +59477,7 @@
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net "V_LI")
 			(thermal_bridge_angle 0)
-			(uuid "f2d09ab7-2d8a-437c-b4e6-d49e12cfb0c3")
+			(uuid "74ec644d-b158-47b6-b31d-8547bc3a5bf8")
 		)
 		(pad "B'" smd rect
 			(at 1.325 0.375 90)
@@ -59485,18 +59485,18 @@
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net "V_LI")
 			(thermal_bridge_angle 0)
-			(uuid "68a7a619-91f4-4c37-933a-c91354a245ce")
+			(uuid "bdac47f9-ff46-46c8-a98d-ad71e71e3c3e")
 		)
 		(zone
-			(layer "B.Cu")
-			(uuid "b3da15fa-f019-47a0-8bd6-0a9a9266f37a")
+			(layer "F.Cu")
+			(uuid "429a1e82-82f7-480f-926b-049c093432b9")
 			(hatch edge 0.5)
 			(connect_pads
 				(clearance 0)
 			)
 			(min_thickness 0.25)
 			(keepout
-				(tracks not_allowed)
+				(tracks allowed)
 				(vias not_allowed)
 				(pads not_allowed)
 				(copperpour not_allowed)
