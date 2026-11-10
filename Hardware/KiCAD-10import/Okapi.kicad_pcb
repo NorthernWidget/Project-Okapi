@@ -12175,6 +12175,42 @@
 				)
 			)
 		)
+		(property "ALT_DIGIKEY" "2019-UR73VD2ATTD20L0FCT-ND"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4e3184ac-07bb-4bf8-a562-197dbcd0170a")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "ALT_MF" "KOA"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "401ab201-f6c1-4c27-8093-9c10c3582de1")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "ALT_MPN" "UR73VD2ATTD20L0F"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "802df496-b76e-4ca8-a1cc-e28b098b2caf")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/dded91c5-6d49-5ed3-8b5a-9cc61399f656/c7b5185e-6e6f-40a9-bf4f-6fc192356010")
 		(sheetname "Power_Input")
 		(sheetfile "Power_Input.kicad_sch")
@@ -13990,6 +14026,42 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c8758350-9751-4193-8a3d-9b250ba2e069")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "ALT_DIGIKEY" "2019-UR73V2ATTD50L0FCT-ND"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b6822167-589d-4b12-8193-d3adad4903bc")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "ALT_MF" "KOA"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fbe14b02-8626-4d62-ba22-4ba5ce09d05c")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "ALT_MPN" "UR73V2ATTD50L0F"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a7c3757b-7656-4624-af1c-f7f446480c37")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21088,6 +21160,42 @@
 				)
 			)
 		)
+		(property "ALT_DIGIKEY" "541-WFC08053L000FE66CT-ND"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c27a84cf-2b19-4505-8058-9d1236c9bda7")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "ALT_MF" "Vishay"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fdace7d8-0f24-4069-8cca-956817337fa1")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "ALT_MPN" "WFC08053L000FE66"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "190632e2-584c-41ba-ae84-7ed01a152c36")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/dded91c5-6d49-5ed3-8b5a-9cc61399f656/1ab78158-4731-4823-8be9-5df4852b6b3f")
 		(sheetname "Power_Input")
 		(sheetfile "Power_Input.kicad_sch")
@@ -22341,6 +22449,42 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "0f7af864-69cc-45f3-b8f8-f1980b0c324e")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "ALT_DIGIKEY" "2019-UR73VD2ATTD20L0FCT-ND"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "978eaa23-590f-4847-9b49-388c9e728850")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "ALT_MF" "KOA"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9650a168-eea9-487b-b201-97707168149f")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "ALT_MPN" "UR73VD2ATTD20L0F"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "87629efd-693e-47be-ab25-f3745c80bc63")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36326,6 +36470,42 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "31f01b61-c293-4435-a9b7-3d23f9f88ba5")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "ALT_DIGIKEY" "2019-UR73VD2ATTD20L0FCT-ND"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a4fc1aa0-9d4d-480d-9557-f3215a813231")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "ALT_MF" "KOA"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d568b906-ea65-489f-8007-4308ab6279a2")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "ALT_MPN" "UR73VD2ATTD20L0F"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "93cafe39-6157-4e89-a02e-c5cd068cf952")
 			(effects
 				(font
 					(size 1.27 1.27)
