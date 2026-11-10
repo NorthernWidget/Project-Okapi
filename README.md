@@ -395,6 +395,21 @@ As of 2026-11-05 the logger firmware does not drive FEATHER_EN (Okapi_Library's 
 
 >> @bschulz1701: new smarter 18650 holder?
 
+### Solar charger set points
+
+Two resistor pairs set how the LT3652 charger (U4) uses your panel. Both sit on lands that take an 0402 or an 0603 part, so you can change them by hand to suit the panel you deploy:
+
+* **MPPT, R22 over R69.** The charger holds the panel at 2.7 V × (1 + R22 / R69), close to the panel's maximum-power voltage, and draws less current rather than let the panel sag below it.
+* **Start, R71 over R70.** The charger starts once the panel rises above 1.2 V × (1 + R71 / R70). Keep this below the panel's open-circuit voltage. The charger also needs the panel about 3.3 V above the cell to start (7.5 V on a full cell).
+
+| Panel | Examples | R22 / R69 | MPPT | R71 / R70 | Start | Board |
+|---|---|---|---|---|---|---|
+| 6 V, 12-cell (as built) | Voltaic P126 (2 W); older 6 V panels such as Voltaic's 6 W P106C | 143 kΩ / 100 kΩ | 6.56 V | 1 MΩ / 200 kΩ | 7.2 V | v0.7.0 |
+| 5–6 V, 10-cell ETFE | Voltaic P105, P110, P120, P124 | 143 kΩ / 120 kΩ | 5.92 V | 1 MΩ / 205 kΩ | 7.05 V | v0.7.0 |
+| 12 V, 36-cell | Campbell SP10 and SP20, Renogy RNG-10D-SS, Ameresco 10M and 20J, Voltaic P108 and P152 | 1 MΩ / 200 kΩ | 16.2 V | 1 MΩ / 100 kΩ | 13.2 V | v0.8.0 |
+
+As built, a 10-cell panel cannot always start the charger: its open-circuit voltage (6.6–7.3 V at 25 °C) sits at or below the 7.2 V start threshold, and lower still on a warm day. Change R70 to 205 kΩ, and R69 to 120 kΩ for the lower maximum-power voltage. A 12 V panel reaches 27 V open-circuit at −40 °C, beyond the 16 V input capacitor on v0.7.0, so 12 V panels wait for v0.8.0 ([#44](https://github.com/NorthernWidget/Project-Okapi/issues/44), [#46](https://github.com/NorthernWidget/Project-Okapi/issues/46)). Panel figures are from the makers' datasheets; the study behind this table is in NW-Status (`studies/okapi-hardware-audit/sources/2026-11-09-solar-panels-agent-report.md`).
+
 ### Regulator feedback dividers
 
 The two adjustable regulators set their outputs with resistor dividers that follow their datasheets: the TLV61220 (U1, the 5 V core boost) with R4 1.62 MΩ over R5 180 kΩ, the datasheet's own example value for the lower resistor, and the TPS62822 (U2, the 3.3 V aux buck) with R6 820 kΩ over R7 180 kΩ and C6 68 pF as its feed-forward capacitor, which is the datasheet's 12 ms / R2 exactly.
