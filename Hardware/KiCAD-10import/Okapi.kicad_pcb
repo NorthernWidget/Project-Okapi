@@ -1872,6 +1872,7 @@
 		(layer "F.Cu")
 		(uuid "08125d77-581a-45d0-860a-fb0dc33059ec")
 		(at 122.4761 173.6466)
+		(descr "USB 2.0 Type-C receptacle, 16 contacts, top mount, horizontal. Laid out by Andy Wickert (Project-Margay 364c9ef, 2022) to fit both the CUI (Same Sky) CUSB31-CFM2AX-01-X and the GCT USB4105-GF-A (Andy, 2026-11-11). Shell slots 0.6 x 1.7 mm (rear) and 0.6 x 1.4 mm (front), each the longer of Andy's layout and GCT's drawing; courtyard 0.25 mm beyond body and pads.")
 		(property "Reference" "J10"
 			(at 4.822 -1.353 0)
 			(unlocked yes)
@@ -1968,7 +1969,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "d598af1a-b995-428b-99c5-c52757c8eb3d")
+			(uuid "d1c09dd2-3cfe-42d3-9132-c66f2033622f")
 		)
 		(fp_line
 			(start -4.47 0)
@@ -1978,7 +1979,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "41dc0387-4a42-48e1-97a5-f0fb96747008")
+			(uuid "9ae4cc26-657b-436b-bdda-c05f891d6e4c")
 		)
 		(fp_line
 			(start 4.47 -5.35)
@@ -1988,7 +1989,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "3a33b898-45e6-40eb-bde3-e3264f55ed48")
+			(uuid "e5df0cb4-5ded-43ef-bb5f-22ffeb18775b")
 		)
 		(fp_line
 			(start 4.47 -1.35)
@@ -1998,7 +1999,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "0d3542bb-200e-449f-8a46-2d1caae7b0ed")
+			(uuid "67dfaf4f-861e-4f8c-819e-f202d2045cf7")
 		)
 		(fp_line
 			(start 4.47 0)
@@ -2008,7 +2009,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "b73a3957-55b9-4311-971c-e1f7884d826c")
+			(uuid "b5669386-fec1-4a21-8afe-a77d271b8fa3")
 		)
 		(fp_poly
 			(pts
@@ -2023,7 +2024,7 @@
 			)
 			(fill yes)
 			(layer "F.Paste")
-			(uuid "aa6ea036-ea76-4442-8d41-ea868fd28f66")
+			(uuid "d9448e10-fd22-4bd8-b70f-fcacb7cff7a3")
 		)
 		(fp_poly
 			(pts
@@ -2038,7 +2039,7 @@
 			)
 			(fill yes)
 			(layer "F.Paste")
-			(uuid "b0f13889-fccd-4783-adb9-6a98e51cbe5a")
+			(uuid "ccff6c9e-0f09-4e6a-b661-a6c783882cd8")
 		)
 		(fp_poly
 			(pts
@@ -2053,7 +2054,7 @@
 			)
 			(fill yes)
 			(layer "F.Paste")
-			(uuid "134c7847-92ad-478e-8a9b-368d64eedf68")
+			(uuid "304e7eec-ba13-4ebf-9839-f842b58569ba")
 		)
 		(fp_poly
 			(pts
@@ -2068,7 +2069,18 @@
 			)
 			(fill yes)
 			(layer "F.Paste")
-			(uuid "70a562a5-7f9b-47da-9cb9-506ec362f334")
+			(uuid "5f3fa6a7-2e25-4ba7-83d8-3fbb4f5c3afa")
+		)
+		(fp_rect
+			(start -5.07 -8.18)
+			(end 5.07 0.25)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.CrtYd")
+			(uuid "7ccfe958-f42d-40dd-b1d6-76d0b27657e7")
 		)
 		(fp_line
 			(start -4.47 -7.35)
@@ -2078,7 +2090,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "14b130c7-d0d4-485e-8a99-8d65936edc38")
+			(uuid "7802b496-3934-417e-95b8-dc5be0d4329c")
 		)
 		(fp_line
 			(start -4.47 0)
@@ -2088,7 +2100,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "232869a3-2da2-4f3f-9905-c03a8c6dd654")
+			(uuid "83b3dca8-ebf0-4228-a02f-fd4cbcb3c2b0")
 		)
 		(fp_line
 			(start 3.53 -7.35)
@@ -2098,7 +2110,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "281176b8-9c64-4a13-aef4-a3228e78d044")
+			(uuid "1a831945-ad86-4d0d-940d-5cd01044cfa1")
 		)
 		(fp_line
 			(start 4.47 -7.35)
@@ -2108,7 +2120,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "37f773e1-c5ae-4828-bd7a-0496230579c6")
+			(uuid "58064355-4e69-4a2c-afdd-45e64fbd0670")
 		)
 		(fp_line
 			(start 4.47 0)
@@ -2118,21 +2130,21 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "74959f2c-ef32-4794-b8aa-aadcefc6db3f")
+			(uuid "8d2ff8f7-3120-4087-baf8-adf1f1f11538")
 		)
 		(pad "" np_thru_hole circle
 			(at -2.89 -6.28)
 			(size 0.65 0.65)
 			(drill 0.65)
 			(layers "*.Cu" "*.Mask")
-			(uuid "e2d399fa-e17f-4134-8a35-75ba555ba9fd")
+			(uuid "5930f764-5066-4f15-9b68-d987ad1fe92b")
 		)
 		(pad "" np_thru_hole circle
 			(at 2.89 -6.28)
 			(size 0.65 0.65)
 			(drill 0.65)
 			(layers "*.Cu" "*.Mask")
-			(uuid "ccd2f9fc-c0d0-4fa5-9bc0-c4fdcd7bf446")
+			(uuid "9dd1731b-a73f-4f0a-9384-4ec005139e71")
 		)
 		(pad "A1B12" smd rect
 			(at -3.2 -7.355)
@@ -2140,7 +2152,7 @@
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net "GND")
 			(thermal_bridge_angle 0)
-			(uuid "cf0a8cce-dc15-4c81-8c7a-2c73a66e76d2")
+			(uuid "cee466e7-8412-49e1-910f-b84640d18857")
 		)
 		(pad "A4B9" smd rect
 			(at -2.4 -7.355)
@@ -2148,7 +2160,7 @@
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net "/USB_ISP_Feather/VUSB")
 			(thermal_bridge_angle 0)
-			(uuid "79522b4f-2e89-4e5f-8ecc-403b70c268ad")
+			(uuid "13e40e71-c759-4157-8ba5-bd06d4910d48")
 		)
 		(pad "A5" smd rect
 			(at -1.25 -7.355)
@@ -2156,7 +2168,7 @@
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net "/USB_ISP_Feather/CC1")
 			(thermal_bridge_angle 0)
-			(uuid "41060719-8ee6-41ea-9625-3a4a810fd085")
+			(uuid "954e6620-9323-4001-b8ec-048e435f4823")
 		)
 		(pad "A6" smd rect
 			(at -0.25 -7.355)
@@ -2164,7 +2176,7 @@
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net "/USB_ISP_Feather/D+")
 			(thermal_bridge_angle 0)
-			(uuid "c00fea79-e0fb-430e-bcd6-862c59bd0c86")
+			(uuid "88430906-7d4c-4a44-afef-17544a43bedd")
 		)
 		(pad "A7" smd rect
 			(at 0.25 -7.355)
@@ -2172,7 +2184,7 @@
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net "/USB_ISP_Feather/D-")
 			(thermal_bridge_angle 0)
-			(uuid "08044d1f-47bf-4be4-a6fd-f27acee08e2c")
+			(uuid "ff1bf594-197c-42c3-a9b1-df3f7d40e00c")
 		)
 		(pad "A8" smd rect
 			(at 1.25 -7.355)
@@ -2180,7 +2192,7 @@
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net "unconnected-(J10-SBU1-PadA8)")
 			(thermal_bridge_angle 0)
-			(uuid "f5061c5b-261a-4d95-91df-4b375d1c0c1c")
+			(uuid "2955fa9e-7029-410d-932c-4d03625ae2e5")
 		)
 		(pad "B1A12" smd rect
 			(at 3.2 -7.355)
@@ -2188,7 +2200,7 @@
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net "GND")
 			(thermal_bridge_angle 0)
-			(uuid "d572ec28-cc74-4e36-bcb5-396c3fa0f433")
+			(uuid "5308c003-acc1-4686-b935-37d75435f613")
 		)
 		(pad "B4A9" smd rect
 			(at 2.4 -7.355)
@@ -2196,7 +2208,7 @@
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net "/USB_ISP_Feather/VUSB")
 			(thermal_bridge_angle 0)
-			(uuid "5354160b-984c-4b09-a471-17ede7a09b46")
+			(uuid "b4a275d2-b4ef-4841-a169-ce1e7d6e0757")
 		)
 		(pad "B5" smd rect
 			(at 1.75 -7.355)
@@ -2204,7 +2216,7 @@
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net "/USB_ISP_Feather/CC2")
 			(thermal_bridge_angle 0)
-			(uuid "668d5dee-6697-4fb2-9c0a-3d8a81f2021d")
+			(uuid "795fc77c-a99e-4700-b1ff-8a765fa3c9af")
 		)
 		(pad "B6" smd rect
 			(at 0.75 -7.355)
@@ -2212,7 +2224,7 @@
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net "/USB_ISP_Feather/D+")
 			(thermal_bridge_angle 0)
-			(uuid "c6c8fb11-f0ed-4181-be50-381b80e8da39")
+			(uuid "8a611948-2495-41a4-ac28-64cf81e473ad")
 		)
 		(pad "B7" smd rect
 			(at -0.75 -7.355)
@@ -2220,7 +2232,7 @@
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net "/USB_ISP_Feather/D-")
 			(thermal_bridge_angle 0)
-			(uuid "52a50f88-a916-4819-90cb-5da13c8cf5b1")
+			(uuid "0d451fc9-dc3c-4f5c-a44d-a2225703eb5e")
 		)
 		(pad "B8" smd rect
 			(at -1.75 -7.355)
@@ -2228,7 +2240,7 @@
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net "unconnected-(J10-SBU2-PadB8)")
 			(thermal_bridge_angle 0)
-			(uuid "2da148c5-f1ca-4e22-92fb-f9009ba537c0")
+			(uuid "2c827c13-ddc5-458e-bf7a-bf6ee342a4bc")
 		)
 		(pad "M1" thru_hole oval
 			(at -4.32 -6.78 90)
@@ -2237,7 +2249,7 @@
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(thermal_bridge_angle 0)
-			(uuid "de8e53dd-e15a-4923-80c5-8453275d2afd")
+			(uuid "3de36831-30ac-46b4-a260-30766ed6db5c")
 		)
 		(pad "M2" thru_hole oval
 			(at 4.32 -6.78 90)
@@ -2246,7 +2258,7 @@
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(thermal_bridge_angle 0)
-			(uuid "92b32216-7467-4f8e-896a-486dd1ad033e")
+			(uuid "f9fd5d17-e099-4c17-8637-d99425fe7cc1")
 		)
 		(pad "M3" thru_hole oval
 			(at -4.32 -2.6 90)
@@ -2255,7 +2267,7 @@
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(thermal_bridge_angle 0)
-			(uuid "5f1bc7d9-f18a-4bc9-a488-cc2ff7bce883")
+			(uuid "4f02ff3f-ce90-4574-878c-6f562744b2d1")
 		)
 		(pad "M4" thru_hole oval
 			(at 4.32 -2.6 90)
@@ -2264,7 +2276,7 @@
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(thermal_bridge_angle 0)
-			(uuid "f477aff6-77d4-4d18-85e8-5d46bf80e35a")
+			(uuid "ec50ba5b-f8db-4726-86ee-07b5301d1841")
 		)
 		(embedded_fonts no)
 	)
