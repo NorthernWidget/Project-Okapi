@@ -27300,7 +27300,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "BAT-HLD-012-SMT-ND"
+		(property "DIGIKEY" "BAT-HLD-012-SMTCT-ND"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -27324,7 +27324,7 @@
 				)
 			)
 		)
-		(property "MPN" "BAT-HLD-012-SMT"
+		(property "MPN" "BAT-HLD-012-SMT-TR"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)

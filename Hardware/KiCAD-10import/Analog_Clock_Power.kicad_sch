@@ -5621,7 +5621,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "BAT-HLD-012-SMT-ND"
+		(property "DIGIKEY" "BAT-HLD-012-SMTCT-ND"
 			(at 101.6 127 0)
 			(hide yes)
 			(show_name no)
@@ -5645,7 +5645,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MPN" "BAT-HLD-012-SMT"
+		(property "MPN" "BAT-HLD-012-SMT-TR"
 			(at 101.6 127 0)
 			(hide yes)
 			(show_name no)
