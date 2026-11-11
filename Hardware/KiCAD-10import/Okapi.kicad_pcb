@@ -28433,7 +28433,7 @@
 				)
 			)
 		)
-		(property "MF" "TI"
+		(property "MF" "Microchip"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)

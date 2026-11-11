@@ -2943,7 +2943,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MF" "TI"
+		(property "MF" "Microchip"
 			(at 46.99 60.96 0)
 			(hide yes)
 			(show_name no)
