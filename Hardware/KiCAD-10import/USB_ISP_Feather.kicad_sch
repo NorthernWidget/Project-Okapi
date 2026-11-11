@@ -2136,7 +2136,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "nw-cold-silicon:USB_C_CUSB31-CFM2AX-01-X"
+			(property "Footprint" "nw-cold-silicon:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2507,7 +2507,7 @@
 							)
 						)
 					)
-					(number "A1B12"
+					(number "A1"
 						(effects
 							(font
 								(size 0 0)
@@ -2525,7 +2525,7 @@
 							)
 						)
 					)
-					(number "A4B9"
+					(number "A4"
 						(effects
 							(font
 								(size 0 0)
@@ -2606,6 +2606,24 @@
 					)
 				)
 				(pin power_in line
+					(at 10.16 10.16 180)
+					(length 2.54)
+					(name "VBUS"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+					(number "A9"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+				(pin power_in line
 					(at 10.16 -10.16 180)
 					(length 2.54)
 					(name "GND"
@@ -2615,7 +2633,25 @@
 							)
 						)
 					)
-					(number "B1A12"
+					(number "A12"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 10.16 -10.16 180)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+					(number "B1"
 						(effects
 							(font
 								(size 0 0)
@@ -2633,7 +2669,7 @@
 							)
 						)
 					)
-					(number "B4A9"
+					(number "B4"
 						(effects
 							(font
 								(size 0 0)
@@ -2706,6 +2742,42 @@
 						)
 					)
 					(number "B8"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 10.16 10.16 180)
+					(length 2.54)
+					(name "VBUS"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+					(number "B9"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 10.16 -10.16 180)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+					(number "B12"
 						(effects
 							(font
 								(size 0 0)
@@ -5106,7 +5178,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "nw-cold-silicon:USB_C_CUSB31-CFM2AX-01-X"
+		(property "Footprint" "nw-cold-silicon:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal"
 			(at 24.13 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -5175,11 +5247,17 @@
 				(justify left bottom)
 			)
 		)
-		(pin "A1B12"
+		(pin "A1"
 			(uuid "9c09e21e-d16e-44b1-8b82-f81b66c1d1e3")
 		)
-		(pin "A4B9"
+		(pin "B12"
+			(uuid "fde201fa-e093-5c13-9c29-0a61431ead0e")
+		)
+		(pin "A4"
 			(uuid "6d78c3f0-46d2-45da-9a70-846bf6da1f12")
+		)
+		(pin "B9"
+			(uuid "2d71f038-0f8a-55eb-aa7e-4fe9f7e8db2d")
 		)
 		(pin "A5"
 			(uuid "480fae53-cd0d-4109-891b-57d3ffdd554a")
@@ -5193,11 +5271,17 @@
 		(pin "A8"
 			(uuid "ba6274bd-2ce8-4d5e-baed-178e91aa4221")
 		)
-		(pin "B1A12"
+		(pin "B1"
 			(uuid "a59cb171-f0f6-41ff-9d1b-d24c67a3b930")
 		)
-		(pin "B4A9"
+		(pin "A12"
+			(uuid "500340b6-cbd8-5b20-8e12-74def5bd3081")
+		)
+		(pin "B4"
 			(uuid "d14048d6-7265-49d9-9a8a-b76e732bdcf4")
+		)
+		(pin "A9"
+			(uuid "d374138a-a039-5307-9d58-52d8c0626b02")
 		)
 		(pin "B5"
 			(uuid "3ed16e6c-0f22-435e-97bb-bff1b2f8861d")
