@@ -2713,6 +2713,24 @@
 						)
 					)
 				)
+				(pin passive line
+					(at 0 -15.24 90)
+					(length 2.54)
+					(name "SHIELD"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+					(number "S1"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
 			)
 			(embedded_fonts no)
 		)
@@ -5210,6 +5228,79 @@
 		)
 		(pin "B8"
 			(uuid "0675b8f9-2f8d-4c65-a92e-344c1328a987")
+		)
+		(pin "S1"
+			(uuid "5c1aba70-4776-5acc-abec-d0f861ca5ed5")
+		)
+	)
+	(symbol
+		(lib_id "nw-cold-silicon:GND")
+		(at 24.13 82.55 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "63700f9e-a130-5edb-bd22-e22af73535fb")
+		(property "Reference" "#SUPPLY011"
+			(at 24.13 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 22.225 85.725 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 24.13 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 24.13 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 24.13 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "ae73a50d-17df-53a1-adf7-5645348f7bc3")
 		)
 	)
 	(symbol
