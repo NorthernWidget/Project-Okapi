@@ -97186,6 +97186,38 @@
 		)
 	)
 	(zone
+		(layer "B.Cu")
+		(uuid "59e531a4-e6f0-4c8f-a6aa-9c92450f352d")
+		(name "Eagle bRestrict under L2")
+		(hatch edge 0.5)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.25)
+		(keepout
+			(tracks not_allowed)
+			(vias not_allowed)
+			(pads not_allowed)
+			(copperpour not_allowed)
+			(footprints allowed)
+		)
+		(placement
+			(enabled no)
+			(sheetname "")
+		)
+		(fill
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 0)
+		)
+		(polygon
+			(pts
+				(xy 138.359099 143.6746) (xy 131.6121 143.6746) (xy 131.2391 144.0476) (xy 131.2391 151.4296) (xy 131.7391 151.9296)
+				(xy 138.2321 151.9296) (xy 138.6051 151.5566) (xy 138.6051 143.9206)
+			)
+		)
+	)
+	(zone
 		(net "GND")
 		(layer "B.Cu")
 		(uuid "dbdf56d0-6ad3-4589-acc8-103f33e94086")
@@ -97213,6 +97245,38 @@
 				(xy 168.281748 154.017373) (xy 168.124873 154.174248) (xy 168.090225 154.1886) (xy 166.396975 154.1886)
 				(xy 166.362327 154.174248) (xy 166.205452 154.017373) (xy 166.1911 153.982725) (xy 166.1911 149.876475)
 				(xy 166.205452 149.841827) (xy 166.489327 149.557952) (xy 166.523975 149.5436) (xy 167.963225 149.5436)
+			)
+		)
+	)
+	(zone
+		(layer "B.Cu")
+		(uuid "dd2a08d9-9937-4388-b072-a821737d8c76")
+		(name "Eagle bRestrict under XTAL1")
+		(hatch edge 0.5)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.25)
+		(keepout
+			(tracks not_allowed)
+			(vias not_allowed)
+			(pads not_allowed)
+			(copperpour not_allowed)
+			(footprints allowed)
+		)
+		(placement
+			(enabled no)
+			(sheetname "")
+		)
+		(fill
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 0)
+		)
+		(polygon
+			(pts
+				(xy 138.6051 103.1616) (xy 142.5421 103.1616) (xy 144.1931 104.8126) (xy 146.2251 104.8126) (xy 146.2251 106.0826)
+				(xy 143.9391 106.0826) (xy 141.5261 108.4956) (xy 138.6051 108.4956)
 			)
 		)
 	)
