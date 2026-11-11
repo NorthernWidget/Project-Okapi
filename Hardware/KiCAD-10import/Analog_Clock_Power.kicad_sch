@@ -5621,7 +5621,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" "BAT-HLD-012-SMTCT-ND"
+		(property "DIGIKEY" "BK-916-CT-ND"
 			(at 101.6 127 0)
 			(hide yes)
 			(show_name no)
@@ -5633,7 +5633,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MF" "Linx"
+		(property "MF" "MPD"
 			(at 101.6 127 0)
 			(hide yes)
 			(show_name no)
@@ -5645,7 +5645,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MPN" "BAT-HLD-012-SMT-TR"
+		(property "MPN" "BK-916-TR"
 			(at 101.6 127 0)
 			(hide yes)
 			(show_name no)
