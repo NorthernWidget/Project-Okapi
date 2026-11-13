@@ -373,7 +373,7 @@ A full index of the public variables and functions within the Okapi data logger 
 
 #### The 66-minute timer
 
-The telemetry module (a Boron on the FeatherWing socket, or a B-SoM on the M.2 socket) is not powered all the time. Its battery input comes through a load switch (U10) that a TPL5111 timer (U8) controls, and the timer runs on its own clock with an interval set by R20: 130 kΩ gives 66 minutes (3943 s by the TPL5111 datasheet's Equation 1; 3854 to 4033 s with a 1 % resistor). The 25 boards built from the 2024 Eagle files also carry JP8, which selects R62 (330 kΩ) instead. That value is above the part's 170 kΩ maximum and does nothing, and the KiCad board removes both (#34).
+The telemetry module (a Boron on the FeatherWing socket, or a B-SoM on the M.2 socket) is not powered all the time. Its battery input comes through a load switch (U10) that a TPL5111 timer (U8) controls, and the timer runs on its own clock with an interval set by R20: 130 kΩ gives 66 minutes (3943 s by the TPL5111 datasheet's Equation 1; 3854 to 4033 s with a 1 % resistor). The 2024 Eagle files also carry JP8, which selects R62 (330 kΩ) instead. That value is above the part's 170 kΩ maximum and does nothing, and the KiCad board removes both (#34).
 
 Three things happen on that interval:
 
