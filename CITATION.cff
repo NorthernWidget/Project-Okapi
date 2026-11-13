@@ -17,7 +17,6 @@ authors:
     affiliation: "Northern Widget LLC; University of Minnesota"
   - family-names: Wickert
     given-names: Karen
-type: hardware
 preferred-citation:
   type: generic
   title: "Project Okapi: Data logger with integrated solar charging and modular telemetry"
