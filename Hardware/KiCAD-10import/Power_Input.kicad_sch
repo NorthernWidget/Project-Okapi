@@ -4462,6 +4462,16 @@
 	)
 	(wire
 		(pts
+			(xy 125.73 125.73) (xy 146.05 125.73)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "0c7dd6f0-e386-41e2-ace4-7de9c22aceba")
+	)
+	(wire
+		(pts
 			(xy 107.95 110.49) (xy 107.95 115.57)
 		)
 		(stroke
@@ -4619,16 +4629,6 @@
 			(type solid)
 		)
 		(uuid "2715868a-282c-4f19-bdcd-cabbc64534da")
-	)
-	(wire
-		(pts
-			(xy 125.73 125.73) (xy 135.89 125.73)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2ab01d95-3f57-46e6-873d-ef9904ad927a")
 	)
 	(wire
 		(pts
@@ -9446,151 +9446,6 @@
 		)
 		(pin "2"
 			(uuid "4d7daea8-d35b-4ad2-8219-4982be1395e3")
-		)
-	)
-	(symbol
-		(lib_id "nw-cold-silicon:R-EU_R0805")
-		(at 140.97 125.73 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "bc0fb293-c850-47cb-8a06-b0397225c30a")
-		(property "Reference" "R88"
-			(at 135.89 121.92 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "50m"
-			(at 143.51 121.92 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "nw-cold-silicon:R0805"
-			(at 140.97 125.73 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 140.97 125.73 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 140.97 125.73 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "ALT_DIGIKEY" "2019-UR73V2ATTD50L0FCT-ND"
-			(at 140.97 125.73 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "ALT_MF" "KOA"
-			(at 140.97 125.73 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "ALT_MPN" "UR73V2ATTD50L0F"
-			(at 140.97 125.73 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "DIGIKEY" "P17581CT-ND"
-			(at 140.97 125.73 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "MF" "Panasonic"
-			(at 140.97 125.73 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "MPN" "ERJ-6BWFR050V"
-			(at 140.97 125.73 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(pin "1"
-			(uuid "01e80899-51b0-46f0-a32c-626e8796c218")
-		)
-		(pin "2"
-			(uuid "38b91170-d8ac-40c7-a01d-07e54d6b558d")
 		)
 	)
 	(symbol
