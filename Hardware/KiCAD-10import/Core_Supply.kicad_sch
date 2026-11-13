@@ -3225,7 +3225,7 @@
 						(type none)
 					)
 				)
-				(pin bidirectional line
+				(pin open_collector line
 					(at 15.24 -2.54 180)
 					(length 5.08)
 					(name "PG"

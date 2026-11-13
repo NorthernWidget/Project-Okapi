@@ -156,7 +156,7 @@
 						)
 					)
 				)
-				(pin bidirectional line
+				(pin open_collector line
 					(at -12.7 0 0)
 					(length 5.08)
 					(name "ALERT"
@@ -1039,7 +1039,7 @@
 						)
 					)
 				)
-				(pin output line
+				(pin open_collector line
 					(at -12.7 0 0)
 					(length 5.08)
 					(name "SQW"

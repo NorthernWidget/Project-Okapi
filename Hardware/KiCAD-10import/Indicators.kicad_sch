@@ -1634,7 +1634,7 @@
 						)
 					)
 				)
-				(pin bidirectional line
+				(pin input line
 					(at 15.24 -15.24 180)
 					(length 5.08)
 					(name "SCL"
@@ -1652,7 +1652,7 @@
 						)
 					)
 				)
-				(pin input line
+				(pin bidirectional line
 					(at 15.24 -12.7 180)
 					(length 5.08)
 					(name "SDA"

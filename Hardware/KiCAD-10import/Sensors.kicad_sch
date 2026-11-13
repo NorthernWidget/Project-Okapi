@@ -248,10 +248,10 @@
 						(type none)
 					)
 				)
-				(pin power_in line
+				(pin input line
 					(at -12.7 -5.08 0)
 					(length 5.08)
-					(name "GND"
+					(name "SDO"
 						(effects
 							(font
 								(size 1.524 1.524)
@@ -374,10 +374,10 @@
 						)
 					)
 				)
-				(pin power_in line
+				(pin input line
 					(at -12.7 5.08 0)
 					(length 5.08)
-					(name "VCC"
+					(name "CSB"
 						(effects
 							(font
 								(size 1.524 1.524)
@@ -1169,10 +1169,10 @@
 						)
 					)
 				)
-				(pin power_in line
+				(pin passive line
 					(at -17.78 -7.62 0)
 					(length 5.08)
-					(name "VSS"
+					(name "NC"
 						(effects
 							(font
 								(size 1.524 1.524)
@@ -1259,10 +1259,10 @@
 						)
 					)
 				)
-				(pin power_in line
+				(pin passive line
 					(at -17.78 -7.62 0)
 					(length 5.08)
-					(name "VSS"
+					(name "NC"
 						(effects
 							(font
 								(size 1.524 1.524)
@@ -1277,10 +1277,10 @@
 						)
 					)
 				)
-				(pin power_in line
+				(pin passive line
 					(at -17.78 -7.62 0)
 					(length 5.08)
-					(name "VSS"
+					(name "NC"
 						(effects
 							(font
 								(size 1.524 1.524)
@@ -1349,10 +1349,10 @@
 						)
 					)
 				)
-				(pin power_in line
+				(pin passive line
 					(at -17.78 -7.62 0)
 					(length 5.08)
-					(name "VSS"
+					(name "NC"
 						(effects
 							(font
 								(size 1.524 1.524)
@@ -1385,10 +1385,10 @@
 						)
 					)
 				)
-				(pin power_in line
+				(pin passive line
 					(at -17.78 -7.62 0)
 					(length 5.08)
-					(name "VSS"
+					(name "NC"
 						(effects
 							(font
 								(size 1.524 1.524)
