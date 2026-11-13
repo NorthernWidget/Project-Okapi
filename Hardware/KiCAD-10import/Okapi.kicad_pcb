@@ -122,7 +122,7 @@
 			(hidednponfab no)
 			(sketchdnponfab yes)
 			(crossoutdnponfab yes)
-			(subtractmaskfromsilk no)
+			(subtractmaskfromsilk yes)
 			(outputformat 1)
 			(mirror no)
 			(drillshape 1)
