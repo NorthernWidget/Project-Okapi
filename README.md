@@ -150,14 +150,19 @@ The Li-ion override button, which can be pressed with the tip of a pen or other 
 
 ### I2C
 
-| **Device**                                                        	| **Default address** 	| **Reprogrammable address** 	| **Function**                                                     	|
-|-------------------------------------------------------------------	|---------------------	|----------------------------	|------------------------------------------------------------------	|
-| [DS3231](https://github.com/NorthernWidget/DS3231_Logger)         	| 0x68                	| N                          	| Real-time clock                                                  	|
-| [MCP23018](https://github.com/NorthernWidget-Skunkworks/MCP23018) 	| 0x20                	| N                          	| I/O Expander                                                     	|
-| [ADS1115](https://github.com/adafruit/Adafruit_ADS1X15)           	| 0x48                	| N                          	| ADC (on-board devices)                                           	|
-| [ADS1115](https://github.com/adafruit/Adafruit_ADS1X15)           	| 0x49                	| N                          	| ADC (off-board devices)                                          	|
-| [MCP4725](https://github.com/NorthernWidget-Skunkworks/MCP4725)   	| 0x62                	| N                          	| DAC                                                              	|
-| [BME280](https://github.com/NorthernWidget/BME_Library)           	| 0x77                	| N                          	| On-board barometric pressure, temperature, and relative humidity 	|
+| **Device** | **Address** | **Reprogrammable address** | **Function** |
+|---|---|---|---|
+| MLX90393 | 0x0C | N | Magnetometer |
+| PAC1934 | 0x10 | N (R51) | Power monitor on the V_LI, V_PRIME, V_BETA and V_SOLAR_IN rails |
+| BMA456 | 0x18 | N | Accelerometer |
+| [MCP23018](https://github.com/NorthernWidget-Skunkworks/MCP23018) | 0x20 | N | I/O Expander |
+| VEML6030 | 0x48 | N | Ambient light |
+| [ADS1115](https://github.com/adafruit/Adafruit_ADS1X15) | 0x49 | N | ADC (sensor port), on the 5 V bus segment |
+| MB85RC512T | 0x50 | N | FRAM |
+| PCA9634 | 0x52 (also 0x03 and 0x70) | N | LED driver |
+| MCP4726A2 | 0x62 | N | DAC, on the 5 V bus segment |
+| [DS3231M](https://github.com/NorthernWidget/DS3231_Logger) | 0x68 | N | Real-time clock |
+| [BME280](https://github.com/NorthernWidget/BME_Library) | 0x77 | N | On-board barometric pressure, temperature, and relative humidity |
 
 ### SPI
 
