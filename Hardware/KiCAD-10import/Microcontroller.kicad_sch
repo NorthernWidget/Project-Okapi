@@ -1895,17 +1895,6 @@
 		)
 		(uuid "05397824-9e6b-4af0-9084-200c1f530a3a")
 	)
-	(text "#54: C0/C1 pull-downs"
-		(exclude_from_sim no)
-		(at 114.3 158.75 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "0b6b2f37-dc99-4cc1-99fb-278f9a437b35")
-	)
 	(text "Pin 4"
 		(exclude_from_sim no)
 		(at 161.29 71.12 0)
@@ -2648,16 +2637,6 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 152.4) (xy 96.52 149.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5688f22e-ec55-4517-adf4-21489e094a45")
-	)
-	(wire
-		(pts
 			(xy 44.45 66.04) (xy 44.45 60.96)
 		)
 		(stroke
@@ -2685,16 +2664,6 @@
 			(type solid)
 		)
 		(uuid "5add5da4-aa19-4012-b326-5130d010fc53")
-	)
-	(wire
-		(pts
-			(xy 106.68 162.56) (xy 106.68 165.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5dedb0d0-a57b-43cb-a019-fb5ad05fc2d5")
 	)
 	(wire
 		(pts
@@ -2928,16 +2897,6 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 152.4) (xy 106.68 149.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a75ebe8c-3392-4c44-9415-3b7fc7070c19")
-	)
-	(wire
-		(pts
 			(xy 59.69 53.34) (xy 82.55 53.34)
 		)
 		(stroke
@@ -3105,16 +3064,6 @@
 			(type solid)
 		)
 		(uuid "f21091f7-05b6-48e8-9884-04ac8faed861")
-	)
-	(wire
-		(pts
-			(xy 96.52 162.56) (xy 96.52 165.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f263548d-d719-408d-beee-9fce6c57d70d")
 	)
 	(wire
 		(pts
@@ -3532,30 +3481,6 @@
 			)
 		)
 	)
-	(global_label "C0"
-		(shape bidirectional)
-		(at 96.52 149.86 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "404d3e65-ca99-45ec-bae0-d193711f3845")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 94.5991 152.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
 	(global_label "SDA_CTRL"
 		(shape bidirectional)
 		(at 140.97 91.44 0)
@@ -3857,30 +3782,6 @@
 		(uuid "89246d21-79f0-45fb-b3f3-543b5d257341")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 147.1178 124.46 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "C1"
-		(shape bidirectional)
-		(at 106.68 149.86 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "8d6e887f-b1e9-4e43-8364-7c13ea1b668b")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 104.7591 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4200,76 +4101,6 @@
 		)
 		(pin "1"
 			(uuid "3094d3e4-6cba-4609-b541-fd034affe237")
-		)
-	)
-	(symbol
-		(lib_id "nw-cold-silicon:GND")
-		(at 96.52 167.64 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "107c178e-cada-45d5-a7c0-fc6630519953")
-		(property "Reference" "#GND110"
-			(at 96.52 167.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 96.52 167.894 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify top)
-			)
-		)
-		(property "Footprint" ""
-			(at 96.52 167.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 96.52 167.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 96.52 167.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "66dff045-71cb-41f4-96a4-41a26c5f6bd0")
 		)
 	)
 	(symbol
@@ -5530,151 +5361,6 @@
 		)
 	)
 	(symbol
-		(lib_id "nw-cold-silicon:R-EU_R0402")
-		(at 96.52 157.48 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "b799b968-a427-45a5-befe-cd6aabc94105")
-		(property "Reference" "R92"
-			(at 95.0214 161.29 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "100k"
-			(at 99.822 161.29 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "nw-cold-silicon:R0402"
-			(at 96.52 157.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 96.52 157.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 96.52 157.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "ALT_DIGIKEY" "P100KLCT-ND"
-			(at 96.52 157.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "ALT_MF" "Panasonic"
-			(at 96.52 157.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "ALT_MPN" "ERJ-2RKF1003X"
-			(at 96.52 157.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "DIGIKEY" "311-100KLRCT-ND"
-			(at 96.52 157.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "MF" "Yageo"
-			(at 96.52 157.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "MPN" "RC0402FR-07100KL"
-			(at 96.52 157.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(pin "1"
-			(uuid "fe145d22-16fb-456b-9938-156a349a85a2")
-		)
-		(pin "2"
-			(uuid "a55b7c84-050c-4a3d-b24b-8c446f48d921")
-		)
-	)
-	(symbol
 		(lib_id "nw-cold-silicon:C-EUC0402")
 		(at 77.47 78.74 0)
 		(unit 1)
@@ -5893,76 +5579,6 @@
 		)
 	)
 	(symbol
-		(lib_id "nw-cold-silicon:GND")
-		(at 106.68 167.64 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "d2c1ef41-839a-4aa2-bad8-7bfeb3fbb0b1")
-		(property "Reference" "#GND111"
-			(at 106.68 167.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 106.68 167.894 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify top)
-			)
-		)
-		(property "Footprint" ""
-			(at 106.68 167.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 106.68 167.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 106.68 167.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "b5bcdc48-c224-42b2-b427-651214fc147a")
-		)
-	)
-	(symbol
 		(lib_id "nw-cold-silicon:C-EUC0402")
 		(at 60.96 152.4 0)
 		(unit 1)
@@ -6069,151 +5685,6 @@
 		)
 		(pin "2"
 			(uuid "04e0249b-a5c8-4879-bd17-87a76bf1fb74")
-		)
-	)
-	(symbol
-		(lib_id "nw-cold-silicon:R-EU_R0402")
-		(at 106.68 157.48 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "ed3b9e2c-9738-441b-a484-09d9c8ea9438")
-		(property "Reference" "R93"
-			(at 105.1814 161.29 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "100k"
-			(at 109.982 161.29 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "nw-cold-silicon:R0402"
-			(at 106.68 157.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 106.68 157.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 106.68 157.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "ALT_DIGIKEY" "P100KLCT-ND"
-			(at 106.68 157.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "ALT_MF" "Panasonic"
-			(at 106.68 157.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "ALT_MPN" "ERJ-2RKF1003X"
-			(at 106.68 157.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "DIGIKEY" "311-100KLRCT-ND"
-			(at 106.68 157.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "MF" "Yageo"
-			(at 106.68 157.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "MPN" "RC0402FR-07100KL"
-			(at 106.68 157.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(pin "1"
-			(uuid "ef95f927-920e-4077-86a3-c5548791bfd2")
-		)
-		(pin "2"
-			(uuid "143c5b22-5d16-4111-b244-d48f5bd9d3ce")
 		)
 	)
 	(symbol
