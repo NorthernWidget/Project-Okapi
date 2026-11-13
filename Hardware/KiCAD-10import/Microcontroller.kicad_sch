@@ -3969,9 +3969,8 @@
 				(justify bottom)
 			)
 		)
-		(property "Value" "CRYSTAL8MHZ5X3.2"
-			(at 59.182 60.96 0)
-			(hide yes)
+		(property "Value" "8 MHz"
+			(at 62.23 66.04 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects

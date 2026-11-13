@@ -4588,7 +4588,7 @@
 				)
 			)
 		)
-		(property "Value" "CRYSTAL8MHZ5X3.2"
+		(property "Value" "8 MHz"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
