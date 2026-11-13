@@ -66056,10 +66056,22 @@
 			(justify mirror)
 		)
 	)
-	(gr_text "Open: 800 mA limit\nClosed: 400 mA limit"
-		(at 126.9211 106.9716 -0)
+	(gr_text "Open: 800 mA limit"
+		(at 126.9211 106.362 -0)
 		(layer "B.SilkS")
-		(uuid "d80d1e96-bba9-4fad-9953-3bf44ea7ea30")
+		(uuid "8e2dd1fb-4271-554c-a154-5a1fab172f38")
+		(effects
+			(font
+				(size 0.69088 0.69088)
+				(thickness 0.12192)
+			)
+			(justify mirror)
+		)
+	)
+	(gr_text "Closed: 400 mA limit"
+		(at 126.9211 107.5812 -0)
+		(layer "B.SilkS")
+		(uuid "bfec6822-0ccd-5998-a299-cc4f0c3b504d")
 		(effects
 			(font
 				(size 0.69088 0.69088)
@@ -66128,10 +66140,22 @@
 			(justify mirror)
 		)
 	)
-	(gr_text "Open: 800 mA limit\nClosed: 400 mA limit"
-		(at 163.4971 133.8956 -0)
+	(gr_text "Open: 800 mA limit"
+		(at 163.4971 133.286 -0)
 		(layer "B.SilkS")
-		(uuid "2600f214-2827-4680-b599-1df8436aabb5")
+		(uuid "b60e1cb7-d6dd-5b52-a816-2783c6eaf3d5")
+		(effects
+			(font
+				(size 0.69088 0.69088)
+				(thickness 0.12192)
+			)
+			(justify mirror)
+		)
+	)
+	(gr_text "Closed: 400 mA limit"
+		(at 163.4971 134.5052 -0)
+		(layer "B.SilkS")
+		(uuid "555e0885-2925-5d8c-8378-4d7ed96da886")
 		(effects
 			(font
 				(size 0.69088 0.69088)
@@ -66392,10 +66416,58 @@
 			(justify mirror)
 		)
 	)
-	(gr_text "Project Okapi v1.0\n----------------\nDeveloped by \nNorthern Widget and \nUniversity of Minnesota"
+	(gr_text "Project Okapi v1.0"
+		(at 178.3561 106.4636 -0)
+		(layer "B.SilkS")
+		(uuid "76e07bf4-61f6-51cf-96a0-3f23c0cfbbc9")
+		(effects
+			(font
+				(size 1.0795 1.0795)
+				(thickness 0.1905)
+			)
+			(justify left mirror)
+		)
+	)
+	(gr_text "----------------"
+		(at 178.3561 108.3686 -0)
+		(layer "B.SilkS")
+		(uuid "26e1780b-03be-52cd-857c-1e4e1e56f479")
+		(effects
+			(font
+				(size 1.0795 1.0795)
+				(thickness 0.1905)
+			)
+			(justify left mirror)
+		)
+	)
+	(gr_text "Developed by "
 		(at 178.3561 110.2736 -0)
 		(layer "B.SilkS")
-		(uuid "af14a7f2-6871-4c5c-aea8-e93ace5400c5")
+		(uuid "d0147297-94e3-56a4-a669-fb77744f3f07")
+		(effects
+			(font
+				(size 1.0795 1.0795)
+				(thickness 0.1905)
+			)
+			(justify left mirror)
+		)
+	)
+	(gr_text "Northern Widget and "
+		(at 178.3561 112.1786 -0)
+		(layer "B.SilkS")
+		(uuid "11ff0ff2-9675-5e6a-9f3e-0f0f077731b6")
+		(effects
+			(font
+				(size 1.0795 1.0795)
+				(thickness 0.1905)
+			)
+			(justify left mirror)
+		)
+	)
+	(gr_text "University of Minnesota"
+		(at 178.3561 114.0836 -0)
+		(layer "B.SilkS")
+		(uuid "c85cd0c8-5515-5473-8959-545eb19224c6")
 		(effects
 			(font
 				(size 1.0795 1.0795)
