@@ -1,4 +1,4 @@
 (sym_lib_table
 	(version 7)
-	(lib (name "nw-cold-silicon")(type "KiCad")(uri "${KIPRJMOD}/../../../nw-cold-silicon/nw-cold-silicon.kicad_sym")(options "")(descr ""))
+	(lib (name "nw-cold-silicon")(type "KiCad")(uri "${KIPRJMOD}/../../../NW-Cold-Silicon/nw-cold-silicon.kicad_sym")(options "")(descr ""))
 )

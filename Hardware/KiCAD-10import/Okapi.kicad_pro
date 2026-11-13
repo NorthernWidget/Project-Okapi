@@ -529,7 +529,7 @@
       "specctra_dsn": "",
       "vrml": ""
     },
-    "page_layout_descr_file": "${KIPRJMOD}/../../../nw-cold-silicon/nw-cold-silicon.kicad_wks"
+    "page_layout_descr_file": "${KIPRJMOD}/../../../NW-Cold-Silicon/nw-cold-silicon.kicad_wks"
   },
   "schematic": {
     "annotate_start_num": 0,
@@ -637,7 +637,7 @@
     "meta": {
       "version": 1
     },
-    "page_layout_descr_file": "${KIPRJMOD}/../../../nw-cold-silicon/nw-cold-silicon.kicad_wks",
+    "page_layout_descr_file": "${KIPRJMOD}/../../../NW-Cold-Silicon/nw-cold-silicon.kicad_wks",
     "plot_directory": "",
     "reuse_designators": true,
     "subpart_first_id": 65,
