@@ -5264,7 +5264,6 @@
 		)
 		(property "Value" "10k"
 			(at 88.392 140.97 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects

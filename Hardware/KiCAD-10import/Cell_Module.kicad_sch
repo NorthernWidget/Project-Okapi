@@ -7952,7 +7952,6 @@
 		)
 		(property "Value" "10k"
 			(at 228.092 160.02 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8864,7 +8863,6 @@
 		)
 		(property "Value" "10k"
 			(at 228.092 139.7 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects

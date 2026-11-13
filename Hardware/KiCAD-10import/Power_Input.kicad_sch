@@ -6419,7 +6419,6 @@
 		)
 		(property "Value" "20m"
 			(at 217.17 61.722 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9182,8 +9181,7 @@
 			)
 		)
 		(property "Value" "50m"
-			(at 41.91 119.38 0)
-			(hide yes)
+			(at 36.83 119.38 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9947,7 +9945,6 @@
 		)
 		(property "Value" "20m"
 			(at 102.87 46.482 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects

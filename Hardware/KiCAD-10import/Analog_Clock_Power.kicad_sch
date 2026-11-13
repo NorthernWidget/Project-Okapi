@@ -4728,7 +4728,6 @@
 		)
 		(property "Value" "0"
 			(at 153.67 60.96 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
