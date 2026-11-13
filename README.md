@@ -178,6 +178,8 @@ Assembling this data logger is possible by hand with sufficient skill and the fo
 
 Mechanized assembly by a professional circuit-board assembly house, which is available in many parts of the world, may be preferred due to the complexity of this data logger board.
 
+**Do not build v0.7.0.** It is the 2024 design converted to KiCad, and the 2024 design's solar charger has no current-sense resistor: the LT3652's SENSE and BAT pins share one net, so it would charge the LiPo at its switch's current limit and never end the charge ([#32](https://github.com/NorthernWidget/Project-Okapi/issues/32)). v0.8.0 adds the resistor. The v0.7.0 files are the reference for that work.
+
 The files for an assembly house are in `Production/`: the Gerbers, drill files and pick-and-place in `Okapi_0v7_2026-11-13.zip`, and the parts list in `Okapi_BoM_0v7_2026-11-13.csv`. `Production/make_production.sh` builds them from the KiCad design in `Hardware/KiCAD-10import/`. The KiCad board is the 2024 Eagle board (`Hardware/Okapi.brd`) converted, and its copper, drills and placement match the 2024 fabrication files in `Hardware/Okapi_2024-11-02/` except where a recorded change differs (JP8 and R62 removed, smaller lands under R1, R5, R7, R8, C1 and C22, dual lands for R22, R48 and R69–R71, slots for the micro-USB shell, and the USB-C shell's slots and its link to ground).
 
 >> THOUGHT: I have basic instructions for assembly on the [Project Walrus](https://github.com/NorthernWidget-Skunkworks/Project-TPDH-Walrus) README; I will not reproduce these here just yet, as we might want to set up a separate assembly guide, mostly with good links to existing resources, since our writing something of this nature would be to reinvent the wheel.
