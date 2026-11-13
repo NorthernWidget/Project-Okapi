@@ -66128,7 +66128,7 @@
 			(justify mirror)
 		)
 	)
-	(gr_text "4.95~~32v"
+	(gr_text "4.95~32v"
 		(at 154.2261 164.7566 -0)
 		(layer "B.SilkS")
 		(uuid "a8444eb8-57f1-4bb4-833e-040934fed3d3")
@@ -66188,7 +66188,7 @@
 			(justify mirror)
 		)
 	)
-	(gr_text "2.6~~4.475v"
+	(gr_text "2.6~4.475v"
 		(at 167.4341 164.7566 -0)
 		(layer "B.SilkS")
 		(uuid "3c225704-05ee-41a1-becb-f17d8a10031c")
@@ -66212,7 +66212,7 @@
 			(justify mirror)
 		)
 	)
-	(gr_text "3.3~~5.5v"
+	(gr_text "3.3~5.5v"
 		(at 177.2131 164.7566 -0)
 		(layer "B.SilkS")
 		(uuid "c19aa1ee-e527-4b38-be80-bf0c4fdb00ec")
