@@ -105,4 +105,4 @@
 "U44","VEML6030","nw-cold-silicon:VEML6030","1","Vishay","VEML6030-GS15","VEML6030-GS15CT-ND","","","",""
 "U45","PCA9634QFN","nw-cold-silicon:QFN20_5X5","1","NXP","PCA9634BS,118","568-8717-1-ND","","","",""
 "USB2","USB_MICROVERT","nw-cold-silicon:USB_MICRO_VERT_MOLEX","1","Molex","1051330001","WM9734CT-ND","","","",""
-"XTAL1","CRYSTAL8MHZ5X3.2","nw-cold-silicon:CRYSTAL_5X3.2_2-SMD","1","ECS","ECS-80-12-30-JGN-TR","50-ECS-80-12-30-JGN-CT-ND","","","",""
+"XTAL1","8 MHz","nw-cold-silicon:CRYSTAL_5X3.2_2-SMD","1","ECS","ECS-80-12-30-JGN-TR","50-ECS-80-12-30-JGN-CT-ND","","","",""
