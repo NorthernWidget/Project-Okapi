@@ -25261,7 +25261,7 @@
 		(at 171.6251 157.5176 180)
 		(descr "RESISTOR")
 		(property "Reference" "R14"
-			(at 1.397 0 0)
+			(at -3.175 0 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "710a46e2-1eb2-41e1-901f-3b08381a6af0")
@@ -37265,7 +37265,7 @@
 		(at 171.6251 158.6606 180)
 		(descr "RESISTOR")
 		(property "Reference" "R12"
-			(at 1.397 0 0)
+			(at -3.175 0 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "1f78297d-ccc0-4ef0-a500-6d592e205f98")
@@ -56909,7 +56909,7 @@
 		(at 171.6251 159.8036)
 		(descr "CAPACITOR")
 		(property "Reference" "C12"
-			(at -1.397 0 0)
+			(at 3.175 0 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "c49ef371-014c-4d2a-b252-3f84c1d60e7a")
