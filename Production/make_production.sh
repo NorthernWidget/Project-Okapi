@@ -11,7 +11,7 @@ TAG=$1; DATE=$2; [ -n "$TAG" ] && [ -n "$DATE" ] || { echo "usage: $0 <tag> <dat
 K=Hardware/KiCAD-10import
 W=$(mktemp -d); trap 'rm -rf "$W"' EXIT
 kicad-cli pcb drc --severity-error -o "$W/drc.rpt" --exit-code-violations $K/Okapi.kicad_pcb
-kicad-cli pcb export gerbers -l F.Cu,B.Cu,F.Paste,B.Paste,F.SilkS,B.SilkS,F.Mask,B.Mask,Edge.Cuts -o "$W/Okapi_$TAG/" $K/Okapi.kicad_pcb
+kicad-cli pcb export gerbers --subtract-soldermask -l F.Cu,B.Cu,F.Paste,B.Paste,F.SilkS,B.SilkS,F.Mask,B.Mask,Edge.Cuts -o "$W/Okapi_$TAG/" $K/Okapi.kicad_pcb
 kicad-cli pcb export drill --excellon-separate-th --format excellon -u mm -o "$W/Okapi_$TAG/" $K/Okapi.kicad_pcb
 python3 Production/tools/okapi_pos.py $K/Okapi.kicad_pcb "$W/Okapi_$TAG"   # Eagle's convention: SMD-pad center, any part with an SMD pad
 rm -f "Production/Okapi_${TAG}_$DATE.zip"
