@@ -71,7 +71,7 @@ The Okapi, a relative of the giraffe, communicates over long distances using [in
 * User interface
   * “Log” button: instantaneous reading (for testing)
   * “Reset” button
-  * 2x 3-color indicator LEDs
+  * 2x 3-color indicator LEDs for the logger, a 3-color LED for the B-series module, and eight single LEDs on a PCA9634 LED driver
   * Computer readout via a serial monitor, included in the Arduino software
 * Open-source licensing via CC BY-SA 4.0
 
