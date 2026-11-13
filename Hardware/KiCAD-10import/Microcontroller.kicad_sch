@@ -2128,17 +2128,6 @@
 		)
 		(uuid "91d2b082-f9ce-46ea-b594-ee13eda2b363")
 	)
-	(text "#17: one 100 nF per VCC/GND pair, each beside its pins:\nC59 at 5/6, C60 at 17/18, C61 at 38/39"
-		(exclude_from_sim no)
-		(at 45.72 172.72 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "9cda6206-3a54-41ac-a9c8-a1b9de1f22aa")
-	)
 	(text "Pin 8"
 		(exclude_from_sim no)
 		(at 161.29 127 0)
@@ -2318,12 +2307,6 @@
 		(uuid "09e5ea81-6c02-402e-b4f0-4c97bc602563")
 	)
 	(junction
-		(at 50.8 149.86)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "31b1edc2-20c1-4f59-85bc-db2c2960c09c")
-	)
-	(junction
 		(at 82.55 121.92)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2334,12 +2317,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4cbf1ca8-7a31-4072-a852-eb4708a30a49")
-	)
-	(junction
-		(at 60.96 149.86)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4dd10b1a-79b5-4b93-a0cc-e24a1bcaaae9")
 	)
 	(junction
 		(at 57.15 63.5)
@@ -2384,12 +2361,6 @@
 		(uuid "c0c7eb5a-27be-4432-a134-bb790d3716ac")
 	)
 	(junction
-		(at 60.96 157.48)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d522cada-b648-4c8b-a570-3095677f74b8")
-	)
-	(junction
 		(at 82.55 119.38)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2404,16 +2375,6 @@
 			(type solid)
 		)
 		(uuid "0008550b-3a17-4fc7-9d2e-d3aeb7c04d6e")
-	)
-	(wire
-		(pts
-			(xy 60.96 157.48) (xy 71.12 157.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0e1787f9-4c3b-4778-83c2-a9911c572aae")
 	)
 	(wire
 		(pts
@@ -2577,16 +2538,6 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 157.48) (xy 60.96 157.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3b3de53e-110b-4105-84e4-bbf6cf50e274")
-	)
-	(wire
-		(pts
 			(xy 135.89 45.72) (xy 140.97 45.72)
 		)
 		(stroke
@@ -2727,16 +2678,6 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 157.48) (xy 60.96 160.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6dbb2110-4b32-4b2f-89e0-6394fe0df40e")
-	)
-	(wire
-		(pts
 			(xy 135.89 48.26) (xy 140.97 48.26)
 		)
 		(stroke
@@ -2754,16 +2695,6 @@
 			(type solid)
 		)
 		(uuid "73c386bb-3224-4eb5-9e80-878fec562bb6")
-	)
-	(wire
-		(pts
-			(xy 50.8 149.86) (xy 60.96 149.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7691fd3e-9678-4737-8d78-a7797cd8ce25")
 	)
 	(wire
 		(pts
@@ -2854,16 +2785,6 @@
 			(type solid)
 		)
 		(uuid "9951d0d2-c716-4505-98b4-909a578ea706")
-	)
-	(wire
-		(pts
-			(xy 60.96 149.86) (xy 71.12 149.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9a2c9c47-80ca-4de4-97d6-38e56b30699a")
 	)
 	(wire
 		(pts
@@ -2974,16 +2895,6 @@
 			(type solid)
 		)
 		(uuid "cd2eb798-7157-433a-a6bb-863466e76a8f")
-	)
-	(wire
-		(pts
-			(xy 48.26 149.86) (xy 50.8 149.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d101efa5-9c53-4f8a-95a1-f21783d75d2b")
 	)
 	(wire
 		(pts
@@ -3214,30 +3125,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-			)
-		)
-	)
-	(global_label "3V3_CORE"
-		(shape bidirectional)
-		(at 48.26 149.86 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "165f3fec-c6b8-4d8a-b04a-ef71eb71f9e1")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 42.1707 149.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 			)
 		)
 	)
@@ -4718,115 +4605,6 @@
 		)
 	)
 	(symbol
-		(lib_id "nw-cold-silicon:C-EUC0402")
-		(at 50.8 152.4 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "9ef25457-5b4b-4ecf-bf09-c90bf157514d")
-		(property "Reference" "C59"
-			(at 52.324 152.019 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "0.1uF"
-			(at 52.324 157.099 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "nw-cold-silicon:C0402"
-			(at 50.8 152.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 50.8 152.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 50.8 152.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "DIGIKEY" "490-4759-1-ND"
-			(at 50.8 152.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "MF" "Murata"
-			(at 50.8 152.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "MPN" "GCM155R71C104KA55D"
-			(at 50.8 152.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(pin "1"
-			(uuid "cbdb3d08-37f1-41bb-8316-2efc0bb191f2")
-		)
-		(pin "2"
-			(uuid "8f7bd7c1-0d08-4e82-85f8-414e778d6970")
-		)
-	)
-	(symbol
 		(lib_id "nw-cold-silicon:BUTTON4.2X3.2")
 		(at 36.83 53.34 0)
 		(unit 1)
@@ -4941,115 +4719,6 @@
 		)
 		(pin "4"
 			(uuid "df5489c2-affe-4a04-a125-347b915f1dab")
-		)
-	)
-	(symbol
-		(lib_id "nw-cold-silicon:C-EUC0402")
-		(at 71.12 152.4 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "ad1edb31-bf83-4573-89f8-ed45918a1f20")
-		(property "Reference" "C61"
-			(at 72.644 152.019 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "0.1uF"
-			(at 72.644 157.099 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "nw-cold-silicon:C0402"
-			(at 71.12 152.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 71.12 152.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 71.12 152.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "DIGIKEY" "490-4759-1-ND"
-			(at 71.12 152.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "MF" "Murata"
-			(at 71.12 152.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "MPN" "GCM155R71C104KA55D"
-			(at 71.12 152.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(pin "1"
-			(uuid "302a0c2a-7955-4a54-bfe3-6896b146d621")
-		)
-		(pin "2"
-			(uuid "d4f4bbad-c0f7-4f2a-a331-6a7cd25f647f")
 		)
 	)
 	(symbol
@@ -5579,115 +5248,6 @@
 		)
 	)
 	(symbol
-		(lib_id "nw-cold-silicon:C-EUC0402")
-		(at 60.96 152.4 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "dcc2d4e2-5abf-4bab-9cc0-91bc16860c0e")
-		(property "Reference" "C60"
-			(at 62.484 152.019 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "0.1uF"
-			(at 62.484 157.099 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "nw-cold-silicon:C0402"
-			(at 60.96 152.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 60.96 152.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 60.96 152.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "DIGIKEY" "490-4759-1-ND"
-			(at 60.96 152.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "MF" "Murata"
-			(at 60.96 152.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "MPN" "GCM155R71C104KA55D"
-			(at 60.96 152.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(pin "1"
-			(uuid "b8f334ed-bab1-44aa-b2ca-111cd4eeacd6")
-		)
-		(pin "2"
-			(uuid "04e0249b-a5c8-4879-bd17-87a76bf1fb74")
-		)
-	)
-	(symbol
 		(lib_id "nw-cold-silicon:GND")
 		(at 31.75 63.5 0)
 		(unit 1)
@@ -5755,76 +5315,6 @@
 		)
 		(pin "1"
 			(uuid "50ae0498-edc5-4512-b40d-c7832e622d9c")
-		)
-	)
-	(symbol
-		(lib_id "nw-cold-silicon:GND")
-		(at 60.96 162.56 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "fc75e375-8c8e-4915-aaf3-3c8cb6843d80")
-		(property "Reference" "#GND107"
-			(at 60.96 162.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 60.96 162.814 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify top)
-			)
-		)
-		(property "Footprint" ""
-			(at 60.96 162.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 60.96 162.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 60.96 162.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "b808ec11-7c4a-48f1-9955-b8b887738585")
 		)
 	)
 	(symbol
