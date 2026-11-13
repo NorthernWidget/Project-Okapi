@@ -5,7 +5,7 @@
 
 ***Okapi data logger (Resnik v0.4.0), with a micro-SD card for local storage and a Particle Boron telemetry module.***
 
-The **Okapi** data logger responds to the need for a robust, flexible, and power-efficient open-source option to record and transmit data from remote locations. It is programmable using the open-source standard Arduino framework via a standard micro-USB cable and supports a wide range of sensor input/output options. It connects to dual power supplies to ensure consistent recordings, and interfaces with a range of “Feather”-form-factor boards for telemetry.
+The **Okapi** data logger responds to the need for a robust, flexible, and power-efficient open-source option to record and transmit data from remote locations. It is programmable using the open-source standard Arduino framework via a standard USB-C cable and supports a wide range of sensor input/output options. It connects to dual power supplies to ensure consistent recordings, and interfaces with a range of “Feather”-form-factor boards for telemetry.
 
 ## Namesake
 
@@ -102,10 +102,11 @@ The Okapi, a relative of the giraffe, communicates over long distances using [in
 * Analog adjustable voltage output: salmon
 
 **The power and programming connectors at the "south" end of the board are as follows:**
-* Micro-USB connector
-  * The same connector as many Android and other mobile phones at the time of writing; may be programmed using any USB cable for these that is not charging-only (i.e. that can carry data)
+* USB-C connector (J10), to the logger's USB-serial converter (FT231X)
+  * May be programmed using any USB-C cable that is not charging-only (i.e. that can carry data)
   * Can be used with our [clock-setting program](https://github.com/NorthernWidget/SetTime_GUI) to set the time on the real-time clock.
   * Provides power to the data logger while it is connected; this power source is isolated from the batteries and solar panel, and therefore may be plugged in safely at any time.
+* Micro-USB connector (USB2), wired to the USB port of the B-series SoM on the M.2 socket, for that module rather than the logger
 * Solar panel, 4.95--16 V open-circuit. A wide range of panels can work with this. The charger accepts up to 32 V, but the v0.7.0 board's input capacitor (C10) is rated 16 V; [#44](https://github.com/NorthernWidget/Project-Okapi/issues/44) brings the full range in v0.8.0.
 * Li-Ion battery, 2.60--4.475 V. This works with standard 18650 Li-ion batteries. It can work well with just a single battery, but if more storage is required, multiple 18650 batteries may be connected in parallel; we have a circuit-board design to do this: https://github.com/NorthernWidget/LiIon-18650-Parallel. ***CAUTION***: most commercially available multiple-18650-battery holders connect them in series; this voltage is ***TOO HIGH*** for the data logger.
 * Primary batteries. This is ideally a pack of 3 primary (i.e., not reusable) Alkaline (or better) AA batteries with a long shelf life. The Okapi data logger will switch to these if its rechargeable power supply shuts down. The internal electronics reduce the quiescent power consumption while under backup power (see the above list of [electronic hardware technical specifications](#electronic-hardware)) and inform the logger about which power supply is being used, allowing it to, for example, reduce or temporarily terminate data transmission.
@@ -206,7 +207,7 @@ To upload the bootloader, do the following:
 
 1. Open the Arduino IDE. If you have not yet installed the Northern Widget board definitions, find and install them here (instructions provided): https://github.com/NorthernWidget/Arduino_Boards
 2. Select the desired board -- most likely ***ATMega1284p 8MHz*** under *Northern Widget Boards*.
-3. Plug the data logger into your computer via a micro-USB cable to provide power.
+3. Plug the data logger into your computer via a USB-C cable to provide power.
 4. Plug your ISP of choice into your computer (via a USB cable) and onto the 6-pin header. There are two ways to place it on; the header is aligned such that the ribbon cable should be facing away from the board while programming. If this fails without being able to upload, try flipping the header around.
 5. Go to Tools --> Programmer and select the appropriate programmer based on what you are using.
 6. Go to Tools --> Burn bootloader. Typically, within a few seconds, you learn whether you succeeded or failed. Hopefully it worked!
