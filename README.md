@@ -125,7 +125,7 @@ The Okapi, a relative of the giraffe, communicates over long distances using [in
   * We often use a [Particle Boron mobile-phone telemetry unit](https://docs.particle.io/boron/).
 * Mounting holes for [\#4 screws](https://www.mcmaster.com/91772A106/)
 * CR1220 battery; can power the real-time clock for up to 7 years
-* ISP header (also called an ICSP header): This 3x2 header is used with an in-system programmer (in-circuit system programmer) to upload the (bootloader)[#installing-the-bootloader] to the data logger.
+* ISP header (also called an ICSP header): This 3x2 header is used with an in-system programmer (in-circuit system programmer) to upload the [bootloader](#installing-the-bootloader) to the data logger.
 * A micro-SD card holds a copy of all data, whether or not any telemetry is used
 
 >> @bschulz1701: check my clock 7-year figure
@@ -138,7 +138,7 @@ The Okapi data logger contains two buses (see above), each of which has an indep
 
 >> @bschulz1701: How much power can each bus source/sink?
 
-Two LEDs, status and auxiliary, flash messages to the user to provide information on proper operations vs. a variety of possible errors. These are useful for field diagnoses, and are further described in [the field guide section, below](#field-guide).
+Two LEDs, status and auxiliary, flash messages to the user to provide information on proper operations vs. a variety of possible errors. These are useful for field diagnoses, and are further described in [the field guide section, below](#field-operators-guide).
 
 >> Design note: move STAT label to left of LED so it can be better seen
 
@@ -472,7 +472,7 @@ The below suggestions encompass what we use and suggest for the housing. In the 
   * [\#4-40 x 2 in Female Threaded Hex Standoffs](https://www.mcmaster.com/91115A173/) x3 to stand off Okapi from mounting plate
   * [\#4-40 x 1/2 in Female Threaded Hex Standoffs](https://www.mcmaster.com/91920A533/) x8 to stand off AA battery pack and Li-Ion battery pack from mounting plate
 * **Mounting plate for Okapi** (Milled, ABS)
-  * [Mounting Plate Design](Mounting%20Plate)
+  * [Mounting Plate Design](Mounting_Plate)
 * **Power**
 >> Solar panel
   * [3x AA battery pack BK-1280-PC6](https://www.digikey.com/en/products/detail/mpd-memory-protection-devices/BK-1280-PC6/1640076) for alkaline battery backup, mounting holes included for #4-40 screws
