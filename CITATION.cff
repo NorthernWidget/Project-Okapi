@@ -5,7 +5,7 @@ version: 0.6.0
 date-released: "2026-06-02"
 doi: 10.5281/zenodo.3766482
 license: CC-BY-SA-4.0
-repository-code: https://github.com/NorthernWidget-Skunkworks/Project-Okapi
+repository-code: https://github.com/NorthernWidget/Project-Okapi
 authors:
   - family-names: Schulz
     given-names: Bobby
@@ -24,7 +24,7 @@ preferred-citation:
   version: 0.6.0
   date-released: "2026-06-02"
   doi: 10.5281/zenodo.3766482
-  repository-code: https://github.com/NorthernWidget-Skunkworks/Project-Okapi
+  repository-code: https://github.com/NorthernWidget/Project-Okapi
   authors:
     - family-names: Schulz
       given-names: Bobby
