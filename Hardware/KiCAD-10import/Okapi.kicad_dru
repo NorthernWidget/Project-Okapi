@@ -16,3 +16,19 @@
   (condition "A.Reference == 'J10' && (B.Reference == 'R84' || B.Reference == 'R85' || B.Reference == 'C22')")
   (constraint courtyard_clearance (min 0mm))
   (severity ignore))
+
+# Eagle's clearances for this board (jlcpcb-2layer in Okapi.brd): 5 mil between tracks,
+# between pads, and to any SMD pad, which the netclass's 0.127 mm carries; 6 mil from a
+# track or a via to a through-hole pad or a via, which these four carry.
+(rule "Eagle mdWirePad 6 mil: track to through-hole pad"
+  (condition "A.Type == 'Track' && B.Pad_Type == 'Through-hole'")
+  (constraint clearance (min 0.1524mm)))
+(rule "Eagle mdWireVia 6 mil: track to via"
+  (condition "A.Type == 'Track' && B.Type == 'Via'")
+  (constraint clearance (min 0.1524mm)))
+(rule "Eagle mdPadVia 6 mil: through-hole pad to via"
+  (condition "A.Pad_Type == 'Through-hole' && B.Type == 'Via'")
+  (constraint clearance (min 0.1524mm)))
+(rule "Eagle mdViaVia 6 mil: via to via"
+  (condition "A.Type == 'Via' && B.Type == 'Via'")
+  (constraint clearance (min 0.1524mm)))
