@@ -15,8 +15,6 @@ authors:
     given-names: Andrew D.
     orcid: https://orcid.org/0000-0002-9545-3365
     affiliation: "Northern Widget LLC; University of Minnesota"
-  - family-names: Wickert
-    given-names: Karen
 preferred-citation:
   type: generic
   title: "Project Okapi: Data logger with integrated solar charging and modular telemetry"
@@ -33,5 +31,3 @@ preferred-citation:
       given-names: Andrew D.
       orcid: https://orcid.org/0000-0002-9545-3365
       affiliation: "Northern Widget LLC; University of Minnesota"
-    - family-names: Wickert
-      given-names: Karen
