@@ -5749,7 +5749,7 @@
 				)
 			)
 		)
-		(property "Footprint" "nw-cold-silicon:AVRISP"
+		(property "Footprint" "nw-cold-silicon:AVRISP_PIN1_SIDE"
 			(at 184.15 154.94 0)
 			(hide yes)
 			(show_name no)
