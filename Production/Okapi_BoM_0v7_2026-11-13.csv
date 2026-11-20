@@ -21,7 +21,7 @@
 "F1,F2","PPTC1.5A","nw-cold-silicon:1206","2","Bourns","MF-NSMF150-2","MF-NSMF150-2CT-ND","","","",""
 "H1,H2,H3","MOUNTING_HOLE4_NP","nw-cold-silicon:4_40","3","N/A","DNP","DNP","","","",""
 "IC1","ATMEGA1284M","nw-cold-silicon:MLF44-TH","1","Atmel","ATMEGA1284P-MUR","ATMEGA1284P-MURCT-ND","","","",""
-"ISP1","AVRISP-6","nw-cold-silicon:AVRISP","1","Amphenol","67997-206HLF","609-3234-ND","","","",""
+"ISP1","AVRISP-6","nw-cold-silicon:AVRISP_PIN1_SIDE","1","Amphenol","67997-206HLF","609-3234-ND","","","",""
 "J1,J4","CONN_82.54_SCREW","nw-cold-silicon:1X08_SCREW","2","On Shore","OSTVN08A150","ED10566-ND","","","",""
 "J2","CONN_102.54_SCREW","nw-cold-silicon:1X10_SCREW","1","On Shore","OSTVN10A150","ED10567-ND","","","",""
 "J3","CONN_42.54_SCREW","nw-cold-silicon:1X04_SCREW","1","On Shore","OSTVN04A150","ED10563-ND","","","",""
