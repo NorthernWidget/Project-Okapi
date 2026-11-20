@@ -1808,7 +1808,7 @@
 			(uuid "c27c2e9c-538b-4ad7-a0a5-628bb4fd1dcf")
 		)
 		(fp_text user "1"
-			(at -3.048 -3.556 270)
+			(at -0.78 -5.3 270)
 			(layer "F.SilkS")
 			(uuid "391deb7e-abf4-4ebb-906f-bb2299838254")
 			(effects
